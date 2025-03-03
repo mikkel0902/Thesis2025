@@ -2,7 +2,7 @@ import pandas as pd
 import yfinance as yf
 
 # Load your list of organization names
-df = pd.read_excel("your_file.xlsx")  # Assumes a column named "Company"
+df = pd.read_excel("Ticker 2018.xlsx")  # Assumes a column named "Company"
 
 tickers = []
 for company in df["Company"]:
@@ -15,4 +15,3 @@ for company in df["Company"]:
 
 df["Ticker"] = tickers
 df.to_excel("output_with_tickers.xlsx", index=False)
- 
