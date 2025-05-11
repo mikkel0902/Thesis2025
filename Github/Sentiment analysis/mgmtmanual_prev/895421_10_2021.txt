@@ -1,0 +1,1811 @@
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Introduction
+Morgan Stanley is a global financial services firm that maintains significant market positions in each of its business segments—Institutional Securities, Wealth Management and Investment Management. Morgan Stanley, through its subsidiaries and affiliates, provides a wide variety of products and services to a large and diversified group of clients and customers, including corporations, governments, financial institutions and individuals. Unless the context otherwise requires, the terms “Morgan Stanley,” “Firm,” “us,” “we” or “our” mean Morgan Stanley (the “Parent Company”) together with its consolidated subsidiaries. Disclosures reflect the effects of the acquisition of E*TRADE Financial Corporation (“E*TRADE”) prospectively from the acquisition date, October 2, 2020. See the “Glossary of Common Terms and Acronyms” for the definition of certain terms and acronyms used throughout this Form 10-K. For an analysis of 2019 results compared with 2018 results, see Part II, Item 7, “Management's Discussion and Analysis of Financial Condition and Results of Operations” in the annual report on Form 10-K for the year-ended December 31, 2019 filed with the SEC.
+A description of the clients and principal products and services of each of our business segments is as follows:
+Institutional Securities provides investment banking, sales and trading, lending and other services to corporations, governments, financial institutions and high to ultra-high net worth clients. Investment banking services consist of capital raising and financial advisory services, including services relating to the underwriting of debt, equity and other securities, as well as advice on mergers and acquisitions, restructurings, real estate and project finance. Sales and trading services include sales, financing, prime brokerage and market-making activities in the equity and fixed income businesses. Lending activities include originating corporate loans and commercial real estate loans, providing secured lending facilities, and extending financing to sales and trading customers. Other activities include Asia wealth management services, investments and research.
+Wealth Management provides a comprehensive array of financial services and solutions to individual investors and small to medium-sized businesses and institutions covering: financial advisor-led brokerage and investment advisory services; self-directed brokerage services, including through the E*TRADE platform; financial and wealth planning services; workplace services including stock plan administration; annuity and insurance products; securities-based lending, residential real estate loans and other lending products; banking; and retirement plan services.
+Investment Management provides a broad range of investment strategies and products that span geographies, asset classes, and public and private markets to a diverse group of clients across institutional and intermediary channels. Strategies and products, which are offered through a variety of investment vehicles, include equity, fixed income, liquidity and alternative/other products. Institutional clients include defined benefit/defined contribution plans, foundations, endowments, government entities, sovereign wealth funds, insurance companies, third-party fund sponsors and corporations. Individual clients are generally served through intermediaries, including affiliated and non-affiliated distributors.
+Management’s Discussion and Analysis includes certain metrics that we believe to be useful to us, investors, analysts and other stakeholders by providing further transparency about, or an additional means of assessing, our financial condition and operating results. Such metrics, when used, are defined and may be different from or inconsistent with metrics used by other companies.
+The results of operations in the past have been, and in the future may continue to be, materially affected by: competition; risk factors; legislative, legal and regulatory developments; and other factors. These factors also may have an adverse impact on our ability to achieve our strategic objectives. Additionally, the discussion of our results of operations herein may contain forward-looking statements. These statements, which reflect management’s beliefs and expectations, are subject to risks and uncertainties that may cause actual results to differ materially. For a discussion of the risks and uncertainties that may affect our future results, see “Forward-Looking Statements,” “Business—Competition,” “Business—Supervision and Regulation,” “Risk Factors” and “Liquidity and Capital Resources—Regulatory Requirements” herein.
+25
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Executive Summary
+Overview of Financial Results
+Consolidated Results—Year ended December 31, 2020
+•Firm Net revenues were up 16% and Net income applicable to Morgan Stanley was up 22%, reflecting strength across all business segments, and resulting in an ROTCE of 15.2%, or 15.4% excluding the impact of E*TRADE integration-related expenses (see “Selected Non-GAAP Financial Information” herein).
+•Institutional Securities Net revenues of $26 billion increased 27% from the prior year and segment Net income applicable to Morgan Stanley increased 52% from the prior year. These increases were the result of higher sales and trading revenues on strong client engagement and market volatility, combined with an increase in underwriting revenues on elevated volumes, supported by a constructive market environment.
+•Wealth Management delivered a pre-tax profit margin of 23.0%, or 24.2% excluding integration-related expenses (see “Selected Non-GAAP Financial Information” herein). Results reflect higher Asset management revenues, driven by growth in client assets, higher Transactional revenues, and incremental revenues as a result of the E*TRADE acquisition.
+•Investment Management reported long-term net flows of $41 billion in 2020 and AUM of $781 billion as of December 31, 2020, resulting in an increase in Asset management revenues of 15% compared with the prior year.
+•The Firm expense efficiency ratio was 70% for the year, both including and excluding the impact of integration-related expenses (See “Selected Non-GAAP Financial Information” herein).
+•Our provision for credit losses on loans and lending commitments was $762 million.
+•At December 31, 2020, our standardized Common Equity Tier 1 capital ratio was 17.4%.
+Strategic Transactions
+•On October 2, 2020, we completed the acquisition of E*TRADE. For further information, see “Business Segments—Wealth Management” herein and Note 3 to the financial statements.
+•On October 8, 2020, we entered into a definitive agreement under which we will acquire Eaton Vance Corp. (“Eaton Vance”), subject to customary closing conditions. For further information, see “Business Segments—Investment Management” herein.
+Net Revenues
+($ in millions)
+ms-20201231_g2.jpg
+Net Income Applicable to Morgan Stanley
+($ in millions)
+
+ms-20201231_g3.jpg
+Earnings per Diluted Common Share
+ms-20201231_g4.jpg
+2020 Compared with 2019
+•We reported net revenues of $48,198 million in 2020 compared with $41,419 million in 2019. For 2020, net income applicable to Morgan Stanley was $10,996 million, or $6.46 per diluted common share, compared with $9,042 million, or $5.19 per diluted common share, in 2019.
+
+
+December 2020 Form 10-K	
+26
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Non-interest Expenses1
+($ in millions)
+ms-20201231_g5.jpg
+1.The percentages on the bars in the chart represent the contribution of compensation and benefits expenses and non-compensation expenses to the total.
+•Compensation and benefits expenses of $20,854 million in 2020 increased 11% from the prior year, primarily as a result of increases in discretionary incentive compensation and the formulaic payout to Wealth Management representatives driven by higher revenues, higher expenses related to certain deferred compensation plans linked to investment performance, and incremental compensation as a result of the E*TRADE acquisition. These increases were partially offset by lower compensation associated with carried interest.
+•Non-compensation expenses of $12,926 million in 2020 increased 15% from the prior year, primarily as a result of higher volume-related expenses, incremental operating and other expenses as a result of the E*TRADE acquisition, integration-related expenses, increased information processing and communications expenses, and an increase in the provision for credit losses for lending commitments, partially offset by a decrease in marketing and business development expenses.
+Income Taxes
+
+•The increase in the Firm’s effective tax rate in 2020 compared with the prior year is primarily due to the higher level of earnings and lower net discrete tax benefits. In 2020, net discrete tax benefits were $122 million, primarily related to the conversion of employee share-based awards.
+
+•The provision for income taxes in 2019 includes net discrete tax benefits of $475 million, primarily associated with remeasurement of reserves and related interest as a result of new information pertaining to the resolution of multi-jurisdiction tax examinations, as well as benefits related to conversion of employee share-based awards.
+
+Business Segment Results
+Net Revenues by Segment1
+($ in millions)
+ms-20201231_g6.jpg
+Net Income Applicable to Morgan Stanley by Segment1
+($ in millions)
+ms-20201231_g7.jpg
+1.The percentages on the bars in the charts represent the contribution of each business segment to the total of the applicable financial category and may not total to 100% due to intersegment eliminations. See Note 23 to the financial statements for details of intersegment eliminations.
+27
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+•Institutional Securities net revenues of $25,948 million in 2020 increased 27% from the prior year, primarily reflecting higher revenues from sales and trading and underwriting, partially offset by losses on loans and lending commitments held for sale and an increase in the provision for credit losses on loans held for investment.
+•Wealth Management net revenues of $19,055 million in 2020, including the incremental impact of the E*TRADE acquisition, increased 7% from the prior year, primarily reflecting higher Asset management revenues, driven by growth in client assets, and higher Transactional revenues, largely driven by higher Commissions and fees, partially offset by lower Net interest.
+•Investment Management net revenues of $3,734 million in 2020 were relatively unchanged from the prior year, primarily reflecting lower accrued carried interest, offset by higher Asset management revenues resulting from higher average AUM.    
+Net Revenues by Region1, 2
+($ in millions)
+
+ms-20201231_g8.jpg
+1.The percentages on the bars in the charts represent the contribution of each region to the total.
+2.For a discussion of how the geographic breakdown for net revenues is determined, see Note 23 to the financial statements.
+Revenues in Asia increased 32% in 2020, primarily driven by sales and trading within the Institutional Securities business segment. Revenues in the Americas increased 16% in 2020, primarily driven by the Institutional Securities and Wealth Management business segments. Revenues in EMEA increased 6% in 2020, primarily driven by fixed income sales and trading within the Institutional Securities business segment.
+
+Selected Financial Information and Other Statistical Data
+$ in millions, except per share data	2020	2019	2018
+Consolidated results			
+Net revenues	$	48,198 		$	41,419 		$	40,107 	
+Earnings applicable to Morgan Stanley common shareholders	$	10,500 		$	8,512 		$	8,222 	
+Earnings per diluted common share1
+$	6.46 		$	5.19 		$	4.73 	
+ 
+Consolidated financial measures
+Expense efficiency ratio2
+70.1 	%	72.7 	%	72.0 	%
+Adjusted expense efficiency ratio2, 4
+69.6 	%	72.7 	%	72.0 	%
+ROE3
+13.1 	%	11.7 	%	11.8 	%
+Adjusted ROE3, 4
+13.3 	%	11.7 	%	11.8 	%
+ROTCE3, 4
+15.2 	%	13.4 	%	13.5 	%
+Adjusted ROTCE3, 4
+15.4 	%	13.4 	%	13.5 	%
+Pre-tax margin5
+29.9 	%	27.3 	%	28.0 	%
+Pre-tax margin by segment5
+Institutional Securities	35.3 	%	26.9 	%	30.4 	%
+Wealth Management	23.0 	%	27.2 	%	26.2 	%
+Wealth Management, adjusted4
+24.2 	%	27.2 	%	26.2 	%
+Investment Management	23.3 	%	26.2 	%	16.9 	%
+ 
+in millions, except per share data and as noted	At
+December 31,
+2020	At
+December 31,
+2019
+Liquidity resources6
+$	338,623 		$	215,868 	
+Loans7
+$	150,597 		$	130,637 	
+Total assets	$	1,115,862 		$	895,429 	
+Deposits	$	310,782 		$	190,356 	
+Borrowings	$	217,079 		$	192,627 	
+Common shares outstanding	1,810 		1,594 	
+Common shareholders' equity	$	92,531 		$	73,029 	
+Tangible common shareholders’ equity4
+$	75,916 		$	63,780 	
+Book value per common share8
+$	51.13 		$	45.82 	
+Tangible book value per common share4, 8
+$	41.95 		$	40.01 	
+Worldwide employees9 (in thousands)
+68 		60 	
+ 
+Capital ratios10
+Common Equity Tier 1 capital—Standardized	17.4 	%	16.4 	%
+Common Equity Tier 1 capital—Advanced	17.7 	%	16.9 	%
+Tier 1 capital—Standardized	19.4 	%	18.6 	%
+Tier 1 capital—Advanced	19.8 	%	19.2 	%
+SLR11
+7.4 	%	6.4 	%
+Tier 1 leverage	8.4 	%	8.3 	%
+ 
+1.For further information on diluted earnings (loss) per common share, see Note 18 to the financial statements.
+2.The expense efficiency ratio represents total non-interest expenses as a percentage of net revenues.
+3.ROE and ROTCE represent earnings applicable to Morgan Stanley common shareholders as a percentage of average common equity and average tangible common equity, respectively.
+4.Represents a non-GAAP financial measure. See “Selected Non-GAAP Financial Information” herein.
+5.Pre-tax margin represents income before income taxes as a percentage of net revenues.
+6.For a discussion of Liquidity Resources, see “Liquidity and Capital Resources—Liquidity Risk Management Framework—Liquidity Resources” herein.
+7.Amounts include loans held for investment (net of allowance) and loans held for sale but exclude loans at fair value, which are included in Trading assets in the balance sheets. See Note 10 to the financial statements.
+8.Book value per common share and tangible book value per common share equal common shareholders’ equity and tangible common shareholders’ equity, respectively, divided by common shares outstanding.
+9.As of December 31, 2020, the number of employees includes legacy E*TRADE.
+10.For a discussion of our capital ratios, see “Liquidity and Capital Resources—Regulatory Requirements” herein.
+11.At December 31, 2020, our SLR reflects the impact of a Federal Reserve interim final rule in effect until March 31, 2021. For further information, see “Liquidity and Capital Resources—Regulatory Requirements” herein.
+
+
+December 2020 Form 10-K	
+28
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Coronavirus Disease (“COVID-19”) Pandemic
+The COVID-19 pandemic and related voluntary and government-imposed social and business restrictions have had, and will likely continue to have, a severe impact on global economic conditions and the environment in which we operate our businesses. We have a return-to-workplace program, which is based on role, location and employee willingness and ability to return and focused on the health and safety of all staff. At this time, however, we do not expect significant numbers of staff to return to offices before the third quarter of 2021. The Firm continues to be fully operational, with approximately 90% of employees in the Americas and globally working from home as of December 31, 2020.
+Though we are unable to estimate the extent of the impact, the ongoing COVID-19 pandemic and related global economic crisis may have adverse impacts on our future operating results. To date, given our business model, economic conditions have affected our businesses in different ways. We have increased our allowance for credit losses on loans and lending commitments, and the persistence of low interest rates has continued to negatively affect our net interest margin in the Wealth Management business segment. Overall for the Firm, increased client trading and capital markets activity has benefited Institutional Securities business segment results in Sales and trading and Investment banking underwriting revenues. However, the high levels of client trading and capital markets activity experienced in the current year may not be repeated and certain other client-driven activity could become subdued. Refer to “Risk Factors” and “Forward-Looking Statements.”
+Selected Non-GAAP Financial Information
+We prepare our financial statements using U.S. GAAP. From time to time, we may disclose certain “non-GAAP financial measures” in this document or in the course of our earnings releases, earnings and other conference calls, financial presentations, definitive proxy statement and otherwise. A “non-GAAP financial measure” excludes, or includes, amounts from the most directly comparable measure calculated and presented in accordance with U.S. GAAP. We consider the non-GAAP financial measures we disclose to be useful to us, investors, analysts and other stakeholders by providing further transparency about, or an alternate means of assessing or comparing our financial condition, operating results and capital adequacy.
+These measures are not in accordance with, or a substitute for, U.S. GAAP and may be different from or inconsistent with non-GAAP financial measures used by other companies. Whenever we refer to a non-GAAP financial measure, we will also generally define it or present the most directly comparable financial measure calculated and presented in accordance with U.S. GAAP, along with a reconciliation of the differences between the U.S. GAAP financial measure and the non-GAAP financial measure.
+The principal non-GAAP financial measures presented in this document are set forth in the following tables.
+Reconciliations from U.S. GAAP to Non-GAAP Consolidated Financial Measures
+$ in millions, except per share data	2020	2019	2018
+Earnings applicable to Morgan
+Stanley common shareholders
+$	10,500	$	8,512 		$	8,222 	
+Impact of adjustments:			
+Integration-related expenses	231	— 		— 	
+Related tax benefit	(42)		— 		— 	
+Adjusted earnings applicable to
+Morgan Stanley common shareholders—non-GAAP1
+$	10,689	$	8,512	$	8,222
+Earnings per diluted common share	$	6.46	$	5.19	$	4.73
+Impact of adjustments	0.12	— 		— 	
+Adjusted earnings per diluted common
+share—non-GAAP1
+$	6.58	$	5.19 		$	4.73 	
+Expense efficiency ratio	70.1 	%	72.7 	%	72.0 	%
+Impact of adjustments	(0.5)	%	— 	%	— 	%
+Adjusted expense efficiency ratio—non-GAAP1
+69.6 	%	72.7 	%	72.0 	%
+Wealth Management Pre-tax margin	23.0 	%	27.2 	%	26.2 	%
+Impact of adjustments	1.2 	%	— 	%	— 	%
+Adjusted Wealth Management pre-tax margin—non-GAAP1
+24.2 	%	27.2 	%	26.2 	%
+ 
+At December 31,
+$ in millions	2020	2019	2018
+Tangible equity			
+Common shareholders' equity	$	92,531 		$	73,029 		$	71,726 	
+Less: Goodwill and net intangible assets	(16,615)		(9,249)		(8,847)	
+Tangible common shareholders' equity—non-GAAP	$	75,916 		$	63,780 		$	62,879 	
+ 
+ 	Average Monthly Balance
+$ in millions	2020	2019	2018
+Tangible equity			
+Common shareholders' equity	$	80,246 		$	72,720 		$	69,977 	
+Less: Goodwill and net intangible assets	(10,951)		(9,140)		(8,985)	
+Tangible common shareholders' equity—non-GAAP	$	69,295 		$	63,580 		$	60,992 	
+ 
+$ in billions	2020	2019	2018
+Average common equity			
+Unadjusted—GAAP	$	80.2 		$	72.7 		$	70.0 	
+Adjusted1—Non-GAAP
+80.3 		72.7 		70.0 	
+ROE2
+Unadjusted—GAAP	13.1 	%	11.7 	%	11.8 	%
+Adjusted1—Non-GAAP
+13.3 	%	11.7 	%	11.8 	%
+Average tangible common equity—Non-GAAP		
+Unadjusted	$	69.3 		$	63.6 		$	61.0 	
+Adjusted1
+69.3 		63.6 		61.0 	
+ROTCE2—Non-GAAP
+Unadjusted	15.2 	%	13.4 	%	13.5 	%
+Adjusted1
+15.4 	%	13.4 	%	13.5 	%
+ 
+29
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Non-GAAP Financial Measures by Business Segment
+$ in billions	2020	2019	2018
+Average common equity3, 4
+Institutional Securities	$	42.8 		$	40.4 		$	40.8 	
+Wealth Management	20.8 		18.2 		16.8 	
+Investment Management	2.6 		2.5 		2.6 	
+ROE5
+Institutional Securities	15.5 	%	10.4 	%	11.0 	%
+Wealth Management	15.6 	%	19.8 	%	20.0 	%
+Investment Management	23.3 	%	28.9 	%	14.2 	%
+Average tangible common equity3, 4
+Institutional Securities	$	42.3 		$	39.9 		$	40.1 	
+Wealth Management	11.3 		10.2 		9.2 	
+Investment Management	1.7 		1.5 		1.7 	
+ROTCE5
+Institutional Securities	15.7 	%	10.5 	%	11.2 	%
+Wealth Management	28.9 	%	35.6 	%	36.6 	%
+Investment Management	36.0 	%	46.6 	%	22.2 	%
+ 
+1.Adjusted amounts exclude the effect of costs related to the integration of E*TRADE, net of tax as appropriate. Total integration-related expenses on a pre-tax basis include $151 million in Compensation expenses and $80 million in Non-compensation expenses. For more information, see Note 3 to the financial statements.
+2.ROE and ROTCE represent earnings applicable to Morgan Stanley common shareholders as a percentage of average common equity and average tangible common equity, respectively. When excluding integration-related costs, both the numerator and average denominator are adjusted.
+3.Average common equity and average tangible common equity for each business segment is determined using our Required Capital framework (see "Liquidity and Capital Resources—Regulatory Requirements—Attribution of Average Common Equity According to the Required Capital Framework” herein).
+4.The sums of the segments' Average common equity and Average tangible common equity do not equal the Consolidated measures due to Parent equity.
+5.The calculation of ROE and ROTCE by segment uses net income applicable to Morgan Stanley by segment less preferred dividends allocated to each segment as a percentage of average common equity and average tangible common equity, respectively, allocated to each segment.
+Return on Tangible Common Equity Target
+In January 2021, we established a 2-year ROTCE Target of 14% to 16%, excluding integration-related expenses.
+Our ROTCE Target is a forward-looking statement that was based on a normal market environment and may be materially affected by many factors, including, among other things: mergers and acquisitions; macroeconomic and market conditions; legislative, accounting, tax and regulatory developments; industry trading and investment banking volumes; equity market levels; interest rate environment; outsized legal expenses or penalties; the ability to control expenses; and capital levels. See “Forward-Looking Statements” and “Risk Factors” for additional information.
+Given the economic impact of the COVID-19 pandemic, it is uncertain if the ROTCE Target will be met within the originally stated time frame. See “Coronavirus Disease (COVID-19) Pandemic” herein and “Risk Factors” for further information on market and economic conditions and their effects on our financial results.
+For further information on non-GAAP measures (ROTCE excluding integration-related expenses), see “Selected Non-GAAP Financial Information” herein.
+Business Segments
+Substantially all of our operating revenues and operating expenses are directly attributable to our business segments. Certain revenues and expenses have been allocated to each business segment, generally in proportion to its respective net revenues, non-interest expenses or other relevant measures. See Note 23 to the financial statements for information on intersegment transactions.
+Net Revenues
+Investment Banking 
+Investment banking revenues are derived from client engagements in which we act as an adviser, underwriter or distributor of capital.
+Within the Institutional Securities business segment, these revenues are primarily composed of fees earned from underwriting equity and fixed income securities, syndicating loans and advisory services in relation to mergers and acquisitions, divestitures and corporate restructurings.
+Within the Wealth Management business segment, these revenues are derived from the distribution of newly issued securities.
+Trading
+Trading revenues include the realized gains and losses from transactions in financial instruments, unrealized gains and losses from ongoing changes in the fair value of our positions, and gains and losses from financial instruments used to economically hedge compensation expense related to certain employee deferred compensation plans.
+Within the Institutional Securities business segment, Trading revenues arise from transactions in cash instruments and derivatives in which we act as a market maker for our clients. In this role, we stand ready to buy, sell or otherwise transact with customers under a variety of market conditions and to provide firm or indicative prices in response to customer requests. Our liquidity obligations can be explicit in some cases, and in others, customers expect us to be willing to transact with them. In order to most effectively fulfill our market-making function, we engage in activities across all of our trading businesses that include, but are not limited to:
+•taking positions in anticipation of, and in response to, customer demand to buy or sell and—depending on the liquidity of the relevant market and the size of the position—to hold those positions for a period of time;
+•building, maintaining and rebalancing inventory held to facilitate client activity through trades with other market participants;
+•managing and assuming basis risk (risk associated with imperfect hedging) between risks incurred from the facilitation of client transactions and the standardized products available in the market to hedge those risks;
+
+
+December 2020 Form 10-K	
+30
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+•trading in the market to remain current on pricing and trends; and
+•engaging in other activities to provide efficiency and liquidity for markets.
+In many markets, the realized and unrealized gains and losses from purchase and sale transactions will include any spreads between bids and offers. Certain fees received on loans carried at fair value and dividends from equity securities are also recorded in Trading revenues since they relate to positions carried at fair value.
+Within the Wealth Management business segment, Trading revenues primarily include revenues from customers’ purchases and sales of fixed income instruments in which we act as principal, and gains and losses related to investments associated with certain employee deferred compensation plans.
+Investments
+Investments revenues are composed of realized and unrealized gains and losses derived from investments, including those associated with employee deferred compensation and co-investment plans. Estimates of the fair value of the investments that produce these revenues may involve significant judgment and may fluctuate significantly over time in light of business, market, economic and financial conditions, generally or in relation to specific transactions.
+Within the Institutional Securities segment, gains and losses are primarily from business-related investments. Certain investments are subject to sale restrictions. Typically, there are no fee revenues from these investments.
+Within the Investment Management business segment, Investments revenues, in addition to gains and losses from investments, include performance-based fees in the form of carried interest, a portion of which is subject to reversal. The business is entitled to receive carried interest when the return in certain funds exceeds specified performance targets. Additionally, there are certain sponsored Investment Management funds consolidated by us where revenues are primarily attributable to holders of noncontrolling interests.
+Commissions and Fees 
+Commissions and fees result from arrangements in which the client is charged a fee for executing transactions related to securities, services related to sales and trading activities, and sales of other products.
+Within the Institutional Securities business segment, commissions and fees include fees earned from market-making activities, such as executing and clearing client transactions on major stock and derivative exchanges, as well as from OTC derivatives.
+Within the Wealth Management business segment, commissions and fees primarily arise from client transactions
+in equity securities, insurance products, mutual funds, futures and options, and also include revenues from order flow payments for directing customer orders to broker-dealers, exchanges, and market centers for execution.
+Asset Management
+Asset management revenues include fees associated with the management and supervision of assets and the distribution of funds and similar products.
+Within the Wealth Management business segment, Asset management revenues are associated with advisory services and management of assets, account service and administration, as well as distribution of products. These revenues are generally based on the net asset value of the account in which a client is invested.
+Within the Investment Management business segment, Asset management revenues are primarily composed of fees received from mutual fund daily average net assets or based on monthly or quarterly invested equity for other vehicles. Performance-based fees, not in the form of carried interest, are earned on certain products and separately managed accounts as a percentage of appreciation generally earned by those products and, in certain cases, are based upon the achievement of performance criteria. These performance fees are generally recognized annually.
+Net Interest
+Interest income and Interest expense are functions of the level and mix of total assets and liabilities, including Trading assets and Trading liabilities, Investment securities, Securities borrowed or purchased under agreements to resell, Securities loaned or sold under agreements to repurchase, Loans, Deposits and Borrowings.
+Within the Institutional Securities business segment, Net interest is a function of market-making strategies, client activity, and the prevailing level, term structure and volatility of interest rates. Net interest is impacted by market-making activities as securities held by the Firm generally earn interest, as do securities borrowed and securities purchased under agreements to resell, while securities loaned and securities sold under agreements to repurchase generally incur interest expense.
+Within the Wealth Management business segment, Interest income is driven by Investment securities, Loans and margin loans. Interest expense is driven by Deposits and other funding. Upon acquisition, E*TRADE’s Investment securities were recorded at fair value, and the resulting premium will be amortized over the life of the portfolio against interest income.
+Other
+Other revenues for Institutional Securities include revenues and losses from equity method investments, lending
+31
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+commitments, fees earned in association with lending activities and the provision for loan losses.
+Other revenues for Wealth Management are derived from realized gains and losses on AFS securities, the provision for loan losses, account handling fees, referral fees and other miscellaneous revenues.
+Institutional Securities—Sales and Trading Revenues
+Sales and trading net revenues are composed of Trading revenues, Commissions and fees, Asset management revenues and Net interest. These revenues, which can be affected by a variety of interrelated factors, including market volumes, bid-offer spreads and the impact of market conditions on inventory held to facilitate client activity, as well as the effect of hedging activity, are viewed in the aggregate when assessing the performance and profitability of our sales and trading activities. We make transaction-related decisions based on, among other things, an assessment of the aggregate expected profit or loss associated with a transaction, including any associated commissions and fees, dividends, or net interest income, any costs associated with financing or hedging our positions and other related expenses.
+Following is a description of the sales and trading activities within our equity and fixed income businesses, as well as how their results impact the income statement line items.
+Equity—Financing. We provide financing, prime brokerage and fund administration services to our clients active in the equity markets through a variety of products, including margin lending, securities lending and swaps. Results from this business are largely driven by the difference between financing income earned and financing costs incurred, which are reflected in Net interest for securities lending products, and in Trading revenues for derivative products. Fees for providing fund administration services are reflected in Asset management revenues.
+Equity—Execution services. A significant portion of the results for this business is generated by commissions and fees from executing and clearing client transactions on major stock and derivative exchanges, as well as from OTC transactions. We make markets for our clients principally in equity-related securities and derivative products, including those that provide liquidity and are utilized for hedging. Market-making also generates gains and losses on inventory held to facilitate client activity, which are reflected in Trading revenues.
+Fixed income—Within fixed income, we make markets in various flow and structured products in order to facilitate client activity as part of the following products and services:
+•Global macro products. We make markets for our clients in interest rate, foreign exchange and emerging market products, including exchange-traded and OTC securities and derivative instruments. The results of this market-making activity are primarily driven by gains and losses
+from buying and selling positions to stand ready for and satisfy client demand and are recorded in Trading revenues.
+•Credit products. We make markets in credit-sensitive products, such as corporate bonds and mortgage securities and other securitized products, and related derivative instruments. The values of positions in this business are sensitive to changes in credit spreads and interest rates, which result in gains and losses reflected in Trading revenues. We undertake lending activities, which include commercial mortgage lending, secured lending facilities and financing extended to sales and trading customers. Due to the amount and type of the interest-bearing securities and loans making up this business, a significant portion of the results is also reflected in Net interest revenues.
+•Commodities products and Other. We make markets in various commodity products related primarily to electricity, natural gas, oil and metals. Other activities primarily include results from the centralized management of our fixed income derivative counterparty exposures and managing derivative counterparty risk on behalf of clients. These activities are primarily recorded in Trading revenues.
+Other sales and trading revenues include impacts from certain treasury functions, such as liquidity costs and gains and losses on economic hedges related to certain borrowings, certain activities associated with corporate lending, as well as gains and losses from financial instruments used to economically hedge compensation expense related to certain employee deferred compensation plans.
+Compensation Expense
+Compensation and benefits expenses include base salaries and fixed allowances, formulaic programs, discretionary incentive compensation, amortization of deferred cash and equity awards, changes in the fair value of investments to which certain deferred compensation plans are referenced, carried interest allocated to employees, severance costs, and other items such as health and welfare benefits.
+The factors that drive compensation for our employees vary from period to period, from segment to segment and within a segment. For certain revenue-producing employees in the Wealth Management and Investment Management business segments, compensation is largely paid on the basis of formulaic payouts that link employee compensation to revenues. Compensation for other employees, including revenue-producing employees in the Institutional Securities business segment, include base salary and benefits, and may also include incentive compensation that is determined following the assessment of the Firm’s, business unit’s and individual’s performance.
+Compensation expense for deferred cash-based compensation plans is recognized over the relevant vesting period and is adjusted based on the notional earnings of the referenced investments until distribution. Although changes in
+
+
+December 2020 Form 10-K	
+32
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+compensation expense resulting from changes in the fair value of the referenced investments will generally be offset by changes in the fair value of investments made by the Firm, there is typically a timing difference between the immediate recognition of gains and losses on the Firm's investments and the compensation expense recognized over the vesting period.
+Income Taxes
+The income tax provision for our business segments is generally determined based on the revenues, expenses and activities directly attributable to each business segment. Certain items have been allocated to each business segment, generally in proportion to its respective net revenues or other relevant measures.
+33
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Institutional Securities
+Income Statement Information
+ 	 	 	 	% Change
+$ in millions	2020	2019	2018	2020	2019
+Revenues					
+Investment banking	$	7,204 		$	5,734 		$	6,088 		26 	%	(6)	%
+Trading	13,106 		10,318 		11,191 		27 	%	(8)	%
+Investments	166 		325 		182 		(49)	%	79 	%
+Commissions and fees	2,935 		2,484 		2,671 		18 	%	(7)	%
+Asset management	461 		413 		421 		12 	%	(2)	%
+Other	(214)		632 		535 		(134)	%	18 	%
+Total non-interest
+revenues
+23,658 		19,906 		21,088 		19 	%	(6)	%
+Interest income	5,809 		12,193 		9,271 		(52)	%	32 	%
+Interest expense	3,519 		11,713 		9,777 		(70)	%	20 	%
+Net interest	2,290 		480 		(506)		N/M	195 	%
+Net revenues	25,948 		20,386 		20,582 		27 	%	(1)	%
+Compensation and
+benefits
+8,342 		7,433 		6,958 		12 	%	7 	%
+Non-compensation
+expenses
+8,455 		7,463 		7,364 		13 	%	1 	%
+Total non-interest
+expenses
+16,797 		14,896 		14,322 		13 	%	4 	%
+Income from continuing
+operations before
+income taxes
+9,151 		5,490 		6,260 		67 	%	(12)	%
+Provision for income
+taxes
+2,040 		769 		1,230 		165 	%	(37)	%
+Income from continuing
+operations
+7,111 		4,721 		5,030 		51 	%	(6)	%
+Income (loss) from
+discontinued operations,
+net of income taxes
+— 		— 		(6)		N/M	100 	%
+Net income	7,111 		4,721 		5,024 		51 	%	(6)	%
+Net income applicable
+to noncontrolling interests
+99 		122 		118 		(19)	%	3 	%
+Net income applicable
+to Morgan Stanley
+$	7,012 		$	4,599 		$	4,906 		52 	%	(6)	%
+ 
+
+Investment Banking
+Investment Banking Revenues
+ 	 	 	 	% Change
+$ in millions	2020	2019	2018	2020	2019
+Advisory	$	2,008 		$	2,116 		$	2,436 		(5)	%	(13)	%
+Underwriting:					
+Equity
+3,092 		1,708 		1,726 		81 	%	(1)	%
+Fixed Income
+2,104 		1,910 		1,926 		10 	%	(1)	%
+Total Underwriting	5,196 		3,618 		3,652 		44 	%	(1)	%
+Total Investment banking	$	7,204 		$	5,734 		$	6,088 		26 	%	(6)	%
+ 
+Investment Banking Volumes
+$ in billions	2020	2019	2018
+Completed mergers and acquisitions1
+$	867 		$	826 		$	1,114 	
+Equity and equity-related offerings2, 3
+100 		61 		64 	
+Fixed income offerings2, 4
+374 		287 		241 	
+ 
+Source: Refinitiv data as of January 4, 2021. Transaction volumes may not be indicative of net revenues in a given period. In addition, transaction volumes for prior periods may vary from amounts previously reported due to the subsequent withdrawal, change in value or change in timing of certain transactions.
+
+1.Includes transactions of $100 million or more. Based on full credit to each of the advisors in a transaction.
+2.Based on full credit for single book managers and equal credit for joint book managers.
+3.Includes Rule 144A issuances and registered public offerings of common stock, convertible securities and rights offerings.
+4.Includes Rule 144A and publicly registered issuances, non-convertible preferred stock, mortgage-backed and asset-backed securities, and taxable municipal debt. Excludes leveraged loans and self-led issuances.
+Investment Banking Revenues
+Investment banking revenues of $7,204 million in 2020 increased 26% compared with the prior year, reflecting strength in our underwriting businesses.
+•Advisory revenues decreased primarily due to fewer large completed transactions.
+•Equity underwriting revenues increased on higher volumes, primarily in secondary block share trades, initial public offerings and follow-on offerings.
+•Fixed income underwriting revenues increased on higher volumes, primarily in investment grade and non-investment grade bond issuances, partially offset by lower event-driven investment grade loan activity.
+See “Investment Banking Volumes” herein.
+Sales and Trading Net Revenues
+By Income Statement Line Item
+ 	 	 	 	% Change
+$ in millions	2020	2019	2018	2020	2019
+Trading	$	13,106 		$	10,318 		$	11,191 		27 	%	(8)	%
+Commissions and fees	2,935 		2,484 		2,671 		18 	%	(7)	%
+Asset management	461 		413 		421 		12 	%	(2)	%
+Net interest	2,290 		480 		(506)		N/M	195 	%
+Total	$	18,792 		$	13,695 		$	13,777 		37 	%	(1)	%
+ 
+
+
+December 2020 Form 10-K	
+34
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+By Business
+ 	 	 	 	% Change
+$ in millions	2020	2019	2018	2020	2019
+Equity	$	9,801 		$	8,056 		$	8,976 		22 	%	(10)	%
+Fixed income	8,824 		5,546 		5,005 		59 	%	11 	%
+Other	167 		93 		(204)		80 	%	146 	%
+Total	$	18,792 		$	13,695 		$	13,777 		37 	%	(1)	%
+ 
+Sales and Trading Revenues—Equity and Fixed Income
+ 	2020
+$ in millions	Trading	
+Fees1
+Net
+Interest2
+Total
+Financing	$	3,736 		$	439 		$	342 		$	4,517 	
+Execution services	2,882 		2,658 		(256)		5,284 	
+Total Equity	$	6,618 		$	3,097 		$	86 		$	9,801 	
+Total Fixed income	$	6,840 		$	299 		$	1,685 		$	8,824 	
+ 
+ 	2019
+$ in millions	Trading	
+Fees1
+Net
+Interest2
+Total
+Financing	$	4,225 		$	372 		$	(514)		$	4,083 	
+Execution services	1,986 		2,202 		(215)		3,973 	
+Total Equity	$	6,211 		$	2,574 		$	(729)		$	8,056 	
+Total Fixed income	$	5,171 		$	324 		$	51 		$	5,546 	
+ 
+ 	2018
+$ in millions	Trading	
+Fees1
+Net
+Interest2
+Total
+Financing	$	4,841 		$	394 		$	(661)		$	4,574 	
+Execution services	2,362 		2,376 		(336)		4,402 	
+Total Equity	$	7,203 		$	2,770 		$	(997)		$	8,976 	
+Total Fixed income	$	4,793 		$	322 		$	(110)		$	5,005 	
+ 
+1.Includes Commissions and fees and Asset management revenues.
+2.Includes funding costs, which are allocated to the businesses based on funding usage.
+Equity
+Equity sales and trading net revenues of $9,801 million in 2020 increased 22% compared with the prior year, reflecting strong performance in both our execution services and financing businesses.
+•Financing revenues increased overall, primarily driven by client activity. In addition, changes in market rates and financing mix contributed to higher Net interest revenues and an offsetting reduction in Trading revenues.
+•Execution services revenues increased, primarily reflecting higher client activity and the impact of market conditions on inventory held to facilitate client activity in derivatives and cash equities.
+Fixed Income
+Fixed income net revenues of $8,824 million in 2020 increased 59% compared with the prior year, reflecting strong performance across all products.
+•Global macro products revenues increased, primarily due to higher client activity in both rates and foreign exchange
+products and the impact of market conditions on inventory held to facilitate client activity.
+•Credit products revenues increased, primarily due to higher client activity in corporate credit and securitized products from higher volumes and wider bid-offer spreads, partially offset by the impact of market conditions on inventory held to facilitate client activity. Lower funding costs and higher average secured lending facilities balances contributed to higher Net interest revenues.
+•Commodities products and Other revenues increased, primarily reflecting the impact of market conditions on inventory held to facilitate client activity and higher client activity in Commodities, partially offset by lower client structuring activity within derivative counterparty credit risk management.
+Other
+•Other sales and trading revenues of $167 million in 2020 increased 80% compared with the prior year, primarily reflecting gains on hedges associated with corporate lending activity compared with losses in the prior year, partially offset by lower rates on liquidity investments.
+Investments, Other Revenues, Non-interest Expenses and Income Tax Items
+Investments
+•Net investment gains of $166 million in 2020 decreased 49% compared with the prior year primarily due to the absence of a gain associated with an investment’s initial public offering.
+Other Revenues
+•Other net losses were $214 million in 2020 compared with Other revenues of $632 million in the prior year. This change was primarily as a result of mark-to-market losses on loans and lending commitments held for sale in the current year, as credit spreads widened, compared with gains in the prior year, as well as an increase in the provision for credit losses on loans held for investment in the current year.
+Non-interest Expenses
+Non-interest expenses of $16,797 million in 2020 increased 13% compared with the prior year, reflecting a 12% increase in Compensation and benefits expenses and a 13% increase in Non-compensation expenses compared with the prior year.
+•Compensation and benefits expenses increased, primarily due to increases in discretionary incentive compensation, driven by higher revenues.
+•Non-compensation expenses increased, primarily reflecting higher volume-related expenses and an increase in the provision for credit losses for lending commitments.
+35
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Income Tax Items
+Net discrete tax benefits of $68 million and $400 million were recognized in Provision for income taxes in 2020 and 2019, respectively. The provision for income taxes in 2020 compared with the prior year was also impacted by the higher level of earnings. For further information, see “Supplemental Financial Information—Income Tax Matters” herein.
+
+
+
+December 2020 Form 10-K	
+36
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Wealth Management
+Income Statement Information
+ 	 	 	 	% Change
+$ in millions	2020	2019	2018	2020	2019
+Revenues					
+Investment banking	$	559 		$	509 		$	475 		10 	%	7 	%
+Trading	844 		734 		279 		15 	%	163 	%
+Investments	12 		2 		1 		N/M	100 	%
+Commissions and fees	2,291 		1,726 		1,804 		33 	%	(4)	%
+Asset management	10,955 		10,199 		10,158 		7 	%	— 	%
+Other	372 		345 		248 		8 	%	39 	%
+Total non-interest revenues	15,033 		13,515 		12,965 		11 	%	4 	%
+Interest income	4,771 		5,467 		5,498 		(13)	%	(1)	%
+Interest expense	749 		1,245 		1,221 		(40)	%	2 	%
+Net interest	4,022 		4,222 		4,277 		(5)	%	(1)	%
+Net revenues	19,055 		17,737 		17,242 		7 	%	3 	%
+Compensation and benefits	10,970 		9,774 		9,507 		12 	%	3 	%
+Non-compensation expenses	3,698 		3,131 		3,214 		18 	%	(3)	%
+Total non-interest expenses
+14,668 		12,905 		12,721 		14 	%	1 	%
+Income from continuing operations before income taxes
+4,387 		4,832 		4,521 		(9)	%	7 	%
+Provision for income taxes	1,026 		1,104 		1,049 		(7)	%	5 	%
+Net income applicable to Morgan Stanley
+$	3,361 		$	3,728 		$	3,472 		(10)	%	7 	%
+ 
+Acquisition of E*TRADE
+On October 2, 2020, we completed the acquisition of E*TRADE principally via the issuance of approximately $11 billion of common shares. In addition, we issued $0.7 billion of preferred shares in exchange for E*TRADE’s existing preferred stock. The combination increases the scale and breadth of Morgan Stanley’s Wealth Management franchise, and positions us to be an industry leader in Wealth Management across all channels and wealth segments. From the acquisition date onward, the business activities of E*TRADE have been reported within the Wealth Management business segment. For additional information on the acquisition of E*TRADE, see Note 3 to the financial statements.
+Wealth Management Metrics
+At or for the Year Ended
+December 31,
+$ in billions	2020	2019
+Total client assets	$	3,999	$	2,700
+Net new assets1
+$	175.4	$	97.8
+U.S. Bank Subsidiary loans	$	98.1	$	80.1
+Margin and other lending2
+$	23.1	$	9.7
+Deposits3
+$	306	$	187
+Weighted average cost of deposits4
+0.24%	0.91%
+ 
+1.Net new assets represents client inflows (including dividends and interest) less client outflows (excluding activity from business combinations/divestitures and the impact of fees and commissions).
+2.Margin and other lending represents Wealth Management margin lending arrangements, which allow customers to borrow against the value of qualifying securities and Wealth Management other lending which includes non‐purpose securities-based lending on non‐bank entities.
+3.Deposits reflect liabilities sourced from Wealth Management clients and other sources of funding on the U.S. Bank Subsidiaries. Deposits include sweep deposit programs, savings and other, and time deposits. Excludes approximately $25 billion of off-balance sheet deposits as of December 31, 2020.
+4.Weighted average cost of deposits represents the annualized weighted average cost of deposits as of December 31, 2020 and December 31, 2019.
+At or for the Year Ended
+$ in billions, except employee data and as otherwise noted	December 31,
+2020	2019	2018
+Advisor-led channel:			
+Advisor-led client assets1
+$	3,167	$	2,623	$	2,254
+Fee-based client assets2
+$	1,472	$	1,267	$	1,046
+Fee-based asset flows3
+$	77.4	$	64.9	$	65.9
+Fee-based client assets as a percentage of
+advisor-led client assets
+46%	48%	46%
+Wealth Management representatives
+(in thousands)
+16	15	16
+Self-directed channel:			
+Self-directed assets4
+$	832	$	77	$	49
+Daily average revenue trades (“DARTs”)
+(in thousands)5
+280	3	3
+Self-directed households (in millions)6
+6.7	1.6	1.1
+Workplace channel:			
+Workplace unvested assets7
+$	435	$	133	$	13
+Number of participants (in millions)8
+4.9	2.7	1.0
+ 
+1.Advisor-led client assets represents client assets in accounts that have a Wealth Management representative assigned.
+2.Fee‐based client assets represents the amount of assets in client accounts where the basis of payment for services is a fee calculated on those assets.
+3.Fee-based asset flows includes net new fee-based assets, net account transfers, dividends, interest and client fees, and excludes institutional cash management related activity. For a description of the Inflows and Outflows included in Fee-based asset flows, see Fee-based client assets herein.
+4.Self-directed assets represents active accounts which are not advisor led. Active accounts are defined as having $25 or more in assets.
+5.DARTs represent the total self-directed trades in a period divided by the number of trading days during that period. DARTs for the fourth quarter of 2020 were 1,106 thousand, which includes the impact of the E*TRADE acquisition.
+6.Self-directed households represents the total number of households that include at least one account with self-directed assets. Individual households or participants that are engaged in one or more of our Wealth Management channels will be included in each of the respective channel counts.
+7.Workplace unvested assets represents the market value of public company securities at the end of the period.
+8.Workplace participants represents total accounts with vested or unvested assets >$0 in the workplace channel. Individuals with accounts in multiple plans are counted as participants in each plan.
+37
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Net Revenues
+Transactional Revenues
+ 	 	 	 	% Change
+$ in millions	2020	2019	2018	2020	2019
+Investment banking	$	559	$	509	$	475	10%	7%
+Trading	844	734	279	15%	163%
+Commissions and fees	2,291	1,726	1,804	33%	(4)%
+Total	$	3,694	$	2,969	$	2,558	24%	16%
+ 
+Transactional revenues of $3,694 million in 2020 increased 24% compared with the prior year, primarily as a result of higher Commissions and fees and higher Trading revenues.
+•Trading revenues increased in 2020, primarily due to gains from investments associated with certain employee deferred compensation plans, partially offset by lower fixed income revenues.
+•Commissions and fees increased in 2020, primarily due to increased client activity in equities, as well as order flow payments as a result of the E*TRADE acquisition.
+Asset Management
+Asset management revenues of $10,955 million in 2020 increased 7% compared with the prior year, due to higher fee-based asset levels in 2020 as a result of market appreciation and positive fee-based net flows, partially offset by lower average fee rates.
+See “Fee-Based Client Assets Rollforwards” herein.
+Net Interest
+Net interest revenues of $4,022 million in 2020 decreased 5% compared with the prior year, primarily due to the net effect of lower interest rates, partially offset by growth in bank lending and increases in investment portfolio balances driven by higher brokerage sweep deposits, as well as incremental Net interest as a result of the E*TRADE acquisition.
+Non-interest Expenses
+Non-interest expenses of $14,668 million in 2020 increased 14% compared with the prior year, due to higher Compensation and benefits expenses and Non-compensation expenses.
+•Compensation and benefits expenses increased, primarily due to an increase in the formulaic payout to Wealth Management representatives, driven by higher compensable revenues, incremental compensation as a result of the E*TRADE acquisition and integration-related expenses of $151 million, as well as higher expenses related to certain deferred compensation plans linked to investment performance.
+•Non-compensation expenses increased, primarily due to incremental operating and other expenses as a result of the E*TRADE acquisition, integration-related expenses of $80 million, a regulatory charge in the third quarter of 2020 and
+$52 million of E*TRADE-related intangible assets amortization. Partially offsetting these increases was lower marketing and business development expenses.
+Fee-Based Client Assets Rollforwards
+$ in billions	At
+December 31,
+2019	Inflows	Outflows	Market
+Impact	At
+December 31,
+2020
+Separately managed1
+$	322 		$	48 		$	(25)		$	14 		$	359 	
+Unified managed	313 		63 		(43)		46 		379 	
+Advisor	155 		33 		(28)		17 		177 	
+Portfolio manager
+435 		86 		(57)		45 		509 	
+Subtotal	$	1,225 		$	230 		$	(153)		$	122 		$	1,424 	
+Cash management
+42 		28 		(22)		— 		48 	
+Total fee-based client assets
+$	1,267 		$	258 		$	(175)		$	122 		$	1,472 	
+ 
+$ in billions	At
+December 31,
+2018	Inflows	Outflows	Market
+Impact	At
+December 31,
+2019
+Separately managed1
+$	279 		$	53 		$	(19)		$	9 		$	322 	
+Unified managed	257 		48 		(39)		47 		313 	
+Advisor	137 		27 		(32)		23 		155 	
+Portfolio manager
+353 		75 		(48)		55 		435 	
+Subtotal	$	1,026 		$	203 		$	(138)		$	134 		$	1,225 	
+Cash management
+20 		36 		(14)		— 		42 	
+Total fee-based client assets
+$	1,046 		$	239 		$	(152)		$	134 		$	1,267 	
+ 
+$ in billions	At
+December 31,
+2017	Inflows	Outflows	Market
+Impact	At
+December 31,
+2018
+Separately managed1
+$	252 		$	40 		$	(18)		$	5 		$	279 	
+Unified managed	271 		48 		(34)		(28)		257 	
+Advisor	149 		29 		(28)		(13)		137 	
+Portfolio manager
+353 		71 		(42)		(29)		353 	
+Subtotal	$	1,025 		$	188 		$	(122)		$	(65)		$	1,026 	
+Cash management
+20 		16 		(16)		— 		20 	
+Total fee-based client assets
+$	1,045 		$	204 		$	(138)		$	(65)		$	1,046 	
+ 
+1.Includes non-custody account values reflecting prior quarter-end balances due to a lag in the reporting of asset values by third-party custodians.
+Average Fee Rates
+Fee rate in bps	2020	2019	2018
+Separately managed	14 		15 		16 	
+Unified managed	99 		100 		99 	
+Advisor	85 		86 		84 	
+Portfolio manager	94 		95 		95 	
+Subtotal	73 		74 		76 	
+Cash management	5 		6 		6 	
+Total fee-based client assets	70 		73 		74 	
+ 
+•Inflows—include new accounts, account transfers, deposits, dividends and interest.
+•Outflows—include closed or terminated accounts, account transfers, withdrawals and client fees.
+•Market impact—includes realized and unrealized gains and losses on portfolio investments.
+•Separately managed—accounts by which third-party and affiliated asset managers are engaged to manage clients’
+
+
+December 2020 Form 10-K	
+38
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+assets with investment decisions made by the asset manager. Only one third-party asset manager strategy can be held per account.
+•Unified managed—accounts that provide the client with the ability to combine separately managed accounts, mutual funds and exchange-traded funds all in one aggregate account. Investment decisions and discretionary authority may be exercised by the client, financial advisor or portfolio manager. Also includes accounts that give the client the ability to systematically allocate assets across a wide range of mutual funds, for which the investment decisions are made by the client.
+•Advisor—accounts where the investment decisions must be approved by the client and the financial advisor must obtain approval each time a change is made to the account or its investments.
+•Portfolio manager—accounts where a financial advisor has discretion (contractually approved by the client) to make ongoing investment decisions without the client’s approval for each individual change.
+•Cash management—accounts where the financial advisor provides discretionary cash management services to institutional clients, whereby securities or proceeds are invested and reinvested in accordance with the client’s investment criteria. Generally, the portfolio will be invested in short-term fixed income and cash equivalent investments.
+
+
+39
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Investment Management
+Income Statement Information
+ 	 	 	 	% Change
+$ in millions	2020	2019	2018	2020	2019
+Revenues					
+Trading	$	(34)		$	(8)		$	25 		N/M	(132)	%
+Investments	808 		1,213 		254 		(33)	%	N/M
+Commissions and fees	1 		1 		— 		— 	%	N/M
+Asset management	3,013 		2,629 		2,468 		15 	%	7 	%
+Other	(39)		(46)		(30)		15 	%	(53)	%
+Total non-interest revenues	3,749 		3,789 		2,717 		(1)	%	39 	%
+Interest income	14 		20 		57 		(30)	%	(65)	%
+Interest expense	29 		46 		28 		(37)	%	64 	%
+Net interest	(15)		(26)		29 		42 	%	(190)	%
+Net revenues	3,734 		3,763 		2,746 		(1)	%	37 	%
+Compensation and benefits	1,542 		1,630 		1,167 		(5)	%	40 	%
+Non-compensation expenses	1,322 		1,148 		1,115 		15 	%	3 	%
+Total non-interest expenses	2,864 		2,778 		2,282 		3 	%	22 	%
+Income from continuing
+operations before income
+taxes
+870 		985 		464 		(12)	%	112 	%
+Provision for income taxes	171 		193 		73 		(11)	%	164 	%
+Income from continuing
+operations
+699 		792 		391 		(12)	%	103 	%
+Income from discontinued
+operations, net of income taxes
+— 		— 		2 		N/M	(100)%
+Net income	699 		792 		393 		(12)	%	102 	%
+Net income applicable to
+noncontrolling interests
+84 		73 		17 		15 	%	N/M
+Net income applicable to
+Morgan Stanley
+$	615 		$	719 		$	376 		(14)	%	91 	%
+ 
+
+Net Revenues
+Investments
+Investments revenues of $808 million in 2020 decreased 33% compared with the prior year, primarily reflecting lower accrued carried interest in Asia private equity, real estate and infrastructure funds.
+Asset Management
+Asset management revenues of $3,013 million in 2020 increased 15% compared with the prior year primarily as a result of higher average AUM, driven by strong investment performance and positive net flows.
+See “Assets Under Management or Supervision” herein.
+Non-interest Expenses
+Non-interest expenses of $2,864 million in 2020 increased 3% compared with the prior year as a result of higher Non-compensation expenses, partially offset by lower Compensation and benefits expenses.
+•Compensation and benefits expenses decreased primarily as a result of lower compensation associated with carried interest, partially offset by increases in discretionary incentive compensation driven by higher Asset management revenues and higher expenses related to certain deferred compensation plans linked to investment performance.
+•Non-compensation expenses increased primarily as a result of higher fee sharing paid to intermediaries on higher average AUM.
+
+
+
+December 2020 Form 10-K	
+40
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Assets Under Management or Supervision
+Rollforwards 
+$ in billions	At
+December 31,
+2019	Inflows	Outflows	Market
+Impact	Other	At
+December 31,
+2020
+Equity	$	138 		$	87 		$	(51)		$	69 		$	(1)		$	242 	
+Fixed income
+79 		37 		(29)		4 		7 		98 	
+Alternative/
+Other
+139 		26 		(24)		5 		7 		153 	
+Long-term AUM subtotal
+356 		150 		(104)		78 		13 		493 	
+Liquidity	196 		1,584 		(1,493)		1 		— 		288 	
+Total AUM	$	552 		$	1,734 		$	(1,597)		$	79 		$	13 		$	781 	
+ 
+$ in billions	At
+December 31,
+2018	Inflows	Outflows	Market
+Impact	Other	At
+December 31,
+2019
+Equity	$	103 		$	39 		$	(31)		$	28 		$	(1)		$	138 	
+Fixed income
+68 		25 		(20)		5 		1 		79 	
+Alternative/
+Other	128 		22 		(17)		10 		(4)		139 	
+Long-term AUM subtotal
+299 		86 		(68)		43 		(4)		356 	
+Liquidity	164 		1,315 		(1,283)		2 		(2)		196 	
+Total AUM	$	463 		$	1,401 		$	(1,351)		$	45 		$	(6)		$	552 	
+ 
+$ in billions	At
+December 31,
+2017	Inflows	Outflows	Market
+Impact	Other	At
+December 31,
+2018
+Equity	$	105 		$	38 		$	(32)		$	(8)		$	— 		$	103 	
+Fixed income
+73 		25 		(27)		(2)		(1)		68 	
+Alternative/
+Other	128 		22 		(19)		(1)		(2)		128 	
+Long-term AUM subtotal
+306 		85 		(78)		(11)		(3)		299 	
+Liquidity1
+176 		1,351 		(1,362)		2 		(3)		164 	
+Total AUM	$	482 		$	1,436 		$	(1,440)		$	(9)		$	(6)		$	463 	
+ 
+1.Included in Liquidity products outflows in 2018 is $18 billion related to the redesign of our brokerage sweep deposits program.
+Average AUM
+$ in billions	2020	2019	2018
+Equity	$	174 		$	124 		$	111 	
+Fixed income	86 		71 		71 	
+Alternative/Other	145 		134 		131 	
+Long-term AUM subtotal	405 		329 		313 	
+Liquidity	252 		171 		158 	
+Total AUM	$	657 		$	500 		$	471 	
+ 
+Average Fee Rates
+Fee rate in bps	2020	2019	2018
+Equity	76 		76 		76 	
+Fixed income	29 		32 		33 	
+Alternative/Other	58 		64 		66 	
+Long-term AUM	60 		61 		62 	
+Liquidity	15 		17 		17 	
+Total AUM	42 		46 		47 	
+ 
+•Inflows—represent investments or commitments from new and existing clients in new or existing investment products, including reinvestments of client dividends and increases in invested capital. Inflows exclude the impact of exchanges, whereby a client changes positions within the same asset class.
+•Outflows—represent redemptions from clients’ funds, transition of funds from the committed capital period to the invested capital period and decreases in invested capital. Outflows exclude the impact of exchanges, whereby a client changes positions within the same asset class.
+•Market impact—includes realized and unrealized gains and losses on portfolio investments. This excludes any funds where market impact does not impact management fees.
+•Other—contains both distributions and foreign currency impact for all periods and the impact of the Mesa West Capital, LLC acquisition in 2018. Distributions represent decreases in invested capital due to returns of capital after the investment period of a fund. It also includes fund dividends that the client has not reinvested. Foreign currency impact reflects foreign currency changes for non-U.S. dollar dominated funds.
+•Alternative/Other—includes products in fund of funds, real estate, infrastructure, private equity and credit strategies, as well as multi-asset portfolios.
+
+•Average fee rate—based on Asset management revenues, net of waivers, excluding performance-based fees and other non-management fees. For certain non-U.S. funds, it includes the portion of advisory fees that the advisor collects on behalf of third-party distributors. The payment of those fees to the distributor is included in Non-compensation expenses in the income statements.
+Planned Acquisition of Eaton Vance
+On October 8, 2020, we entered into a definitive agreement under which we will acquire Eaton Vance, a leading provider of advanced investment management strategies and wealth management solutions, in a cash and stock transaction valued, as of the announcement, at approximately $7 billion, based on the 3-day volume-weighted average price of our common stock prior to October 7, 2020 and the number of Eaton Vance’s fully diluted shares outstanding on October 7, 2020. Under the terms of the agreement, Eaton Vance common stockholders will receive $28.25 in cash and 0.5833 shares of our common shares for each Eaton Vance common share. In addition, Eaton Vance common shareholders as of December 4, 2020 received a one-time special cash dividend of $4.25 per share on December 18, 2020, which was paid by Eaton Vance. We currently expect to complete the acquisition on March 1, 2021. Completion of the transaction remains subject to customary closing conditions.
+41
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Supplemental Financial Information
+Income Tax Matters
+$ in millions	2020	2019	2018
+Effective tax rate	22.5 	%	18.3 	%	20.9 	%
+Net discrete tax provisions (benefits)	$	(122)		$	(475)		$	(368)	
+ 
+The increase in the Firm’s effective tax rate in 2020 compared with the prior year is primarily due to the higher level of earnings and lower net discrete tax benefits. In 2020, net discrete tax benefits were primarily related to the conversion of employee share-based awards.
+The Firm’s effective tax rate for 2019 includes net discrete tax benefits primarily associated with remeasurement of reserves and related interest as a result of new information pertaining to the resolution of multi-jurisdiction tax examinations, as well as benefits related to conversion of employee share-based awards.
+U.S. Bank Subsidiaries
+Our U.S. bank subsidiaries, Morgan Stanley Bank N.A. (“MSBNA”), Morgan Stanley Private Bank, National Association (“MSPBNA”), E*TRADE Bank (“ETB”), and E*TRADE Savings Bank (“ETSB”) (collectively, “U.S. Bank Subsidiaries”) accept deposits, provide loans to a variety of customers, including large corporate and institutional clients as well as high net worth individuals, and invest in securities. Lending activity recorded in the U.S. Bank Subsidiaries from the Institutional Securities business segment primarily includes secured lending facilities, commercial and residential real estate loans, and corporate loans. Lending activity recorded in the U.S. Bank Subsidiaries from the Wealth Management business segment primarily includes securities-based lending, which allows clients to borrow money against the value of qualifying securities, and residential real estate loans.
+For a further discussion of our credit risks, see “Quantitative and Qualitative Disclosures about Risk—Credit Risk.” For a further discussion about loans and lending commitments, see Notes 10 and 15 to the financial statements.
+U.S. Bank Subsidiaries’ Supplemental Financial Information1
+$ in billions	At
+December 31,
+2020	At
+December 31,
+2019
+Investment securities portfolio:		
+Investment securities—AFS
+$	90.3 		$	42.4 	
+Investment securities—HTM
+52.6 		26.1 	
+Total investment securities	$	142.9 		$	68.5 	
+Wealth Management Loans
+Residential real estate	$	35.2 		$	30.2 	
+Securities-based lending and other2
+62.9 		49.9 	
+Total	$	98.1 		$	80.1 	
+Institutional Securities Loans3
+Corporate4
+$	7.9 		$	5.6 	
+Secured lending facilities	27.4 		26.8 	
+Commercial and Residential real
+estate
+10.1 		12.0 	
+Securities-based lending and Other	5.4 		5.4 	
+Total	$	50.8 		$	49.8 	
+Total Assets	$	346.5 		$	219.6 	
+Deposits5
+$	309.7 		$	189.3 	
+ 
+1.Amounts exclude transactions between the bank subsidiaries, as well as deposits from the Parent Company and affiliates.
+2.Other loans primarily include tailored lending.
+3.Prior periods have been conformed to the current presentation.
+4.For a further discussion of corporate loans in the Institutional Securities business segment, see “Credit Risk—Institutional Securities Corporate Loans” herein.
+5.For further information on deposits, see “Liquidity and Capital Resources—Funding Management—Unsecured Financing” herein.
+Other Matters
+Deferred Cash-Based Compensation
+The Firm sponsors a number of employee deferred cash-based compensation programs, which generally contain vesting, clawback and cancellation provisions. For the 2020 performance year, deferred cash-based compensation was awarded to a reduced group of eligible employees compared with the prior year. Additionally in 2020, certain changes to our compensation deferral formula resulted in less cash-based compensation being deferred.
+Employees are permitted to allocate the value of their deferred awards among a menu of notional investments, whereby the value of their awards will track the performance of the referenced notional investments. The menu of investments, which is selected by the Firm, includes fixed income, equity, commodity and money market funds.
+Compensation expense for deferred cash-based compensation awards is calculated based on the notional value of the award granted, adjusted for changes in the fair value of the referenced investments that employees select. Compensation expense is recognized over the vesting period relevant to each separately vesting portion of deferred awards.
+The Firm invests directly, as a principal, in financial instruments and other investments to economically hedge certain of its obligations under these deferred cash-based compensation plans. Changes in the value of such investments
+
+
+December 2020 Form 10-K	
+42
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+are recorded in Trading and Investments revenues. Although changes in compensation expense resulting from changes in the fair value of the referenced investments will generally be offset by changes in the fair value of investments made by the Firm, there is typically a timing difference between the immediate recognition of gains and losses on the Firm’s investments and the deferred recognition of the related compensation expense over the vesting period. While this timing difference is generally not material to Income from continuing operations before income taxes in any individual period, it may impact Firm reported ratios (e.g., the Expense efficiency ratio) in certain periods. At December 31, 2020, substantially all employee notional investments that subjected the Firm to price risk were hedged.
+Amounts Recognized in Compensation Expense
+$ in millions	2020	2019	2018
+Deferred cash-based awards	$	1,263 		$	1,233 		$	1,174 	
+Return on referenced investments	856 		645 		(48)	
+Total recognized in compensation expense	$	2,119 		$	1,878 		$	1,126 	
+ 
+Amounts Recognized in Compensation Expense by Segment
+$ in millions	2020	2019	2018
+Institutional Securities	$	851 		$	916 		$	611 	
+Wealth Management	1,000 		760 		346 	
+Investment Management	268 		202 		169 	
+Total recognized in compensation expense	$	2,119 		$	1,878 		$	1,126 	
+ 
+Projected Future Compensation Obligation1
+$ in millions	
+Award liabilities at December 31, 20202, 3
+$	6,247 	
+Fully vested amounts to be distributed by the end of February 20214
+(1,298)	
+Unrecognized portion of prior awards at December 31, 20203
+1,311 	
+2020 performance year awards granted in 20213
+290 	
+Total5
+$	6,550 	
+ 
+1.Amounts relate to performance years 2020 and prior.
+2.Balance is reflected in Other liabilities and accrued expenses in the balance sheet as of December 31, 2020.
+3.Amounts do not include assumptions regarding cancellations, accelerations or assumptions about future market conditions with respect to referenced investments.
+4.Distributions after February of each year are generally immaterial.
+5.Of the total projected future compensation obligation, approximately 30% relates to Institutional Securities, approximately 60% relates to Wealth Management and approximately 10% relates to Investment Management.
+The previous table presents a rollforward of the Firm’s estimated projected future compensation obligation for existing deferred cash-based compensation awards, exclusive of any assumptions about future market conditions with respect to referenced investments.
+Projected Future Compensation Expense1
+$ in millions	
+Estimated to be recognized in:	
+2021	$	680 	
+2022	312 	
+Thereafter	609 	
+Total2
+$	1,601 	
+ 
+1.Amounts relate to performance years 2020 and prior.
+2.Amounts do not include assumptions regarding cancellations, accelerations or assumptions about future market conditions with respect to referenced investments.
+The previous table sets forth an estimate of compensation expense associated with the Projected Future Compensation Obligation. Our projected future compensation obligation and expense for deferred cash-based compensation for performance years 2020 and prior are forward-looking statements subject to uncertainty. Actual results may be materially affected by various factors, including, among other things: the performance of each participant’s referenced investments; changes in market conditions; participants’ allocation of their deferred awards; and participant cancellations or accelerations. See “Forward-Looking Statements” and “Risk Factors” for additional information.
+For further information on the Firm’s deferred stock-based plans and carried interest compensation, which are excluded from the previous tables, see Notes 2 and 20 to the financial statements.
+Accounting Development Updates
+The Financial Accounting Standards Board has issued certain accounting updates, which we have either determined are not applicable or are not expected to have a significant impact on our financial statements.
+Critical Accounting Policies
+Our financial statements are prepared in accordance with U.S. GAAP, which requires us to make estimates and assumptions (see Note 1 to the financial statements). We believe that of our significant accounting policies (see Note 2 to the financial statements), the following policies involve a higher degree of judgment and complexity.
+Fair Value
+Financial Instruments Measured at Fair Value
+A significant number of our financial instruments are carried at fair value. We make estimates regarding the valuation of assets and liabilities measured at fair value in preparing the financial statements. These assets and liabilities include, but are not limited to:
+•Trading assets and Trading liabilities;
+•Investment Securities—AFS;
+•Certain Securities purchased under agreements to resell;
+•Certain Deposits, primarily certificates of deposit;
+•Certain Securities sold under agreements to repurchase;
+43
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+•Certain Other secured financings; and
+•Certain Borrowings.
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability (i.e., the exit price) in an orderly transaction between market participants at the measurement date.
+In determining fair value, we use various valuation approaches. A hierarchy for inputs is used in measuring fair value that maximizes the use of observable prices and inputs and minimizes the use of unobservable prices and inputs by requiring that the relevant observable inputs be used when available. The hierarchy is broken down into three levels, wherein Level 1 represents quoted prices in active markets, Level 2 represents valuations based on quoted prices in markets that are not active or for which all significant inputs are observable, and Level 3 consists of valuation techniques that incorporate significant unobservable inputs and, therefore, require the greatest use of judgment.
+In periods of market disruption, the observability of prices and inputs may be reduced for many instruments, which could cause an instrument to be recategorized from Level 1 to Level 2 or from Level 2 to Level 3. In addition, a downturn in market conditions could lead to declines in the valuation of many instruments. For further information on the definition of fair value, Level 1, Level 2, Level 3 and related valuation techniques, and quantitative information about and sensitivity of significant unobservable inputs used in Level 3 fair value measurements, see Notes 2 and 5 to the financial statements.
+Where appropriate, valuation adjustments are made to account for various factors such as liquidity risk (bid-ask adjustments), credit quality, model uncertainty, concentration risk and funding in order to arrive at fair value. For a further discussion of valuation adjustments that we apply, see Note 2 to the financial statements.
+Goodwill and Intangible Assets
+Goodwill
+We test goodwill for impairment on an annual basis as of July 1 and on an interim basis when certain events or circumstances exist. Evaluating goodwill for impairment requires management to make significant judgments. Goodwill impairment tests are performed at the reporting unit level, which is generally at the level of or one level below our business segments. Goodwill no longer retains its association with a particular acquisition once it has been assigned to a reporting unit. As such, all the activities of a reporting unit, whether acquired or organically developed, are available to support the value of the goodwill.
+For both the annual and interim tests, we have the option to either (i) perform a quantitative impairment test or (ii) first perform a qualitative assessment to determine whether it is more likely than not that the fair value of a reporting unit is
+less than its carrying amount, in which case the quantitative test would be performed.
+When performing a quantitative impairment test, we compare the fair value of a reporting unit with its carrying amount, including goodwill. If the fair value of the reporting unit is less than its carrying amount, the goodwill impairment loss is equal to the excess of the carrying value over the fair value, limited by the carrying amount of goodwill allocated to that reporting unit.
+The estimated fair value of the reporting units is derived based on valuation techniques we believe market participants would use for each of the reporting units. The estimated fair value is generally determined by utilizing a discounted cash flow methodology or methodologies that incorporate price-to-book and price-to-earnings multiples of certain comparable companies. At each annual goodwill impairment testing date, each of our reporting units with goodwill had a fair value that was substantially in excess of its carrying value.
+Intangible Assets
+Amortizable intangible assets are initially recorded at cost, or in the situation where acquired as part of a business combination, at the fair value determined as part of the acquisition method of accounting. Subsequently, they are carried in the balance sheets at amortized cost, where amortization is recognized over their estimated useful lives.
+When certain events or circumstances exist, amortizable intangible assets are reviewed for impairment on an interim basis. An impairment exists when the carrying amount of the intangible asset exceeds its fair value. An impairment loss will be recognized if the carrying amount of the intangible asset is not recoverable and exceeds its fair value. The carrying amount of the intangible asset is not recoverable if it exceeds the sum of the expected undiscounted cash flows.
+The initial valuation of an intangible asset as part of the acquisition method of accounting and the subsequent valuation of intangible assets as part of impairment assessments are subjective and based, in part, on inputs that are unobservable. These inputs include, but are not limited to, forecasted cash flows, revenue growth rates, customer attrition rates and discount rates.
+For both goodwill and intangible assets, to the extent an impairment loss is recognized, the loss establishes the new cost basis of the asset. Subsequent reversal of impairment losses is not permitted. For amortizable intangible assets, the new cost basis is amortized over the remaining useful life of that asset. Adverse market or economic events could result in impairment charges in future periods.
+See Notes 2, 3 and 11 to the financial statements for additional information about goodwill and intangible assets.
+
+
+December 2020 Form 10-K	
+44
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Legal and Regulatory Contingencies
+In the normal course of business, we have been named, from time to time, as a defendant in various legal actions, including arbitrations, class actions and other litigation, arising in connection with our activities as a global diversified financial services institution.
+Certain of the actual or threatened legal actions include claims for substantial compensatory and/or punitive damages or claims for indeterminate amounts of damages. In some cases, the entities that would otherwise be the primary defendants in such cases are bankrupt or are in financial distress.
+We are also involved, from time to time, in other reviews, investigations and proceedings (both formal and informal) by governmental and self-regulatory agencies regarding our business and involving, among other matters, sales and trading activities, wealth and investment management services, financial products or offerings sponsored, underwritten or sold by us, and accounting and operational matters, certain of which may result in adverse judgments, settlements, fines, penalties, injunctions or other relief.
+Accruals for litigation and regulatory proceedings are generally determined on a case-by-case basis. Where available information indicates that it is probable a liability had been incurred at the date of the financial statements and we can reasonably estimate the amount of that loss, we accrue the estimated loss by a charge to income.
+In many proceedings and investigations, however, it is inherently difficult to determine whether any loss is probable or even possible or to estimate the amount of any loss. In addition, even where a loss is possible or an exposure to loss exists in excess of the liability already accrued with respect to a previously recognized loss contingency, it is not always possible to reasonably estimate the size of the possible loss or range of loss, particularly for proceedings and investigations where the factual record is being developed or contested or where plaintiffs or government entities seek substantial or indeterminate damages, restitution, disgorgement or penalties. Numerous issues may need to be resolved before a loss or additional loss or range of loss or additional range of loss can be reasonably estimated for a proceeding or investigation, including through potentially lengthy discovery and determination of important factual matters, determination of issues related to class certification and the calculation of damages or other relief, and addressing novel or unsettled legal questions relevant to the proceedings or investigations in question.
+Significant judgment is required in deciding when and if to make these accruals, and the actual cost of a legal claim or regulatory fine/penalty may ultimately be materially different from the recorded accruals.
+See Note 15 to the financial statements for additional information on legal contingencies.
+Income Taxes
+We are subject to the income and indirect tax laws of the U.S., its states and municipalities and those of the foreign jurisdictions in which we have significant business operations. These tax laws are complex and subject to different interpretations by the taxpayer and the relevant governmental taxing authorities. We must make judgments and interpretations about the application of these inherently complex tax laws when determining the provision for income taxes and the expense for indirect taxes and must also make estimates about when certain items affect taxable income in the various tax jurisdictions.
+Disputes over interpretations of the tax laws may be settled with the taxing authority upon examination or audit. We periodically evaluate the likelihood of assessments in each taxing jurisdiction resulting from current and subsequent years’ examinations, and unrecognized tax benefits related to potential losses that may arise from tax audits are established in accordance with the relevant accounting guidance. Once established, unrecognized tax benefits are adjusted when there is more information available or when an event occurs requiring a change.
+Our provision for income taxes is composed of current and deferred taxes. Current income taxes approximate taxes to be paid or refunded for the current period. Deferred income taxes reflect the net tax effects of temporary differences between the financial reporting and tax bases of assets and liabilities and are measured using the applicable enacted tax rates and laws that will be in effect when such differences are expected to reverse.
+Our deferred tax balances may also include deferred assets related to tax attribute carryforwards, such as net operating losses and tax credits that will be realized through reduction of future tax liabilities and, in some cases, are subject to expiration if not utilized within certain periods. We perform regular reviews to ascertain whether deferred tax assets are realizable. These reviews include management’s estimates and assumptions regarding future taxable income and incorporate various tax planning strategies, including strategies that may be available to tax attribute carryforwards before they expire.
+Once the deferred tax asset balances have been determined, we may record a valuation allowance against the deferred tax asset balances to reflect the amount we estimate is more likely than not to be realized at a future date. Both current and deferred income taxes may reflect adjustments related to our unrecognized tax benefits.
+Significant judgment is required in estimating the consolidated provision for (benefit from) income taxes, current and deferred tax balances (including valuation allowance, if any), accrued interest or penalties and uncertain tax positions. Revisions in estimates and/or the actual costs of
+45
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+a tax assessment may ultimately be materially different from the recorded accruals and unrecognized tax benefits, if any.
+See Note 2 to the financial statements for additional information on our significant assumptions, judgments and interpretations associated with the accounting for income taxes and Note 22 to the financial statements for additional information on our tax examinations.
+Liquidity and Capital Resources
+Senior management, with oversight by the Asset/Liability Management Committee and the Board of Directors (“Board”), establishes and maintains our liquidity and capital policies. Through various risk and control committees, senior management reviews business performance relative to these policies, monitors the availability of alternative sources of financing, and oversees the liquidity, interest rate and currency sensitivity of our asset and liability position. Our Treasury department, Firm Risk Committee, Asset/Liability Management Committee, and other committees and control groups assist in evaluating, monitoring and controlling the impact that our business activities have on our balance sheet, liquidity and capital structure. Liquidity and capital matters are reported regularly to the Board and the Risk Committee of the Board.
+Balance Sheet
+We monitor and evaluate the composition and size of our balance sheet on a regular basis. Our balance sheet management process includes quarterly planning, business-specific thresholds, monitoring of business-specific usage versus key performance metrics and new business impact assessments.
+We establish balance sheet thresholds at the consolidated and business segment levels. We monitor balance sheet utilization and review variances resulting from business activity and market fluctuations. On a regular basis, we review current performance versus established thresholds and assess the need to re-allocate our balance sheet based on business unit needs. We also monitor key metrics, including asset and liability size and capital usage.
+Total Assets by Business Segment
+At December 31, 2020
+$ in millions	IS	WM	IM	Total
+Assets				
+Cash and cash equivalents	$	74,281 		$	31,275 		$	98 		$	105,654 	
+Trading assets at fair value	308,413 		280 		4,045 		312,738 	
+Investment securities	41,630 		140,524 		— 		182,154 	
+Securities purchased under agreements to resell	84,998 		31,236 		— 		116,234 	
+Securities borrowed	110,480 		1,911 		— 		112,391 	
+Customer and other receivables	67,085 		29,781 		871 		97,737 	
+Loans1
+52,449 		98,130 		18 		150,597 	
+Other assets2
+13,986 		22,458 		1,913 		38,357 	
+Total assets	$	753,322 		$	355,595 		$	6,945 		$	1,115,862 	
+ 
+ 	At December 31, 2019
+$ in millions	IS	WM	IM	Total
+Assets				
+Cash and cash equivalents	$	67,657 		$	14,247 		$	267 		$	82,171 	
+Trading assets at fair value	293,477 		47 		3,586 		297,110 	
+Investment securities	38,524 		67,201 		— 		105,725 	
+Securities purchased under agreements to resell	80,744 		7,480 		— 		88,224 	
+Securities borrowed	106,199 		350 		— 		106,549 	
+Customer and other receivables	39,743 		15,190 		713 		55,646 	
+Loans1
+50,557 		80,075 		5 		130,637 	
+Other assets2
+14,300 		13,092 		1,975 		29,367 	
+Total assets	$	691,201 		$	197,682 		$	6,546 		$	895,429 	
+ 
+IS—Institutional Securities
+WM—Wealth Management
+IM—Investment Management
+1.Amounts include loans held for investment, net of allowance, and loans held for sale but exclude loans at fair value, which are included in Trading assets in the balance sheets (see Note 10 to the financial statements).
+2.Other assets primarily includes Goodwill and Intangible assets, premises, equipment and software, ROU assets related to leases, other investments, and deferred tax assets.
+A substantial portion of total assets consists of liquid marketable securities and short-term receivables. In the Institutional Securities business segment, these arise from sales and trading activities, and in the Wealth Management business segment, these arise from banking activities, including management of the investment portfolio, comprising Investment securities, Cash and cash equivalents and Securities purchased under agreements to resell. Total assets increased to $1,116 billion at December 31, 2020 compared with $895 billion at December 31, 2019.
+Wealth Management’s assets increased primarily from the acquisition of E*TRADE, as well as growth in Loans and increases in the investment portfolio as a result of significantly higher deposits.
+Institutional Securities’ assets were also higher, reflecting increases within Customer and other receivables, principally within Equity financing, and Trading assets, primarily U.S. Treasury and agency securities.
+Liquidity Risk Management Framework
+The primary goal of our Liquidity Risk Management Framework is to ensure that we have access to adequate funding across a wide range of market conditions and time horizons. The framework is designed to enable us to fulfill our financial obligations and support the execution of our business strategies.
+The following principles guide our Liquidity Risk Management Framework:
+•Sufficient Liquidity Resources should be maintained to cover maturing liabilities and other planned and contingent outflows;
+•Maturity profile of assets and liabilities should be aligned, with limited reliance on short-term funding;
+•Source, counterparty, currency, region and term of funding should be diversified; and
+
+
+December 2020 Form 10-K	
+46
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+•Liquidity Stress Tests should anticipate, and account for, periods of limited access to funding.
+The core components of our Liquidity Risk Management Framework are the Required Liquidity Framework, Liquidity Stress Tests and Liquidity Resources, which support our target liquidity profile.
+Required Liquidity Framework
+Our Required Liquidity Framework establishes the amount of liquidity we must hold in both normal and stressed environments to ensure that our financial condition and overall soundness are not adversely affected by an inability (or perceived inability) to meet our financial obligations in a timely manner. The Required Liquidity Framework considers the most constraining liquidity requirement to satisfy all regulatory and internal limits at a consolidated and legal entity level.
+Liquidity Stress Tests
+We use Liquidity Stress Tests to model external and intercompany liquidity flows across multiple scenarios and a range of time horizons. These scenarios contain various combinations of idiosyncratic and systemic stress events of different severity and duration. The methodology, implementation, production and analysis of our Liquidity Stress Tests are important components of the Required Liquidity Framework.
+The assumptions used by us in our various Liquidity Stress Test scenarios include, but are not limited to, the following:
+•No government support;
+•No access to equity and unsecured debt markets;
+•Repayment of all unsecured debt maturing within the stress horizon;
+•Higher haircuts for and significantly lower availability of secured funding;
+•Additional collateral that would be required by trading counterparties, certain exchanges and clearing organizations related to credit rating downgrades;
+•Additional collateral that would be required due to collateral substitutions, collateral disputes and uncalled collateral;
+•Discretionary unsecured debt buybacks;
+•Drawdowns on lending commitments provided to third parties; and
+•Client cash withdrawals and reduction in customer short positions that fund long positions.
+Liquidity Stress Tests are produced and results are reported at different levels, including major operating subsidiaries and major currencies, to capture specific cash requirements and cash availability across the Firm, including a limited number of asset sales in a stressed environment. The Liquidity Stress Tests assume that subsidiaries will use their own liquidity first to fund their obligations before drawing liquidity from the Parent Company and that the Parent Company will support its
+subsidiaries and will not have access to subsidiaries’ liquidity reserves. In addition to the assumptions underpinning the Liquidity Stress Tests, we take into consideration settlement risk related to intraday settlement and clearing of securities and financing activities.
+At December 31, 2020 and December 31, 2019, we maintained sufficient Liquidity Resources to meet current and contingent funding obligations as modeled in our Liquidity Stress Tests.
+Liquidity Resources
+We maintain sufficient liquidity resources, which consist of HQLA and cash deposits with banks (“Liquidity Resources”) to cover daily funding needs and to meet strategic liquidity targets sized by the Required Liquidity Framework and Liquidity Stress Tests. The total amount of Liquidity Resources is actively managed by us considering the following components: unsecured debt maturity profile; balance sheet size and composition; funding needs in a stressed environment, inclusive of contingent cash outflows; legal entity, regional and segment liquidity requirements; regulatory requirements; and collateral requirements.
+The amount of Liquidity Resources we hold is based on our risk tolerance and is subject to change depending on market and Firm-specific events. The Liquidity Resources are primarily held within the Parent Company and its major operating subsidiaries. The Total HQLA values in the tables immediately following are different from Eligible HQLA, which, in accordance with the LCR rule, also takes into account certain regulatory weightings and other operational considerations.
+Liquidity Resources by Type of Investment1
+$ in millions	At
+December 31,
+2020	At
+December 31,
+2019
+Cash deposits with central banks	$	49,669 		$	35,025 	
+Unencumbered HQLA securities2:
+U.S. government obligations	136,555 		88,754 	
+U.S. agency and agency mortgage-backed securities	99,659 		50,732 	
+Non-U.S. sovereign obligations3
+39,745 		29,909 	
+Other investment grade securities	2,053 		1,591 	
+Total HQLA2
+$	327,681 		$	206,011 	
+Cash deposits with banks (non-HQLA)	10,942 		9,857 	
+Total Liquidity Resources	$	338,623 		$	215,868 	
+ 
+1.In the first quarter of 2020, we changed our internal measure of liquidity from the Global Liquidity Reserve to Liquidity Resources, which is more closely aligned with the regulatory definition of HQLA. Prior periods have been recast to conform to the current presentation.
+2.HQLA is presented prior to applying weightings and includes all HQLA held in subsidiaries.
+3.Primarily composed of unencumbered U.K., Japanese, French, German and Dutch government obligations.
+47
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Liquidity Resources by Bank and Non-Bank Legal Entities1
+At
+December 31,
+2020	At
+December 31,
+2019	Average Daily Balance
+Three Months Ended
+$ in millions	December 31, 2020
+Bank legal entities
+Domestic	$	178,033 		$	75,894 		$	166,516 	
+Foreign	7,670 		4,049 		7,423 	
+Total Bank legal entities
+185,703 		79,943 		173,939 	
+Non-Bank legal entities		
+Domestic:			
+Parent Company	59,468 		53,128 		59,803 	
+Non-Parent Company	33,368 		28,905 		34,712 	
+Total Domestic	92,836 		82,033 		94,515 	
+Foreign	60,084 		53,892 		57,364 	
+Total Non-Bank legal entities
+152,920 		135,925 		151,879 	
+Total Liquidity Resources	$	338,623 		$	215,868 		$	325,818 	
+ 
+1. In the first quarter of 2020, we changed our internal measure of liquidity from the Global Liquidity Reserve to Liquidity Resources, which is more closely aligned with the regulatory definition of HQLA. Prior periods have been recast to conform to the current presentation.
+Liquidity Resources may fluctuate from period to period based on the overall size and composition of our balance sheet, the maturity profile of our unsecured debt and estimates of funding needs in a stressed environment, among other factors. Liquidity Resources increased in 2020 primarily due to an increase in deposits, including incremental deposits as a result of the E*TRADE acquisition.
+Regulatory Liquidity Framework
+Liquidity Coverage Ratio
+The Firm, MSBNA and MSPBNA are required to comply with, and subject to a transition period, ETB will be required to comply with, LCR requirements, including a requirement to calculate each entity’s LCR on each business day. The requirements are designed to ensure that banking organizations have sufficient Eligible HQLA to cover net cash outflows arising from significant stress over 30 calendar days, thus promoting the short-term resilience of the liquidity risk profile of banking organizations. In determining Eligible HQLA for LCR purposes, weightings (or asset haircuts) are applied to HQLA, and certain HQLA held in subsidiaries is excluded.
+As of December 31, 2020, the Firm, MSBNA and MSPBNA are compliant with the minimum required LCR of 100%.
+Liquidity Coverage Ratio
+ 	Average Daily Balance
+Three Months Ended
+$ in millions	December 31, 2020	September 30, 2020
+Eligible HQLA1
+ 	 
+Cash deposits with central banks	$	43,596 		$	36,481 	
+Securities2
+162,509 		170,817 	
+Total Eligible HQLA1
+$	206,105 		$	207,298 	
+LCR	129 	%	136 	%
+ 
+1.Under the LCR rule, Eligible HQLA is calculated using weightings and excluding certain HQLA held in subsidiaries.
+2.Primarily includes U.S. Treasuries, U.S. agency mortgage-backed securities, sovereign bonds and investment grade corporate bonds.
+Net Stable Funding Ratio
+The U.S. banking agencies have finalized a rule to implement the NSFR, which requires large banking organizations to maintain sufficiently stable sources of funding over a one-year time horizon, and will apply to us, MSBNA, MSPBNA and ETB. These requirements become effective on July 1, 2021 and we will be in compliance with the final rule by the effective date.
+Funding Management
+We manage our funding in a manner that reduces the risk of disruption to our operations. We pursue a strategy of diversification of secured and unsecured funding sources (by product, investor and region) and attempt to ensure that the tenor of our liabilities equals or exceeds the expected holding period of the assets being financed.
+We fund our balance sheet on a global basis through diverse sources. These sources include our equity capital, borrowings, securities sold under agreements to repurchase, securities lending, deposits, letters of credit and lines of credit. We have active financing programs for both standard and structured products targeting global investors and currencies.
+Secured Financing
+The liquid nature of the marketable securities and short-term receivables arising principally from sales and trading activities in the Institutional Securities business segment provides us with flexibility in managing the composition and size of our balance sheet. Our goal is to achieve an optimal mix of durable secured and unsecured financing. Secured financing investors principally focus on the quality of the eligible collateral posted. Accordingly, we actively manage our secured financings based on the quality of the assets being funded.
+We have established longer tenor secured funding requirements for less liquid asset classes, for which funding may be at risk in the event of a market disruption. We define highly liquid assets as government-issued or government-guaranteed securities with a high degree of fundability and less liquid assets as those that do not meet these criteria.
+
+
+December 2020 Form 10-K	
+48
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+To further minimize the refinancing risk of secured financing for less liquid assets, we have established concentration limits to diversify our investor base and reduce the amount of monthly maturities for secured financing of less liquid assets. Furthermore, we obtain term secured funding liabilities in excess of less liquid inventory as an additional risk mitigant to replace maturing trades in the event that secured financing markets, or our ability to access them, become limited. As a component of the Liquidity Risk Management Framework, we hold a portion of our Liquidity Resources against the potential disruption to our secured financing capabilities.
+We generally maintain a pool of liquid and easily fundable securities, which takes into account HQLA classifications consistent with LCR definitions, and other regulatory requirements, and provides a valuable future source of liquidity.
+Collateralized Financing Transactions
+$ in millions	At
+December 31,
+2020	At
+December 31,
+2019
+Securities purchased under agreements to resell and Securities borrowed
+$	228,625 		$	194,773 	
+Securities sold under agreements to repurchase and Securities loaned
+$	58,318 		$	62,706 	
+Securities received as collateral1
+$	4,277 		$	13,022 	
+ 
+ 	Average Daily Balance
+Three Months Ended
+$ in millions	December 31, 2020	December 31, 2019
+Securities purchased under agreements to resell and Securities borrowed
+$	195,376 		$	210,257 	
+Securities sold under agreements to repurchase and Securities loaned
+$	54,528 		$	64,870 	
+ 
+1.Included within Trading assets in the balance sheets.
+
+See “Total Assets by Business Segment” herein for more details on the assets shown in the previous table and Notes 2 and 9 to the financial statements for more details on collateralized financing transactions.
+In addition to the collateralized financing transactions shown in the previous table, we engage in financing transactions collateralized by customer-owned securities, which are segregated in accordance with regulatory requirements. Receivables under these financing transactions, primarily margin loans, are included in Customer and other receivables in the balance sheets, and payables under these financing transactions, primarily to prime brokerage customers, are included in Customer and other payables in the balance sheets. Our risk exposure on these transactions is mitigated by collateral maintenance policies and the elements of our Liquidity Risk Management Framework.
+Unsecured Financing
+We view deposits and borrowings as stable sources of funding for unencumbered securities and non-security assets. Our unsecured financings include borrowings and certificates of deposit carried at fair value, which are primarily composed of:
+instruments whose payments and redemption values are linked to the performance of a specific index, a basket of stocks, a specific equity security, a commodity, a credit exposure or basket of credit exposures; and instruments with various interest-rate-related features, including step-ups, step-downs and zero coupons. As part of our asset/liability management strategy, when appropriate, we use derivatives to make adjustments to the interest rate risk profile of our borrowings (see Notes 7 and 14 to the financial statements).
+Deposits
+$ in millions	At
+December 31,
+2020	At
+December 31,
+2019
+Savings and demand deposits:		
+Brokerage sweep deposits1
+$	232,071 		$	121,077 	
+Savings and other
+47,150 		28,388 	
+Total Savings and demand deposits	279,221 		149,465 	
+Time deposits	31,561 		40,891 	
+Total2
+$	310,782 		$	190,356 	
+ 
+1.Amounts represent balances swept from client brokerage accounts.
+2.Excludes approximately $25 billion of off-balance sheet deposits at unaffiliated financial institutions as of December 31, 2020. Client cash held by third parties is not reflected in our balance sheets and is not immediately available for liquidity purposes.
+Deposits are primarily sourced from our Wealth Management clients and are considered to have stable, low-cost funding characteristics. Total deposits increased in 2020, primarily driven by increases in brokerage sweep and savings deposits, including incremental deposits as a result of the acquisition of E*TRADE.
+Borrowings by Remaining Maturity at December 31, 20201
+$ in millions	Parent
+Company	Subsidiaries	Total
+Original maturities of one year or less
+$	1 		$	3,690 		$	3,691 	
+Original maturities greater than one year
+2021	$	17,670 		$	6,571 		$	24,241 	
+2022	16,612 		5,597 		22,209 	
+2023	17,152 		5,738 		22,890 	
+2024	16,109 		5,618 		21,727 	
+2025	11,336 		7,300 		18,636 	
+Thereafter	80,943 		22,742 		103,685 	
+Total	$	159,822 		$	53,566 		$	213,388 	
+Total Borrowings	$	159,823 		$	57,256 		$	217,079 	
+ 
+1.Original maturity in the table is generally based on contractual final maturity. For borrowings with put options, remaining maturity represents the earliest put date.
+
+Borrowings of $217 billion as of December 31, 2020 increased compared with $193 billion at December 31, 2019, primarily as a result of issuances net of maturities and redemptions, as well as fair value adjustments.
+We believe that accessing debt investors through multiple distribution channels helps provide consistent access to the unsecured markets. In addition, the issuance of borrowings with original maturities greater than one year allows us to reduce reliance on short-term credit sensitive instruments. Borrowings with original maturities greater than one year are generally managed to achieve staggered maturities, thereby
+49
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+mitigating refinancing risk, and to maximize investor diversification through sales to global institutional and retail clients across regions, currencies and product types.
+The availability and cost of financing to us can vary depending on market conditions, the volume of certain trading and lending activities, our credit ratings and the overall availability of credit. We also engage in, and may continue to engage in, repurchases of our borrowings in the ordinary course of business.
+For further information on Borrowings, see Note 14 to the financial statements.
+Credit Ratings
+We rely on external sources to finance a significant portion of our daily operations. The cost and availability of financing generally are impacted by our credit ratings, among other things. In addition, our credit ratings can have an impact on certain trading revenues, particularly in those businesses where longer-term counterparty performance is a key consideration, such as certain OTC derivative transactions. When determining credit ratings, rating agencies consider both company-specific and industry-wide factors. These include regulatory or legislative changes, the macroeconomic environment and perceived levels of support, among other things. See also “Risk Factors— Liquidity Risk.”
+Parent Company, MSBNA and MSPBNA Issuer Ratings at February 19, 2021
+Parent Company
+Short-Term
+Debt	Long-Term
+Debt	Rating
+Outlook
+DBRS, Inc.	R-1 (middle)	A (high)	Stable
+Fitch Ratings, Inc.	F1	A	Stable
+Moody’s Investors Service, Inc.	P-1	A1	Stable
+Rating and Investment Information, Inc.
+a-1	A	Stable
+S&P Global Ratings	A-2	BBB+	Stable
+ 
+MSBNA
+Short-Term
+Debt
+Long-Term
+Debt
+Rating
+Outlook
+Fitch Ratings, Inc.	F1	A+	Stable
+Moody’s Investors Service, Inc.	P-1	Aa3	Stable
+S&P Global Ratings	A-1	A+	Stable
+  
+MSPBNA
+Short-Term
+Debt	Long-Term
+Debt	Rating
+Outlook
+Moody’s Investors Service, Inc.	P-1	Aa3	Stable
+S&P Global Ratings	A-1	A+	Stable
+ 
+On October 2, 2020, Moody’s Investors Service, Inc. (“Moody’s”) upgraded the issuer ratings of the Parent Company from A3 to A2, and MSBNA and MSPBNA from A1 to Aa3. On January 27, 2021, Moody's upgraded the issuer ratings of the Parent Company from A2 to A1.
+On November 20, 2020, Fitch Ratings, Inc. revised the Parent Company and MSBNA outlooks from Negative to Stable.
+Incremental Collateral or Terminating Payments
+In connection with certain OTC derivatives and certain other agreements where we are a liquidity provider to certain financing vehicles associated with the Institutional Securities business segment, we may be required to provide additional collateral, immediately settle any outstanding liability balances with certain counterparties or pledge additional collateral to certain clearing organizations in the event of a future credit rating downgrade irrespective of whether we are in a net asset or net liability position. See Note 7 to the financial statements for additional information on OTC derivatives that contain such contingent features.
+While certain aspects of a credit rating downgrade are quantifiable pursuant to contractual provisions, the impact it would have on our business and results of operations in future periods is inherently uncertain and would depend on a number of interrelated factors, including, among other things, the magnitude of the downgrade, the rating relative to peers, the rating assigned by the relevant agency pre-downgrade, individual client behavior and future mitigating actions we might take. The liquidity impact of additional collateral requirements is included in our Liquidity Stress Tests.
+Capital Management
+We view capital as an important source of financial strength and actively manage our consolidated capital position based upon, among other things, business opportunities, risks, capital availability and rates of return together with internal capital policies, regulatory requirements and rating agency guidelines. In the future, we may expand or contract our capital base to address the changing needs of our businesses.
+Common Stock Repurchases
+in millions, except for per share data	2020	2019	2018
+Number of shares	29 		121 		97 	
+Average price per share	$	46.01 		$	44.23 		$	50.08 	
+Total	$	1,347 		$	5,360 		$	4,860 	
+ 
+For additional information on our common stock repurchases, see “Liquidity and Capital Resources—Regulatory Requirements—Capital Action Supervisory Restrictions” herein.
+For further information on our common stock repurchases, see Note 18 to the financial statements.
+For a description of our capital plan, see “Liquidity and Capital Resources—Regulatory Requirements—Capital Plans, Stress Tests and the Stress Capital Buffer” herein.
+Common Stock Dividend Announcement
+Announcement date	January 20, 2021
+Amount per share	$0.35
+Date paid	February 12, 2021
+Shareholders of record as of	January 29, 2021
+ 
+
+
+December 2020 Form 10-K	
+50
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+For additional information on our common stock dividends, see “Liquidity and Capital Resources—Regulatory Requirements—Capital Action Supervisory Restrictions” herein.
+Preferred Stock Dividend Announcement
+Announcement date	December 15, 2020
+Date paid	January 15, 2021
+Shareholders of record as of	December 31, 2020
+ 
+For additional information on common and preferred stock, see Note 18 to the financial statements.
+Off-Balance Sheet Arrangements and Contractual Obligations
+Off-Balance Sheet Arrangements
+We enter into various off-balance sheet arrangements, including through unconsolidated SPEs and lending-related financial instruments (e.g., guarantees and commitments), primarily in connection with the Institutional Securities and Investment Management business segments.
+We utilize SPEs primarily in connection with securitization activities. For information on our securitization activities, see Note 16 to the financial statements.
+For information on our commitments, obligations under certain guarantee arrangements and indemnities, see Note 15 to the financial statements. For further information on our lending commitments, see “Quantitative and Qualitative Disclosures about Risk—Credit Risk—Loans and Lending Commitments” herein.
+Contractual Obligations
+ 	At December 31, 2020
+ 	Payments Due in:
+$ in millions	2021	2022-2023	2024-2025	Thereafter	Total
+Borrowings1
+$	24,241 		$	45,099 		$	40,363 		$	103,685 		$	213,388 	
+Other secured financings1
+1,655 		1,684 		134 		408 		3,881 	
+Contractual interest payments2
+3,952 		6,714 		5,254 		15,886 		31,806 	
+Time deposits—principal and interest payments	18,681 		9,075 		3,496 		513 		31,765 	
+Operating leases— premises3
+841 		1,533 		1,171 		2,685 		6,230 	
+Purchase obligations4
+1,297 		1,037 		319 		175 		2,828 	
+Total5
+$	50,667 		$	65,142 		$	50,737 		$	123,352 		$	289,898 	
+ 
+1.Amounts presented for Borrowings and Other secured financings are financings with original maturities greater than one year. For further information on Borrowings and Other secured financings, see Note 14 to the financial statements.
+2.Amounts represent estimated future contractual interest payments related to certain unsecured borrowings with original maturities greater than one year based on applicable interest rates at December 31, 2020. For additional information on borrowings carried at fair value, see Note 14 to the financial statements.
+3.For further information on operating leases covering premises and equipment, see Note 12 to the financial statements.
+4.Purchase obligations for goods and services include payments for, among other things, consulting, outsourcing, computer and telecommunications maintenance agreements, and certain transmission, transportation and storage contracts related to the commodities business.
+5.Amounts exclude unrecognized tax benefits, as the timing and amount of future cash payments are not determinable at this time (see Note 22 to the financial statements for further information).
+Regulatory Requirements
+Regulatory Capital Framework
+We are an FHC under the Bank Holding Company Act of 1956, as amended (“BHC Act”), and are subject to the regulation and oversight of the Federal Reserve. The Federal Reserve establishes capital requirements for us, including “well-capitalized” standards, and evaluates our compliance with such capital requirements. Regulatory capital requirements established by the Federal Reserve are largely based on the Basel III capital standards established by the Basel Committee and also implement certain provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”). The OCC establishes similar capital requirements and standards for our U.S. Bank Subsidiaries. For us to remain an FHC, we must remain well-capitalized in accordance with standards established by the Federal Reserve, and our U.S. Bank Subsidiaries must remain well-capitalized in accordance with standards established by the OCC. For additional information on regulatory capital requirements for our U.S. Bank Subsidiaries, see Note 17 to the financial statements.
+Regulatory Capital Requirements
+We are required to maintain minimum risk-based and leverage-based capital and TLAC ratios. For additional information on TLAC, see “Total Loss-Absorbing Capacity, Long-Term Debt and Clean Holding Company Requirements” herein.
+51
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Risk-Based Regulatory Capital. Minimum risk-based capital ratio requirements apply to Common Equity Tier 1 capital, Tier 1 capital and Total capital (which includes Tier 2 capital). Capital standards require certain adjustments to, and deductions from, capital for purposes of determining these ratios.
+Risk-Based Regulatory Capital Ratio Requirements
+At
+December 31,
+2020	At
+December 31,
+2019
+Standardized	Advanced	Standardized and Advanced
+Capital buffers				
+Capital conservation buffer	— 		2.5 	%	2.5 	%
+Stress capital buffer (“SCB”)1
+5.7 	%	N/A	N/A
+G-SIB capital surcharge2
+3.0 	%	3.0 	%	3.0 	%
+CCyB3
+0%	0%	0%
+Capital buffer requirement4
+8.7 	%	5.5 	%	5.5 	%
+ 
+At
+December 31,
+2020	At
+December 31,
+2019
+Regulatory Minimum	Standardized	Advanced	Standardized and Advanced
+Required ratios5
+Common Equity Tier 1 capital ratio	4.5 	%	13.2 	%	10.0 	%	10.0 	%
+Tier 1 capital ratio	6.0 	%	14.7 	%	11.5 	%	11.5 	%
+Total capital ratio	8.0 	%	16.7 	%	13.5 	%	13.5 	%
+ 
+1.For additional information on the SCB, see “Capital Plans, Stress Tests and the Stress Capital Buffer” herein.
+2.For a further discussion of the G-SIB capital surcharge, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Liquidity and Capital Resources—Regulatory Requirements—G-SIB Capital Surcharge” herein.
+3.The CCyB can be set up to 2.5% but is currently set by the U.S. banking agencies at zero.
+4.The capital buffer requirement represents the amount of Common Equity Tier 1 capital we must maintain above the minimum risk-based capital requirements in order to avoid restrictions on our ability to make capital distributions, including the payment of dividends and the repurchase of stock, and to pay discretionary bonuses to executive officers. Beginning October 1, 2020, our Standardized Approach capital buffer requirement is equal to the sum of our SCB, G-SIB capital surcharge and CCyB, and our Advanced Approach capital buffer requirement is equal to our 2.5% capital conservation buffer, G-SIB capital surcharge and CCyB.
+5.Required ratios under the Standardized and Advanced Approaches represent the regulatory minimum plus the capital buffer requirement.
+Risk-Weighted Assets. RWA reflects both our on- and off-balance sheet risk, as well as capital charges attributable to the risk of loss arising from the following:
+•Credit risk: The failure of a borrower, counterparty or issuer to meet its financial obligations to us;
+•Market risk: Adverse changes in the level of one or more market prices, rates, indices, volatilities, correlations or other market factors, such as market liquidity; and
+•Operational risk: Inadequate or failed processes or systems, from human factors or from external events (e.g., fraud, theft, legal and compliance risks, cyber attacks or damage to physical assets).
+
+Our risk-based capital ratios are computed under both (i) the standardized approaches for calculating credit risk and market risk RWA (“Standardized Approach”) and (ii) the applicable advanced approaches for calculating credit risk, market risk and operational risk RWA (“Advanced Approach”). The credit risk RWA calculations between the two approaches differ in that the Standardized Approach requires calculation of RWA using prescribed risk weights, whereas the Advanced Approach utilizes models to calculate exposure amounts and risk weights.
+Leverage-Based Regulatory Capital. Minimum leverage-based capital requirements include a Tier 1 leverage ratio and an SLR. We are required to maintain an SLR of 5%, inclusive of an enhanced SLR capital buffer of at least 2%.
+
+As of December 31, 2020, our risk-based and leverage-based capital amounts and ratios, as well as RWA, adjusted average assets and supplementary leverage exposure are calculated excluding the effect of the adoption of CECL based on our election to defer this effect over a five-year transition period. For further information, see “Liquidity and Capital Resources —Regulatory Requirements—Regulatory Developments” herein.
+Regulatory Capital Ratios
+ 	Standardized	Advanced
+ 	
+Required
+Ratio1
+At
+December 31,
+2020	
+Required
+Ratio1
+At
+December 31,
+2020
+$ in millions
+Risk-based capital				
+Common Equity Tier 1 capital	 	$	78,650 			$	78,650 	
+Tier 1 capital	 	88,079 			88,079 	
+Total capital	 	97,213 			96,994 	
+Total RWA	 	453,106 			445,151 	
+Common Equity Tier 1 capital ratio	13.2 	%	17.4 	%	10.0 	%	17.7 	%
+Tier 1 capital ratio	14.7 	%	19.4 	%	11.5 	%	19.8 	%
+Total capital ratio	16.7 	%	21.5 	%	13.5 	%	21.8 	%
+$ in millions			
+Required
+Ratio1
+At
+December 31,
+2020
+Leverage-based capital			
+Adjusted average assets2
+$	1,053,310 	
+Tier 1 leverage ratio		4.0 	%	8.4 	%
+Supplementary leverage exposure3, 4
+$	1,192,506 	
+SLR4
+5.0 	%	7.4 	%
+ 
+
+
+December 2020 Form 10-K	
+52
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+At December 31, 2019
+Required
+Ratio1
+$ in millions	Standardized	Advanced
+Risk-based capital			
+Common Equity Tier 1 capital		$	64,751 		$	64,751 	
+Tier 1 capital		73,443 		73,443 	
+Total capital		82,708 		82,423 	
+Total RWA		394,177 		382,496 	
+Common Equity Tier 1 capital
+ratio
+10.0 	%	16.4 	%	16.9 	%
+Tier 1 capital ratio	11.5 	%	18.6 	%	19.2 	%
+Total capital ratio	13.5 	%	21.0 	%	21.5 	%
+$ in millions		
+Required
+Ratio1
+At
+December 31,
+2019
+Leverage-based capital			
+Adjusted average assets2
+$	889,195 	
+Tier 1 leverage ratio		4.0 	%	8.3 	%
+Supplementary leverage exposure3
+$	1,155,177 	
+SLR		5.0 	%	6.4 	%
+ 
+1.Required ratios are inclusive of any buffers applicable as of the date presented. Failure to maintain the buffers would result in restrictions on our ability to make capital distributions, including the payment of dividends and the repurchase of stock, and to pay discretionary bonuses to executive officers.
+2.Adjusted average assets represents the denominator of the Tier 1 leverage ratio and is composed of the average daily balance of consolidated on-balance sheet assets for the quarters ending on the respective balance sheet dates, reduced by disallowed goodwill, intangible assets, investments in covered funds, defined benefit pension plan assets, after-tax gain on sale from assets sold into securitizations, investments in our own capital instruments, certain deferred tax assets and other capital deductions.
+3.Supplementary leverage exposure is the sum of Adjusted average assets used in the Tier 1 leverage ratio and other adjustments, primarily: (i) for derivatives, potential future exposure and the effective notional principal amount of sold credit protection offset by qualifying purchased credit protection; (ii) the counterparty credit risk for repo-style transactions; and (iii) the credit equivalent amount for off-balance sheet exposures.
+4.Based on a Federal Reserve interim final rule in effect until March 31, 2021, our SLR and Supplementary leverage exposure as of December 31, 2020 reflect the exclusion of U.S. Treasury securities and deposits at Federal Reserve Banks. As of December 31, 2020, the impact of the interim final rule on our SLR was an increase of 80 bps. For further information, see “Liquidity and Capital Resources—Regulatory Requirements—Regulatory Developments” herein.
+Regulatory Capital
+$ in millions	At
+December 31,
+2020	At
+December 31,
+2019	Change
+Common Equity Tier 1 capital		
+Common stock and surplus	$	15,799 		$	5,228 		$	10,571 	
+Retained earnings	78,978 		70,589 		8,389 	
+AOCI	(1,962)		(2,788)		826 	
+Regulatory adjustments and deductions:		
+Net goodwill	(11,527)		(7,081)		(4,446)	
+Net intangible assets	(4,165)		(2,012)		(2,153)	
+Other adjustments and
+deductions1
+1,527 		815 		712 	
+Total Common Equity Tier 1 capital	$	78,650 		$	64,751 		$	13,899 	
+Additional Tier 1 capital			
+Preferred stock	$	9,250 		$	8,520 		$	730 	
+Noncontrolling interests	619 		607 		12 	
+Additional Tier 1 capital	$	9,869 		$	9,127 		$	742 	
+Deduction for investments
+in covered funds
+(440)		(435)		(5)	
+Total Tier 1 capital	$	88,079 		$	73,443 		$	14,636 	
+Standardized Tier 2 capital		
+Subordinated debt	$	7,737 		$	8,538 		$	(801)	
+Noncontrolling interests	146 		143 		3 	
+Eligible allowance for credit
+losses
+1,265 		590 		675 	
+Other adjustments and
+deductions
+(14)		(6)		(8)	
+Total Standardized Tier 2
+capital
+$	9,134 		$	9,265 		$	(131)	
+Total Standardized capital	$	97,213 		$	82,708 		$	14,505 	
+Advanced Tier 2 capital			
+Subordinated debt	$	7,737 		$	8,538 		$	(801)	
+Noncontrolling interests	146 		143 		3 	
+Eligible credit reserves	1,046 		305 		741 	
+Other adjustments and
+deductions
+(14)		(6)		(8)	
+Total Advanced Tier 2
+capital
+$	8,915 		$	8,980 		$	(65)	
+Total Advanced capital	$	96,994 		$	82,423 		$	14,571 	
+ 
+1.Other adjustments and deductions used in the calculation of Common Equity Tier 1 capital primarily includes net after-tax DVA, the credit spread premium over risk-free rate for derivative liabilities, defined benefit pension plan assets, after-tax gain on sale from assets sold into securitizations, investments in our own capital instruments and certain deferred tax assets.
+
+The increase in Common Equity Tier 1 capital compared with December 31, 2019 was primarily the result of a net increase in Retained earnings and the impact of the E*TRADE acquisition.
+53
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+RWA Rollforward
+ 	2020
+$ in millions	Standardized	Advanced
+Credit risk RWA		
+Balance at December 31, 2019	$	342,684 		$	228,927 	
+Change related to the following items:		
+Derivatives	17,003 		35,426 	
+Securities financing transactions	(486)		1,921 	
+Securitizations	(1,683)		(3,261)	
+Investment securities	10,950 		8,587 	
+Commitments, guarantees and
+loans
+9,892 		3,745 	
+Cash	2,416 		2,678 	
+Equity investments	3,796 		4,004 	
+Other credit risk1
+2,494 		2,903 	
+Total change in credit risk RWA	$	44,382 		$	56,003 	
+Balance at December 31, 2020	$	387,066 		$	284,930 	
+Market risk RWA		
+Balance at December 31, 2019	$	51,493 		$	51,597 	
+Change related to the following items:		
+Regulatory VaR	8,578 		8,578 	
+Regulatory stressed VaR	975 		975 	
+Incremental risk charge	1,968 		1,968 	
+Comprehensive risk measure	145 		41 	
+Specific risk:		
+Non-securitizations	2,938 		2,938 	
+Securitizations	(57)		(57)	
+Total change in market risk RWA	$	14,547 		$	14,443 	
+Balance at December 31, 2020	$	66,040 		$	66,040 	
+Operational risk RWA		
+Balance at December 31, 2019	N/A	$	101,972 	
+Change in operational risk RWA	N/A	(7,791)	
+Balance at December 31, 2020	N/A	$	94,181 	
+Total RWA	$	453,106 		$	445,151 	
+ 
+Regulatory VaR—VaR for regulatory capital requirements
+1.Amounts reflect assets not in a defined category, non-material portfolios of exposures and unsettled transactions, as applicable.
+Credit risk RWA increased in 2020 under both the Standardized and Advanced Approaches, primarily from an increase in Derivatives exposures driven by market volatility and an increase in Investment securities mainly as a result of the E*TRADE acquisition. The increase was also driven by Lending commitments within the Wealth Management and Institutional Securities business segments and an increase in Equity investments due to higher exposure and market value gains. In addition, credit risk RWA under the Advanced Approach increased for CVA, mainly due to increased exposure in Derivatives and higher credit spread volatility.
+Market risk RWA increased in 2020 under both the Standardized and Advanced Approaches primarily due to an increase in Regulatory VaR mainly as a result of higher market volatility.
+The decrease in operational risk RWA under the Advanced Approach in 2020 reflects a decline in the frequency and severity of litigation-related losses.
+G-SIB Capital Surcharge
+We and other U.S. G-SIBs are subject to a risk-based capital surcharge. A G-SIB must calculate its G-SIB capital surcharge under two methods and use the higher of the two surcharges. The first method considers the G-SIB’s size, interconnectedness, cross-jurisdictional activity, complexity and substitutability, which is generally consistent with the methodology developed by the Basel Committee (“Method 1”). The second method uses similar inputs but replaces substitutability with the use of short-term wholesale funding (“Method 2”) and generally results in higher surcharges than the first method. The G-SIB capital surcharge must be satisfied using Common Equity Tier 1 capital and functions as an extension of the capital conservation buffer.
+Total Loss-Absorbing Capacity, Long-Term Debt and Clean Holding Company Requirements
+The Federal Reserve has established external TLAC, long-term debt (“LTD”) and clean holding company requirements for top-tier BHCs of U.S. G-SIBs (“covered BHCs”), including the Parent Company. These requirements are designed to ensure that covered BHCs will have enough loss-absorbing resources at the point of failure to be recapitalized through the conversion of eligible LTD to equity or otherwise by imposing losses on eligible LTD or other forms of TLAC where an SPOE resolution strategy is used (see “Business—Supervision and Regulation—Financial Holding Company—Resolution and Recovery Planning” and “Risk Factors—Legal, Regulatory and Compliance Risk”).
+These TLAC and eligible LTD requirements include various restrictions, such as requiring eligible LTD to: be issued by the covered BHC and be unsecured; have a maturity of one year or more from the date of issuance; and not contain certain embedded features, such as a principal or redemption amount subject to reduction based on the performance of an asset, entity or index, or a similar feature. In addition, the requirements provide permanent grandfathering for debt instruments issued prior to December 31, 2016 that would be eligible LTD but for having impermissible acceleration clauses or being governed by foreign law.
+A covered BHC is also required to maintain minimum external TLAC equal to the greater of (i) 18% of total RWA or (ii) 7.5% of its total leverage exposure (the denominator of its SLR). In addition, covered BHCs must meet a separate external LTD requirement equal to the greater of (i) total RWA multiplied by the sum of 6% plus the higher of the Method 1 or Method 2 G-SIB capital surcharge applicable to the Parent Company, or (ii) 4.5% of its total leverage exposure.
+
+
+December 2020 Form 10-K	
+54
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+Required and Actual TLAC and Eligible LTD Ratios
+ 			Actual
+Amount/Ratio
+$ in millions	Regulatory Minimum	
+Required Ratio1
+At
+December 31,
+2020	At
+December 31,
+2019
+External TLAC2
+$	216,129 		$	196,888 	
+External TLAC as a % of RWA	18.0 	%	21.5 	%	47.7 	%	49.9 	%
+External TLAC as a % of leverage exposure	7.5 	%	9.5 	%	18.1 	%	17.0 	%
+Eligible LTD3
+$	120,561 		$	113,624 	
+Eligible LTD as a % of RWA	9.0 	%	9.0 	%	26.6 	%	28.8 	%
+Eligible LTD as a % of leverage exposure	4.5 	%	4.5 	%	10.1 	%	9.8 	%
+ 
+1.Required ratios are inclusive of applicable buffers. The final rule imposes TLAC buffer requirements on top of both the risk-based and leverage exposure-based external TLAC minimum requirements. The risk-based TLAC buffer is equal to the sum of 2.5%, our Method 1 G-SIB surcharge and the CCyB, if any, as a percentage of total RWA. The leverage exposure-based TLAC buffer is equal to 2% of our total leverage exposure. Failure to maintain the buffers would result in restrictions on our ability to make capital distributions, including the payment of dividends and the repurchase of stock, and to pay discretionary bonuses to executive officers.
+2.External TLAC consists of Common Equity Tier 1 capital and Additional Tier 1 capital (each excluding any noncontrolling minority interests), as well as eligible LTD.
+3.Consists of TLAC-eligible LTD reduced by 50% for amounts of unpaid principal due to be paid in more than one year but less than two years from each respective balance sheet date.
+Furthermore, under the clean holding company requirements of the final rule, a covered BHC is prohibited from incurring any external debt with an original maturity of less than one year or certain other liabilities, regardless of whether the liabilities are fully secured or otherwise senior to eligible LTD, or entering into certain other prohibited transactions. Certain other external liabilities, including those with certain embedded features noted above, are subject to a cap equal to 5% of the covered BHC’s outstanding external TLAC amount. We are in compliance with all TLAC requirements as of December 31, 2020.
+Additionally, the U.S. banking agencies have issued a final rule that, among other things, modifies the regulatory capital framework for large U.S. banking organizations, including us and our U.S. Bank Subsidiaries. Under the final rule, such organizations are required to make certain deductions from regulatory capital for their investments in certain unsecured debt instruments (including eligible LTD in the TLAC framework) issued by the Parent Company and other G-SIBs. These requirements become effective on April 1, 2021, and we expect to be in compliance with the final rule by the effective date.
+Capital Plans, Stress Tests and the Stress Capital Buffer
+Pursuant to the Dodd-Frank Act, the Federal Reserve has adopted capital planning and stress test requirements for large BHCs, which form part of the Federal Reserve’s annual CCAR framework.
+We must submit, on at least an annual basis, a capital plan to the Federal Reserve, taking into account the results of separate annual stress tests designed by us and the Federal
+Reserve, so that the Federal Reserve may assess our systems and processes that incorporate forward-looking projections of revenues and losses to monitor and maintain our internal capital adequacy. As banks with less than $250 billion of total assets, our U.S. Bank Subsidiaries are not subject to company-run stress test regulatory requirements.
+The capital plan must include a description of all planned capital actions over a nine-quarter planning horizon, including any issuance or redemption of a debt or equity capital instrument, any capital distribution (i.e., payments of dividends or stock repurchases) and any similar action that the Federal Reserve determines could impact our consolidated capital. The capital plan must include a discussion of how we will maintain capital above the minimum regulatory capital ratios, and how we will serve as a source of strength to our U.S. Bank Subsidiaries under supervisory stress scenarios. In addition, the Federal Reserve has issued guidance setting out its heightened expectations for capital planning practices at certain large financial institutions, including us.
+In 2020, the Federal Reserve adopted a final rule to integrate its annual capital planning and stress testing requirements with existing applicable regulatory capital requirements. The final rule, which applies to certain BHCs, including us, introduced an SCB and related changes to the capital planning and stress testing processes. The final rule does not change regulatory capital requirements under the Advanced Approach, the Tier 1 leverage ratio or the SLR. However, failure to meet Advanced Approach or SLR regulatory capital requirements, inclusive of applicable capital buffers, would also result in automatic capital distribution limitations.
+The SCB applies only with respect to Standardized Approach risk-based capital requirements and replaces the existing Common Equity Tier 1 capital conservation buffer of 2.5%. The SCB is the greater of (i) the maximum decline in our Common Equity Tier 1 capital ratio under the severely adverse scenario over the supervisory stress test measurement period plus the sum of the four quarters of planned common stock dividends divided by the projected RWAs from the quarter in which the Firm’s projected Common Equity Tier 1 capital ratio reaches its minimum in the supervisory stress test and (ii) 2.5%.
+Under the SCB final rule, the supervisory stress test now assumes that BHCs generally maintain a constant level of assets and RWAs throughout the projection period. In addition, it no longer assumes that BHCs make all planned capital distributions, although the SCB incorporates the amount of four quarters of planned common stock dividends. Similarly, the final rule eliminates the annual process in which the Federal Reserve provided its objection or non-objection to a firm’s capital plan, given the integration of stress test results into automatic distribution limitations resulting from failure to meet SCB requirements. Federal Reserve approval for capital actions is still required in some specific circumstances.
+55
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+A firm’s SCB is subject to revision each year, with effect from October 1, to reflect the results of the Federal Reserve's annual supervisory stress test. The Federal Reserve has discretion to recalculate a firm's SCB outside of the October 1 annual cycle in certain circumstances.
+We submitted our 2020 Capital Plan (“Capital Plan”) and company-run stress test results to the Federal Reserve on April 6, 2020. On June 25, 2020, the Federal Reserve published summary results of its supervisory stress tests of each large BHC. On June 29, 2020, we disclosed a summary of the results of our company-run stress tests on our Investor Relations website. On September 4, 2020, we announced we would be subject to an SCB of 5.7% beginning October 1, 2020, which reflects the Federal Reserve’s 2020 supervisory stress test results, inclusive of corrections from the original results announced in June 2020. Together with other features of the regulatory capital framework, this revised SCB results in an aggregate Standardized Approach Common Equity Tier 1 required ratio of 13.2%.
+In 2020, the Federal Reserve required all large BHCs to update and resubmit their capital plans in response to changes in financial markets or the macroeconomic outlook associated with the COVID-19 pandemic. On November 2, 2020, we resubmitted our 2020 Capital Plan and company-run stress test results based on revised scenarios released by the Federal Reserve on September 17, 2020. On December 18, 2020, the Federal Reserve published summary results of the second round of supervisory stress tests for each large BHC, including us. While the Federal Reserve did not recalculate any BHC’s SCB in connection with the December 18, 2020 announcement, it extended the time period to notify firms whether their SCB requirements will be recalculated until March 31, 2021, and also extended capital action supervisory restrictions applicable to large BHCs into the first quarter of 2021 with modifications to permit resumptions of share repurchases. Consistent with these modifications, on December 18, 2020, our Board of Directors authorized the repurchases of outstanding common stock of up to $10 billion in 2021, subject to limitations on distributions from the Federal Reserve. See “Liquidity and Capital Resources—Regulatory Requirements—Capital Action Supervisory Restrictions” herein for additional information on capital action supervisory restrictions.
+For the 2021 capital planning and stress test cycle, we are required to submit our capital plan and company-run stress test results to the Federal Reserve by April 5, 2021. The Federal Reserve is expected to publish summary results of the CCAR and Dodd-Frank Act supervisory stress tests of each large BHC, including us, by June 30, 2021. We are required to disclose a summary of the results of our company-run stress tests within 15 days of the date the Federal Reserve discloses the results of the supervisory stress tests.
+Capital Action Supervisory Restrictions
+The Federal Reserve announced, on June 25, 2020, that all large BHCs would be subject to capital action supervisory restrictions beginning in the third quarter of 2020, which the Federal Reserve subsequently extended into the fourth quarter of 2020. Except as noted below, these restrictions generally prohibited large BHCs from making any capital distribution (excluding any capital distribution arising from the issuance of a capital instrument eligible for inclusion in the numerator of a regulatory capital ratio), unless otherwise approved by the Federal Reserve, regardless of whether a firm met applicable capital buffers, including the SCB. Large BHCs were, however, authorized to make share repurchases relating to issuances of common stock related to employee stock ownership plans; provided that a BHC did not increase the amount of its common stock dividends, to pay common stock dividends that did not exceed an amount equal to the average of the BHC’s net income for the four preceding calendar quarters, unless otherwise specified by the Federal Reserve; and to make scheduled payments on additional Tier 1 and Tier 2 capital instruments.
+Under the modified capital action restrictions announced on December 18, 2020, large BHCs are permitted, in the first quarter of 2021, to take certain capital actions. In particular, a firm may, provided that it does not increase the amount of its common stock dividends to be larger than the level paid in the second quarter of 2020, pay common stock dividends and make share repurchases that, in the aggregate, do not exceed an amount equal to the average of the firm’s net income for the four preceding calendar quarters; make share repurchases that equal the amount of share issuances related to expensed employee compensation; and redeem and make scheduled payments on additional Tier 1 and Tier 2 capital instruments.
+Attribution of Average Common Equity According to the Required Capital Framework
+Our required capital (“Required Capital”) estimation is based on the Required Capital framework, an internal capital adequacy measure. Common equity attribution to the business segments is based on capital usage calculated under the Required Capital framework, as well as each business segment’s relative contribution to our total Required Capital.
+The Required Capital framework is a risk-based and leverage-based capital measure, which is compared with our regulatory capital to ensure that we maintain an amount of going concern capital after absorbing potential losses from stress events, where applicable, at a point in time. The amount of capital allocated to the business segments is generally set at the beginning of each year and remains fixed throughout the year until the next annual reset unless a significant business change occurs (e.g., acquisition or disposition). We define the difference between our total average common equity and the sum of the average common equity amounts allocated to our business segments as Parent common equity. We generally hold Parent common equity for prospective regulatory
+
+
+December 2020 Form 10-K	
+56
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+requirements, organic growth, acquisitions and other capital needs.
+Average Common Equity Attribution under the Required Capital Framework1
+$ in billions	2020	2019	2018
+Institutional Securities	$	42.8 		$	40.4 		$	40.8 	
+Wealth Management2
+20.8 		18.2 		16.8 	
+Investment Management	2.6 		2.5 		2.6 	
+Parent	14.0 		11.6 		9.8 	
+Total	$	80.2 		$	72.7 		$	70.0 	
+ 
+1.The attribution of average common equity to the business segments is a non-GAAP financial measure. See "Selected Non-GAAP Financial Information" herein.
+2.Total average common equity and the allocation to the Wealth Management business segment were revised in the fourth quarter of 2020 to reflect the impact of the E*TRADE acquisition on October 2, 2020.
+Beginning in 2021, we have updated our Required Capital framework to take into account changes to our risk-based capital requirements resulting from the SCB. The stand-alone impact of the change to the Required Capital framework was not material to the business segments. As noted above, common equity attribution to the business segments is based upon usage. We will continue to evaluate the framework with respect to the impact of other future regulatory requirements as appropriate.
+
+Resolution and Recovery Planning
+Pursuant to the Dodd-Frank Act, we are required to periodically submit to the Federal Reserve and the FDIC a resolution plan that describes our strategy for a rapid and orderly resolution under the U.S. Bankruptcy Code in the event of our material financial distress or failure. Our next resolution plan submission will be a targeted resolution plan in July 2021.
+As described in our most recent resolution plan, which was submitted on June 28, 2019, our preferred resolution strategy is an SPOE strategy. In line with our SPOE strategy, the Parent Company has transferred, and has agreed to transfer on an ongoing basis, certain assets to its wholly owned, direct subsidiary Morgan Stanley Holdings LLC (the “Funding IHC”). In addition, the Parent Company has entered into an amended and restated support agreement with its material entities (including the Funding IHC) and certain other subsidiaries. In the event of a resolution scenario, the Parent Company would be obligated to contribute all of its Contributable Assets to our material entities and/or the Funding IHC. The Funding IHC would be obligated to provide capital and liquidity, as applicable, to our material entities. The combined implication of the SPOE resolution strategy and the requirement to maintain certain levels of TLAC is that losses in resolution would be imposed on the holders of eligible long-term debt and other forms of eligible TLAC issued by the Parent Company before any losses are imposed on creditors of our material entities or before putting U.S. taxpayers at risk.
+The obligations of the Parent Company and the Funding IHC under the amended and restated support agreement are in most cases secured on a senior basis by the assets of the Parent Company (other than shares in subsidiaries of the Parent Company and certain other assets) and the assets of the Funding IHC. As a result, claims of our material entities, including the Funding IHC, with respect to the secured assets, are effectively senior to unsecured obligations of the Parent Company.
+In December 2019, we received joint feedback on our 2019 resolution plan from the Federal Reserve and the FDIC. The feedback confirmed that there are no deficiencies in our 2019 resolution plan and that we had successfully addressed a prior shortcoming identified by the agencies in the review of our 2017 resolution plan. The agencies noted one shortcoming in our 2019 resolution plan related to certain mechanisms intended to facilitate our SPOE strategy which must be addressed prior to our next resolution plan submission in 2021.
+For more information about resolution and recovery planning requirements and our activities in these areas, including the implications of such activities in a resolution scenario, see “Business—Supervision and Regulation—Financial Holding Company—Resolution and Recovery Planning” and “Risk Factors—Legal, Regulatory and Compliance Risk.”
+Regulatory Developments
+Regulatory Developments in Response to COVID-19
+In the United States, the Federal Reserve, the other U.S. state and federal financial regulatory agencies and Congress have taken actions to mitigate disruptions to economic activity and financial stability resulting from COVID-19.
+Federal Reserve and other U.S. Banking Agency Actions
+The Federal Reserve established a range of facilities and programs to support the U.S. economy and U.S. marketplace participants in response to economic disruptions associated with COVID-19. Through these facilities and programs, the Federal Reserve has taken steps to directly or indirectly purchase assets or debt instruments from, or make loans to, U.S. companies, financial institutions, municipalities and other market participants. In the current year, we have participated as principal, as well as on behalf of clients, in certain of these facilities and programs, and we may participate in other of these facilities and programs in the future.
+In addition, the Federal Reserve has taken a range of other actions to support the flow of credit to households and businesses. For example, the Federal Reserve has set the target range for the federal funds rate at 0 to 0.25% and has increased its holdings of U.S. Treasury securities and agency mortgage-backed securities, purchased agency commercial mortgage-backed securities, and established a facility to purchase corporate debt securities and shares of exchange-
+57
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+traded funds holding such securities. The Federal Reserve has also encouraged depository institutions to borrow from the discount window and has lowered the primary credit rate for such borrowings by 150 basis points to 0.25% while extending the term of such loans up to 90 days. In addition, reserve requirements have been reduced to zero.
+Acting in concert with the other U.S. banking agencies, the Federal Reserve has also issued statements encouraging banking organizations to use their capital and liquidity buffers as they lend to households and businesses affected by COVID-19.
+Further, the Federal Reserve, along with the other U.S. banking agencies, issued guidance stating that granting certain concessions to borrowers that are current on existing loans, either individually or as part of a program for creditworthy borrowers who are experiencing short-term financial or operational problems as a result of the COVID-19 pandemic, generally would not be considered TDRs under applicable U.S. GAAP. This guidance also clarifies that efforts to work with borrowers of one-to-four family residential mortgages impacted by the COVID-19 pandemic and meeting certain criteria will not result in such loans being deemed restructured or modified for purposes of regulatory capital requirements.
+The Federal Reserve and other U.S. banking agencies have also issued a series of rulemakings in response to the COVID-19 pandemic, including to facilitate banking organizations’ use of their capital buffers:
+•Supplementary Leverage Ratio Interim Final Rules. The Federal Reserve has adopted an interim final rule that excludes, on a temporary basis, U.S. Treasury securities and deposits at Federal Reserve Banks from our supplementary leverage exposure from April 1, 2020 to March 31, 2021.
+
+A similar interim final rule issued by the OCC along with the other U.S. banking agencies provides national banks, including MSBNA and MSPBNA, an optional election, which is considered on a case-by-case basis by the OCC if received after June 30, 2020, to apply similar relief. If elected and approved, a national bank must receive prior approval from the OCC before making any capital distributions while the exclusion is in effect. As of December 31, 2020, neither MSBNA nor MSPBNA made this optional election.
+•Revisions to Definition of Eligible Retained Income. The U.S. banking agencies have adopted as final an interim final rule, which was effective March 20, 2020, amending the definition of eligible retained income in their respective capital rules. As amended, eligible retained income is defined by the U.S. banking agencies as the greater of (i) net income for the four preceding calendar quarters, net of any distributions and associated tax effects not already reflected in net income, and (ii) the average of net income over the preceding four quarters. This definition applies
+with respect to any payout restrictions applicable in the event of a breach of any regulatory capital buffers, including any applicable CCyB, G-SIB capital surcharge, capital conservation buffer, the enhanced SLR and the SCB, which replaced the capital conservation buffer under the Standardized Approach.
+Separately, the Federal Reserve has adopted as final an interim final rule, which was effective March 26, 2020, amending the definition of eligible retained income under its TLAC rule to be consistent with the revised definition of eligible retained income in the regulatory capital framework, as summarized above.
+•Regulatory Capital and Stress Testing Developments Related to Implementation of CECL. The U.S. banking agencies have adopted a final rule, consistent with an interim final rule that was effective March 31, 2020, altering, for purposes of the regulatory capital and TLAC requirements, the required adoption time period for CECL. We have elected to apply a transition method provided by the rule, under which the effects of CECL on our regulatory capital and TLAC requirements are deferred for two years, followed by a three-year phase-in of the aggregate capital effects of the two-year deferral.
+The Coronavirus Aid, Relief, and Economic Security Act (the “CARES Act”) and the Consolidated Appropriations Act, 2021 (the “Consolidated Appropriations Act”)
+The CARES Act was signed into law on March 27, 2020. Pursuant to the CARES Act, the U.S. Treasury had the authority to provide loans, guarantees and other investments in support of eligible businesses, states and municipalities affected by the economic effects of COVID-19. Some of these funds may also have been used to support the several Federal Reserve programs and facilities described in “Federal Reserve Actions” previously or additional programs or facilities that are established by the Federal Reserve under its Section 13(3) authority and meet certain criteria. Among other provisions, the CARES Act also included funding for the Small Business Administration to expand lending, relief from certain U.S. GAAP requirements to allow COVID-19-related loan modifications not to be categorized as TDRs and a range of incentives to encourage deferment, forbearance or modification of consumer credit and mortgage contracts.
+The CARES Act also included several measures that temporarily adjusted existing laws or regulations. These included providing the FDIC with additional authority to guarantee the deposits of solvent insured depository institutions held in non-interest-bearing business transaction accounts to a maximum amount specified by the FDIC, reinstating the FDIC’s Temporary Liquidity Guarantee Authority to guarantee debt obligations of solvent insured depository institutions or depository institution holding companies, temporarily allowing the U.S. Treasury to fully guarantee money market mutual funds and granting additional
+
+
+December 2020 Form 10-K	
+58
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+authority to the OCC to provide certain exemptions to the lending limits imposed on national banks.
+The Consolidated Appropriations Act, which was signed into law on December 27, 2020, extends certain relief provided by the CARES Act while also modifying or clarifying certain other provisions. Among other amendments to the CARES Act, the Consolidated Appropriations Act extends the relief related to TDRs until January 1, 2022. In addition, the Consolidated Appropriations Act rescinds certain funds that were appropriated to the U.S. Treasury to provide loans, loan guarantees, and make other investments in programs or facilities established by the Federal Reserve, and prohibits the Federal Reserve, after December 31, 2020, from making any new investments, loans or loan guarantees, or extensions of credit through those of its programs and facilities that were established using CARES Act funding. Federal Reserve programs and facilities that were not established using CARES Act funding are not affected by the Consolidated Appropriations Act.
+Non-U.S. Central Bank Actions
+In addition to actions taken by the Federal Reserve, many non-U.S. central banks have announced similar facilities and programs in response to the economic and market disruptions associated with COVID-19. Firm subsidiaries operating in non-U.S. markets may participate, or perform customer facilitation roles, in such non-U.S. facilities or programs.
+Other Matters
+U.K. Withdrawal from the E.U.
+On January 31, 2020, the U.K. withdrew from the E.U. under the terms of a withdrawal agreement between the U.K. and the E.U. The withdrawal agreement provided for a transition period to the end of December 2020, during which time the U.K. continued to apply E.U. law as if it were a member state, and U.K. firms’ rights to provide financial services in E.U. member states continued.
+On December 24, 2020 the U.K. and the E.U. announced they had reached agreement on the terms of a trade and co-operation agreement to govern the future relationship between the parties. The agreement consists of three main pillars including trade, citizens’ security and governance, covering a range of arrangements in several areas. The agreement is provisionally applicable with effect from January 1, 2021 pending formal ratification by the E.U. As anticipated, the agreement did not materially address provision of financial services.
+We had prepared the structure of our European operations for a range of potential outcomes, including for the possibility that U.K. financial firms’ access to E.U. markets after the transition period would be limited, and have been able to continue to serve our clients and customers from January 1, 2021.
+For more information on the U.K.’s withdrawal from the E.U., our related preparations and the potential impact on our operations, see “Risk Factors—International Risk.” For further information regarding our exposure to the U.K., see also “Quantitative and Qualitative Disclosures about Risk—Country and Other Risks” herein.
+Planned Replacement of London Interbank Offered Rate and Replacement or Reform of Other Interest Rates
+Central banks around the world, including the Federal Reserve, have commissioned committees and working groups of market participants and official sector representatives to replace LIBOR and replace or reform other interest rate benchmarks (collectively, the “IBORs”). There remains a likelihood that most IBORs will not be available beyond 2021. In 2020, ICE Benchmark Administration, which administers LIBOR publication, issued a consultation requesting feedback on its intention to cease the publication of most LIBOR rates as of the end of December 2021, except for the publication until June 30, 2023 of the most widely used U.S. dollar LIBOR tenors. At the same time, the U.S. banking agencies and the U.K. Financial Conduct Authority also encouraged banks to cease entering into new contracts referencing LIBOR as soon as practicable and no later than December 31, 2021, but have also indicated their support for the continuation of certain U.S. dollar LIBOR tenors through the end of June 2023 to allow for certain U.S. dollar LIBOR legacy contracts to mature.
+Also in 2020, there have been several steps taken by the industry to encourage the transition to alternative reference rates. Key central clearinghouses, such as London Clearing House (“LCH”) and Chicago Mercantile Exchange (“CME”), have switched their price aligned interest and discounting to the alternative reference rates. For example, the LCH and CME transitioned the discounting rate for U.S. dollar denominated products to SOFR, the alternative rate to U.S. dollar LIBOR selected by the ARRC. The International Swaps and Derivatives Association (“ISDA”) also published its 2020 IBOR Fallbacks Protocol which will amend ISDA’s interest rate definitions among Protocol adherents to incorporate robust fallbacks for legacy non-cleared derivatives linked to LIBOR and certain other interest rates benchmarks. The ISDA 2020 IBOR Fallbacks Protocol became effective as of January 25, 2021 and applies to Protocol adherents who do not elect to voluntarily convert their derivatives contracts to reference alternative rates in advance of the applicable cessation date. Similarly, ISDA’s IBOR Fallbacks Supplement will also amend ISDA’s standard definitions to incorporate these new fallbacks in new derivatives entered into on or after that same effective date. In addition, certain central bank-sponsored committees have issued recommended best practices to assist market participants in transitioning away from the IBORs in various jurisdictions, including the United States. These documents include recommended timelines and intermediate steps market participants can take in order to achieve a successful transition.
+59
+December 2020 Form 10-K
+ 
+Table of Contents
+Management's Discussion and Analysis	
+ms-20201231_g1.jpg
+ 
+We have established and are undertaking a Firm-wide IBOR transition plan to promote the transition to alternative reference rates, which is overseen by a global steering committee, with senior management oversight. Our transition plan is designed to identify, assess and monitor risks associated with the expected discontinuation or unavailability of one or more of the IBORs, and includes continued engagement with central bank and industry working groups and regulators (including participation and leadership on key committees), active client engagement, internal operational readiness and risk management, among other things. We are a party to a significant number of LIBOR-linked contracts, many of which extend beyond 2021 and, in the case of U.S. dollar LIBOR, June 30, 2023, composed of derivatives, securitizations, floating rate notes, loans and mortgages. Our review of these contracts includes assessing the impact of applicable fallbacks and any amendments that may be warranted or appropriate. We are also taking steps to update operational processes (including to support alternative reference rates), models, and associated infrastructure, as well as conducting certain client outreach to amend fallbacks, including by utilization of the ISDA 2020 IBOR Fallbacks Protocol or through bilaterally negotiated voluntary conversions of outstanding LIBOR products where practicable. Key Firm entities have also adhered to the ISDA 2020 IBOR Fallbacks Protocol.
+In addition, as part of the transition to alternative reference rates, we are making markets in products linked to such rates, including SOFR, and have issued debt linked to SOFR.
+For a further discussion of the expected replacement of the IBORs and/or reform of interest rate benchmarks, and the related risks and our transition plan, see “Risk Factors—Legal, Regulatory and Compliance Risk.”
+

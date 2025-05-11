@@ -1,0 +1,876 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The financial and business analysis below provides information which the Company believes is relevant to an assessment and understanding of its consolidated financial position, results of operations and cash flows. This financial and business analysis should be read in conjunction with the Consolidated Financial Statements and related notes. All references to “Notes” in this Item 7 refer to the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report.
+The following discussion and certain other sections of this Annual Report on Form 10-K contain statements reflecting the Company’s views about its future performance that constitute “forward-looking statements” under the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on current expectations, estimates, forecasts and projections about the industry and markets in which the Company operates as well as management’s beliefs and assumptions. Any statements contained herein (including without limitation statements to the effect that Stanley Black & Decker, Inc. or its management “believes”, “expects”, “anticipates”, “plans” and similar expressions) that are not statements of historical fact should be considered forward-looking statements. These statements are not guarantees of future performance and involve certain risks, uncertainties and assumptions that are difficult to predict. There are a number of important factors that could cause actual results to differ materially from those indicated by such forward-looking statements. These factors include, without limitation, those set forth, or incorporated by reference, below under the heading “Cautionary Statements”. The Company does not intend to update publicly any forward-looking statements whether as a result of new information, future events or otherwise.
+Strategic Objectives
+The Company has maintained a consistent strategic framework over time:
+•
+Maintaining portfolio transition momentum by continuing diversification toward higher growth, higher profit businesses, increasing relative weighting of emerging markets and opportunistically consolidating the tool industry;
+•
+Being selective and operating in markets where brand is meaningful, the value proposition is definable and sustainable through innovation and global cost leadership is achievable;
+•
+Pursuing growth on multiple fronts through building existing growth platforms such as security (both convergent and mechanical) and engineered fastening and growing the infrastructure platform;
+•
+Accelerating progress via SFS.
+In 2012, the Company undertook to intensify its focus on organic growth in order to achieve its long-term objective of 4-6% organic growth. Stanley's strategy involves industry, geographic and customer diversification, in order to pursue sustainable revenue, earnings and cash flow growth.
+Two aspects of the Company’s vision are to be a consolidator within the tool industry and to increase its relative weighting in emerging markets. These objectives have been significantly enhanced by the Black & Decker merger, which along with the impact from the Company’s diversification strategy has driven continued improvements in financial performance. Sales outside the U.S. represented 53% of total net sales in 2013, up from 29% in 2002. As further illustration of the Company's diversification strategy, 2013 sales to U.S. and international home centers and mass merchants were approximately 24%, including nearly 15% in sales to the Company’s two largest customers. As operations in the various growth platforms (security, engineered fastening and infrastructure) continue to expand in future years, the proportion of sales to these valued U.S. and international home centers and mass merchants is expected to continue to decrease although they will remain important and highly valued customers.
+Execution of this strategy has entailed approximately $6.2 billion of acquisitions since 2002 (aside from the Black & Decker merger), several divestitures (including the sale of HHI in December 2012) and increased brand investment, enabled by cash flow generation and increased debt capacity. Since 2000, the Company has returned 50% of free cash flow to its shareowners.
+
+20
+
+
+The Company’s long-term financial objectives are:
+•
+4-6% organic revenue growth; 10-12% total revenue growth;
+•
+Mid-teens percentage EPS growth;
+•
+Free cash flow greater than or equal to net income;
+•
+Cash flow return on investment (CFROI) of 12-15%;
+•
+Continued dividend growth; and
+•
+Strong investment grade credit rating.
+The Company’s long-term capital allocation objectives pertaining to the deployment of free cash flow are:
+•
+Invest approximately 50% in acquisitions; and
+•
+Return approximately 50% to shareowners, as the Company remains committed to continued dividend growth and opportunistic share buy backs.
+In the near-term, the Company is focused on improving the operating results of its Security business and achieving its targeted operating leverage. In terms of capital allocation, the Company plans to return approximately $1.5 - $1.7 billion of capital to shareholders through 2015 by extending its pause in strategic M&A activity, continued dividend growth, and repurchasing up to $1 billion in stock during that period.
+The following represent recent examples of executing on the Company's strategic objectives:
+2013 Acquisitions
+In May 2013, the Company purchased a 60% controlling share in Jiangsu Guoqiang Tools Co., Ltd. ("GQ") for a total purchase price of $48.5 million, net of cash acquired. GQ is a manufacturer and seller of power tools, armatures and stators in both domestic and foreign markets. The acquisition of GQ complements the Company's existing power tools product offerings and further diversifies the Company's operations and international presence. GQ is headquartered in Qidong, China and is being consolidated into the Company's CDIY segment.
+In February 2013, the Company acquired a 100% ownership interest in Infastech for a total purchase price of $826.4 million, net of cash acquired. Infastech designs, manufactures and distributes highly-engineered fastening technologies and applications for a diverse blue-chip customer base in the industrial, electronics, automotive, construction and aerospace end markets. The acquisition of Infastech adds to the Company's strong positioning in specialty engineered fastening, an industry with solid growth prospects, and further expands the Company's global footprint with its strong concentration in fast-growing emerging markets. Infastech is headquartered in Hong Kong and is being consolidated into the Company's Industrial segment.
+2012 Acquisitions
+In August 2012, the Company acquired an 89% controlling share of Tong Lung Metal Industry ("Tong Lung") for $102.8 million, net of cash acquired, and assumed $20.0 million of short term debt. The remaining outstanding shares of Tong Lung were purchased in January 2013 for approximately $12.0 million. Tong Lung manufactures and sells commercial and residential locksets. The residential portion of the business was part of the December 2012 sale of the Hardware and Home Improvement business ("HHI") and closed in April 2013, as discussed below. The commercial portion of Tong Lung was retained by the Company and is included within the Security segment.
+In June 2012, the Company acquired AeroScout for $238.8 million, net of cash acquired. AeroScout is the market leader in Real-Time Location Systems ("RTLS") for healthcare and certain industrial markets and has been integrated into the Security and Industrial segments.
+In May 2012, the Company acquired Powers Fasteners ("Powers") for $220.5 million, net of cash acquired. Powers is a distributor of several complementary product groups, including mechanical anchors, adhesive anchoring systems and powered forced-entry systems, mainly for commercial construction end customers. Powers has been integrated into the CDIY segment.
+In January 2012, the Company acquired Lista North America ("Lista") for $89.7 million, net of cash acquired. Lista’s storage and workbench solutions complement the Industrial & Automotive Repair division’s tool, storage, radio frequency identification (“RFID”)-enabled systems, and specialty supply product and service offerings. Lista has been integrated into the Company’s Industrial segment.
+HHI and Tong Lung Residential Divestiture
+In December 2012, the Company sold HHI to Spectrum Brands Holdings, Inc. ("Spectrum") for approximately $1.4 billion in cash. HHI is a provider of residential locksets, residential builders hardware and plumbing products marketed under the
+
+21
+
+
+Kwikset, Weiser, Baldwin, Stanley, National and Pfister brands. The majority of the HHI business was part of the Company's Security segment, while the remainder was part of the Company's CDIY segment. The divestiture of the HHI business is part of the continued diversification of the Company's revenue streams and geographic footprint consistent with the Company's strategic framework.
+The purchase and sale agreement stipulated that the sale occur in a First and Second Closing, for approximately $1.3 billion and approximately $94 million, respectively. The First Closing, which excluded the residential portion of the Tong Lung business, occurred on December 17, 2012. The Second Closing, relating to the residential portion of the Tong Lung business, occurred on April 8, 2013. The operating results of HHI, as well as the residential portion of Tong Lung, have been reported as discontinued operations in the Consolidated Financial Statements.
+
+During 2013, the Company completed the 2012 income tax return filings which included the final calculations of the tax gain on HHI sale which took place in 2012. As a result of these tax return filings, the Company recorded an income tax benefit of approximately $19.1 million within discontinued operations related to finalization of the taxable gain on the HHI sale. Changes to the original tax gain were driven primarily by the determination of the final purchase price allocation and the finalization of the U.S. tax basis calculation, both of which were finalized during the year.
+The net proceeds from this divestiture were used to repurchase $850 million of the Company's common stock and for debt reduction, to ensure the Company's leverage ratios remain in its target range. The Company used existing sources of liquidity to fund the Infastech acquisition described above.
+
+Refer to Note E, Acquisitions, and Note T, Discontinued Operations, for further discussion of the Company's acquisitions and divestitures.
+Driving Further Profitable Growth Within Existing Platforms
+While diversifying the business portfolio through expansion in the Company’s specified growth platforms is important, management recognizes that the branded tool and storage product offerings in the CDIY and Industrial segment businesses are important foundations of the Company that continue to provide strong cash flow and growth prospects. Management is committed to growing these businesses through innovative product development, as evidenced by CDIY's success with the first ever battery powered framing nailer under the DEWALT brand, the BLACK+DECKER Steam Mop and the STANLEY FatMax Autolock Tape Measure. Brand support, continued investment in emerging markets and a sharp focus on global cost competitiveness are all expected to foster vitality over the long term. The Company’s IAR business within the Industrial segment continues to reap benefits from its vertical integration of hand and power tools used for industrial and automotive repair purposes as well as advanced industrial storage solutions.
+Continuing to Invest in the Stanley Black & Decker Brands
+The Company has a strong portfolio of brands associated with high-quality products including STANLEY®, BLACK+DECKER®, DEWALT®, Porter-Cable®, Bostitch®, Proto®, MAC®, Facom®, AeroScout®, Powers®, LISTA®, SIDCHROME®, Vidmar®, SONITROL®, and GQ®. The STANLEY®, BLACK+DECKER® and DEWALT® brands are recognized as three of the world's great brands and are amongst the Company's most valuable assets. Sustained brand support has yielded a steady improvement across the spectrum of legacy Stanley brand awareness measures, notably a climb in unaided Stanley hand tool brand awareness from 27% in 2005 to 40% in 2013. During 2013, Stanley and DEWALT had prominent signage at 10 major league baseball stadiums or 33% of all Major League Baseball games. The Company has also maintained long-standing NASCAR racing sponsorships which provided brand exposure in over 38 race weekends in 2013. The Company is in year six of a ten year alliance agreement with the Walt Disney World Resort® whereby STANLEY® logos are displayed on construction walls throughout the theme parks and STANLEY®, MAC®, Proto®, and Vidmar® brand logos and/or products are featured in various attractions where they will be seen by millions of visitors each year. Additionally, Stanley is “The Official Tool Provider of the Walt Disney World Resort®.” In 2009, the Company also began advertising in the English Premier League, which is the number one soccer league in the world, watched weekly by 650 million people. From the beginning of 2012 through the end of 2013, the Company advertised in approximately 361 televised events. Starting in 2011, the Company became a sponsor of the Liverpool Football Club and the Fulham Football Club including player rights, hospitality assets and stadium signage. The Company advertises in 60 televised Professional Bull Riders events in the US and Brazil and sponsors five riders. Additionally, the Company sponsors a team and two riders in Moto GP, the world's premiere motorcycle racing series, and has entered a partnership with the Chinese Basketball Association (CBA). The Company will continue to allocate its brand and advertising spend wisely generating more than 100 billion brand impressions annually.
+
+22
+
+
+The Stanley Fulfillment System (SFS)
+SFS employs continuous improvement techniques to streamline operations and drive efficiency throughout the supply chain. SFS has five primary elements that work in concert: sales and operations planning (“S&OP”), operational lean, complexity reduction, global supply management, and order-to-cash excellence. S&OP is a dynamic and continuous unified process that links and balances supply and demand in a manner that produces world-class fill rates while minimizing DSI (Days Sales of Inventory). Operational lean is the systemic application of lean principles in progressive steps throughout the enterprise to optimize flow toward a pre-defined end state by eliminating waste, increasing efficiency and driving value. Complexity reduction is a focused and overt effort to eradicate costly and unnecessary complexity from the Company's products, supply chain and back room process and organizations. Complexity reduction enables all other SFS elements and, when successfully deployed, results in world-class cost, speed of execution and customer satisfaction. Global supply management focuses on strategically leveraging the company’s scale to achieve the best possible price and payment terms with the best possible quality, service and delivery among all categories of spend. Order-to-cash excellence is a methodical, process-based approach that provides a user-friendly, automated and error-proof customer experience from intent-to-purchase to shipping and billing to payment, while minimizing cash collection cycle time and DSO (Days Sales Outstanding). Other benefits of SFS include reductions in lead times, rapid realization of synergies during acquisition integrations, and focus on employee safety. SFS disciplines helped to mitigate the substantial impact of material and energy price inflation that was experienced in recent years.
+
+SFS is instrumental in the reduction of working capital evidenced by the 40% improvement in working capital turns for the Company from 5.7 at the end of 2010, after the merger with Black & Decker, to 8.0 at the end of 2013. The continued efforts to deploy SFS across the entire Company and increase turns have created significant opportunities to generate incremental free cash flow. Going forward, the Company plans to further leverage SFS to generate ongoing improvements both in the existing business and future acquisitions in working capital turns, cycle times, complexity reduction and customer service levels, with a goal of ultimately achieving 10 working capital turns.
+Certain Items Impacting Earnings
+Merger and Acquisition-Related and Other Charges Impacting 2013, 2012 and 2011 Earnings
+Throughout MD&A, the Company has provided a discussion of the outlook and results both inclusive and exclusive of the merger and acquisition-related and other charges. Merger and acquisition-related charges relate primarily to the Black & Decker merger and Niscayah and Infastech acquisitions, while other charges relate to the losses on debt extinguishments that occurred in 2012 and 2013. The amounts and measures, including gross profit and segment profit, on a basis excluding such charges are considered relevant to aid analysis and understanding of the Company’s results aside from the material impact of these charges. In addition, these measures are utilized internally by management to understand business trends, as once the aforementioned anticipated cost synergies from the Black & Decker merger and other acquisitions are realized, such charges are not expected to recur. The merger and acquisition-related and other charges are as follows:
+2013
+The Company reported $394 million in pre-tax merger and acquisition-related and other charges during 2013, which were comprised of the following:
+•
+$30 million reducing Gross profit primarily pertaining to integration-related matters and amortization of the inventory step-up adjustment for the Infastech acquisition;
+•
+$136 million in Selling, general & administrative expenses primarily for integration-related administrative costs and consulting fees, as well as employee related matters;
+•
+$52 million in Other-net primarily related to deal transaction costs and the $21 million pre-tax loss on the extinguishment of $300 million of debt in the fourth quarter of 2013; and
+•
+$176 million in net Restructuring charges, which primarily represent Niscayah-related restructuring charges and cost containment actions associated with the severance of employees.
+The tax effect on the above charges, some of which were not tax deductible, in 2013 was $121 million, resulting in an after-tax charge of $273 million, or $1.72 per diluted share.
+
+23
+
+
+2012
+The Company reported $442 million in pre-tax merger and acquisition-related and other charges during 2012, which were comprised of the following:
+•
+$30 million reducing Gross profit primarily pertaining to facility closure-related charges;
+•
+$138 million in Selling, general & administrative expenses primarily for integration-related administrative costs and consulting fees, as well as employee related matters;
+•
+$99 million in Other-net primarily related to transaction costs and the $45 million loss on the extinguishment of $900 million of debt in the third quarter of 2012; and
+•
+$175 million in Restructuring charges, which primarily represent Niscayah-related restructuring charges and cost containment actions associated with the severance of employees.
+The tax effect on the above charges, some of which were not tax deductible, in 2012 was $113 million, resulting in an after-tax charge of $329 million, or $1.97 per diluted share.
+2011
+The Company reported $236 million in pre-tax charges during 2011 pertaining to the Merger and other acquisition activities, which were comprised of the following:
+•
+$21 million reducing Gross profit primarily pertaining to facility closure-related charges;
+•
+$99 million in Selling, general & administrative expenses primarily for integration-related administrative costs and consulting fees, as well as employee related matters;
+•
+$49 million in Other-net predominantly for transaction costs; and
+•
+$67 million in Restructuring charges primarily for severance and the planned closures of facilities.
+The tax effect on the above charges, some of which were not tax deductible, in 2011 was $50 million, resulting in an after-tax charge of $186 million, or $1.09 per diluted share.
+Outlook for 2014
+This outlook discussion is intended to provide broad insight into the Company’s near-term earnings and cash flow generation prospects. The Company expects diluted earnings per share to approximate $5.18 to $5.38 in 2014, inclusive of $25 million of merger and acquisition-related charges to support the Infastech acquisition. Excluding such charges, 2014 earnings per dilutive share is expected to be in the range of $5.30 to $5.50. The Company expects free cash flow to approximate $675 million, which includes approximately $250 million of merger and acquisition-related payments. The 2014 outlook assumes that organic net sales will increase 4% from 2013 driving approximately $0.50 to $0.60 of diluted earnings per share accretion. Organic growth initiatives are expected to yield 2% growth with the remainder from the core business. The Security margin improvement is expected to drive approximately 150 basis points increase to the segment operating margin and yield approximately $0.15 of EPS accretion. Cost containment actions taken in 2013 in CDIY, Industrial and Corporate will have a positive carryover impact of approximately $0.20 of diluted EPS. The Infastech acquisition is expected to add $0.10 of EPS accretion in 2014. Foreign exchange rates are expected to have a negative impact of approximately $0.30 of diluted EPS. An increase in tax rates and Interest & Other expenses combined is expected to drive headwinds of approximately $0.20 to $0.30 of diluted EPS.
+As mentioned previously, the Company has decided to intensify its focus on increasing organic growth, concentrated in five major areas during the next few years: (1) increase presence in emerging markets in the Power Tools, Hand Tools and Commercial Hardware mid-price point categories, (2) create a "smart" tools and storage market using radio frequency identification ("RFID") and real-time locating system ("RTLS") technology, (3) leverage the AeroScout RTLS capability into the electronic security market including the acute care vertical within the Company's Healthcare business, (4) offshore oil and gas pipeline service revenue in the Company's Oil & Gas business, and (5) continue to identify and realize revenue synergies associated with several acquisitions and the Black & Decker Merger. From 2013 - 2015, the Company will invest approximately $150 million ($100 million of recurring operating expense and $50 million of capital) to support these initiatives. The Company expects that investment and achievement in these growth areas will generate approximately $850 million of incremental revenue over the same three-year period and should increase its organic growth rate commensurately.
+
+24
+
+
+RESULTS OF OPERATIONS
+Below is a summary of the Company’s operating results at the consolidated level, followed by an overview of business segment performance.
+Terminology: The term “organic” is utilized to describe results aside from the impacts of foreign currency fluctuations and acquisitions during their initial 12 months of ownership. This ensures appropriate comparability to operating results of prior periods.
+Net Sales: Net sales were $11.001 billion in 2013, up 8% compared to $10.148 billion in 2012. Acquisitions and organic sales volume provided increases of 6% and 3% in net sales, respectively, while unfavorable effects of foreign currency translation resulted in a decrease of 1% in net sales. Overall, pricing was relatively flat from 2012 to 2013. In the CDIY segment, organic sales increased 4% compared to 2012, as a result of successful new product introductions and promotions within the DEWALT, Black & Decker and Bostitch power tool lines, as well as market share gains in the US, Europe and emerging markets due to the implementation of organic growth initiatives. In the Industrial segment, organic sales grew 5% relative to 2012 due to strong organic growth in the Oil & Gas, Industrial & Automotive Repair and Engineered Fastening businesses, while acquisitions (primarily Infastech) provided an additional 17% increase to net sales. In the Security segment, sales increased approximately 1% compared to 2012, mainly due to modest increases in price and acquisitions, as well as favorable impacts of foreign currency fluctuations, partially offset by lower sales volumes in the European business.
+Net sales were $10.148 billion in 2012, as compared to $9.377 billion in 2011, an 8% increase. Organic sales volume provided a 2% increase in net sales and the impact of acquisitions provided an additional 8% increase, while unfavorable effects of foreign currency translation resulted in a decrease of 2% in net sales. The CDIY segment grew 5% organically in comparison to 2011, which was driven by successful new product introductions and market share gains under the DEWALT and Black & Decker brands. In the Industrial segment, organic sales grew 1% relative to 2011 due to strong organic growth in the Engineered Fastening business, which was partially offset by IAR exposure to weakening European markets and declines in the Infrastructure business due to lagging results in the onshore pipeline business. Organic net sales in the Security segment declined 4% compared to 2011, which was attributable to a difficult European market impacting the CSS business and weakness within the MAS business in the U.S. tied to slow commercial construction as well as soft National Account spending.
+Gross Profit: The Company reported gross profit of $3.933 billion, or 35.7% of net sales, in 2013 compared to $3.696 billion, or 36.4% of net sales, in 2012. Merger and acquisition-related charges, which reduced gross profit, were approximately $30 million in both 2013 and 2012. Excluding these charges, gross profit was 36.0% of net sales in 2013 and 36.7% of net sales in 2012. The decrease in the profit rate year over year was primarily driven by lower Security margins due to sales volume decline, field service inefficiencies, and high European RMR attrition and negative impacts from foreign currency, which more than outweighed the positive impacts of higher volumes, productivity projects and cost synergies.
+The Company reported gross profit of $3.696 billion, or 36.4% of net sales, in 2012 compared to $3.451 billion, or 36.8% of net sales, in 2011. Merger and acquisition-related charges, which reduced gross profit, were approximately $30 million in 2012 compared to $21 million in 2011. Excluding these charges, gross profit was 36.7% of net sales in 2012 and 37.0% of net sales in 2011. The decrease in the profit rate year over year was primarily due to negative mix driven by higher revenues in CDIY, which had lower profit margins than Security and Industrial. These factors outweighed the positive impacts from productivity projects and margin improvement initiatives.
+SG&A Expense: Selling, general and administrative expenses, inclusive of the provision for doubtful accounts (“SG&A”), were $2.715 billion, or 24.7% of net sales, in 2013 as compared $2.500 billion, or 24.6% of net sales, in 2012. Within SG&A, merger and acquisition-related compensation costs and integration-related expenses totaled $136.3 million and $138.4 million in 2013 and 2012, respectively. Excluding these charges, SG&A was 23.4% of net sales in 2013 compared to 23.3% of net sales in 2012. The slight increase in SG&A rate was mainly attributable to higher expenses associated with the organic growth initiatives and increased sales volume, partially offset by cost synergies and continued cost containment efforts.
+SG&A expenses were $2.500 billion, or 24.6% of net sales, in 2012 as compared with $2.358 billion, or 25.0% of net sales in 2011. Within SG&A, merger and acquisition-related compensation costs and integration-related expenses totaled $138.4 million and $98.3 million in 2012 and 2011, respectively. Excluding these charges, SG&A was 23.3% of net sales in 2012 compared to 24.1% of net sales in 2011. The favorable SG&A rate was mainly driven by sales volume leverage, cost synergies and cost containment efforts.
+Distribution center costs (i.e. warehousing and fulfillment facility and associated labor costs) are classified within SG&A. This classification may differ from other companies who may report such expenses within cost of sales. Due to diversity in practice, to the extent the classification of these distribution costs differs from other companies, the Company’s gross margins may not
+
+25
+
+
+be comparable. Such distribution costs classified in SG&A amounted to $230.4 million in 2013, $203.0 million in 2012 and $202.2 million in 2011.
+Corporate Overhead: The corporate overhead element of SG&A and gross profit, which is not allocated to the business segments, amounted to $254 million in 2013, $252 million in 2012 and $245 million in 2011. The previously discussed merger and acquisition-related charges, that unfavorably impacted corporate overhead, totaled $89 million in 2013, $77 million in 2012 and $75 million in 2011. Corporate overhead, excluding merger and acquisition-related costs, represented 1.5%, 1.7%, and 1.8% of net sales in 2013, 2012 and 2011, respectively.
+Other-net: Other-net totaled $287.4 million of expense in 2013 compared to $299.8 million of expense in 2012. The decrease was primarily driven by reduced negative impacts of foreign currency losses related to derivatives and lower deal transaction costs, partially offset by higher amortization expense from intangible assets associated with the Infastech acquisition and other 2013 acquisitions.
+Other-net amounted to $299.8 million of expense in 2012 compared to $254.3 million of expense in 2011. The increase primarily pertained to higher amortization expense from intangible assets associated with the Niscayah acquisition and other 2012 acquisitions, defined benefit pension settlements, and unfavorable impacts of foreign currency.
+Loss on Debt Extinguishment: During the fourth quarter of 2013, the Company extinguished $300 million of its notes payable and recognized a $21 million pre-tax loss on extinguishment. During the third quarter of 2012, the Company repurchased $900 million of its senior notes and recognized a $45 million pre-tax loss on extinguishment.
+
+Interest, net: Net interest expense in 2013 was $147.6 million compared to $134.1 million in 2012 and $113.9 million in 2011. The increase in net interest expense in 2013 versus 2012 mainly relates to the incremental interest costs associated with the higher debt levels during 2013, partially offset by higher interest income. The increase in net interest expense in 2012 versus 2011 mainly relates to lower interest income stemming from lower cash balances.
+
+Income Taxes: The Company's effective tax rate was 11.8% in 2013, 14.4% in 2012, and 7.9% in 2011. The effective tax rate in 2013 differed from the US statutory rate primarily due to a portion of the Company's earnings being realized in lower-taxed foreign jurisdictions, the acceleration of certain tax credits, the recurring benefit of various foreign business integration structures and the reversal of certain foreign and U.S. state uncertain tax position reserves, related largely to statute expiration. The effective tax rate in 2012 differed from the US statutory rate primarily due to the distribution of domestic and foreign earnings and the inclusion of $48.9 million in benefits from a favorable settlement of certain tax contingencies. The effective tax rate in 2011 differed from the US statutory rate primarily due to the inclusion of $73 million of benefits from a favorable settlement of certain tax contingencies, benefits resulting from foreign tax credits, and the distribution of domestic and foreign earnings.
+
+Business Segment Results
+The Company’s reportable segments are aggregations of businesses that have similar products, services and end markets, among other factors. The Company utilizes segment profit (which is defined as net sales minus cost of sales and SG&A aside from corporate overhead expense), and segment profit as a percentage of net sales to assess the profitability of each segment. Segment profit excludes the corporate overhead expense element of SG&A, Other-net (inclusive of intangible asset amortization expense), restructuring charges, interest income, interest expense, and income tax expense. Corporate overhead is comprised of world headquarters facility expense, cost for the executive management team and the expense pertaining to certain centralized functions that benefit the entire Company but are not directly attributable to the businesses, such as legal and corporate finance functions. Refer to Note O, Restructuring and Asset Impairments, and Note F, Goodwill and Intangible Assets, of the Notes to Consolidated Financial Statements for the amount of restructuring charges and asset impairments, and intangibles amortization expense, respectively, attributable to each segment. As discussed previously, the Company’s operations are classified into three business segments: CDIY, Industrial and Security.
+CDIY:
+The CDIY segment is comprised of the Professional Power Tool business, the Consumer Products Group, the Hand Tools & Storage business, and the Fastening & Accessories business. The Professional Power Tool business sells professional grade corded and cordless electric power tools and equipment including drills, impact wrenches and drivers, grinders, saws, routers and sanders. The Consumer Products Group sells corded and cordless electric power tools sold primarily under the Black & Decker brand, lawn and garden products and home products. The Hand Tools & Storage business sells measuring, leveling and layout tools, planes, hammers, demolition tools, knives, saws, chisels, tool boxes, sawhorses and storage units. The Fastening &
+
+26
+
+
+Accessories business sells pneumatic tools and fasteners including nail guns, nails, staplers and staples, concrete and masonry anchors, as well as power tool accessories which include drill bits, router bits, abrasives and saw blades.
+(Millions of Dollars)
+2013
+ 
+2012
+ 
+2011
+Net sales
+$
+5,481
+
+ 
+$
+5,190
+
+ 
+$
+5,003
+
+Segment profit
+$
+798
+
+ 
+$
+721
+
+ 
+$
+635
+
+% of Net sales
+14.6
+%
+ 
+13.9
+%
+ 
+12.7
+%
+CDIY net sales increased $291.2 million, or 6%, in 2013 compared to 2012. Overall, CDIY grew 4% organically in 2013 largely due to successful new product introductions and promotions within the DEWALT, Black & Decker and Bostitch power tool lines. In North America, organic sales increased 4%, which was primarily driven by promotions, new products and a strengthening residential construction market. The segment also realized 9% organic growth in emerging markets as a result of increasing penetration in connection with the Company's growth initiatives. Europe volumes increased 2% due to new product introductions and market share gains despite continuing stagnant economic conditions. Acquisitions contributed an additional 2% of sales growth while the impacts from foreign currency translation were relatively flat.
+
+Segment profit amounted to $798.0 million, or 14.6% of net sales, in 2013 compared to $720.9 million or 13.9% of net sales in 2012. Excluding $13.0 million in merger and acquisition-related charges, segment profit totaled $811.0 million, or 14.8% of net sales, in 2013 compared to $762.6 million, or 14.7% of net sales, in 2012 (excluding $41.7 million in merger and acquisition-related charges). The slight increase in segment profit year over year resulted primarily from higher volumes and productivity, partially offset by incremental investments in organic growth initiatives and negative impacts from foreign currency.
+CDIY net sales increased $186.7 million, or 4%, in 2012 compared with 2011. CDIY grew 5% organically in 2012 largely due to market share gains and successful new products such as the 18/20V DEWALT lithium ion power tools, the DEWALT brushless power tool line as well as the Black & Decker Gyro and Matrix tools. Despite a retracting market in Europe, revenues were flat in the region due to successful market share gains in the U.K., primarily within the DEWALT product lines. Elsewhere, revenue synergies helped drive 16% organic growth in Latin America while traction through select eCommerce, home center and independent channel customers aided in the 5% organic growth in North America. Acquisitions contributed an additional 2% of sales growth, which was offset by a 3% decline due to unfavorable changes in foreign currency translation.
+
+Segment profit amounted to $720.9 million, or 13.9% of net sales, in 2012 compared to $634.8 million or 12.7% of net sales in 2011. Excluding $41.7 million in merger and acquisition-related charges, segment profit totaled $762.6 million, or 14.7% of net sales in 2012 compared to $654.4, or 13.1% of net sales, in 2011 (excluding $19.8 million in merger and acquisition-related charges). The increase in segment profit year over year resulted primarily from cost synergies and volume leverage.
+Industrial:
+The Industrial segment is comprised of the Industrial and Automotive Repair ("IAR"), Engineered Fastening and Infrastructure businesses. The IAR business sells professional hand tools, power tools, and engineered storage solution products. The Engineered Fastening business primarily sells engineered fastening products and systems designed for specific applications. The product lines include stud welding systems, blind rivets and tools, blind inserts and tools, drawn arc weld studs, engineered plastic and mechanical fasteners, self-piercing riveting systems, precision nut running systems, micro fasteners, and high-strength structural fasteners. The Infrastructure business consists of the Oil & Gas (formerly CRC-Evans) business and the Company’s Hydraulics business. The product lines include custom pipe handling machinery, joint welding and coating machinery, weld inspection services and hydraulic tools and accessories.
+(Millions of Dollars)
+2013
+ 
+2012
+ 
+2011
+Net sales
+$
+3,098
+
+ 
+$
+2,558
+
+ 
+$
+2,493
+
+Segment profit
+$
+436
+
+ 
+$
+414
+
+ 
+$
+406
+
+% of Net sales
+14.1
+%
+ 
+16.2
+%
+ 
+16.3
+%
+Industrial net sales increased $539.7 million, or 21%, in 2013 compared with 2012. Organic sales increased 5% and the impact of acquisitions (primarily Infastech) contributed 17%, both of which were partially offset by unfavorable foreign currency translation of 1%. IAR grew 2% organically as a result of volume increases in North America, which were driven by strong MRO vending sales and strength within the Mac Tools mobile distribution driven by new product introductions, and emerging markets. These results were partially offset by the impact of budgetary cuts on IAR’s US Government business and lower volumes in Europe. Engineered Fastening achieved organic growth of 3%, which was mainly attributable to global automotive revenues outpacing global light vehicle production. Organic sales for Infrastructure increased 17% as a result of strong growth
+
+27
+
+
+in the Oil & Gas business, which was driven by a continued rebound in North America onshore operations as well as strong offshore growth performance.
+
+Segment profit increased $21.9 million and reflects $24.8 million of merger and acquisition-related charges. Excluding these charges, segment profit was $461.0 million, or 14.9% of net sales, in 2013 compared to $422.2 million (excluding merger and acquisition-related charges of $7.9 million), or 16.5% of net sales, in 2012. The decrease in the profit rate was driven by higher operating expenses associated with the organic growth initiatives, negative impacts from foreign currency and the impact of modestly below line average Infastech margins.
+Industrial net sales increased $65.2 million, or 2.6%, in 2012 compared with 2011. Organic sales increased 1% and the impact of acquisitions contributed 4%, both of which were partially offset by unfavorable foreign currency translation of 2%. The increase in organic sales was primarily attributable to strong results in the Engineered Fastening business, which grew 9% organically, far outpacing global light vehicle production which rose 5%. This solid performance was mostly offset by organic sales declines in European end markets in IAR, weak large diameter onshore pipeline markets which affected the Oil & Gas business, and depressed scrap metal prices, which negatively impacted the Hydraulics business.
+
+Segment profit increased $8.1 million and reflects $7.9 million of merger and acquisition-related charges. Excluding these charges, segment profit was $422.2 million, or 16.5% of net sales, in 2012 compared to $415.6 million (excluding merger and acquisition-related charges of $9.4 million), or 16.7% of net sales, in 2011. The profit rate remained consistent due to sales volume leverage within Engineered Fastening and the success of cost containment measures, which were offset by the impacts of volume reductions in the IAR and Infrastructure businesses.
+Security:
+The Security segment is comprised of the Convergent Security Solutions ("CSS") and the Mechanical Access Solutions ("MAS") businesses. The CSS business designs, supplies and installs electronic security systems and provides electronic security services, including alarm monitoring, video surveillance, fire alarm monitoring, systems integration and system maintenance. Purchasers of these systems typically contract for ongoing security systems monitoring and maintenance at the time of initial equipment installation. The business also includes healthcare solutions, which markets medical cabinets, asset tracking, infant protection, pediatric protection, patient protection, wander management, fall management, and emergency call products. The MAS business sells automatic doors, commercial hardware, locking mechanisms, electronic keyless entry systems, keying systems, tubular and mortise door locksets.
+ 
+(Millions of Dollars)
+2013
+ 
+2012
+ 
+2011
+Net sales
+$
+2,423
+
+ 
+$
+2,400
+
+ 
+$
+1,881
+
+Segment profit
+$
+238
+
+ 
+$
+313
+
+ 
+$
+297
+
+% of Net sales
+9.8
+%
+ 
+13.0
+%
+ 
+15.8
+%
+Security net sales increased $22.4 million, or 0.9%, in 2013 compared to 2012. Pricing, acquisitions and foreign currency translation each resulted in a 1% increase to net sales, while lower volumes caused a 2% decrease. CSS North America realized organic revenue growth of 2%, while CSS Europe declined 5% organically due primarily to continued softness in certain regions, most notably France and Southern Europe. MAS organic sales were up 3% as a result of strong growth within the automatic door business due to successful door conversion wins and new product introductions and growth in the commercial mechanical lock business in the emerging markets.
+Segment profit amounted to $238.0 million, or 9.8% of net sales, in 2013 compared to $312.7 million, or 13.0% of net sales, in 2012. Excluding merger and acquisition-related charges of $38.7 million, segment profit was $276.7 million, or 11.4% of net sales, in 2013 compared to $354.0 million, or 14.7% of net sales, in 2012 (excluding $41.3 million in merger and acquisition-related charges). The year over year decline in margin was attributable to planned growth investments in vertical solutions and emerging markets, new product development, incremental costs associated with the distributor model transition, investments in field technicians in North America and impacts of continued volume pressures and field inefficiencies in Europe.
+Security net sales increased $519.5 million, or 27.6%, in 2012. The impact of acquisitions, principally Niscayah which was acquired in September 2011, increased sales by 32%. Unfavorable foreign currency translation reduced net sales by 1% and organic revenue declined 3% as volume decreases were partially offset by pricing increases. From a geographical standpoint, volume declines in Europe and the U.S. more than offset organic growth in Canada and emerging markets. As was expected, European volume declines within the CSS business more than offset modest growth in North America. The commercial lock business continued to be affected by weakness in the U.S. retrofit market while the automatic door business experienced similar
+
+28
+
+
+challenges due to reductions in capital spend by its largest customer. Healthcare organic revenue declined due to lower hospital capital expenditures.
+Segment profit amounted to $312.7 million, or 13.0% of net sales, in 2012 compared to $297.3 million, or 15.8% of net sales, in 2011. Excluding merger and acquisition-related charges of $41.3 million, segment profit was $354.0 million, or 14.7% of net sales, in 2012 compared to $312.6 million, or 16.6% of net sales, in 2011 (excluding $15.3 million in merger and acquisition-related charges). The year over year decline in margin was primarily driven by lower margins for Niscayah as the Company continued to integrate this business, as well as lower volume in Europe, which were partially offset by cost containment actions in 2012. Further, upon the exclusion of Niscayah's impact on 2012, in addition to merger and acquisition-related charges, segment profit was 15.4% of net sales in 2012.
+RESTRUCTURING ACTIVITIES
+A summary of the restructuring reserve activity from December 29, 2012 to December 28, 2013 is as follows (in millions):
+ 
+12/29/2012
+ 
+Net
+Additions (Reversals)
+ 
+Usage
+ 
+Currency
+ 
+12/28/2013
+2013 Actions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Severance and related costs
+$
+—
+
+ 
+$
+178.0
+
+ 
+$
+(26.7
+)
+ 
+$
+3.5
+
+ 
+$
+154.8
+
+Asset impairments
+—
+
+ 
+18.7
+
+ 
+(18.7
+)
+ 
+—
+
+ 
+—
+
+Facility closures and other
+—
+
+ 
+27.1
+
+ 
+(17.7
+)
+ 
+0.4
+
+ 
+9.8
+
+Subtotal 2013 actions
+—
+
+ 
+223.8
+
+ 
+(63.1
+)
+ 
+3.9
+
+ 
+164.6
+
+Pre-2013 Actions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Severance and related costs
+112.1
+
+ 
+(48.7
+)
+ 
+(46.0
+)
+ 
+—
+
+ 
+17.4
+
+Facility closures and other
+13.1
+
+ 
+1.0
+
+ 
+(2.3
+)
+ 
+—
+
+ 
+11.8
+
+Subtotal Pre-2013 actions
+125.2
+
+ 
+(47.7
+)
+ 
+(48.3
+)
+ 
+—
+
+ 
+29.2
+
+Total
+$
+125.2
+
+ 
+$
+176.1
+
+ 
+$
+(111.4
+)
+ 
+$
+3.9
+
+ 
+$
+193.8
+
+2013 Actions: During 2013, the Company continued with restructuring activities primarily associated with the Black & Decker merger, Niscayah and other acquisitions, as well as other cost reduction actions, and recognized $176.1 million of net restructuring charges. Of those charges, $178.0 million relates to severance charges associated with the reduction of approximately 2,700 employees, which was partially offset by reversals of $48.7 million primarily due to the termination of a previously approved restructuring action due to a shifting political and economic landscape in certain European countries. Also included in those charges are facility closure costs of $28.1 million and asset impairment charges of $18.7 million.
+Of the $193.8 million reserves remaining as of December 28, 2013, the majority are expected to be utilized by the end of 2014.
+Segments: The $176.1 million of net charges recognized in 2013 includes: $32.8 million pertaining to the CDIY segment; $12.1 million pertaining to the Industrial segment; $94.0 million pertaining to the Security segment; and $37.2 million pertaining to Corporate charges.
+In addition to the restructuring charges described in the preceding paragraphs, the Company recognized $165.8 million and $168.3 million of restructuring-related costs in 2013 and 2012, respectively, pertaining to the Merger and acquisition-related activity. All of these charges impact gross profit or selling, general and administrative expenses, and include accelerated depreciation and other charges associated with facility closures as well as certain integration-related administration and consulting costs.
+FINANCIAL CONDITION
+Liquidity, Sources and Uses of Capital: The Company’s primary sources of liquidity are cash flows generated from operations and available lines of credit under various credit facilities. The Company's cash flows are presented on a consolidated basis and include cash flows from discontinued operations.
+Operating Activities: Cash flows from operations were $868 million in 2013 compared to $966 million in 2012, representing a $98 million decrease. Operating cash flows were negatively impacted by merger and acquisition-related charges and payments of $280 million in 2013 and $357 million in 2012. Excluding these charges, cash flows from operations were $1.148 billion and $1.323 billion in 2013 and 2012, respectively. The year over year decrease was primarily driven by the divestiture of HHI in December 2012. Inflows from working capital (accounts receivable, inventory, accounts payable and deferred revenue) were $12 million in 2013 compared to $48 million in 2012. The 2013 inflows were primarily driven by strong cash collections in the fourth quarter of 2013, partially offset by increases in inventory balances due to higher year over year backlog predominantly in
+
+29
+
+
+CDIY. As previously discussed, working capital turns improved to 8.0 times at December 28, 2013, as compared to 7.6 times for 2012, which reflects process-driven improvements from SFS. Operating cash flows in 2013 were also negatively impacted by increases in employee related payments and investments in organic growth initiatives.
+In 2012, cash flows from operations were $966 million, a $33 million decrease compared to $999 million million in 2011. Cash flows from operations were negatively impacted by merger and acquisition-related charges and payments of $357 million and $218 million in 2012 and 2011, respectively. After adjusting for the impact of the decrease in these charges and payments, cash flows from operations improved in 2012 by a net amount of $106 million due to an increase in earnings. Operating cash flows reflected a continued focus on working capital, resulting in $48 million of inflows in 2012 and $170 million of inflows in 2011. Working capital turns improved to 7.6 times at December 29, 2012 as compared to 7.2 times for 2011.
+Free Cash Flow: Management considers free cash flow an important indicator of its liquidity, as well as its ability to fund future growth and provide dividends to shareowners. As previously discussed, operating cash flow was affected by $280 million and $357 million of merger and acquisition-related charges and payments in 2013 and 2012, respectively. Additionally, capitalized expenditures included $72 million and $122 million of merger and integration spending in 2013 and 2012, respectively. Free cash flow does not include deductions for mandatory debt service, other borrowing activity, discretionary dividends on the Company’s common stock and business acquisitions, among other items.
+ 
+(Millions of Dollars)
+2013
+ 
+2012
+ 
+2011
+Net cash provided by operating activities
+$
+868
+
+ 
+$
+966
+
+ 
+$
+999
+
+Less: capital expenditures
+(366
+)
+ 
+(386
+)
+ 
+(302
+)
+Free cash flow
+$
+502
+
+ 
+$
+580
+
+ 
+$
+697
+
+When merger and acquisition-related charges and payments, along with capital expenditures related to merger and acquisition activity, are added back to the Company’s free cash flow, the resulting amounts are $854 million in 2013, $1,059 million in 2012 and $1,004 million in 2011. The decrease in 2013 was primarily driven by the divestiture of HHI in December 2012. The Company expects free cash flow, inclusive of merger & acquisition-related charges and payments, to approximate $675 million in 2014.
+Based on its potential to generate cash flow from operations and credit position at December 28, 2013, the Company believes over the long term it has the financial flexibility to deploy capital to its shareowners’ advantage through a combination of acquisitions, dividends, and potential future share repurchases.
+Investing Activities: Cash flows used in investing activities were $1,198.4 million in 2013 compared to cash flows provided by investing activities of $182.7 million in 2012 and cash flows used in investing activities of $1.464 billion in 2011. As previously discussed, net proceeds received from the First and Second Closings of the HHI sale totaled approximately $1.3 billion in 2012 and $94 million in 2013, respectively. Acquisition spending in 2013 totaled $933.9 million in 2013, which was mainly driven by the purchases of Infastech and GQ. Acquisition spending in 2012 totaled $707.3 million, which included the purchases of Powers, AeroScout, Tong Lung, Lista, and the remaining outstanding shares of Niscayah. Cash outflows for business acquisitions were $1.180 billion in 2011, which was largely a result of the Company's acquisition of Niscayah.
+Capital and software expenditures were $365.6 million in 2013, $386.0 million in 2012, and $302.1 million in 2011. The higher capital expenditures in 2012 was mainly due to several consolidations of distribution centers.
+Financing Activities: Cash flows provided by financing activities were $155.5 million in 2013 compared to cash flows used in financing activities of $1.337 billion in 2012 and $371.8 million in 2011.
+Payments on long-term debt totaled $302.2 million, $1.422 billion and $403.2 million in 2013, 2012 and 2011, respectively. The 2013 payments primarily relate to the repurchase of $300 million of Black & Decker Corporation 5.75% senior notes which resulted in the Company paying a premium on the debt extinguishment of $43 million. The 2012 payments primarily relate to the repurchase of three debt instruments with total outstanding principal of $900 million, which resulted in the Company paying a premium on the debt extinguishment of $91 million. The Company also repaid $320 million of its Convertible Notes at maturity, in cash, during 2012. The 2011 repayments pertain to $400 million of term notes that matured in June 2011. The Company had net short-term borrowings totaling $388.7 million in 2013 and repayments on short-term borrowings of $19.1 million in 2012 and $199.4 million in 2011.
+Proceeds from issuances of long-term debt totaled $726.7 million, $1.524 billion and $421.0 million in 2013, 2012 and 2011, respectively. In December 2013, the Company issued $400 million of 5.75% fixed-to-floating junior subordinated debentures bearing interest at a fixed rate of 5.75% and received $392.0 million of net proceeds. Additionally, the Company issued 3,450,000 Equity Units comprised of a 1/10, or 10%, undivided beneficial ownership in a $1,000 principal amount 2.25%
+
+30
+
+
+junior subordinated note due 2018 and a forward common stock purchase contract in which the Company received $334.7 million in cash proceeds from the Equity Units, net of underwriting discounts and commission, before offering expenses, and recorded $345.0 million in long-term debt. The proceeds were used primarily to repay commercial paper borrowings. In November 2012, the Company issued $800 million of senior unsecured term notes with a fixed annual rate of 2.90% and received $793.9 million of net proceeds. The Company also issued $750.0 million of junior subordinated debentures in the third quarter of 2012 and received $729.4 million of net proceeds. In November 2011, the Company issued $400 million of senior unsecured term notes with a 3.40% fixed coupon rate and received $399.6 million in proceeds. The Company used these proceeds to pay down commercial paper. Refer to Note H, Long-Term Debt and Financing Arrangements, for further information regarding the Company's financing arrangements.
+In November 2013, the Company purchased from certain financial institutions “out-of-the-money” capped call options on 12.2 million shares of its common stock (subject to customary anti-dilution adjustments) for an aggregate premium of $73.5 million, or an average of $6.03 per share. The average lower strike price is $86.07 and the average upper strike price is $106.56, subject to customary market adjustments. In addition, contemporaneously with the issuance of the Equity Units described above and in Note J, Capital Stock, the Company paid $9.7 million, or an average of $2.77 per option, to enter into capped call transactions on 3.5 million shares of common stock with a major financial institution. The lower strike price is $98.80 and the upper strike price is $112.91. In 2012, the Company purchased from certain financial institutions over the counter “out-of-the-money” capped call options, subject to adjustments for customary anti-dilution adjustments, on 10.1 million shares of its common stock for an aggregate premium of $29.5 million, or an average of $2.92 per share. The capped call options were net-share settled and the Company received 0.6 million shares in April 2013. The purpose of the capped call options is to reduce share price volatility on potential future share repurchases. Refer to Note J, Capital Stock, for further discussion.
+During 2013, the Company paid a $42.8 million premium to extinguish $300 million of its Black & Decker Corporation 5.75% senior notes due 2016. This premium was offset by gains of $11.9 million related to the release of fair value adjustments made in purchase accounting, $8.1 million from the recognition of gains on previously terminated derivatives and $2.2 million of accrued interest, resulting in a net pre-tax loss of $20.6 million. Additionally, as noted above, during 2012, the Company repurchased $900 million of outstanding debt by initiating an open market tender offer and paid a premium of $91 million to extinguish the notes. This premium was offset by gains of $35 million from fair value adjustments made in purchase accounting and $10.5 million from terminated derivatives, resulting in a net pre-tax loss of $45.5 million. Refer to Note H, Long-Term Debt and Financing Arrangements, for further discussion of the debt extinguishments. During 2012, the Company also received $58.2 million from the termination of interest rate swaps and paid $102.6 million in relation to the termination of forward starting interest rate swaps. Refer to Note I, Derivative Financial Instruments, for further discussion.
+The Company repurchased $39 million, $1.074 billion and $11.1 million of common stock in 2013, 2012 and 2011, respectively. In December 2012, the Company executed an accelerated share repurchase ("ASR") contract of $850 million, which was funded using proceeds from the sale of HHI. The ASR contract terms allowed for an initial delivery of 9.3 million shares, or the equivalent of 80% of the notional value of the contract. The Company received an additional 1.6 million shares upon settlement of the contract in April 2013. The Company also repurchased approximately 3.0 million shares of common stock during the second quarter of 2012 for $200 million. Proceeds from the issuance of common stock totaled $154.6 million, $126.4 million and $119.6 million in 2013, 2012 and 2011, respectively. These amounts received mainly relate to the exercises of stock options.
+In January 2013, the Company elected to prepay the forward share purchase contract for $362.7 million, comprised of the $350.0 million purchase price, plus an additional amount related to the forward component of the contract. In August 2013, the Company physically settled the contract, receiving 5.6 million shares and $18.8 million from the financial institution counterparty representing a purchase price adjustment. The reduction of common shares outstanding was recorded at the inception of the forward share purchase contract and factored into the calculation of weighted average shares outstanding.
+Cash payments for dividends were $312.7 million, $304.0 million and $275.9 million in 2013, 2012 and 2011, respectively. The increase in dividends in 2013 was primarily attributable to the increase in quarterly dividends per common share to $0.50 per share, as announced in July 2013. The dividend paid to shareholders of record in December 2013 extended the Company's record for the longest consecutive annual and quarterly dividend payments among industrial companies listed on the New York Stock Exchange. The increase in cash dividends in 2012 was primarily attributable to the increase in quarterly dividends per common share to $0.49 per share, as announced in July 2012.
+Credit Ratings and Liquidity:
+The Company maintains strong investment grade credit ratings from the major U.S. rating agencies on its senior unsecured debt (average A-), as well as its short-term commercial paper borrowings. There have been no changes to any of the ratings during 2013.
+
+31
+
+
+Failure to maintain strong investment grade rating levels could adversely affect the Company’s cost of funds, liquidity and access to capital markets, but would not have an adverse effect on the Company’s ability to access committed credit facilities.
+On December 3, 2013, the Company issued $400.0 million aggregate principal amount of 5.75% fixed-to-floating rate junior subordinated debentures maturing December 15, 2053 (“2053 Junior Subordinated Debentures”). The 2053 Junior Subordinated Debentures will bear interest at a fixed rate of 5.75% per annum, payable semi-annually in arrears to, but excluding December 15, 2018. From and including December 15, 2018, the 2053 Junior Subordinated Debentures will bear interest at an annual rate equal to three-month LIBOR plus 4.304% payable quarterly in arrears. The Company may elect to redeem the debentures, in whole or in part. The debentures subordination and long tenor provides significant credit protection measures for senior creditors and as a result, the debentures' were awarded a 50% equity credit by S&P and Fitch, and a 25% equity credit by Moody's. The Company received proceeds from the offering of $392.0 million net of $8.0 million of underwriting discounts and commissions, before offering expenses. The Company used the net proceeds primarily to repay commercial paper borrowings.
+
+On December 3, 2013, the Company issued 3,450,000 Equity Units (the “Equity Units”), each with a stated value of $100. The Equity Units are initially comprised of a 1/10, or 10%, undivided beneficial ownership in a $1,000 principal amount 2.25% junior subordinated note due 2018 and a forward common stock purchase contract (the “Equity Purchase Contract”). Each Equity Purchase Contract obligates the holders to purchase approximately 3.5 to 4.3 million common shares (or up to a maximum of 6.1 if a fundamental change occurs). The subordination of the notes in the Equity Units combined with the Equity Purchase Contracts resulted in the Equity Units being awarded a 100% equity credit by S&P, and a 50% equity credit by Moody's. The Company received approximately $334.7 million in cash proceeds from the Equity Units, net of underwriting discounts and commission, before offering expenses, and recorded $345.0 million in long-term debt. The proceeds were used primarily to repay commercial paper borrowings.
+
+In June 2013, the Company terminated its four year $1.2 billion committed credit facility with the concurrent execution of a new five year $1.5 billion committed credit facility (the “Credit Agreement”). Borrowings under the Credit Agreement may include U.S. Dollars up to the $1.5 billion commitment or in Euro or Pounds Sterling subject to a foreign currency sublimit of $400.0 million and bear interest at a floating rate dependent upon the denomination of the borrowing. Repayments must be made on June 27, 2018 or upon an earlier termination date of the Credit Agreement, at the election of the Company. Simultaneously, the Company terminated its $1.0 billion 364 day committed credit facility with the concurrent execution of a new $500 million 364 day committed credit facility (the "Facility"). The Facility contains a one year term-out provision and borrowings under the Facility may include U.S. Dollars up to the $500 million commitment or in Euro or Pounds Sterling subject to a foreign currency sublimit of $250 million and bear interest at a floating rate dependent upon the denomination of the borrowing. Repayments must be made by June 26, 2014, unless the one year term-out election is made, or upon an earlier termination date of the Facility, at the election of the Company. The Credit Agreement and Facility are designated to be a liquidity back-stop for the Company's $2.0 billion commercial paper program. As of December 28, 2013, the Company has not drawn on either of these commitments. Concurrently, the guarantees on certain of the Company's outstanding debt obligations were released in accordance with the terms of the indentures governing those obligations. For further information, refer to Note H, Long-Term Debt and Financing Arrangements, and Note U, Parent and Subsidiary Debt Guarantees, in the Notes to Consolidated Financial Statements.
+In the third quarter of 2011, the Company entered into a forward share purchase contract on its common stock, which obligated the Company to pay $350.0 million, plus an additional amount related to the forward component of the contract, to the financial institution counterparty not later than August 2013, or earlier at the Company’s option, for the 5,581,400 shares purchased. In January 2013, the Company elected to prepay the forward share purchase contract for $362.7 million, comprised of the $350.0 million purchase price, plus an additional amount related to the forward component of the contract. In August 2013, the Company physically settled the contract, receiving 5,581,400 shares and $18.8 million from the financial institution counterparty representing a purchase price adjustment. The reduction of common shares outstanding was recorded at the inception of the forward share purchase contract and factored into the calculation of weighted average shares outstanding.
+On July 25, 2012, the Company issued $750 million of junior subordinated debentures maturing on July 25, 2052 with fixed interest payable quarterly in arrears at a rate of 5.75% per annum. The Company may, at its election, redeem the debentures in whole or in part, at par on or after June 25, 2017. The debentures' subordination, long tenor and interest deferral features provide significant credit protection measures for senior creditors and as a result, the debentures were awarded a 50% equity credit by S&P and Fitch, and a 25% equity credit by Moody's. The net proceeds of $729 million from the offering were used for general corporate purposes, including the repayment of short term debt and the refinancing of recent and near term debt maturities.
+
+
+32
+
+
+In the fourth quarter of 2013, the Company extinguished $300 million of its Black & Decker Corporation 5.75% senior notes due 2016. In the third quarter of 2012, the Company repurchased $900 million of its long-term debt via open market tender and exercise of its right under the redemption provision of each of the notes. The initial funding of the repurchased debt was accomplished by utilizing excess cash on hand and the issuance of Commercial Paper.
+Refer to Note H, Long-Term Debt and Financing Arrangement, and Note J, Capital Stock, in the Notes to Consolidated Financial Statements in Item 8 for further discussion of the Company's financing arrangements.
+Cash and cash equivalents totaled $496 million as of December 28, 2013, comprised of $57 million in the U.S. and $439 million in foreign jurisdictions. As of December 29, 2012 cash and cash equivalents totaled $716 million, comprised of $99 million in the U.S. and $617 million in foreign jurisdictions. Concurrent with the Black & Decker merger, the Company made a determination to repatriate certain legacy Black & Decker foreign earnings, on which U.S. income taxes had not previously been provided. As a result of this repatriation decision, the Company has recorded approximately $418.8 million of associated deferred tax liabilities at December 28, 2013. Current plans and liquidity requirements do not demonstrate a need to repatriate other foreign earnings. Accordingly, all other undistributed foreign earnings of the Company are considered to be permanently reinvested, or will be remitted substantially free of additional tax, consistent with the Company’s overall growth strategy internationally, including acquisitions and long-term financial objectives. No provision has been made for taxes that might be payable upon remittance of these undistributed foreign earnings. However, should management determine at a later point to repatriate additional foreign earnings, the Company would be required to accrue and pay taxes at that time.
+Contractual Obligations: The following summarizes the Company’s significant contractual obligations and commitments that impact its liquidity:
+Payments Due by Period 
+(Millions of Dollars)
+Total
+ 
+2014
+ 
+2015 – 2016
+ 
+2017 – 2018
+ 
+Thereafter
+Long-term debt(a)
+$
+3,912
+
+ 
+$
+8
+
+ 
+$
+9
+
+ 
+$
+983
+
+ 
+$
+2,912
+
+Interest payments on long-term debt(b)
+3,776
+
+ 
+169
+
+ 
+339
+
+ 
+335
+
+ 
+2,933
+
+Operating leases
+336
+
+ 
+90
+
+ 
+116
+
+ 
+67
+
+ 
+63
+
+Inventory purchase commitments(c)
+673
+
+ 
+673
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+Deferred compensation
+22
+
+ 
+1
+
+ 
+2
+
+ 
+1
+
+ 
+18
+
+Marketing obligations
+59
+
+ 
+28
+
+ 
+21
+
+ 
+8
+
+ 
+2
+
+Derivatives (d)
+121
+
+ 
+—
+
+ 
+—
+
+ 
+108
+
+ 
+13
+
+Pension funding obligations(e)
+101
+
+ 
+101
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+Contract adjustment fees (f)
+47
+
+ 
+16
+
+ 
+31
+
+ 
+—
+
+ 
+—
+
+Total contractual cash obligations
+$
+9,047
+
+ 
+$
+1,086
+
+ 
+$
+518
+
+ 
+$
+1,502
+
+ 
+$
+5,941
+
+ 
+(a)
+Future payments on long-term debt encompass all payments related to aggregate debt maturities, excluding certain fair value adjustments included in long-term debt, as discussed further in Note H, Long-Term Debt and Financing Arrangements.
+(b)
+Future interest payments on long-term debt reflect the applicable fixed interest rate or variable rate for floating rate debt in effect at December 28, 2013.
+(c)
+Inventory purchase commitments primarily consist of open purchase orders to purchase raw materials, components, and sourced products.
+(d)
+Future cash flows on derivative instruments reflect the fair value and accrued interest as of December 28, 2013. The ultimate cash flows on these instruments will differ, perhaps significantly, based on applicable market interest and foreign currency rates at their maturity.
+(e)
+This amount principally represents contributions either required by regulations or laws or, with respect to unfunded plans, necessary to fund current benefits. The Company has not presented estimated pension and post-retirement funding beyond 2014 as funding can vary significantly from year to year based upon changes in the fair value of the plan assets, actuarial assumptions, and curtailment/settlement actions.
+(f)
+Represents future contract adjustment payments to holders of the Company's Equity Purchase Contracts and Purchase Contracts. See Note H, Long-Term Debt and Financing Arrangements for further discussion.
+
+To the extent the Company can reliably determine when payments will occur pertaining to unrecognized tax benefit liabilities, the related amount will be included in the table above. However, due to the high degree of uncertainty regarding the timing of potential future cash flows associated with the $310.9 million of such liabilities at December 28, 2013, the Company is unable to make a reliable estimate of when (if at all) amounts may be paid to the respective taxing authorities.
+
+33
+
+
+Aside from debt payments, for which there is no tax benefit associated with repayment of principal, tax obligations and the equity purchase contract fees, payment of the above contractual obligations will typically generate a cash tax benefit such that the net cash outflow will be lower than the gross amounts indicated.
+Other Significant Commercial Commitments:
+Amount of Commitment Expirations Per Period
+ 
+(Millions of Dollars)
+ 
+Total
+ 
+2014
+ 
+2015 – 2016
+ 
+2017 – 2018
+ 
+Thereafter
+U.S. lines of credit
+ 
+$
+2,000
+
+ 
+$
+500
+
+ 
+$
+—
+
+ 
+$
+1,500
+
+ 
+$
+—
+
+Short-term borrowings, long-term debt and lines of credit are explained in detail within Note H, Long-Term Debt and Financing Arrangements.
+MARKET RISK
+Market risk is the potential economic loss that may result from adverse changes in the fair value of financial instruments, currencies, commodities and other items traded in global markets. The Company is exposed to market risk from changes in foreign currency exchange rates, interest rates, stock prices, and commodity prices.
+Exposure to foreign currency risk results because the Company, through its global businesses, enters into transactions and makes investments denominated in multiple currencies. The Company’s predominant exposures are in European, Canadian, British, Australian, Latin American, and Asian currencies, including the Chinese Renminbi (“RMB”) and the Taiwan Dollar. Certain cross-currency trade flows arising from sales and procurement activities as well as affiliate cross-border activity are consolidated and netted prior to obtaining risk protection through the use of various derivative financial instruments which may include: purchased basket options; purchased options; collars, cross currency swaps and currency forwards. The Company is thus able to capitalize on its global positioning by taking advantage of naturally offsetting exposures and portfolio efficiencies to reduce the cost of purchasing derivative protection. At times, the Company also enters into forward exchange contracts and purchased options to reduce the earnings and cash flow impact of non-functional currency denominated receivables and payables, predominately for affiliate transactions. Gains and losses from these hedging instruments offset the gains or losses on the underlying net exposures, assets and liabilities being hedged. Management determines the nature and extent of currency hedging activities, and in certain cases, may elect to allow certain currency exposures to remain un-hedged. The Company has also entered into cross-currency swaps and forward contracts, to provide a partial hedge of the net investments in certain subsidiaries and better match the cash flows of operations to debt service requirements. Management estimates the foreign currency impact from these financial instruments at the end of 2013 would have been approximately a $29 million pre-tax loss based on a hypothetical 10% adverse movement in all net derivative currency positions; this effect would occur from depreciation of the foreign currencies relative to the U.S. dollar. The Company follows risk management policies in executing derivative financial instrument transactions, and does not use such instruments for speculative purposes. The Company does not hedge the translation of its non-U.S. dollar earnings in foreign subsidiaries.
+As mentioned above, the Company routinely has cross-border trade and affiliate flows that cause an impact on earnings from foreign exchange rate movements. The Company is also exposed to currency fluctuation volatility from the translation of foreign earnings into U.S. dollars. It is more difficult to quantify the transactional effects from currency fluctuations than the translational effects. Aside from the use of derivative instruments which may be used to mitigate some of the exposure, transactional effects can potentially be influenced by actions the Company may take; for example, if an exposure occurs from a European entity sourcing product from a U.S. supplier it may be possible to change to a European supplier. Management estimates the combined translational and transactional impact, on pre-tax earnings, of a 10% overall movement in exchange rates is approximately $98 million, or approximately $0.48 per diluted share. In 2013, translational and transactional foreign currency fluctuations negatively impacted pre-tax earnings by approximately $60 million and diluted earnings per share by approximately $0.30.
+The Company’s exposure to interest rate risk results from its outstanding debt and derivative obligations, short-term investments, and derivative financial instruments employed in the management of its debt portfolio. The debt portfolio including both trade and affiliate debt, is managed to achieve capital structure targets and reduce the overall cost of borrowing by using a combination of fixed and floating rate debt as well as interest rate swaps, and cross-currency swaps.
+The Company’s primary exposure to interest rate risk comes from its floating rate debt and derivatives in the U.S. and is fairly represented by changes in LIBOR rates. At December 28, 2013, the impact of a hypothetical 10% increase in the interest rates associated with the Company’s floating rate derivative and debt instruments would have an immaterial effect on the Company’s financial position and results of operations.
+
+34
+
+
+The Company has exposure to commodity prices in many businesses, particularly brass, nickel, resin, aluminum, copper, zinc, steel, and energy used in the production of finished goods. Generally, commodity price exposures are not hedged with derivative financial instruments, but instead are actively managed through customer product and service pricing actions, procurement-driven cost reduction initiatives and other productivity improvement projects.
+Overall, the Company experienced inflation of approximately $53 million, $82 million and $236 million in 2013, 2012 and 2011, respectively. Price erosion has also occurred in 2013 and 2012, in addition to inflation, with a cumulative unfavorable impact of $136 million. The impact of inflation is expected to continue in 2014, with cost and pricing actions being aggressively pursued to offset any adverse impact on operations.
+Fluctuations in the fair value of the Company’s common stock affect domestic retirement plan expense as discussed in the ESOP section of MD&A. Additionally, the Company has $46 million of liabilities as of December 28, 2013 pertaining to unfunded defined contribution plans for certain U.S. employees for which there is mark-to-market exposure.
+The assets held by the Company’s defined benefit plans are exposed to fluctuations in the market value of securities, primarily global stocks and fixed-income securities. The funding obligations for these plans would increase in the event of adverse changes in the plan asset values, although such funding would occur over a period of many years. In 2013, 2012 and 2011, there were $102 million, $194 million and $119 million, respectively, in investment returns on pension plan assets. The Company expects funding obligations on its defined benefit plans to be approximately $101 million in 2014. The Company employs diversified asset allocations to help mitigate this risk. Management has worked to minimize this exposure by freezing and terminating defined benefit plans where appropriate.
+The Company has access to financial resources and borrowing capabilities around the world. There are no instruments within the debt structure that would accelerate payment requirements due to a change in credit rating.
+The Company’s existing credit facilities and sources of liquidity, including operating cash flows, are considered more than adequate to conduct business as normal. Accordingly, based on present conditions and past history, management believes it is unlikely that operations will be materially affected by any potential deterioration of the general credit markets that may occur. The Company believes that its strong financial position, operating cash flows, committed long-term credit facilities and borrowing capacity, and ready access to equity markets provide the financial flexibility necessary to continue its record of annual dividend payments, to invest in the routine needs of its businesses, to make strategic acquisitions and to fund other initiatives encompassed by its growth strategy and maintain its strong investment grade credit ratings.
+OTHER MATTERS
+Employee Stock Ownership Plan As detailed in Note L, Employee Benefit Plans, the Company has an ESOP under which the ongoing U.S. Core and 401(k) defined contribution plans are funded. Overall ESOP expense is affected by the market value of the Company’s stock on the monthly dates when shares are released, among other factors. The Company’s net ESOP activity resulted in expense of $1.9 million in 2013, $25.9 million in 2012, and $28.4 million in 2011. The decrease in net ESOP expense in 2013 is related to the release of 219,000 shares of unallocated stock triggered by an additional contribution to the ESOP, which was used by the ESOP to make an additional payment on the associated loan as more fully discussed in Note L, Employee Benefit Plans. ESOP expense could increase in the future if the market value of the Company’s common stock declines.
+CRITICAL ACCOUNTING ESTIMATES — Preparation of the Company’s Consolidated Financial Statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses. Significant accounting policies used in the preparation of the Consolidated Financial Statements are described in Note A, Significant Accounting Policies. Management believes the most complex and sensitive judgments, because of their significance to the Consolidated Financial Statements, result primarily from the need to make estimates about the effects of matters with inherent uncertainty. The most significant areas involving management estimates are described below. Actual results in these areas could differ from management’s estimates.
+ALLOWANCE FOR DOUBTFUL ACCOUNTS — The Company’s estimate for its allowance for doubtful accounts related to trade receivables is based on two methods. The amounts calculated from each of these methods are combined to determine the total amount reserved. First, a specific reserve is established for individual accounts where information indicates the customers may have an inability to meet financial obligations. In these cases, management uses its judgment, based on the surrounding facts and circumstances, to record a specific reserve for those customers against amounts due to reduce the receivable to the amount expected to be collected. These specific reserves are reevaluated and adjusted as additional information is received. Second, a reserve is determined for all customers based on a range of percentages applied to receivable aging categories. These percentages are based on historical collection and write-off experience.
+
+35
+
+
+If circumstances change, for example, due to the occurrence of higher than expected defaults or a significant adverse change in a major customer’s ability to meet its financial obligation to the Company, estimates of the recoverability of receivable amounts due could be reduced.
+INVENTORIES - LOWER OF COST OR MARKET, SLOW MOVING AND OBSOLETE — Inventories in the U.S. are predominantly valued at the lower of LIFO cost or market, while non-U.S. inventories are valued at the lower of FIFO cost or market. The calculation of LIFO reserves, and therefore the net inventory valuation, is affected by inflation and deflation in inventory components. The Company ensures all inventory is valued at the lower of cost or market, and continually reviews the carrying value of discontinued product lines and stock-keeping-units (“SKUs”) to determine that these items are properly valued. The Company also continually evaluates the composition of its inventory and identifies obsolete and/or slow-moving inventories. Inventory items identified as obsolete and/or slow-moving are evaluated to determine if write-downs are required. The Company assesses the ability to dispose of these inventories at a price greater than cost. If it is determined that cost is less than market value, cost is used for inventory valuation. If market value is less than cost, the Company writes down the related inventory to that value. If a write down to the current market value is necessary, the market value cannot be greater than the net realizable value, or ceiling (defined as selling price less costs to sell and dispose), and cannot be lower than the net realizable value less a normal profit margin, also called the floor. If the Company is not able to achieve its expectations regarding net realizable value of inventory at its current value, further write-downs would be recorded.
+GOODWILL AND INTANGIBLE ASSETS — The Company acquires businesses in purchase transactions that result in the recognition of goodwill and intangible assets. The determination of the value of intangible assets requires management to make estimates and assumptions. In accordance with ASC 350-20, “Goodwill,” acquired goodwill and indefinite-lived intangible assets are not amortized but are subject to impairment testing at least annually and when an event occurs or circumstances change that indicate it is more likely than not an impairment exists. Definite lived intangible assets are amortized and are tested for impairment when appropriate. Goodwill represents costs in excess of fair values assigned to the underlying net assets of acquired businesses. The Company reported $7.565 billion of goodwill, $1.614 billion of indefinite-lived trade names and $1.453 billion of definite-lived intangibles at December 28, 2013.
+Management tests goodwill for impairment at the reporting unit level. A reporting unit is an operating segment as defined in ASC 280, “Segment Reporting,” or one level below an operating segment (component level) as determined by the availability of discrete financial information that is regularly reviewed by operating segment management or an aggregate of component levels of a operating segment having similar economic characteristics. If the carrying value of a reporting unit (including the value of goodwill) is greater than its fair value, an impairment may exist. An impairment charge would be recorded to the extent that the recorded value of goodwill exceeded the implied fair value.
+As required by the Company’s policy, goodwill and indefinite-lived trade names were tested for impairment in the third quarter of 2013. The Company adopted ASU 2011-08, “Intangibles - Goodwill and Other (Topic 350): Testing Goodwill for Impairment,” for its 2013 goodwill impairment test. ASU 2011-08 permits companies to first assess qualitative factors to determine whether it is more-likely-than-not that the fair value of a reporting unit is less than its carrying amount as a basis for determining whether it is necessary to perform the two-step quantitative goodwill impairment test. Under the two-step quantitative goodwill impairment test, the fair value of the reporting unit is compared to its respective carrying amount including goodwill. If the fair value exceeds the carrying amount, then no impairment exists.  If the carrying amount exceeds the fair value, further analysis is performed to assess impairment. Such tests are completed separately with respect to the goodwill of each of the Company’s reporting units. Accordingly, the Company applied the qualitative assessment for four of its reporting units, while performing the two-step quantitative test for the remaining two reporting units. Based on the results of the annual 2013 impairment testing, the Company determined that the fair values of each of its reporting units exceeded their respective carrying amounts.
+In performing the qualitative assessment, the Company identified and considered the significance of relevant key factors, events, and circumstances that could affect the fair value of each reporting unit. These factors include external factors such as macroeconomic, industry, and market conditions, as well as entity-specific factors, such as actual and planned financial performance. The Company also assessed changes in each reporting unit's fair value and carrying value since the most recent date a fair value measurement was performed. As a result of the qualitative assessments performed, the Company concluded that it is not more-likely-than-not that the fair value of each reporting unit exceeded its respective carrying value and therefore, no additional quantitative impairment testing was performed.
+With respect to the two-step quantitative tests, the Company assessed the fair value of the two reporting units using a discounted cash flow valuation model, which is consistent with previous goodwill impairment tests. The key assumptions applied to the cash flow projections were discount rates, which ranged from 8.5% to 9.0%, near-term revenue growth rates over the next five years, which ranged from 0% to 6%, and a perpetual growth rate of 3.5%. These assumptions contemplated business, market and overall economic conditions. Management performed sensitivity analyses on the fair values resulting
+
+36
+
+
+from the discounted cash flows valuation utilizing more conservative assumptions that reflect reasonably likely future changes in the discount rates and perpetual growth rate in each of the reporting units. The discount rates were increased by 100 basis points with no impairment indicated. The perpetual growth rate was decreased by 150 basis points with no impairment indicated. Based upon the Company's 2013 annual impairment testing analyses, including the consideration of reasonably likely adverse changes in assumptions described above, management believes it is not reasonably likely that an impairment will occur in any of the reporting units over the next twelve months.
+The fair values of indefinite-lived trade names were also assessed using a discounted cash flow valuation model. The key assumptions used included discount rates, royalty rates, and perpetual growth rates applied to the projected sales. Based on these quantitative impairment tests, the Company determined that the fair values of the indefinite-lived trade names exceeded their respective carrying amounts.
+
+In the event that the Company’s operating results in the future do not meet current expectations, management, based upon conditions at the time, would consider taking restructuring or other actions as necessary to maximize profitability. Accordingly, the above sensitivity analyses, while a useful tool, should not be used as a sole predictor of impairment. A thorough analysis of all the facts and circumstances existing at that time would need to be performed to determine if recording an impairment loss was appropriate.
+DEFINED BENEFIT OBLIGATIONS — The valuation of pension and other postretirement benefits costs and obligations is dependent on various assumptions. These assumptions, which are updated annually, include discount rates, expected return on plan assets, future salary increase rates, and health care cost trend rates. The Company considers current market conditions, including interest rates, to establish these assumptions. Discount rates are developed considering the yields available on high-quality fixed income investments with maturities corresponding to the duration of the related benefit obligations. The Company’s weighted-average discount rates for the United States and international pension plans were 4.50% and 4.00%, respectively, at December 28, 2013.
+The Company’s weighted-average discount rate for the United States and international pension plans was 3.75% and 4.00%, respectively at December 29, 2012. As discussed further in Note L, Employee Benefit Plans, the Company develops the expected return on plan assets considering various factors, which include its targeted asset allocation percentages, historic returns, and expected future returns. The Company’s expected rate of return assumption for the United States and international pension plans were 6.25% and 6.00%, respectively, at December 28, 2013. The Company will use a 6.50% weighted-average expected rate of return assumption to determine the 2014 net periodic benefit cost. A 25 basis point reduction in the expected rate of return assumption would increase 2014 net periodic benefit cost by approximately $5 million, pre-tax.
+The Company believes that the assumptions used are appropriate; however, differences in actual experience or changes in the assumptions may materially affect the Company’s financial position or results of operations. To the extent that actual (newly measured) results differ from the actuarial assumptions, the difference is recognized in accumulated other comprehensive income, and, if in excess of a specified corridor, amortized over future periods. The expected return on plan assets is determined using the expected rate of return and the fair value of plan assets. Accordingly, market fluctuations in the fair value of plan assets can affect the net periodic benefit cost in the following year. The projected benefit obligation for defined benefit plans exceeded the fair value of plan assets by $780 million at December 28, 2013. A 25 basis point reduction in the discount rate would have increased the projected benefit obligation by approximately $91 million at December 28, 2013. The primary Black & Decker U.S pension and post employment benefit plans were curtailed in late 2010, as well as the only material Black & Decker international plan, and in their place the Company implemented defined contribution benefit plans. The vast majority of the projected benefit obligation pertains to plans that have been frozen; the remaining defined benefit plans that are not frozen are predominantly small domestic union plans and those that are statutorily mandated in certain international jurisdictions. The Company recognized $27 million of defined benefit plan expense in 2013, which may fluctuate in future years depending upon various factors including future discount rates and actual returns on plan assets.
+ENVIRONMENTAL — The Company incurs costs related to environmental issues as a result of various laws and regulations governing current operations as well as the remediation of previously contaminated sites. Future laws and regulations are expected to be increasingly stringent and will likely increase the Company’s expenditures related to environmental matters.
+The Company’s policy is to accrue environmental investigatory and remediation costs for identified sites when it is probable that a liability has been incurred and the amount of loss can be reasonably estimated. The amount of liability recorded is based on an evaluation of currently available facts with respect to each individual site and includes such factors as existing technology, presently enacted laws and regulations, and prior experience in remediation of contaminated sites. The liabilities recorded do not take into account any claims for recoveries from insurance or third parties. As assessments and remediation progress at individual sites, the amounts recorded are reviewed periodically and adjusted to reflect additional technical and legal information that becomes available.
+
+37
+
+
+As of December 28, 2013, the Company had reserves of $184 million for remediation activities associated with Company-owned properties as well as for Superfund sites, for losses that are probable and estimable. The range of environmental remediation costs that is reasonably possible is $138 million to $274 million which is subject to change in the near term. The Company may be liable for environmental remediation of sites it no longer owns. Liabilities have been recorded on those sites in accordance with this policy.
+
+INCOME TAXES — Income taxes are accounted for in accordance with ASC 740, "Accounting for Income Taxes," which requires that deferred tax assets and liabilities be recognized, using enacted tax rates, for the effect of temporary differences between the book and tax bases of recorded assets and liabilities. Deferred tax assets, including net operating losses and capital losses, are reduced by a valuation allowance if it is “more likely than not” that some portion or all of the deferred tax assets will not be realized.
+
+In assessing the need for a valuation allowance, the Company considers all positive and negative evidence including; estimates of future taxable income, considering the feasibility of ongoing tax planning strategies, the realizability of tax loss carry-forwards and the future reversal of existing temporary differences. Valuation allowances related to deferred tax assets can be impacted by changes to tax laws, changes to statutory tax rates and future taxable income levels. In the event the Company were to determine that it would not be able to realize all or a portion of its deferred tax assets in the future, the unrealizable amount would be charged to earnings in the period in which that determination is made. By contrast, if the Company were to determine that it would be able to realize deferred tax assets in the future in excess of the net carrying amounts, it would decrease the recorded valuation allowance through a favorable adjustment to earnings in the period in which that determination is made.
+
+The company is subject to tax in a number of locations, including many state and foreign jurisdictions. Significant judgment is required when calculating its worldwide provision for income taxes. The Company considers many factors when evaluating and estimating its tax positions and tax benefits, which may require periodic adjustments and which may not accurately anticipate actual outcomes. It is reasonably possible that the amount of the unrecognized benefit with respect to certain of the Company's unrecognized tax positions will significantly increase or decrease within the next 12 months. These changes may be the result of settlement of ongoing audits or final decisions in transfer pricing matters. The Company periodically assesses its liabilities and contingencies for all tax years still subject to audit based on the most current available information, which involves inherent uncertainty. For those tax positions where it is more likely than not that a tax benefit will be sustained, the Company has recorded the largest amount of tax benefit with a greater than 50% likelihood of being realized upon ultimate settlement with a taxing authority under the premise that the taxing authority has full knowledge of all relevant information. For those income tax positions where it is not more likely than not that a tax benefit will be sustained, no tax benefit has been recognized in the financial statements. The Company recognizes interest and penalties associated with uncertain tax positions as a component of income taxes in the Consolidated Statement of Operations. See Note Q, Income Taxes, in the Notes to Consolidated Financial Statements for further discussion.
+RISK INSURANCE — To manage its insurance costs efficiently, the Company self insures for certain U.S. business exposures and generally has low deductible plans internationally. For domestic workers’ compensation, automobile and product liability (liability for alleged injuries associated with the Company’s products), the Company generally purchases outside insurance coverage only for severe losses (“stop loss” insurance) and these lines of insurance involve the most significant accounting estimates. While different stop loss deductibles exist for each of these lines of insurance, the maximum stop loss deductible is set at no more than $5 million per occurrence and $40 million in the aggregate per annum. The process of establishing risk insurance reserves includes consideration of actuarial valuations that reflect the Company’s specific loss history, actual claims reported, and industry trends among statistical and other factors to estimate the range of reserves required. Risk insurance reserves are comprised of specific reserves for individual claims and additional amounts expected for development of these claims, as well as for incurred but not yet reported claims discounted to present value. The cash outflows related to risk insurance claims are expected to occur over a maximum of 13 years. The Company believes the liabilities recorded for these U.S. risk insurance reserves, totaling $105 million and $106 million as of December 28, 2013, and December 29, 2012, respectively, are adequate. Due to judgments inherent in the reserve estimation process it is possible the ultimate costs will differ from this estimate.
+WARRANTY — The Company provides product and service warranties which vary across its businesses. The types of warranties offered generally range from one year to limited lifetime, while certain products carry no warranty. Further, the Company sometimes incurs discretionary costs to service its products in connection with product performance issues. Historical warranty and service claim experience forms the basis for warranty obligations recognized. Adjustments are recorded to the warranty liability as new information becomes available. The Company believes the $122 million reserve for expected warranty claims as of December 28, 2013 is adequate, but due to judgments inherent in the reserve estimation process, including forecasting future product reliability levels and costs of repair as well as the estimated age of certain products submitted for claims, the ultimate claim costs may differ from the recorded warranty liability. The Company also establishes a reserve for
+
+38
+
+
+product recalls on a product-specific basis during the period in which the circumstances giving rise to the recall become known and estimable for both company initiated actions and those required by regulatory bodies.
+OFF-BALANCE SHEET ARRANGEMENT
+SYNTHETIC LEASES — The Company is a party to synthetic leasing programs for one of its major distribution centers and certain U.S. personal property, predominately vehicles and equipment. The programs qualify as operating leases for accounting purposes, such that only the monthly rent expense is recorded in the Statement of Operations and the liability and value of the underlying assets are off-balance sheet.
+These lease programs are utilized primarily to reduce overall cost and to retain flexibility. The cash outflows for lease payments approximate the $1 million of rent expense recognized in fiscal 2013. As of December 28, 2013 the estimated fair value of assets and remaining obligations for these properties were $31 million and $26 million, respectively.
+
+
+
+39
+
+
+CAUTIONARY STATEMENTS UNDER THE PRIVATE SECURITIES LITIGATION REFORM
+ACT OF 1995
+
+
+Certain statements contained in this Annual Report on form 10-K that are not historical, including but not limited to those regarding the Company’s ability to: (i) achieve full year 2014 diluted EPS of $5.30 - $5.50 ($5.18 - $5.38 on a GAAP basis); (ii) deliver organic growth of approximately 4% in 2014; (iii) generate approximately $675 million of free cash flow for 2014 which includes approximately $250 million of merger and acquisition-related payments; and (iv) deliver approximately $850 million of incremental revenue over the three year period ending in 2015 (collectively, the “Results”); are “forward looking statements” and subject to risk and uncertainty.
+
+The Company’s ability to deliver the Results as described above is based on current expectations and involves inherent risks and uncertainties, including factors listed below and other factors that could delay, divert, or change any of them, and could cause actual outcomes and results to differ materially from current expectations. In addition to the risks, uncertainties and other factors discussed elsewhere herein, the risks, uncertainties and other factors that could cause or contribute to actual results differing materially from those expressed or implied in the forward looking statements include, without limitation, those set forth under Item 1A Risk Factors hereto and any material changes thereto set forth in any subsequent Quarterly Reports on Form 10-Q, or those contained in the Company’s other filings with the Securities and Exchange Commission, and those set forth below.
+
+The Company’s ability to deliver the Results is dependent, or based, upon: (i) the Company’s ability to execute its integration plans and achieve synergies primarily from the Infastech acquisition sufficient to generate $0.10 of EPS accretion in 2014; (ii) the Company’s ability to generate organic net sales increases of approximately 4% in 2014; (iii) the Company’s ability to continue to identify and execute upon sales opportunities to increase its CDIY, IAR and Security businesses in the emerging markets while minimizing associated costs; (iv) the Company’s ability to achieve a tax rate of approximately 21-22% in 2014; (v) the Company’s ability to limit the increase in interest and other expense to approximately $0.10-$0.15 of EPS in 2014; (vi) the Company’s ability to improve margins in the Security business by at least 150 basis points in 2014; (vii) the Company’s ability to generate approximately $0.20 of EPS accretion in 2014 through cost reductions in its CDIY and Industrial segments and its corporate functions; (viii) the Company’s ability to limit one-time charges primarily associated with the Infastech acquisition to $25 million in 2014; (ix) successful integration of acquisitions completed in 2012 and 2013, as well as integration of existing businesses; (x) the continued acceptance of technologies used in the Company’s products and services; (xi) the Company’s ability to manage existing Sonitrol franchisee and Mac Tools relationships; (xii) the Company’s ability to minimize costs associated with any sale or discontinuance of a business or product line, including any severance, restructuring, legal or other costs; (xiii) the proceeds realized with respect to any business or product line disposals; (xiv) the extent of any asset impairments with respect to any businesses or product lines that are sold or discontinued; (xv) the success of the Company’s efforts to manage freight costs, steel and other commodity costs as well as capital expenditures; (xvi) the Company’s ability to sustain or increase prices in order to, among other things, offset or mitigate the impact of steel, freight, energy, non-ferrous commodity and other commodity costs and any inflation increases; (xvii) the Company’s ability to generate free cash flow and maintain a strong debt to capital ratio; (xviii) the Company’s ability to identify and effectively execute productivity improvements and cost reductions, while minimizing any associated restructuring charges; (xix) the Company’s ability to obtain favorable settlement of tax audits; (xx) the ability of the Company to generate earnings sufficient to realize future income tax benefits during periods when temporary differences become deductible; (xxi) the continued ability of the Company to access credit markets under satisfactory terms; (xxii) the Company’s ability to negotiate satisfactory payment terms under which the Company buys and sells goods, services, materials and products; (xxiii) the Company’s ability to successfully develop, market and achieve sales from new products and services; and (xxiv) the availability of cash to repurchase shares when conditions are right.
+
+The Company’s ability to deliver the Results is also dependent upon: (i) the success of the Company’s marketing and sales efforts, including the ability to develop and market new and innovative products in both existing and new markets; (ii) the ability of the Company to maintain or improve production rates in the Company’s manufacturing facilities, respond to significant changes in product demand and fulfill demand for new and existing products; (iii) the Company’s ability to continue improvements in working capital through effective management of accounts receivable and inventory levels; (iv) the ability to continue successfully managing and defending claims and litigation; (v) the success of the Company’s efforts to mitigate any cost increases generated by, for example, increases in the cost of energy or significant Chinese Renminbi or other currency appreciation; (vi) the geographic distribution of the Company’s earnings; (vii) the commitment to and success of the Stanley Fulfillment System; and (viii) successful implementation with expected results of cost reduction programs.
+
+
+40
+
+
+The Company’s ability to achieve the Results will also be affected by external factors. These external factors include: challenging global macroeconomic environment; the continued economic growth of emerging markets, particularly Latin America; pricing pressure and other changes within competitive markets; the continued consolidation of customers particularly in consumer channels; inventory management pressures on the Company’s customers; the impact the tightened credit markets may have on the Company or its customers or suppliers; the extent to which the Company has to write off accounts receivable or assets or experiences supply chain disruptions in connection with bankruptcy filings by customers or suppliers; increasing competition; changes in laws, regulations and policies that affect the Company, including, but not limited to trade, monetary, tax and fiscal policies and laws; the timing and extent of any inflation or deflation; currency exchange fluctuations; the impact of dollar/foreign currency exchange and interest rates on the competitiveness of products and the Company’s debt program; the strength of the U.S. and European economies; the extent to which world-wide markets associated with homebuilding and remodeling stabilize and rebound; the impact of events that cause or may cause disruption in the Company’s supply, manufacturing, distribution and sales networks such as war, terrorist activities, and political unrest; and recessionary or expansive trends in the economies of the world in which the Company operates. The Company undertakes no obligation to publicly update or revise any forward-looking statements to reflect events or circumstances that may arise after the date hereof.
+Unless required by applicable federal securities laws, the Company undertakes no obligation to publicly update or revise any forward looking statements to reflect events or circumstances that may arise after the date hereof. Investors are advised, however, to consult any further disclosures made on related subjects in the Company's reports filed with the Securities and Exchange Commission.
+In addition to the foregoing, some of the agreements included as exhibits to this Annual Report on Form 10-K (whether incorporated by reference to earlier filings or otherwise) may contain representations and warranties, recitals or other statements that appear to be statements of fact. These agreements are included solely to provide investors with information regarding their terms and are not intended to provide any other factual or disclosure information about the Company or the other parties to the agreements. Representations and warranties, recitals, and other common disclosure provisions have been included in the agreements solely for the benefit of the other parties to the applicable agreements and often are used as a means of allocating risk among the parties.
+Accordingly, such statements (i) should not be treated as categorical statements of fact; (ii) may be qualified by disclosures that were made to the other parties in connection with the negotiation of the applicable agreements, which disclosures are not necessarily reflected in the agreement or included as exhibits hereto; (iii) may apply standards of materiality in a way that is different from what may be viewed as material by or to investors in or lenders to the Company; and (iv) were made only as of the date of the applicable agreement or such other date or dates as may be specified in the agreement and are subject to more recent developments. Accordingly, representations and warranties, recitals or other disclosures contained in agreements may not describe the actual state of affairs as of the date they were made or at any other time and should not be relied on by any person other than the parties thereto in accordance with their terms. Additional information about the Company may be found in this Annual Report on Form 10-K and the Company's other public filings, which are available without charge through the SEC's website at http://www.sec.gov.

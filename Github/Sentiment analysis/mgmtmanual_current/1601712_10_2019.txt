@@ -1,0 +1,5657 @@
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes included elsewhere in this report. The discussion below contains forward-looking statements that are based upon current expectations and are subject to uncertainty and changes in circumstances. Actual results may differ materially from these expectations. See “Cautionary Note Regarding Forward-Looking Statements.”
+ 
+Selected Five-Year Financial Data
+____________________________________________________________________________________________
+Consolidated and Combined Statements of Earnings Information
+ 
+Years Ended December 31,
+($ in millions, except per share data)
+2018
+ 
+2017
+ 
+2016
+ 
+2015
+ 
+2014
+Interest income
+$
+17,988
+
+ 
+$
+16,407
+
+ 
+$
+14,778
+
+ 
+$
+13,228
+
+ 
+$
+12,242
+
+Interest expense
+1,870
+
+ 
+1,391
+
+ 
+1,248
+
+ 
+1,135
+
+ 
+922
+
+Net interest income
+16,118
+
+ 
+15,016
+
+ 
+13,530
+
+ 
+12,093
+
+ 
+11,320
+
+Retailer share arrangements
+(3,099
+)
+ 
+(2,937
+)
+ 
+(2,902
+)
+ 
+(2,738
+)
+ 
+(2,575
+)
+Net interest income, after retailer share arrangements
+13,019
+
+ 
+12,079
+
+ 
+10,628
+
+ 
+9,355
+
+ 
+8,745
+
+Provision for loan losses
+5,545
+
+ 
+5,296
+
+ 
+3,986
+
+ 
+2,952
+
+ 
+2,917
+
+Net interest income, after retailer share arrangements and provision for loan losses
+7,474
+
+ 
+6,783
+
+ 
+6,642
+
+ 
+6,403
+
+ 
+5,828
+
+Other income
+265
+
+ 
+288
+
+ 
+344
+
+ 
+392
+
+ 
+485
+
+Other expense
+4,095
+
+ 
+3,747
+
+ 
+3,416
+
+ 
+3,264
+
+ 
+2,927
+
+Earnings before provision for income taxes
+3,644
+
+ 
+3,324
+
+ 
+3,570
+
+ 
+3,531
+
+ 
+3,386
+
+Provision for income taxes
+854
+
+ 
+1,389
+
+ 
+1,319
+
+ 
+1,317
+
+ 
+1,277
+
+Net earnings
+$
+2,790
+
+ 
+$
+1,935
+
+ 
+$
+2,251
+
+ 
+$
+2,214
+
+ 
+$
+2,109
+
+Weighted average shares outstanding (in millions)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basic
+742.3
+
+ 
+795.6
+
+ 
+829.2
+
+ 
+833.8
+
+ 
+757.4
+
+Diluted
+746.9
+
+ 
+799.7
+
+ 
+831.5
+
+ 
+835.5
+
+ 
+757.6
+
+Earnings per share
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basic
+$
+3.76
+
+ 
+$
+2.43
+
+ 
+$
+2.71
+
+ 
+$
+2.66
+
+ 
+$
+2.78
+
+Diluted
+$
+3.74
+
+ 
+$
+2.42
+
+ 
+$
+2.71
+
+ 
+$
+2.65
+
+ 
+$
+2.78
+
+Dividends declared per common share
+$
+0.72
+
+ 
+$
+0.56
+
+ 
+$
+0.26
+
+ 
+$
+—
+
+ 
+$
+—
+
+
+25
+
+
+Consolidated and Combined Statements of Financial Position Information
+($ in millions)
+At December 31,
+2018
+ 
+2017
+ 
+2016
+ 
+2015
+ 
+2014
+Assets:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash and equivalents
+$
+9,396
+
+ 
+$
+11,602
+
+ 
+$
+9,321
+
+ 
+$
+12,325
+
+ 
+$
+11,828
+
+Debt securities
+6,062
+
+ 
+4,473
+
+ 
+5,095
+
+ 
+3,127
+
+ 
+1,583
+
+Loan receivables
+93,139
+
+ 
+81,947
+
+ 
+76,337
+
+ 
+68,290
+
+ 
+61,286
+
+Allowance for loan losses
+(6,427
+)
+ 
+(5,574
+)
+ 
+(4,344
+)
+ 
+(3,497
+)
+ 
+(3,236
+)
+Loan receivables held for sale
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+332
+
+Goodwill
+1,024
+
+ 
+991
+
+ 
+949
+
+ 
+949
+
+ 
+949
+
+Intangible assets, net
+1,137
+
+ 
+749
+
+ 
+712
+
+ 
+701
+
+ 
+519
+
+Other assets
+2,461
+
+ 
+1,620
+
+ 
+2,137
+
+ 
+2,095
+
+ 
+2,273
+
+Total assets
+$
+106,792
+
+ 
+$
+95,808
+
+ 
+$
+90,207
+
+ 
+$
+83,990
+
+ 
+$
+75,534
+
+Liabilities and Equity:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total deposits
+$
+64,019
+
+ 
+$
+56,488
+
+ 
+$
+52,055
+
+ 
+$
+43,367
+
+ 
+$
+34,859
+
+Total borrowings
+23,996
+
+ 
+20,799
+
+ 
+20,147
+
+ 
+24,279
+
+ 
+27,383
+
+Accrued expenses and other liabilities
+4,099
+
+ 
+4,287
+
+ 
+3,809
+
+ 
+3,740
+
+ 
+2,814
+
+Total liabilities
+92,114
+
+ 
+81,574
+
+ 
+76,011
+
+ 
+71,386
+
+ 
+65,056
+
+Total equity
+14,678
+
+ 
+14,234
+
+ 
+14,196
+
+ 
+12,604
+
+ 
+10,478
+
+Total liabilities and equity
+$
+106,792
+
+ 
+$
+95,808
+
+ 
+$
+90,207
+
+ 
+$
+83,990
+
+ 
+$
+75,534
+
+
+26
+
+
+Results of Operations for the Three Years Ended December 31, 2018
+____________________________________________________________________________________________
+Key Earnings Metrics
+niandearnings.jpg
+nimefficiency.jpg
+Growth Metrics
+purchesvolumeloanreceivables.jpg
+activeaccountsandifa01.jpg
+
+27
+
+
+Asset Quality Metrics
+a30andncoa01.jpg
+a90andall.jpg
+Capital and Liquidity
+capitalliquiditya03.jpg
+
+28
+
+
+Highlights for Year Ended December 31, 2018
+Below are highlights of our performance for the year ended December 31, 2018 compared to the year ended December 31, 2017, as applicable, except as otherwise noted.
+•
+Net earnings increased 44.2% to $2,790 million for the year ended December 31, 2018, primarily driven by higher net interest income and lower provision for income taxes, partially offset by increases in provision for loan losses and other expense.
+•
+Loan receivables increased 13.7% to $93,139 million at December 31, 2018 compared to December 31, 2017, primarily driven by the PayPal Credit acquisition, higher purchase volume and average active account growth.
+•
+Net interest income increased 7.3% to $16,118 million for the year ended December 31, 2018, primarily due to the PayPal Credit acquisition and higher average loan receivables, partially offset by increases in interest expense reflecting higher benchmark interest rates.
+•
+Retailer share arrangements increased 5.5% to $3,099 million for the year ended December 31, 2018, primarily due to growth of the programs in which we have retailer share arrangements, including the PayPal Credit acquisition, partially offset by the impact from the Toys "R" Us bankruptcy.
+•
+Over-30 day loan delinquencies as a percentage of period-end loan receivables increased 9 basis points to 4.76% at December 31, 2018 from 4.67% at December 31, 2017, and net charge-off rate increased 26 basis points to 5.63% for the year ended December 31, 2018.
+•
+Provision for loan losses increased by $249 million, or 4.7%, for the year ended December 31, 2018, primarily due to the reserve build for the PayPal Credit portfolio, as well as higher net charge-offs. These increases were partially offset by a lower loan loss reserve build for our existing portfolio. Our allowance coverage ratio (allowance for loan losses as a percentage of end of period loan receivables) increased to 6.90% at December 31, 2018, as compared to 6.80% at December 31, 2017.
+•
+Other expense increased by $348 million, or 9.3%, for the year ended December 31, 2018, primarily driven by the PayPal Credit acquisition and business growth.
+•
+Provision for income taxes decreased by $535 million, or 38.5%, for the year ended December 31, 2018. This decrease was primarily due to the reduction in the 2018 U.S. corporate tax rate included in the Tax Act and $160 million of additional tax expense recognized in 2017 primarily related to the remeasurement of our net deferred tax asset.
+•
+We continue to invest in our direct banking activities to grow our deposit base. Total deposits increased 13.3% to $64.0 billion at December 31, 2018, compared to December 31, 2017, primarily driven by growth in our direct deposits of 15.7% to $49.4 billion.
+•
+On May 17, 2018, the Board announced plans to increase our quarterly dividend to $0.21 per share commencing in the third quarter of 2018 and approval of a share repurchase program of up to $2.2 billion through June 30, 2019. During the year ended December 31, 2018, we repurchased $1.9 billion of our outstanding common stock, and also declared and paid cash dividends of $0.72 per share, or $534 million.
+•
+During the year ended December 31, 2018, we announced our acquisition of Loop Commerce, a provider of digital and in-store gifting services.
+2018 Partner Agreements
+•
+We completed our acquisition of the U.S. PayPal Credit financing program, comprising of $7.6 billion of outstanding loan receivables. We also extended our existing co-brand credit card program with PayPal and Synchrony Bank is now PayPal’s exclusive issuing bank for the PayPal Credit consumer financing program in the United States.
+
+29
+
+
+•
+In July 2018, we announced that we will not be renewing our Retail Card program agreement with Walmart and on January 23, 2019, we announced our agreement to sell the outstanding loan receivables related to the program. The sale of the portfolio, which is subject to customary closing conditions, is expected to be completed late in the third quarter or early fourth quarter of 2019.
+•
+During the year ended December 31, 2018, and to date, we extended our Retail Card program agreements with Amazon, Google, JCPenney, Lowe's and Sam's Club and announced our new partnerships with Crate and Barrel, Harbor Freight Tools and with Qurate Retail Group, which included a new program agreement with HSN and multi-year extensions of our existing program agreements with QVC and zulily.
+•
+We extended our Payment Solutions program agreements with American Signature Furniture, Ashley HomeStore, Associated Materials, Briggs & Stratton, Generac, Havertys, Mohawk, Nationwide Marketing Group, Robbins Brothers and Sleep Number and announced our new partnerships with Fanatics, Furniture Row, Fred Meyer Jewelers, Mahindra and jtv.
+•
+In our CareCredit sales platform, we renewed our agreement with LCA Vision in our network of providers and expanded our network to include American Med Spa Association, the American Veterinary Medical Association, Eargo, The Good Feet Store, the Spa Industry Association and Walgreens.
+Highlights for Year Ended December 31, 2017
+Below are highlights of our performance for the year ended December 31, 2017 compared to the year ended December 31, 2016, as applicable, except as otherwise noted.
+•
+Net earnings decreased 14.0% to $1,935 million for the year ended December 31, 2017, primarily driven by increases in provision for loan losses and other expense, as well as the impact related to the Tax Act enacted in December 2017, partially offset by higher net interest income. Adjusted net earnings, excluding the additional tax expense related to the Tax Act, was $2,095 million.
+•
+Loan receivables increased 7.3% to $81,947 million at December 31, 2017 compared to December 31, 2016, primarily driven by higher purchase volume and average active account growth.
+•
+Net interest income increased 11.0% to $15,016 million for the year ended December 31, 2017, primarily due to higher average loan receivables.
+•
+Retailer share arrangements increased 1.2% to $2,937 million for the year ended December 31, 2017, primarily as a result of growth and margin improvement of the programs in which we have retailer share arrangements, largely offset by higher provision for loan losses associated with these programs.
+•
+Over-30 day loan delinquencies as a percentage of period-end loan receivables increased 35 basis points to 4.67% at December 31, 2017 from 4.32% at December 31, 2016, and net charge-off rate increased 80 basis points to 5.37% for the year ended December 31, 2017.
+•
+Provision for loan losses increased by $1,310 million, or 32.9%, for the year ended December 31, 2017, primarily due to an increase in net charge-offs and higher loan loss reserve. Our allowance coverage ratio (allowance for loan losses as a percentage of end of period loan receivables) increased to 6.80% at December 31, 2017, as compared to 5.69% at December 31, 2016.
+•
+Other expense increased by $331 million, or 9.7%, for the year ended December 31, 2017, primarily driven by business growth and marketing.
+•
+The enactment of the Tax Act in December 2017 resulted in additional tax expense of $160 million primarily due to the remeasurement of our net deferred tax asset and impacted certain financial measures for the year ended December 31, 2017 as follows:
+($ in millions)
+ 
+ 
+ 
+ 
+Net earnings
+$
+(160
+)
+ 
+Return on assets
+(0.2
+)%
+Effective income tax rate
+4.8
+%
+ 
+Return on equity
+(1.1
+)%
+
+30
+
+
+•
+We continue to invest in our direct banking activities to grow our deposit base. Total deposits increased 8.5% to $56.5 billion at December 31, 2017, compared to December 31, 2016, primarily driven by growth in our direct deposits of 12.7% to $42.7 billion, partially offset by a reduction in our brokered deposits.
+•
+On May 18, 2017, the Board announced plans to increase our quarterly dividend to $0.15 per share commencing in the third quarter of 2017 and approval of a share repurchase program of up to $1.64 billion through June 30, 2018. During the year ended December 31, 2017, we repurchased $1,496 million of our outstanding common stock, and also declared and paid cash dividends of $0.56 per share, or $446 million.
+•
+During the year ended December 31, 2017, we announced our acquisition of GPShopper, a developer of mobile applications that offers retailers and brands a full suite of commerce, engagement and analytical tools.
+2017 Partner Agreements
+•
+We extended our Retail Card program agreements with Belk, Evine, Men's Wearhouse and QVC, and launched our new programs with At Home, Cathay Pacific, Nissan and Infiniti and zulily.
+•
+We launched our Synchrony Car Care program and our new Synchrony HOME credit card network in our Payment Solutions sales platform and extended our program agreements with BrandsMart U.S.A.; City Furniture; Home Furnishings Association; Husqvarna Viking; MEGA Group USA, subsequently merged with Nationwide Buying Group to form Nationwide Marketing Group; Midas; Nautilus; Sweetwater and Yamaha.
+•
+In our CareCredit sales platform, we acquired the Citi Health Card portfolio, renewed Bosley, Mars Petcare, National Veterinary Associates and Sono Bello in our network of providers and launched our new CareCredit Dual Card.
+
+
+
+
+31
+
+
+Other Financial and Statistical Data
+The following table sets forth certain other financial and statistical data for the periods indicated.    
+At and for the years ended December 31 ($ in millions)
+2018
+ 
+2017
+ 
+2016
+Financial Position Data (Average):
+ 
+ 
+ 
+ 
+ 
+Loan receivables, including held for sale
+$
+83,304
+
+ 
+$
+75,702
+
+ 
+$
+68,649
+
+Total assets
+$
+99,568
+
+ 
+$
+91,107
+
+ 
+$
+84,400
+
+Deposits
+$
+59,498
+
+ 
+$
+53,400
+
+ 
+$
+47,399
+
+Borrowings
+$
+21,951
+
+ 
+$
+20,151
+
+ 
+$
+20,142
+
+Total equity
+$
+14,386
+
+ 
+$
+14,427
+
+ 
+$
+13,620
+
+Selected Performance Metrics:
+ 
+ 
+ 
+ 
+ 
+Purchase volume(1)
+$
+140,657
+
+ 
+$
+131,814
+
+ 
+$
+125,468
+
+Retail Card
+$
+113,066
+
+ 
+$
+106,239
+
+ 
+$
+101,242
+
+Payment Solutions
+$
+17,427
+
+ 
+$
+16,160
+
+ 
+$
+15,641
+
+CareCredit
+$
+10,164
+
+ 
+$
+9,415
+
+ 
+$
+8,585
+
+Average active accounts (in thousands)(2)
+73,847
+
+ 
+69,968
+
+ 
+66,928
+
+Net interest margin(3)
+15.97
+%
+ 
+16.35
+%
+ 
+16.10
+%
+Net charge-offs
+$
+4,692
+
+ 
+$
+4,066
+
+ 
+$
+3,139
+
+Net charge-offs as a % of average loan receivables, including held for sale
+5.63
+%
+ 
+5.37
+%
+ 
+4.57
+%
+Allowance coverage ratio(4)
+6.90
+%
+ 
+6.80
+%
+ 
+5.69
+%
+Return on assets(5)
+2.8
+%
+ 
+2.1
+%
+ 
+2.7
+%
+Return on equity(6)
+19.4
+%
+ 
+13.4
+%
+ 
+16.5
+%
+Equity to assets(7)
+14.45
+%
+ 
+15.84
+%
+ 
+16.14
+%
+Other expense as a % of average loan receivables, including held for sale
+4.92
+%
+ 
+4.95
+%
+ 
+4.98
+%
+Efficiency ratio(8)
+30.8
+%
+ 
+30.3
+%
+ 
+31.1
+%
+Effective income tax rate
+23.4
+%
+ 
+41.8
+%
+ 
+36.9
+%
+Selected Period End Data:
+ 
+ 
+ 
+ 
+ 
+Loan receivables
+$
+93,139
+
+ 
+$
+81,947
+
+ 
+$
+76,337
+
+Allowance for loan losses
+$
+6,427
+
+ 
+$
+5,574
+
+ 
+$
+4,344
+
+30+ days past due as a % of period-end loan receivables(9)
+4.76
+%
+ 
+4.67
+%
+ 
+4.32
+%
+90+ days past due as a % of period-end loan receivables(9)
+2.29
+%
+ 
+2.28
+%
+ 
+2.03
+%
+Total active accounts (in thousands)(2)
+80,339
+
+ 
+74,541
+
+ 
+71,890
+
+__________________
+(1)
+Purchase volume, or net credit sales, represents the aggregate amount of charges incurred on credit cards or other credit product accounts less returns during the period. Purchase volume includes activity related to our portfolios classified as held for sale.
+(2)
+Active accounts represent credit card or installment loan accounts on which there has been a purchase, payment or outstanding balance in the current month.
+(3)
+Net interest margin represents net interest income divided by average interest-earning assets.
+(4)
+Allowance coverage ratio represents allowance for loan losses divided by total period-end loan receivables.
+(5)
+Return on assets represents net earnings as a percentage of average total assets.
+(6)
+Return on equity represents net earnings as a percentage of average total equity.
+(7)
+Equity to assets represents average equity as a percentage of average total assets.
+(8)
+Efficiency ratio represents (i) other expense, divided by (ii) net interest income, after retailer share arrangements, plus other income.
+(9)
+Based on customer statement-end balances extrapolated to the respective period-end date.
+
+
+
+32
+
+
+Average Balance Sheet
+The following table sets forth information for the periods indicated regarding average balance sheet data, which are used in the discussion of interest income, interest expense and net interest income that follows.
+ 
+2018
+ 
+2017
+2016
+Years ended December 31  ($ in millions)
+Average
+Balance
+ 
+Interest
+Income /
+Expense
+ 
+Average
+Yield /
+Rate(1)
+ 
+Average
+Balance
+ 
+Interest
+Income/
+Expense
+ 
+Average
+Yield /
+Rate(1)
+ 
+Average
+Balance
+ 
+Interest
+Income/
+Expense
+ 
+Average
+Yield /
+Rate(1)
+Assets
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest-earning assets:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest-earning cash and equivalents(2)
+$
+11,059
+
+ 
+$
+207
+
+ 
+1.87
+%
+ 
+$
+11,707
+
+ 
+$
+129
+
+ 
+1.10
+%
+ 
+$
+12,152
+
+ 
+$
+63
+
+ 
+0.52
+%
+Securities available for sale
+6,566
+
+ 
+137
+
+ 
+2.09
+%
+ 
+4,449
+
+ 
+59
+
+ 
+1.33
+%
+ 
+3,220
+
+ 
+33
+
+ 
+1.02
+%
+Loan receivables(3):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Credit cards, including held for sale
+80,219
+
+ 
+17,342
+
+ 
+21.62
+%
+ 
+72,795
+
+ 
+15,941
+
+ 
+21.90
+%
+ 
+65,947
+
+ 
+14,424
+
+ 
+21.87
+%
+Consumer installment loans
+1,698
+
+ 
+156
+
+ 
+9.19
+%
+ 
+1,491
+
+ 
+137
+
+ 
+9.19
+%
+ 
+1,274
+
+ 
+117
+
+ 
+9.18
+%
+Commercial credit products
+1,333
+
+ 
+144
+
+ 
+10.80
+%
+ 
+1,366
+
+ 
+139
+
+ 
+10.18
+%
+ 
+1,372
+
+ 
+139
+
+ 
+10.13
+%
+Other
+54
+
+ 
+2
+
+ 
+3.70
+%
+ 
+50
+
+ 
+2
+
+ 
+4.00
+%
+ 
+56
+
+ 
+2
+
+ 
+3.57
+%
+Total loan receivables
+83,304
+
+ 
+17,644
+
+ 
+21.18
+%
+ 
+75,702
+
+ 
+16,219
+
+ 
+21.42
+%
+ 
+68,649
+
+ 
+14,682
+
+ 
+21.39
+%
+Total interest-earning assets
+100,929
+
+ 
+17,988
+
+ 
+17.82
+%
+ 
+91,858
+
+ 
+16,407
+
+ 
+17.86
+%
+ 
+84,021
+
+ 
+14,778
+
+ 
+17.59
+%
+Non-interest-earning assets:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash and due from banks
+1,224
+
+ 
+ 
+ 
+ 
+ 
+887
+
+ 
+ 
+ 
+ 
+ 
+965
+
+ 
+ 
+ 
+ 
+Allowance for loan losses
+(5,900
+)
+ 
+ 
+ 
+ 
+ 
+(4,942
+)
+ 
+ 
+ 
+ 
+ 
+(3,872
+)
+ 
+ 
+ 
+ 
+Other assets
+3,315
+
+ 
+ 
+ 
+ 
+ 
+3,304
+
+ 
+ 
+ 
+ 
+ 
+3,286
+
+ 
+ 
+ 
+ 
+Total non-interest-earning assets
+(1,361
+)
+ 
+ 
+ 
+ 
+ 
+(751
+)
+ 
+ 
+ 
+ 
+ 
+379
+
+ 
+ 
+ 
+ 
+Total assets
+$
+99,568
+
+ 
+ 
+ 
+ 
+ 
+$
+91,107
+
+ 
+ 
+ 
+ 
+ 
+$
+84,400
+
+ 
+ 
+ 
+ 
+Liabilities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest-bearing liabilities:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest-bearing deposit accounts
+$
+59,216
+
+ 
+$
+1,186
+
+ 
+2.00
+%
+ 
+$
+53,173
+
+ 
+$
+848
+
+ 
+1.59
+%
+ 
+$
+47,194
+
+ 
+$
+727
+
+ 
+1.54
+%
+Borrowings of consolidated securitization entities
+12,694
+
+ 
+344
+
+ 
+2.71
+%
+ 
+12,179
+
+ 
+263
+
+ 
+2.16
+%
+ 
+12,428
+
+ 
+244
+
+ 
+1.96
+%
+Bank Term Loan(4)
+—
+
+ 
+—
+
+ 
+—
+%
+ 
+—
+
+ 
+—
+
+ 
+—
+%
+ 
+556
+
+ 
+31
+
+ 
+5.58
+%
+Senior unsecured notes
+9,257
+
+ 
+340
+
+ 
+3.67
+%
+ 
+7,972
+
+ 
+280
+
+ 
+3.51
+%
+ 
+7,158
+
+ 
+246
+
+ 
+3.44
+%
+Total interest-bearing liabilities
+81,167
+
+ 
+1,870
+
+ 
+2.30
+%
+ 
+73,324
+
+ 
+1,391
+
+ 
+1.90
+%
+ 
+67,336
+
+ 
+1,248
+
+ 
+1.85
+%
+Non-interest-bearing liabilities:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-interest-bearing deposit accounts
+282
+
+ 
+ 
+ 
+ 
+ 
+227
+
+ 
+ 
+ 
+ 
+ 
+205
+
+ 
+ 
+ 
+ 
+Other liabilities
+3,733
+
+ 
+ 
+ 
+ 
+ 
+3,129
+
+ 
+ 
+ 
+ 
+ 
+3,239
+
+ 
+ 
+ 
+ 
+Total non-interest-bearing liabilities
+4,015
+
+ 
+ 
+ 
+ 
+ 
+3,356
+
+ 
+ 
+ 
+ 
+ 
+3,444
+
+ 
+ 
+ 
+ 
+Total liabilities
+85,182
+
+ 
+ 
+ 
+ 
+ 
+76,680
+
+ 
+ 
+ 
+ 
+ 
+70,780
+
+ 
+ 
+ 
+ 
+Equity
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total equity
+14,386
+
+ 
+ 
+ 
+ 
+ 
+14,427
+
+ 
+ 
+ 
+ 
+ 
+13,620
+
+ 
+ 
+ 
+ 
+Total liabilities and equity
+$
+99,568
+
+ 
+ 
+ 
+ 
+ 
+$
+91,107
+
+ 
+ 
+ 
+
+ 
+$
+84,400
+
+ 
+ 
+ 
+ 
+Interest rate spread(5)
+ 
+ 
+ 
+ 
+15.52
+%
+ 
+ 
+ 
+ 
+ 
+15.96
+%
+ 
+ 
+ 
+ 
+ 
+15.74
+%
+Net interest income
+ 
+ 
+$
+16,118
+
+ 
+ 
+ 
+ 
+ 
+$
+15,016
+
+ 
+ 
+ 
+ 
+ 
+$
+13,530
+
+ 
+ 
+Net interest margin(6)
+ 
+ 
+ 
+ 
+15.97
+%
+ 
+ 
+ 
+ 
+ 
+16.35
+%
+ 
+ 
+ 
+ 
+ 
+16.10
+%
+____________________
+(1)
+Average yields/rates are based on total interest income/expense over average balances.
+(2)
+Includes average restricted cash balances of $512 million, $642 million and $436 million for the years ended December 31, 2018, 2017 and 2016, respectively.
+
+33
+
+
+(3)
+Interest income on loan receivables includes fees on loans of $2,723 million, $2,609 million and $2,458 million for the years ended December 31, 2018, 2017 and 2016, respectively.
+(4)
+The effective interest rates for the Bank Term Loan for the year ended December 31, 2016 was 2.48%. The Bank Term Loan's effective rate excludes the impact of charges incurred in connection with prepayments of the loan.
+(5)
+Interest rate spread represents the difference between the yield on total interest-earning assets and the rate on total interest-bearing liabilities.
+(6)
+Net interest margin represents net interest income divided by average total interest-earning assets.
+The following table sets forth the amount of changes in interest income and interest expense due to changes in average volume and average yield/rate. Variances due to changes in both average volume and average yield/rate have been allocated between the average volume and average yield/rate variances on a consistent basis based upon the respective percentage changes in average volume and average yield/rate.
+ 
+2018 vs. 2017
+ 
+2017 vs. 2016
+ 
+Increase (decrease) due to change in:
+ 
+Increase (decrease) due to change in:
+($ in millions)
+Average Volume
+ 
+Average Yield / Rate
+ 
+Net Change
+ 
+Average Volume
+ 
+Average Yield / Rate
+ 
+Net Change
+Interest-earning assets:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest-earning cash and equivalents
+$
+(7
+)
+ 
+$
+85
+
+ 
+$
+78
+
+ 
+$
+(2
+)
+ 
+$
+68
+
+ 
+$
+66
+
+Securities available for sale
+35
+
+ 
+43
+
+ 
+78
+
+ 
+15
+
+ 
+11
+
+ 
+26
+
+Loan receivables:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Credit cards, including held for sale
+1,607
+
+ 
+(206
+)
+ 
+1,401
+
+ 
+1,497
+
+ 
+20
+
+ 
+1,517
+
+Consumer installment loans
+19
+
+ 
+—
+
+ 
+19
+
+ 
+20
+
+ 
+—
+
+ 
+20
+
+Commercial credit products
+(3
+)
+ 
+8
+
+ 
+5
+
+ 
+(1
+)
+ 
+1
+
+ 
+—
+
+Other
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+Total loan receivables
+1,623
+
+ 
+(198
+)
+ 
+1,425
+
+ 
+1,516
+
+ 
+21
+
+ 
+1,537
+
+Change in interest income from total interest-earning assets
+$
+1,651
+
+ 
+$
+(70
+)
+ 
+$
+1,581
+
+ 
+$
+1,529
+
+ 
+$
+100
+
+ 
+$
+1,629
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest-bearing liabilities:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest-bearing deposit accounts
+$
+103
+
+ 
+$
+235
+
+ 
+$
+338
+
+ 
+$
+96
+
+ 
+$
+25
+
+ 
+$
+121
+
+Borrowings of consolidated securitization entities
+11
+
+ 
+70
+
+ 
+81
+
+ 
+(5
+)
+ 
+24
+
+ 
+19
+
+Bank term loan
+—
+
+ 
+—
+
+ 
+—
+
+ 
+(31
+)
+ 
+—
+
+ 
+(31
+)
+Senior unsecured notes
+47
+
+ 
+13
+
+ 
+60
+
+ 
+29
+
+ 
+5
+
+ 
+34
+
+Change in interest expense from total interest-bearing liabilities
+161
+
+ 
+318
+
+ 
+479
+
+ 
+89
+
+ 
+54
+
+ 
+143
+
+Total change in net interest income
+$
+1,490
+
+ 
+$
+(388
+)
+ 
+$
+1,102
+
+ 
+$
+1,440
+
+ 
+$
+46
+
+ 
+$
+1,486
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+34
+
+
+Business Trends and Conditions
+We believe our business and results of operations will be impacted in the future by various trends and conditions, including the following:
+•
+Growth in loan receivables and interest income. We believe continuing stability in the U.S. economy and employment rates will contribute to an increase in consumer credit spending. In addition, we expect the use of credit cards to continue to increase versus other forms of payment such as cash and checks. We anticipate that these trends, combined with our marketing and partner engagement strategies, will contribute to growth in our loan receivables. In the near-to-medium term, we expect our total interest income to continue to grow, driven by the expected growth in average loan receivables. Our historical growth rates in loan receivables and interest income have benefited from new partner acquisitions, and therefore, if we do not continue to acquire new partners, replace the programs that are not extended or otherwise grow our business, our growth rates in loan receivables and interest income in the future will be lower than in recent periods. On January 23, 2019, we announced our agreement to sell the outstanding loan receivables related to our Walmart program agreement. The sale of the portfolio, which is subject to customary closing conditions, is expected to be completed late in the third quarter or early fourth quarter of 2019. Beginning in the first quarter of 2019, we will present these loan receivables as loan receivables held for sale on our Consolidated Statement of Financial Position. The reclassification of these loan receivables will result in a reduction in the growth of our loan receivables, as compared to the prior year. In addition, we do not expect to make any significant changes to customer pricing or merchant discount pricing in the near term other than those associated with changes in the prime rate and LIBOR, and therefore we expect yields generated from interest and fees on interest-earning assets will remain relatively stable.
+•
+Increases in retailer share arrangement payments under our program agreements. We believe that the payments we make to our partners under our retailer share arrangements, in the aggregate, are likely to increase in absolute terms compared to the year ended December 31, 2018, primarily as a result of both the overall growth and performance of our programs. See Management’s Discussion and Analysis—Retailer Share Arrangements for additional information on these agreements.
+•
+Asset quality. In 2018, the trend of increases in our net charge-off rates and allowance coverage continued, but at a more modest rate as compared to what we experienced in 2017 and our delinquency rate remained largely in line with 2017 rates, as U.S. unemployment rates continued to stabilize and we experienced the favorable effects from certain refinements to our underwriting standards which we began to implement in the second half of 2016 and continued in 2017. Our actual net charge-off rates increased by 26 basis points to 5.63% for the year ended December 31, 2018 compared to 5.37% for the year ended December 31, 2017. In connection with the sale of the Walmart portfolio, we expect decreases to both our Allowance for Loan Losses and Provision for Loan Losses in our Consolidated Statement of Financial Position and Consolidated Statement of Earnings, respectively, beginning in the first quarter of 2019 through to the date of sale. In addition, the loan receivables held for sale will not include certain loan receivables we estimate will charge-off prior to the expected closing date of the sale of the Walmart portfolio. The effects of this, and the exclusion of the loan receivables held for sale from the denominator for certain credit quality metrics, is expected to contribute to a temporary increase to our delinquency metrics primarily in the first half of 2019. The assessment of our credit profile includes the evaluation of portfolio mix, account maturation, as well as broader consumer trends, such as payment behavior and overall indebtedness. We expect our net charge-off rate for the year ended December 31, 2019 to increase slightly, primarily due to the PayPal Credit portfolio, partially offset by the effects of the Walmart portfolio sale. We expect credit trends in the near term for our remaining portfolio to be relatively stable.
+•
+Extended duration of our Retail Card program agreements. Our Retail Card program agreements typically have contract terms ranging from approximately five to ten years, and the average length of our relationship with our Retail Card partners is 20 years. We expect to continue to benefit from these programs on a long-term basis.
+A total of 22 of our 28 ongoing Retail Card program agreements, which does not include the Walmart program, now have an expiration date in 2022 or beyond. These 22 program agreements represented in the aggregate 97% of both our Retail Card interest and fees on loans for the year ended December 31, 2018 and of our Retail Card loan receivables at December 31, 2018 attributable to our ongoing programs.
+
+35
+
+
+•
+Growth in interchange revenues and loyalty program costs. We believe that as a result of the overall growth in Dual Card and general purpose co-branded credit card transactions occurring outside of our Retail Card partners’ locations, interchange revenues will continue to increase in excess of the growth of our Retail Card loan receivables. The expected growth in these transactions is driven, in part, by both existing and new loyalty programs with our Retail Card partners. In addition, we continue to offer and add new loyalty programs for our private label credit cards, for which we typically do not receive interchange fees. The growth in these existing and new loyalty programs will result in an increase in costs associated with these programs. Overall, we expect our loyalty program costs to continue to be largely offset by our interchange revenues. These changes have been contemplated in our program agreements with our Retail Card partners and are a component of the calculation of our payments due under our retailer share arrangements.
+•
+Capital and liquidity levels. We continue to expect to maintain sufficient capital and liquidity resources to support our daily operations, our business growth, and our credit ratings as well as regulatory and compliance requirements in a cost effective and prudent manner through expected and unexpected market environments. During the year ended December 31, 2018, we declared and paid dividends of $534 million and repurchased $1.9 billion of our outstanding common stock. We plan to continue to deploy capital through both dividends and share repurchases subject to regulatory approval, as well as to support business growth. We continue to expect to maintain capital ratios well in excess of minimum regulatory requirements. At December 31, 2018, the Company had a Basel III common equity Tier 1 ratio of 14.0%. We expect that our liquidity portfolio will continue to be sufficient to support all of our business objectives and to meet all regulatory requirements for the foreseeable future.
+Seasonality
+In our Retail Card and Payment Solutions platforms, we experience fluctuations in transaction volumes and the level of loan receivables as a result of higher seasonal consumer spending and payment patterns that typically result in an increase of loan receivables from August through a peak in late December, with reductions in loan receivables occurring over the first and second quarters of the following year as customers pay their balances down.
+The seasonal impact to transaction volumes and the loan receivables balance typically results in fluctuations in our results of operations, delinquency metrics and the allowance for loan losses as a percentage of total loan receivables between quarterly periods. These fluctuations are generally most evident between the fourth quarter and the first quarter of the following year.
+In addition to the seasonal variance in loan receivables discussed above, we also experience a seasonal increase in delinquency rates and delinquent loan receivables balances during the third and fourth quarters of each year due to lower customer payment rates resulting in higher net charge-off rates in the first and second quarters. Our delinquency rates and delinquent loan receivables balances typically decrease during the subsequent first and second quarters as customers begin to pay down their loan balances and return to current status resulting in lower net charge-off rates in the third and fourth quarters. Because customers who were delinquent during the fourth quarter of a calendar year have a higher probability of returning to current status when compared to customers who are delinquent at the end of each of our interim reporting periods, we expect that a higher proportion of delinquent accounts outstanding at an interim period end will result in charge-offs, as compared to delinquent accounts outstanding at a year end. Consistent with this historical experience, we generally experience a higher allowance for loan losses as a percentage of total loan receivables at the end of an interim period, as compared to the end of a calendar year. In addition, despite improving credit metrics such as declining past due amounts, we may experience an increase in our allowance for loan losses at an interim period end compared to the prior year end, reflecting these same seasonal trends.
+
+36
+
+
+
+Interest Income
+Interest income is comprised of interest and fees on loans, which includes merchant discounts provided by partners to compensate us in almost all cases for all or part of the promotional financing provided to their customers, and interest on cash and equivalents and investment securities. We include in interest and fees on loans any past due interest and fees deemed to be collectible. Direct loan origination costs on credit card loans are deferred and amortized on a straight-line basis over a one-year period and recorded in interest and fees on loans. For non-credit card receivables, direct loan origination costs are deferred and amortized over the life of the loan and recorded in interest and fees on loans.
+We analyze interest income as a function of two principal components: average interest-earning assets and yield on average interest-earning assets. Key drivers of average interest-earning assets include:
+•
+purchase volumes, which are influenced by a number of factors including macroeconomic conditions and consumer confidence generally, our partners’ sales and our ability to increase our share of those sales;
+•
+payment rates, reflecting the extent to which customers maintain a credit balance;
+•
+charge-offs, reflecting the receivables that are deemed not to be collectible;
+•
+the size of our liquidity portfolio; and
+•
+portfolio acquisitions when we enter into new partner relationships.
+Key drivers of yield on average interest-earning assets include:
+•
+pricing (contractual rates of interest, movement in prime rates, late fees and merchant discount rates);
+•
+changes to our mix of loans (e.g., the number of loans bearing promotional rates as compared to standard rates);
+•
+frequency of late fees incurred when account holders fail to make their minimum payment by the required due date;
+•
+credit performance and accrual status of our loans; and
+•
+yield earned on our liquidity portfolio.
+Interest income increased by $1,581 million, or 9.6%, for the year ended December 31, 2018, and by $1,629 million, or 11.0%, for the year ended December 31, 2017. These increases were driven primarily by growth in our average loan receivables.
+Average interest-earning assets
+Years ended December 31 ($ in millions)
+2018
+ 
+2017
+ 
+2016
+Loan receivables, including held for sale
+$
+83,304
+
+ 
+$
+75,702
+
+ 
+$
+68,649
+
+Liquidity portfolio and other
+17,625
+
+ 
+16,156
+
+ 
+15,372
+
+Total average interest-earning assets
+$
+100,929
+
+ 
+$
+91,858
+
+ 
+$
+84,021
+
+The increase in average loan receivables of 10.0% for the year ended December 31, 2018 was driven primarily by the PayPal Credit Acquisition, higher purchase volume and average active account growth. Purchase volume and average active accounts increased 6.7% and 5.5%, respectively, including the effects of the PayPal Credit acquisition.
+
+37
+
+
+The increase in average loan receivables of 10.3% for the year ended December 31, 2017, was driven primarily by higher purchase volume of 5.1% and average active accounts growth of 4.5%.
+Yield on average interest-earning assets
+The yield on average interest-earning assets decreased for the year ended December 31, 2018 primarily due to a decrease in the yield on our average loan receivables of 24 basis points to 21.18% for the year ended December 31, 2018.
+The yield on average interest-earning assets increased for the year ended December 31, 2017, primarily due to an increase in the percentage of interest-earning assets attributable to loan receivables and a slight increase in the yield on our average loan receivables of 3 basis points to 21.42% for the year ended December 31, 2017.
+Interest Expense
+Interest expense is incurred on our interest-bearing liabilities, which consisted of interest-bearing deposit accounts, borrowings of consolidated securitization entities and senior unsecured notes.
+Key drivers of interest expense include:
+•
+the amounts outstanding of our deposits and borrowings;
+•
+the interest rate environment and its effect on interest rates paid on our funding sources; and
+•
+the changing mix in our funding sources.
+Interest expense increased by $479 million, or 34.4%, for the year ended December 31, 2018, primarily driven by higher benchmark interest rates. Our cost of funds increased to 2.30% for the year ended December 31, 2018 compared to 1.90% for the year ended December 31, 2017.
+Interest expense increased by $143 million, or 11.5%, for the year ended December 31, 2017, primarily driven by the growth in our deposit liabilities. Our cost of funds increased to 1.90% for the year ended December 31, 2017 compared to 1.85% for the year ended December 31, 2016, primarily due to higher benchmark interest rates.
+Average interest-bearing liabilities
+Years ended December 31 ($ in millions)
+2018
+ 
+2017
+ 
+2016
+Interest-bearing deposit accounts
+$
+59,216
+
+ 
+$
+53,173
+
+ 
+$
+47,194
+
+Borrowings of consolidated securitization entities
+12,694
+
+ 
+12,179
+
+ 
+12,428
+
+Third-party debt
+9,257
+
+ 
+7,972
+
+ 
+7,714
+
+Total average interest-bearing liabilities
+$
+81,167
+
+ 
+$
+73,324
+
+ 
+$
+67,336
+
+The increases in average interest-bearing liabilities for the year ended December 31, 2018 and 2017 were primarily driven by growth in our direct deposits.
+Net Interest Income
+Net interest income represents the difference between interest income and interest expense.
+Net interest income increased by $1,102 million, or 7.3%, for the year ended December 31, 2018, and by $1,486 million, or 11.0%, for the year ended December 31, 2017, primarily driven by higher average loan receivables.
+
+38
+
+
+Retailer Share Arrangements
+Most of our Retail Card program agreements and certain other program agreements contain retailer share arrangements that provide for payments to our partners if the economic performance of the program exceeds a contractually defined threshold. We also provide other economic benefits to our partners such as royalties on purchase volume or payments for new accounts, in some cases instead of retailer share arrangements (for example, on our co-branded credit cards). All of these arrangements are designed to align our interests and provide an additional incentive to our partners to promote our credit products. Although the retailer share arrangements vary by partner, these arrangements are generally structured to measure the economic performance of the program, based typically on agreed upon program revenues (including interest income and certain other income) less agreed upon program expenses (including interest expense, provision for loan losses, retailer payments and operating expenses), and share portions of this amount above a negotiated threshold. The threshold and economic performance of a program that are used to calculate payments to our partners may be based on, among other things, agreed upon measures of program expenses rather than our actual expenses, and therefore increases in our actual expenses (such as funding costs or operating expenses) may not necessarily result in reduced payments under our retailer share arrangements. These arrangements are typically designed to permit us to achieve an economic return before we are required to make payments to our partners based on the agreed contractually defined threshold. Our payments to partners pursuant to these retailer share arrangements have generally increased in recent years, primarily as a result of the growth and margin improvement of the programs in which we have retailer share arrangements, as well as changes to the terms of certain program agreements that have been renegotiated in the past few years.
+We believe that our retailer share arrangements have been effective in helping us to grow our business by aligning our partners’ interests with ours. We also believe that the changes to the terms of certain program agreements in recent years will help us to grow our business by providing an additional incentive to the relevant partners to promote our credit products going forward. Payments to partners pursuant to these retailer share arrangements would generally decrease, and mitigate the impact on our profitability, in the event of declines in the performance of the programs or the occurrence of other unfavorable developments that impact the calculation of payments to our partners pursuant to our retailer share arrangements.
+Retailer share arrangements increased by $162 million, or 5.5%, for the year ended December 31, 2018, driven primarily by the growth of the programs in which we have retailer share arrangements, including the PayPal Credit acquisition, partially offset by the impact from the Toys "R" Us bankruptcy.
+Retailer share arrangements increased by $35 million, or 1.2%, for the year ended December 31, 2017, driven primarily by the growth and margin improvement of the programs in which we have retailer share arrangements, largely offset by higher provision for loan losses associated with these programs.
+Provision for Loan Losses
+Provision for loan losses is the expense related to maintaining the allowance for loan losses at an appropriate level to absorb the estimated probable losses inherent in the loan portfolio at each period end date. Provision for loan losses in each period is a function of net charge-offs (gross charge-offs net of recoveries) and the required level of the allowance for loan losses. Our process to determine our allowance for loan losses is based upon our estimate of the incurred loss period for each type of loss (i.e., aged, fraud, deceased, settlement, other non-aged and bankruptcy). See “Critical Accounting Estimates - Allowance for Loan Losses” and Note 2. Basis of Presentation and Summary of Significant Accounting Policies to our consolidated financial statements for additional information on our allowance for loan loss methodology.
+Provision for loan losses increased by $249 million, or 4.7%, for the year ended December 31, 2018, primarily due to the reserve build for the PayPal Credit program, as well as higher net charge-offs. These increases were partially offset by a lower loan loss reserve build for our existing portfolio. Our allowance coverage ratio increased to 6.90% at December 31, 2018, as compared to 6.80% at December 31, 2017, reflecting the increase in forecasted losses inherent in our loan portfolio.
+
+39
+
+
+Provision for loan losses increased by $1,310 million, or 32.9%, for the year ended December 31, 2017, primarily due to higher net charge-offs and a higher loan loss reserve. Our allowance coverage ratio increased to 6.80% at December 31, 2017, as compared to 5.69% at December 31, 2016, reflecting the increase in forecasted losses inherent in our loan portfolio.
+Other Income
+Years ended December 31 ($ in millions)
+2018
+ 
+2017
+ 
+2016
+Interchange revenue
+$
+710
+
+ 
+$
+653
+
+ 
+$
+602
+
+Debt cancellation fees
+267
+
+ 
+272
+
+ 
+262
+
+Loyalty programs
+(751
+)
+ 
+(704
+)
+ 
+(547
+)
+Other
+39
+
+ 
+67
+
+ 
+27
+
+Total other income
+$
+265
+
+ 
+$
+288
+
+ 
+$
+344
+
+Interchange revenue
+We earn interchange fees on Dual Card and other co-branded credit card transactions outside of our partners’ sales channels, based on a flat fee plus a percent of the purchase amount. Growth in interchange revenue has been, and is expected to continue to be, driven primarily by growth in our Dual Card and general purpose co-branded credit card products.
+Interchange revenue increased by $57 million, or 8.7%, for the year ended December 31, 2018, and by $51 million, or 8.5%, for the year ended December 31, 2017, driven by increases in purchase volume outside of our retail partners' sales channels.
+Debt cancellation fees
+Debt cancellation fees relate to payment protection products purchased by our credit card customers. Customers who choose to purchase these products are charged a monthly fee based on their account balance. In return, we will cancel all or a portion of a customer’s credit card balance in the event of certain qualifying life events. We offer our debt cancellation product to our credit card customers via online, mobile and, on a limited basis, direct mail.
+Debt cancellation fees decreased by $5 million, or 1.8%, for the year ended December 31, 2018, primarily as a result of lower average balances on accounts with payment protection products. Debt cancellation fees increased by $10 million, or 3.8%, for the year ended December 31, 2017, primarily as a result of higher average balances and increases in customer enrollment.
+Loyalty programs
+We operate a number of loyalty programs primarily in our Retail Card platform that are designed to generate incremental purchase volume per customer, while reinforcing the value of the card and strengthening cardholder loyalty. These programs typically provide cardholders with statement credit or cash back rewards. Other programs include rewards points, which are redeemable for a variety of products or awards, or merchandise discounts that are earned by achieving a pre-set spending level on their private label credit card, Dual Card or general purpose co-branded credit card. Growth in loyalty program payments has been, and is expected to continue to be, driven by growth in purchase volume related to existing loyalty programs and the rollout of new loyalty programs.
+Loyalty programs cost increased by $47 million, or 6.7%, for the year ended December 31, 2018, and by $157 million, or 28.7%, for the year ended December 31, 2017, arising from the launch of new rewards programs with our partners and growth in purchase volume associated with existing loyalty programs. The increase in 2017 also included the impact from higher reward redemption rates we experienced in one of our programs.
+Other
+Other includes a variety of items including ancillary fees and realized gains or losses associated with investments and sales of assets.
+
+40
+
+
+Other decreased by $28 million, or 41.8%, for the year ended December 31, 2018 primarily due to the impact of a pre-tax gain of $18 million recognized in the year ended December 31, 2017.
+Other increased by $40 million, or 148.1%, for the year ended December 31, 2017. The increase included a pre-tax gain of $18 million associated with the sale of contractual relationships related to processing of general purpose card transactions for certain merchants in 2017.
+Other Expense
+Years ended December 31 ($ in millions)
+2018
+ 
+2017
+ 
+2016
+Employee costs
+$
+1,427
+
+ 
+$
+1,304
+
+ 
+$
+1,198
+
+Professional fees
+806
+
+ 
+629
+
+ 
+638
+
+Marketing and business development
+528
+
+ 
+498
+
+ 
+423
+
+Information processing
+426
+
+ 
+373
+
+ 
+338
+
+Other
+908
+
+ 
+943
+
+ 
+819
+
+Total other expense
+$
+4,095
+
+ 
+$
+3,747
+
+ 
+$
+3,416
+
+Employee costs
+Employee costs primarily consist of employee compensation and benefit costs.
+Employee costs increased by $123 million, or 9.4%, for the year ended December 31, 2018, and by $106 million, or 8.8%, for the year ended December 31, 2017, primarily due to new employees added to support the continued growth of the business. The increase for the year ended December 31, 2017 was also impacted by the replacement of certain third-party services.
+Professional fees
+Professional fees consist primarily of outsourced provider fees (e.g., collection agencies and call centers), legal, accounting, consulting, and recruiting expenses.
+Professional fees increased by $177 million, or 28.1%, for the year ended December 31, 2018, primarily due to interim servicing costs associated with the PayPal Credit acquisition.
+Professional fees decreased by $9 million, or 1.4%, for the year ended December 31, 2017, primarily due to decreases in third-party expenses as we continued to move some processes in-house, partially offset by business growth.
+Marketing and business development
+Marketing and business development costs consist primarily of our contractual and discretionary marketing and business development spend, as well as amortization expense associated with retail partner contract acquisitions and extensions.
+Marketing and business development costs increased by $30 million, or 6.0%, for the year ended December 31, 2018, primarily due to strategic investments in our sales platforms and increased marketing on retail deposits.
+Marketing and business development costs increased by $75 million, or 17.7%, for the year ended December 31, 2017, primarily due to strategic investments in our sales platforms, card re-issuances for some of our partner programs and increased marketing on retail deposits.
+Information processing
+Information processing costs primarily consist of fees related to outsourced information processing providers, credit card associations and software licensing agreements.
+
+41
+
+
+Information processing costs increased by $53 million, or 14.2%, for the year ended December 31, 2018, primarily due to both business growth and strategic investments.
+Information processing costs increased by $35 million, or 10.4%, for the year ended December 31, 2017, primarily due to higher information technology investment and higher transaction volume.
+Other
+Other primarily consists of postage, operational losses, litigation and regulatory matters expense and various other corporate overhead items such as facilities' costs and telephone charges. Postage is driven primarily by the number of our active accounts and the percentage of customers that utilize our electronic billing option. Fraud, or operational losses, are driven primarily by the number of our active Dual Card and general purpose co-branded credit card accounts.
+The “other” component decreased by $35 million, or 3.7%, for the year ended December 31, 2018, primarily driven by lower operational losses.
+The “other” component increased by $124 million, or 15.1%, for the year ended December 31, 2017, primarily driven by higher operational losses and business growth.
+Provision for Income Taxes
+Years ended December 31 ($ in millions)
+2018
+ 
+2017
+ 
+2016
+Effective tax rate
+23.4
+%
+ 
+41.8
+%
+ 
+36.9
+%
+Provision for income taxes
+$
+854
+
+ 
+$
+1,389
+
+ 
+$
+1,319
+
+The effective tax rate for the year ended December 31, 2018, decreased compared to the prior year. The decrease was primarily due to the reduction in the 2018 U.S. corporate tax rate included in the Tax Act and $160 million of additional tax expense recognized in 2017 related to the remeasurement of our net deferred tax asset. The effective tax rate for the year ended December 31, 2017, increased compared to the prior year. The increase was primarily due to the $160 million of additional tax expense described above. In each year, the effective tax rate, excluding the impact of the Tax Act in 2017, differs from the U.S. federal statutory tax rate, primarily due to state income taxes.
+
+
+42
+
+
+Platform Analysis
+As discussed above under “Our Business—Our Sales Platforms,” we offer our products through three sales platforms (Retail Card, Payment Solutions and CareCredit), which management measures based on their revenue-generating activities. The following is a discussion of certain supplemental information for the year ended December 31, 2018, for each of our sales platforms.
+Retail Card
+Years ended December 31 ($ in millions)
+2018
+ 
+2017
+ 
+2016
+Purchase volume
+$
+113,066
+
+ 
+$
+106,239
+
+ 
+$
+101,242
+
+Period-end loan receivables
+$
+65,224
+
+ 
+$
+56,230
+
+ 
+$
+52,701
+
+Average loan receivables, including held for sale
+$
+57,155
+
+ 
+$
+51,570
+
+ 
+$
+46,963
+
+Average active accounts (in thousands)
+58,223
+
+ 
+55,142
+
+ 
+53,344
+
+ 
+ 
+ 
+ 
+ 
+ 
+Interest and fees on loans
+$
+13,137
+
+ 
+$
+12,023
+
+ 
+$
+10,898
+
+Retailer share arrangements
+$
+(3,044
+)
+ 
+$
+(2,904
+)
+ 
+$
+(2,870
+)
+Other income
+$
+219
+
+ 
+$
+212
+
+ 
+$
+288
+
+Retail Card interest and fees on loans increased by $1,114 million, or 9.3%, for the year ended December 31, 2018 and by $1,125 million, or 10.3%, for the year ended December 31, 2017. These increases were primarily the result of growth in average loan receivables.
+Retailer share arrangements increased by $140 million, or 4.8%, for the year ended December 31, 2018 and by $34 million, or 1.2%, for the year ended December 31, 2017, primarily as a result of the factors discussed under the heading “Retailer Share Arrangements” above.
+Other income increased by $7 million, or 3.3%, for the year ended December 31, 2018, primarily as a result of an increase in interchange revenue, partially offset by an increase in loyalty program costs. Other income decreased by $76 million, or 26.4%, for the year ended December 31, 2017, primarily as a result of an increase in loyalty program costs, partially offset by increases in interchange revenue, debt cancellation fees and other income.
+Payment Solutions
+Years ended December 31 ($ in millions)
+2018
+ 
+2017
+ 
+2016
+Purchase volume
+$
+17,427
+
+ 
+$
+16,160
+
+ 
+$
+15,641
+
+Period-end loan receivables
+$
+18,418
+
+ 
+$
+16,857
+
+ 
+$
+15,567
+
+Average loan receivables
+$
+17,093
+
+ 
+$
+15,752
+
+ 
+$
+14,110
+
+Average active accounts (in thousands)
+9,692
+
+ 
+9,192
+
+ 
+8,410
+
+ 
+ 
+ 
+ 
+ 
+ 
+Interest and fees on loans
+$
+2,356
+
+ 
+$
+2,181
+
+ 
+$
+1,952
+
+Retailer share arrangements
+$
+(43
+)
+ 
+$
+(24
+)
+ 
+$
+(26
+)
+Other income
+$
+12
+
+ 
+$
+14
+
+ 
+$
+13
+
+Payment Solutions interest and fees on loans increased by $175 million, or 8.0%, for the year ended December 31, 2018 and by $229 million, or 11.7%, for the year ended December 31, 2017. These increases were primarily driven by growth in average loan receivables.
+
+43
+
+
+CareCredit
+Years ended December 31 ($ in millions)
+2018
+ 
+2017
+ 
+2016
+Purchase volume
+$
+10,164
+
+ 
+$
+9,415
+
+ 
+$
+8,585
+
+Period-end loan receivables
+$
+9,497
+
+ 
+$
+8,860
+
+ 
+$
+8,069
+
+Average loan receivables
+$
+9,056
+
+ 
+$
+8,380
+
+ 
+$
+7,576
+
+Average active accounts (in thousands)
+5,932
+
+ 
+5,634
+
+ 
+5,174
+
+ 
+ 
+ 
+ 
+ 
+ 
+Interest and fees on loans
+$
+2,151
+
+ 
+$
+2,015
+
+ 
+$
+1,832
+
+Retailer share arrangements
+$
+(12
+)
+ 
+$
+(9
+)
+ 
+$
+(6
+)
+Other income
+$
+34
+
+ 
+$
+62
+
+ 
+$
+43
+
+CareCredit interest and fees on loans increased by $136 million, or 6.7%, for the year ended December 31, 2018 and by $183 million, or 10.0%, for the year ended December 31, 2017. These increases were primarily driven by increases in average loan receivables.
+Loan Receivables
+____________________________________________________________________________________________
+
+The following discussion provides supplemental information regarding our loan receivables portfolio.
+Loan receivables are our largest category of assets and represent our primary source of revenues. The following table sets forth the composition of our loan receivables portfolio by product type at the dates indicated.
+At December 31 ($ in millions)
+2018
+ 
+(%)
+ 
+2017
+ 
+(%)
+ 
+2016
+ 
+(%)
+ 
+2015
+ 
+(%)
+ 
+2014
+ 
+(%)
+Loans
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Credit cards
+$
+89,994
+
+ 
+96.6
+%
+ 
+$
+79,026
+
+ 
+96.5
+%
+ 
+$
+73,580
+
+ 
+96.4
+%
+ 
+$
+65,773
+
+ 
+96.3
+%
+ 
+$
+58,880
+
+ 
+96.1
+%
+Consumer installment loans
+1,845
+
+ 
+2.0
+
+ 
+1,578
+
+ 
+1.9
+
+ 
+1,384
+
+ 
+1.8
+
+ 
+1,154
+
+ 
+1.7
+
+ 
+1,063
+
+ 
+1.7
+
+Commercial credit products
+1,260
+
+ 
+1.4
+
+ 
+1,303
+
+ 
+1.6
+
+ 
+1,333
+
+ 
+1.7
+
+ 
+1,323
+
+ 
+1.9
+
+ 
+1,320
+
+ 
+2.2
+
+Other
+40
+
+ 
+—
+
+ 
+40
+
+ 
+—
+
+ 
+40
+
+ 
+0.1
+
+ 
+40
+
+ 
+0.1
+
+ 
+23
+
+ 
+—
+
+Total loans
+$
+93,139
+
+ 
+100.0
+%
+ 
+$
+81,947
+
+ 
+100.0
+%
+ 
+$
+76,337
+
+ 
+100.0
+%
+ 
+$
+68,290
+
+ 
+100.0
+%
+ 
+$
+61,286
+
+ 
+100.0
+%
+Loan receivables increased by $11,192 million, or 13.7%, at December 31, 2018 compared to December 31, 2017, primarily driven by the PayPal Credit acquisition, higher purchase volume and average active account growth. Loan receivables increased by $5,610 million, or 7.3%, at December 31, 2017 compared to December 31, 2016, primarily driven by higher purchase volume and average active account growth.
+
+44
+
+
+Our loan receivables portfolio had the following maturity distribution at December 31, 2018.
+($ in millions)
+Within 1
+Year(1)
+ 
+1-5 Years(2)
+ 
+After
+5 Years
+ 
+Total
+Loans
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Credit cards
+$
+89,198
+
+ 
+$
+796
+
+ 
+$
+—
+
+ 
+$
+89,994
+
+Consumer installment loans(3)
+548
+
+ 
+1,151
+
+ 
+146
+
+ 
+1,845
+
+Commercial credit products
+1,257
+
+ 
+3
+
+ 
+—
+
+ 
+1,260
+
+Other
+5
+
+ 
+16
+
+ 
+19
+
+ 
+40
+
+Total loans
+$
+91,008
+
+ 
+$
+1,966
+
+ 
+$
+165
+
+ 
+$
+93,139
+
+Loans due after one year at fixed interest rates
+N/A
+
+ 
+$
+1,966
+
+ 
+$
+165
+
+ 
+$
+2,131
+
+Loans due after one year at variable interest rates
+N/A
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+Total loans due after one year
+N/A
+
+ 
+$
+1,966
+
+ 
+$
+165
+
+ 
+$
+2,131
+
+______________________
+(1)
+Credit card loans have minimum payment requirements but no stated maturity and therefore are included in the due within one year category. However, many of our credit card holders will revolve their balances, which may extend their repayment period beyond one year for balances at December 31, 2018.
+(2)
+Credit card and commercial loans due after one year relate to Troubled Debt Restructuring ("TDR") assets.
+(3)
+Reflects scheduled repayments up to the final contractual maturity of our installment loans.
+Our loan receivables portfolio had the following geographic concentration at December 31, 2018.
+($ in millions)
+ 
+Loan Receivables
+Outstanding
+ 
+% of Total Loan
+Receivables
+Outstanding
+State
+ 
+California
+ 
+$
+9,745
+
+ 
+10.5
+%
+Texas
+ 
+$
+9,282
+
+ 
+10.0
+%
+Florida
+ 
+$
+7,737
+
+ 
+8.3
+%
+New York
+ 
+$
+5,306
+
+ 
+5.7
+%
+Pennsylvania
+ 
+$
+3,893
+
+ 
+4.2
+%
+Impaired Loans and Troubled Debt Restructurings
+Our loss mitigation strategy is intended to minimize economic loss and at times can result in rate reductions, principal forgiveness, extensions or other actions, which may cause the related loan to be classified as a TDR and also be impaired. We use long-term modification programs for borrowers experiencing financial difficulty as a loss mitigation strategy to improve long-term collectability of the loans that are classified as TDRs. The long-term program involves changing the structure of the loan to a fixed payment loan with a maturity no longer than 60 months and reducing the interest rate on the loan. The long-term program does not normally provide for the forgiveness of unpaid principal, but may allow for the reversal of certain unpaid interest or fee assessments. We also make loan modifications for some customers who request financial assistance through external sources, such as a consumer credit counseling agency program. The loans that are modified typically receive a reduced interest rate but continue to be subject to the original minimum payment terms and do not normally include waiver of unpaid principal, interest or fees. The determination of whether these changes to the terms and conditions meet the TDR criteria includes our consideration of all relevant facts and circumstances.
+Loans classified as TDRs are recorded at their present value with impairment measured as the difference between the loan balance and the discounted present value of cash flows expected to be collected, discounted at the original effective interest rate of the loan. Our allowance for loan losses on TDRs is generally measured based on the difference between the recorded loan receivable and the present value of the expected future cash flows.
+
+45
+
+
+Interest income from loans accounted for as TDRs is accounted for in the same manner as other accruing loans. We accrue interest on credit card balances until the accounts are charged-off in the period the accounts become 180 days past due. The following table presents the amount of loan receivables that are not accruing interest, loans that are 90 days or more past-due and still accruing interest, and earning TDRs for the periods presented.
+At December 31 ($ in millions)
+2018
+ 
+2017
+ 
+2016
+ 
+2015
+ 
+2014
+Non-accrual loan receivables(1)
+$
+5
+
+ 
+$
+5
+
+ 
+$
+4
+
+ 
+$
+3
+
+ 
+$
+2
+
+Loans contractually 90 days past-due and still accruing interest
+2,116
+
+ 
+1,864
+
+ 
+1,542
+
+ 
+1,270
+
+ 
+1,160
+
+Earning TDRs(2)
+1,085
+
+ 
+940
+
+ 
+802
+
+ 
+712
+
+ 
+670
+
+Non-accrual, past-due and restructured loan receivables(1)
+$
+3,206
+
+ 
+$
+2,809
+
+ 
+$
+2,348
+
+ 
+$
+1,985
+
+ 
+$
+1,832
+
+______________________
+(1)
+Excludes purchase credit impaired (“PCI”) loan receivables. See Note 4. Loan Receivables and Allowance for Loan Losses to our consolidated financial statements for additional information on our PCI loan receivables.
+(2)
+At December 31, 2018, 2017, 2016, 2015 and 2014, balances exclude $122 million, $103 million, $66 million, $51 million and $54 million, respectively, of TDRs which are included in loans contractually 90 days past-due and still accruing interest balance. See Note 4. Loan Receivables and Allowance for Loan Losses to our consolidated financial statements for additional information on the financial effects of TDRs for the years ended December 31, 2018 and 2017, respectively.
+
+At December 31 ($ in millions)
+2018
+ 
+2017
+Gross amount of interest income that would have been recorded in accordance with the original contractual terms
+$
+267
+
+ 
+$
+222
+
+Interest income recognized
+49
+
+ 
+48
+
+Total interest income foregone
+$
+218
+
+ 
+$
+174
+
+Delinquencies
+Over-30 day loan delinquencies as a percentage of period-end loan receivables increased to 4.76% at December 31, 2018, as compared to 4.67% at December 31, 2017. The 9 basis point increase in 2018 compared to the same period in the prior year was driven by the PayPal Credit acquisition, partially offset by the impact from certain underwriting refinements.
+Over-30 day loan delinquencies as a percentage of period-end loan receivables increased to 4.67% at December 31, 2017 as compared to 4.32% at December 31, 2016. The 35 basis point increase in 2017 compared to 2016 was driven by moderating credit trends.
+Net Charge-Offs
+Net charge-offs consist of the unpaid principal balance of loans held for investment that we determine are uncollectible, net of recovered amounts. We exclude accrued and unpaid finance charges and fees and third-party fraud losses from charge-offs. Charged-off and recovered finance charges and fees are included in interest and fees on loans while third-party fraud losses are included in other expense. Charge-offs are recorded as a reduction to the allowance for loan losses and subsequent recoveries of previously charged-off amounts are credited to the allowance for loan losses. Costs incurred to recover charged-off loans are recorded as collection expense and included in other expense in our Consolidated Statements of Earnings.
+The table below sets forth the ratio of net charge-offs to average loan receivables, including held for sale, for the periods indicated.
+Years ended December 31
+2018
+ 
+2017
+ 
+2016
+ 
+2015
+ 
+2014
+Ratio of net charge-offs to average loan receivables, including held for sale
+5.63
+%
+ 
+5.37
+%
+ 
+4.57
+%
+ 
+4.36
+%
+ 
+4.51
+%
+
+46
+
+
+Allowance for Loan Losses
+The allowance for loan losses totaled $6,427 million at December 31, 2018 compared with $5,574 million at December 31, 2017, representing our best estimate of probable losses inherent in the portfolio. Our allowance for loan losses as a percentage of total loan receivables increased to 6.90% at December 31, 2018, from 6.80% at December 31, 2017, which reflects the increase in forecasted net charge-offs over the next twelve months.
+The following tables provide changes in our allowance for loan losses for the periods presented:
+ 
+Balance at January 1, 2018
+ 
+Provision charged to operations
+ 
+Gross charge-offs(1)
+ 
+ Recoveries(1) 
+ 
+Balance at December 31, 2018
+($ in millions)
+ 
+Credit cards
+$
+5,483
+
+ 
+$
+5,448
+
+ 
+$
+(5,435
+)
+ 
+$
+831
+
+ 
+$
+6,327
+
+Consumer installment loans
+40
+
+ 
+45
+
+ 
+(56
+)
+ 
+15
+
+ 
+44
+
+Commercial credit products
+50
+
+ 
+52
+
+ 
+(53
+)
+ 
+6
+
+ 
+55
+
+Other
+1
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+1
+
+Total
+$
+5,574
+
+ 
+$
+5,545
+
+ 
+$
+(5,544
+)
+ 
+$
+852
+
+ 
+$
+6,427
+
+ 
+Balance at January 1, 2017
+ 
+Provision charged to operations
+ 
+Gross charge-offs(1)
+ 
+Recoveries(1) 
+ 
+Balance at December 31, 2017
+($ in millions)
+ 
+Credit cards
+$
+4,254
+
+ 
+$
+5,200
+
+ 
+$
+(4,883
+)
+ 
+$
+912
+
+ 
+$
+5,483
+
+Consumer installment loans
+37
+
+ 
+41
+
+ 
+(52
+)
+ 
+14
+
+ 
+40
+
+Commercial credit products
+52
+
+ 
+55
+
+ 
+(63
+)
+ 
+6
+
+ 
+50
+
+Other
+1
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+1
+
+Total
+$
+4,344
+
+ 
+$
+5,296
+
+ 
+$
+(4,998
+)
+ 
+$
+932
+
+ 
+$
+5,574
+
+ 
+Balance at January 1, 2016
+ 
+Provision charged to operations
+ 
+Gross charge-offs(1)
+ 
+Recoveries(1) 
+ 
+Balance at December 31, 2016
+($ in millions)
+ 
+Credit cards
+$
+3,420
+
+ 
+$
+3,898
+
+ 
+$
+(3,873
+)
+ 
+$
+809
+
+ 
+$
+4,254
+
+Consumer installment loans
+26
+
+ 
+43
+
+ 
+(45
+)
+ 
+13
+
+ 
+37
+
+Commercial credit products
+50
+
+ 
+45
+
+ 
+(51
+)
+ 
+8
+
+ 
+52
+
+Other
+1
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+1
+
+Total
+$
+3,497
+
+ 
+$
+3,986
+
+ 
+$
+(3,969
+)
+ 
+$
+830
+
+ 
+$
+4,344
+
+ 
+Balance at
+January 1, 
+2015
+ 
+Provision
+charged to
+operations
+ 
+Gross charge-offs(1)
+ 
+Recoveries(1) 
+ 
+Balance at December 31, 2015
+($ in millions)
+ 
+Credit cards
+$
+3,169
+
+ 
+$
+2,880
+
+ 
+$
+(3,289
+)
+ 
+$
+660
+
+ 
+$
+3,420
+
+Consumer installment loans
+22
+
+ 
+25
+
+ 
+(35
+)
+ 
+14
+
+ 
+26
+
+Commercial credit products
+45
+
+ 
+46
+
+ 
+(47
+)
+ 
+6
+
+ 
+50
+
+Other
+—
+
+ 
+1
+
+ 
+—
+
+ 
+—
+
+ 
+1
+
+Total
+$
+3,236
+
+ 
+$
+2,952
+
+ 
+$
+(3,371
+)
+ 
+$
+680
+
+ 
+$
+3,497
+
+
+47
+
+
+ 
+Balance at
+January 1, 
+2014
+ 
+Provision
+charged to
+operations
+ 
+Gross charge-offs(1)
+ 
+Recoveries(1) 
+ 
+Balance at December 31, 2014
+($ in millions)
+ 
+Credit cards
+$
+2,827
+
+ 
+$
+2,858
+
+ 
+$
+(3,111
+)
+ 
+$
+595
+
+ 
+$
+3,169
+
+Consumer installment loans
+19
+
+ 
+20
+
+ 
+(30
+)
+ 
+13
+
+ 
+22
+
+Commercial credit products
+46
+
+ 
+39
+
+ 
+(48
+)
+ 
+8
+
+ 
+45
+
+Total
+$
+2,892
+
+ 
+$
+2,917
+
+ 
+$
+(3,189
+)
+ 
+$
+616
+
+ 
+$
+3,236
+
+______________________
+(1)
+Net charge-offs (gross charge-offs less recoveries) in certain portfolios may exceed the beginning allowance for loan losses as our revolving credit portfolios turn over more than once per year or, in all portfolios, can reflect losses that are incurred subsequent to the beginning of the period due to information becoming available during the period, which may identify further deterioration of existing loan receivables.
+
+Funding, Liquidity and Capital Resources
+____________________________________________________________________________________________
+We maintain a strong focus on liquidity and capital. Our funding, liquidity and capital policies are designed to ensure that our business has the liquidity and capital resources to support our daily operations, our business growth, our credit ratings and our regulatory and policy requirements, in a cost effective and prudent manner through expected and unexpected market environments.
+Funding Sources
+Our primary funding sources include cash from operations, deposits (direct and brokered deposits), securitized financings and third-party debt.
+The following table summarizes information concerning our funding sources during the periods indicated:
+ 
+2018
+ 
+2017
+ 
+2016
+Years ended December 31 ($ in millions)
+Average
+Balance
+ 
+%
+ 
+Average
+Rate
+ 
+Average
+Balance
+ 
+%
+ 
+Average
+Rate
+ 
+Average
+Balance
+ 
+%
+ 
+Average
+Rate
+Deposits(1)
+$
+59,216
+
+ 
+73.0
+%
+ 
+2.0
+%
+ 
+$
+53,173
+
+ 
+72.5
+%
+ 
+1.6
+%
+ 
+$
+47,194
+
+ 
+70.1
+%
+ 
+1.5
+%
+Securitized financings
+12,694
+
+ 
+15.6
+
+ 
+2.7
+
+ 
+12,179
+
+ 
+16.6
+
+ 
+2.2
+
+ 
+12,428
+
+ 
+18.5
+
+ 
+2.0
+
+Senior unsecured notes
+9,257
+
+ 
+11.4
+
+ 
+3.7
+
+ 
+7,972
+
+ 
+10.9
+
+ 
+3.5
+
+ 
+7,158
+
+ 
+10.6
+
+ 
+3.4
+
+Bank term loan
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+556
+
+ 
+0.8
+
+ 
+5.6
+
+Total
+$
+81,167
+
+ 
+100.0
+%
+ 
+2.3
+%
+ 
+$
+73,324
+
+ 
+100.0
+%
+ 
+1.9
+%
+ 
+$
+67,336
+
+ 
+100.0
+%
+ 
+1.9
+%
+______________________
+(1)
+Excludes $282 million, $227 million and $205 million average balance of non-interest-bearing deposits for the years ended December 31, 2018, 2017 and 2016, respectively. Non-interest-bearing deposits comprise less than 10% of total deposits for the years ended December 31, 2018, 2017 and 2016.
+Deposits
+We obtain deposits directly from retail and commercial customers (“direct deposits”) or through third-party brokerage firms that offer our deposits to their customers (“brokered deposits”). At December 31, 2018, we had $49.4 billion in direct deposits and $14.6 billion in deposits originated through brokerage firms (including network deposit sweeps procured through a program arranger that channels brokerage account deposits to us). A key part of our liquidity plan and funding strategy is to continue to expand our direct deposits base as a source of stable and diversified low cost funding.
+Our direct deposits include a range of FDIC-insured deposit products, including certificates of deposit, IRAs, money market accounts and savings accounts.
+
+48
+
+
+Brokered deposits are primarily from retail customers of large brokerage firms. We have relationships with 11 brokers that offer our deposits through their networks. Our brokered deposits consist primarily of certificates of deposit that bear interest at a fixed rate and at December 31, 2018, had a weighted average remaining life of 2.1 years. These deposits generally are not subject to early withdrawal.
+Our ability to attract deposits is sensitive to, among other things, the interest rates we pay, and therefore, we bear funding risk if we fail to pay higher rates, or interest rate risk if we are required to pay higher rates, to retain existing deposits or attract new deposits. To mitigate these risks, our funding strategy includes a range of deposit products, and we seek to maintain access to multiple other funding sources, including securitized financings (including our undrawn committed capacity) and unsecured debt.
+The following table summarizes certain information regarding our interest-bearing deposits by type (all of which constitute U.S. deposits) for the periods indicated:
+Years ended December 31 ($ in millions)
+2018
+ 
+2017
+ 
+2016
+Average
+Balance
+ 
+% of
+Total
+ 
+Average
+Rate
+ 
+Average
+Balance
+ 
+% of
+Total
+ 
+Average
+Rate
+ 
+Average
+Balance
+ 
+% of
+Total
+ 
+Average
+Rate
+Direct deposits:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificates of deposit (including IRA certificates of deposit)
+$
+28,152
+
+ 
+47.5
+%
+ 
+1.9
+%
+ 
+$
+22,657
+
+ 
+42.6
+%
+ 
+1.6
+%
+ 
+$
+19,736
+
+ 
+41.8
+%
+ 
+1.5
+%
+Savings accounts (including money market accounts)
+17,989
+
+ 
+30.4
+%
+ 
+1.7
+
+ 
+17,604
+
+ 
+33.1
+
+ 
+1.1
+
+ 
+14,244
+
+ 
+30.2
+
+ 
+1.0
+
+Brokered deposits
+13,075
+
+ 
+22.1
+%
+ 
+2.5
+
+ 
+12,912
+
+ 
+24.3
+
+ 
+2.2
+
+ 
+13,214
+
+ 
+28.0
+
+ 
+2.1
+
+Total interest-bearing deposits
+$
+59,216
+
+ 
+100.0
+%
+ 
+2.0
+%
+ 
+$
+53,173
+
+ 
+100.0
+%
+ 
+1.6
+%
+ 
+$
+47,194
+
+ 
+100.0
+%
+ 
+1.5
+%
+Our deposit liabilities provide funding with maturities ranging from one day to ten years. At December 31, 2018, the weighted average maturity of our interest-bearing time deposits was 1.2 years.
+The following table summarizes deposits by contractual maturity at December 31, 2018.
+($ in millions)
+3 Months or
+Less
+ 
+Over
+3 Months
+but within
+6 Months
+ 
+Over
+6 Months
+but within
+12 Months
+ 
+Over
+12 Months
+ 
+Total
+U.S. deposits (less than $100,000)(1)
+$
+11,251
+
+ 
+$
+2,858
+
+ 
+$
+4,412
+
+ 
+$
+10,391
+
+ 
+$
+28,912
+
+U.S. deposits ($100,000 or more)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Direct deposits:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certificates of deposit (including IRA certificates of deposit)
+4,534
+
+ 
+2,526
+
+ 
+6,687
+
+ 
+6,497
+
+ 
+20,244
+
+Savings accounts (including money market accounts)
+13,085
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+13,085
+
+Brokered deposits:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sweep accounts
+1,778
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+1,778
+
+Total
+$
+30,648
+
+ 
+$
+5,384
+
+ 
+$
+11,099
+
+ 
+$
+16,888
+
+ 
+$
+64,019
+
+______________________
+(1)
+Includes brokered certificates of deposit for which underlying individual deposit balances are assumed to be less than $100,000.
+Securitized Financings
+We have been engaged in the securitization of our credit card receivables since 1997. We access the asset-backed securitization market using the Synchrony Credit Card Master Note Trust (“SYNCT”) and the Synchrony Card Issuance Trust (“SYNIT”) through which we issue asset-backed securities through both public transactions and private transactions funded by financial institutions and commercial paper conduits. In addition, we issue asset-backed securities in private transactions through the Synchrony Sales Finance Master Trust (“SFT”).
+
+49
+
+
+At December 31, 2018, we had $5.8 billion of outstanding private asset-backed securities and $8.6 billion of outstanding public asset-backed securities, in each case held by unrelated third parties.
+The following table summarizes expected contractual maturities of the investors’ interests in securitized financings, excluding debt premiums, discounts and issuance costs at December 31, 2018.
+($ in millions)
+Less Than
+One Year
+ 
+One Year
+Through
+Three
+Years
+ 
+Four
+Years
+Through
+Five
+Years
+ 
+After Five
+Years
+ 
+Total
+Scheduled maturities of long-term borrowings—owed to securitization investors:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SYNCT(1)
+$
+2,752
+
+ 
+$
+3,933
+
+ 
+$
+1,591
+
+ 
+$
+—
+
+ 
+$
+8,276
+
+SFT
+1,133
+
+ 
+2,542
+
+ 
+—
+
+ 
+—
+
+ 
+3,675
+
+SYNIT(1)
+—
+
+ 
+2,500
+
+ 
+—
+
+ 
+—
+
+ 
+2,500
+
+Total long-term borrowings—owed to securitization investors
+$
+3,885
+
+ 
+$
+8,975
+
+ 
+$
+1,591
+
+ 
+$
+—
+
+ 
+$
+14,451
+
+______________________
+(1)
+Excludes subordinated classes of SYNCT notes and SYNIT notes that we own.
+We retain exposure to the performance of trust assets through: (i) in the case of SYNCT, SFT and SYNIT, subordinated retained interests in the loan receivables transferred to the trust in excess of the principal amount of the notes for a given series that provide credit enhancement for a particular series, as well as a pari passu seller’s interest in each trust and (ii) in the case of SYNCT and SYNIT, subordinated classes of notes that we own.
+All of our securitized financings include early repayment triggers, referred to as early amortization events, including events related to material breaches of representations, warranties or covenants, inability or failure of the Bank to transfer loan receivables to the trusts as required under the securitization documents, failure to make required payments or deposits pursuant to the securitization documents, and certain insolvency-related events with respect to the related securitization depositor, Synchrony (solely with respect to SYNCT) or the Bank. In addition, an early amortization event will occur with respect to a series if the excess spread as it relates to a particular series or for the trust, as applicable, falls below zero. Following an early amortization event, principal collections on the loan receivables in the applicable trust are applied to repay principal of the trust's asset-backed securities rather than being available on a revolving basis to fund the origination activities of our business. The occurrence of an early amortization event also would limit or terminate our ability to issue future series out of the trust in which the early amortization event occurred. No early amortization event has occurred with respect to any of the securitized financings in SYNCT, SFT or SYNIT.
+The following table summarizes for each of our trusts the three-month rolling average excess spread at December 31, 2018.
+ 
+Note Principal Balance
+($ in millions)
+ 
+# of Series
+Outstanding
+ 
+Three-Month Rolling
+Average Excess
+Spread(1)
+SYNCT(2)
+$
+9,256
+
+ 
+14
+
+ 
+~14% to 15.4%
+
+SFT
+$
+3,675
+
+ 
+10
+
+ 
+10.6
+%
+SYNIT(2)
+$
+2,515
+
+ 
+5
+
+ 
+~17.1% to 17.3%
+
+______________________
+(1)
+Represents the excess spread (generally calculated as interest income collected from the applicable pool of loan receivables less applicable net charge-offs, interest expense and servicing costs, divided by the aggregate principal amount of loan receivables in the applicable pool) for each trust (or, in the case of SYNCT and SYNIT, represents a range of the excess spreads relating to the particular series issued within the trust, omitting any series that have not been outstanding for at least three monthly periods), in each case calculated in accordance with the applicable trust or series documentation, for the three securitization monthly periods ended December 31, 2018.
+(2)
+Includes subordinated classes of SYNCT and SYNIT notes that we own.
+
+50
+
+
+Third-Party Debt
+Senior Unsecured Notes
+The following table provides a summary of our outstanding senior unsecured notes at December 31, 2018.
+($ in millions)
+ 
+Maturity
+ 
+Principal Amount Outstanding(1)
+Fixed rate senior unsecured notes:
+ 
+ 
+ 
+ 
+Synchrony Financial
+ 
+ 
+ 
+ 
+2.600% senior unsecured notes
+ 
+January, 2019
+ 
+$
+1,000
+
+3.000% senior unsecured notes
+ 
+August, 2019
+ 
+1,100
+
+2.700% senior unsecured notes
+ 
+February, 2020
+ 
+750
+
+3.750% senior unsecured notes
+ 
+August, 2021
+ 
+750
+
+4.250% senior unsecured notes
+ 
+August, 2024
+ 
+1,250
+
+4.500% senior unsecured notes
+ 
+July, 2025
+ 
+1,000
+
+3.700% senior unsecured notes
+
+ 
+August, 2026
+ 
+500
+
+3.950% senior unsecured notes
+
+ 
+December, 2027
+ 
+1,000
+
+Synchrony Bank
+ 
+ 
+ 
+ 
+3.650% senior unsecured notes
+ 
+May, 2021
+ 
+750
+
+3.000% senior unsecured notes
+ 
+June, 2022
+ 
+750
+
+Total fixed rate senior unsecured notes
+ 
+ 
+ 
+$
+8,850
+
+ 
+ 
+ 
+ 
+ 
+Floating rate senior unsecured notes:
+ 
+ 
+ 
+ 
+Synchrony Financial
+ 
+ 
+ 
+ 
+Three-month LIBOR plus 1.23% senior unsecured notes
+ 
+February, 2020
+ 
+$
+250
+
+Synchrony Bank
+ 
+ 
+ 
+ 
+Three-month LIBOR plus 0.625% senior unsecured notes
+ 
+March, 2020
+ 
+500
+
+Total floating rate senior unsecured notes
+ 
+ 
+ 
+$
+750
+
+______________________
+(1)
+The amounts shown exclude unamortized debt discounts, premiums and issuance costs.
+At December 31, 2018, the aggregate amount of outstanding senior unsecured notes was $9.6 billion and the weighted average interest rate was 3.54%.
+Short-Term Borrowings
+Except as described above, there were no material short-term borrowings for the periods presented.
+Other
+At December 31, 2018, we had more than $25.0 billion of unencumbered assets in the Bank available to be used to generate additional liquidity through secured borrowings or asset sales or to be pledged to the Federal Reserve Board for credit at the discount window.
+Covenants
+The indenture pursuant to which our senior unsecured notes have been issued includes various covenants, including covenants that restrict (subject to certain exceptions) Synchrony’s ability to dispose of, or incur liens on, any of the voting stock of the Bank or otherwise permit the Bank to be merged, consolidated, leased or sold in a manner that results in the Bank being less than 80% controlled by us.
+
+51
+
+
+If we do not satisfy any of these covenants discussed above, the maturity of amounts outstanding thereunder may be accelerated and become payable. We were in compliance with all of these covenants at December 31, 2018.
+At December 31, 2018, we were not in default under any of our credit facilities.
+Credit Ratings
+Our borrowing costs and capacity in certain funding markets, including securitizations and senior and subordinated debt, may be affected by the credit ratings of the Company, the Bank and the ratings of our asset-backed securities.
+Currently, Synchrony’s senior unsecured debt is rated BBB- (stable outlook) by Fitch and BBB- (stable outlook) by S&P. The Bank’s senior unsecured debt is rated BBB- (stable outlook) by Fitch and BBB (stable outlook) by S&P. In addition, certain of the asset-backed securities issued by SYNCT and SYNIT are rated by Fitch, S&P and/or Moody’s. A credit rating is not a recommendation to buy, sell or hold securities, may be subject to revision or withdrawal at any time by the assigning rating organization, and each rating should be evaluated independently of any other rating. Downgrades in these credit ratings could materially increase the cost of our funding from, and restrict our access to, the capital markets.
+Liquidity
+____________________________________________________________________________________________
+We seek to ensure that we have adequate liquidity to sustain business operations, fund asset growth, satisfy debt obligations and to meet regulatory expectations under normal and stress conditions.
+We maintain policies outlining the overall framework and general principles for managing liquidity risk across our business, which is the responsibility of our Asset and Liability Management Committee, a subcommittee of our Risk Committee. We employ a variety of metrics to monitor and manage liquidity. We perform regular liquidity stress testing and contingency planning as part of our liquidity management process. We evaluate a range of stress scenarios including Company specific and systemic events that could impact funding sources and our ability to meet liquidity needs.
+We maintain a liquidity portfolio, which at December 31, 2018 had $14.8 billion of liquid assets, primarily consisting of cash and equivalents and short-term obligations of the U.S. Treasury, less cash in transit which is not considered to be liquid, compared to $15.1 billion of liquid assets at December 31, 2017. The decrease in liquid assets was primarily due to the deployment of some of our liquidity to support the PayPal Credit acquisition, partially offset by the retention of excess cash flows from operations and deposit growth.
+As additional sources of liquidity, at December 31, 2018, we had an aggregate of $3.9 billion of undrawn committed capacity on our securitized financings, subject to customary borrowing conditions, from private lenders under our securitization programs and $0.5 billion of undrawn committed capacity under our unsecured revolving credit facility with private lenders, and we had more than $25.0 billion of unencumbered assets in the Bank available to be used to generate additional liquidity through secured borrowings or asset sales or to be pledged to the Federal Reserve Board for credit at the discount window.
+As a general matter, investments included in our liquidity portfolio are expected to be highly liquid, giving us the ability to readily convert them to cash. The level and composition of our liquidity portfolio may fluctuate based upon the level of expected maturities of our funding sources as well as operational requirements and market conditions.
+We rely significantly on dividends and other distributions and payments from the Bank for liquidity; however, bank regulations, contractual restrictions and other factors limit the amount of dividends and other distributions and payments that the Bank may pay to us. For a discussion of regulatory restrictions on the Bank’s ability to pay dividends, see “Regulation—Risk Factors Relating to Regulation—We are subject to restrictions that limit our ability to pay dividends and repurchase our common stock; the Bank is subject to restrictions that limit its ability to pay dividends to us, which could limit our ability to pay dividends, repurchase our common stock or make payments on our indebtedness.” and “Regulation—Savings Association Regulation—Dividends and Stock Repurchases.”
+
+52
+
+
+Debt Securities
+____________________________________________________________________________________________
+The following discussion provides supplemental information regarding our debt securities portfolio. All of our debt securities are classified as available-for-sale and are held to meet our liquidity objectives or to comply with the Community Reinvestment Act. Debt securities classified as available-for-sale are reported in our Consolidated Statements of Financial Position at fair value.
+The following table sets forth the amortized cost and fair value of our portfolio of debt securities at the dates indicated:
+ 
+2018
+ 
+2017
+ 
+2016
+At December 31 ($ in millions)
+Amortized
+Cost
+ 
+Estimated Fair Value
+ 
+Amortized
+Cost
+ 
+Estimated Fair Value
+ 
+Amortized
+Cost
+ 
+Estimated Fair Value
+Debt:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+U.S. government and federal agency
+$
+2,889
+
+ 
+$
+2,888
+
+ 
+$
+2,419
+
+ 
+$
+2,416
+
+ 
+$
+3,676
+
+ 
+$
+3,676
+
+State and municipal
+50
+
+ 
+48
+
+ 
+44
+
+ 
+44
+
+ 
+47
+
+ 
+46
+
+Residential mortgage-backed
+1,180
+
+ 
+1,139
+
+ 
+1,258
+
+ 
+1,231
+
+ 
+1,400
+
+ 
+1,373
+
+Asset-backed
+1,988
+
+ 
+1,985
+
+ 
+781
+
+ 
+780
+
+ 
+—
+
+ 
+—
+
+U.S. corporate debt
+2
+
+ 
+2
+
+ 
+2
+
+ 
+2
+
+ 
+—
+
+ 
+—
+
+Total
+$
+6,109
+
+ 
+$
+6,062
+
+ 
+$
+4,504
+
+ 
+$
+4,473
+
+ 
+$
+5,123
+
+ 
+$
+5,095
+
+Unrealized gains and losses, net of the related tax effect, on available-for-sale debt securities that are not other-than-temporarily impaired are excluded from earnings and are reported as a separate component of comprehensive income (loss) until realized. At December 31, 2018, 2017 and 2016, our debt securities had gross unrealized gains of $1 million, $1 million and $3 million, respectively, and gross unrealized losses of $48 million, $32 million and $31 million, respectively.
+Our debt securities portfolio had the following maturity distribution at December 31, 2018.
+($ in millions)
+Due in 1 Year
+or Less
+ 
+Due After 1
+through
+5 Years
+ 
+Due After 5
+through
+10 Years
+ 
+Due After
+10 years
+ 
+Total
+Debt:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+U.S. government and federal agency
+$
+2,888
+
+ 
+$
+—
+
+ 
+$
+—
+
+ 
+$
+—
+
+ 
+$
+2,888
+
+State and municipal
+—
+
+ 
+—
+
+ 
+5
+
+ 
+43
+
+ 
+48
+
+Residential mortgage-backed
+1
+
+ 
+—
+
+ 
+158
+
+ 
+980
+
+ 
+1,139
+
+Asset-backed
+1,613
+
+ 
+372
+
+ 
+—
+
+ 
+—
+
+ 
+1,985
+
+U.S. corporate debt
+2
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+2
+
+Total(1)
+$
+4,504
+
+ 
+$
+372
+
+ 
+$
+163
+
+ 
+$
+1,023
+
+ 
+$
+6,062
+
+Weighted average yield(2)
+2.4
+%
+ 
+2.7
+%
+ 
+3.3
+%
+ 
+2.9
+%
+ 
+2.5
+%
+______________________
+(1)
+Amounts stated represent estimated fair value.
+(2)
+Weighted average yield is calculated based on the amortized cost of each security. In calculating yield, no adjustment has been made with respect to any tax-exempt obligations.
+At December 31, 2018, we did not hold investments in any single issuer with an aggregate book value that exceeded 10% of equity, excluding obligations of the U.S. government.
+
+53
+
+
+Quantitative and Qualitative Disclosures About Market Risk
+____________________________________________________________________________________________
+Market risk refers to the risk that a change in the level of one or more market prices, rates, indices, correlations or other market factors will result in losses for a position or portfolio. We are exposed to market risk primarily from changes in interest rates. See “Risks—Risk Factors Relating to Our Business—Changes in market interest rates could have a material adverse effect on our net earnings, funding and liquidity” and “—A reduction in our credit ratings could materially increase the cost of our funding from, and restrict our access to, the capital markets.”
+Interest Rate Risk
+We borrow money from a variety of depositors and institutions in order to provide loans to our customers. Changes in market interest rates cause our net interest income to increase or decrease, as some of our assets and liabilities carry interest rates that fluctuate with market benchmarks. The interest rate benchmark for our floating rate assets is generally the prime rate, and the interest rate benchmark for our floating rate liabilities is generally either LIBOR or the federal funds rate. The prime rate and the LIBOR or federal funds rate could reset at different times or could diverge, leading to mismatches in the interest rates on our floating rate assets and floating rate liabilities.
+Competitive factors and future regulatory reform may limit or restrict our ability to raise interest rates on our loans. In addition, some of our program agreements limit the rate of interest we can charge to customers. If interest rates were to rise materially over a sustained period of time, and we are unable to sufficiently raise our interest rates in a timely manner, our net interest income and margin could be adversely impacted, which could have a material adverse effect on our net earnings.
+Interest rates may also adversely impact our customers’ spending levels and ability and willingness to pay outstanding amounts owed to us. Our floating rate products bear interest rates that fluctuate with the prime rate. Higher interest rates often lead to higher payment obligations by customers to us and other lenders under mortgage, credit card and other consumer loans, which may reduce our customers’ ability to remain current on their obligations to us and therefore lead to increased delinquencies, charge-offs and allowances for loan losses, which could have a material adverse effect on our net earnings.
+Changes in interest rates and competitor responses to these changes may also impact customer decisions to maintain deposits with us, and reductions in deposits could materially adversely affect our funding costs and liquidity.
+At December 31, 2018, 58.0% of our loan receivables were priced at a fixed interest rate to the customer, with the remaining 42.0% at a floating interest rate. We fund our assets with a combination of fixed rate and floating rate funding sources that include deposits, asset-backed securities and unsecured debt. To manage interest rate risk, we seek to match the interest rate repricing characteristics of our assets and liabilities. Historically, we have not used interest rate derivative contracts to manage interest rate risk; however, we may choose to do so in the future. To the extent we are unable to effectively match the interest rate sensitivity of our assets and liabilities, our net earnings could be materially adversely affected.
+We assess our interest rate risk by estimating the effect of various interest rate scenarios on our net interest income.
+For purposes of presenting the possible earnings effect of a hypothetical, adverse change in interest rates over the 12-month period from our reporting date, we assume that all interest rate sensitive assets and liabilities will be impacted by a hypothetical, immediate 100 basis point increase in interest rates as of the beginning of the period. The sensitivity is based upon the hypothetical assumption that all relevant types of interest rates that affect our results would increase instantaneously, simultaneously and to the same degree.
+
+54
+
+
+Our interest rate sensitive assets include our variable rate loan receivables and the assets that make up our liquidity portfolio. At December 31, 2018, 42.0% of our receivables were priced at a floating interest rate. Assets with rates that are fixed at period end but which will mature, or otherwise contractually reset to a market-based indexed rate or other fixed rate prior to the end of the 12-month period, are considered to be rate sensitive. The latter category includes certain loans that may be offered at below-market rates for an introductory period, such as balance transfers and special promotional programs, after which the loans will contractually reprice under standard terms in accordance with our normal market-based pricing structure. For purposes of measuring rate sensitivity for such loans, only the effect of the hypothetical 100 basis point change in the underlying market-based indexed rate or other fixed rate has been considered rather than the full change in the rate to which the loan would contractually reprice (i.e. assets are categorized as fixed or floating according to their underlying contractual terms). For assets that have a fixed interest rate at the period end but which contractually will, or are assumed to, reset to a market-based indexed rate or other fixed rate during the next 12 months, net interest income sensitivity is measured from the expected repricing date.
+Interest rate sensitive liabilities are assumed to be those for which the stated interest rate is not contractually fixed for the next 12-month period. Thus, liabilities that vary with changes in a market-based index, such as the federal funds rate or LIBOR, which will reset before the end of the 12-month period, or liabilities whose rates are fixed at the period end but which will mature and are assumed to be replaced with a market-based indexed rate prior to the end of the 12-month period, also are considered to be rate sensitive. For these fixed rate liabilities, net interest income sensitivity is measured from the expected repricing date.
+Assuming an immediate 100 basis point increase in the interest rates affecting all interest rate sensitive assets and liabilities at December 31, 2018, we estimate that net interest income over the following 12-month period would increase by approximately $52 million. This estimate projects net interest income over the following 12-month period and takes into consideration future growth and balance sheet composition.
+Limitations of Market Risk Measures
+The interest rate risk models that we use in deriving these measures incorporate contractual information, internally-developed assumptions and proprietary modeling methodologies, which project borrower and deposit behavior patterns in certain interest rate environments. Other market inputs, such as interest rates, market prices and interest rate volatility, are also critical components of our interest rate risk measures. We regularly evaluate, update and enhance these assumptions, models and analytical tools as we believe appropriate to reflect our best assessment of the market environment and the expected behavior patterns of our existing assets and liabilities.
+There are inherent limitations in any methodology used to estimate the exposure to changes in market interest rates. The sensitivity analysis provided above contemplates only certain movements in interest rates and is based on the existing balance sheet as well as assumptions around future growth, pricing and balance sheet composition. It does not attempt to estimate the effect of a more significant interest rate increase over a sustained period of time, which as described in “—Interest Rate Risk” above, could adversely affect our net interest income. In addition, the strategic actions that management may take to manage our balance sheet may differ from our projections, which could cause our actual net interest income to differ from the above sensitivity analysis.
+
+55
+
+
+Capital
+____________________________________________________________________________________________
+Our primary sources of capital have been earnings generated by our business and existing equity capital. We seek to manage capital to a level and composition sufficient to support the risks of our business, meet regulatory requirements, adhere to rating agency targets and support future business growth. The level, composition and utilization of capital are influenced by changes in the economic environment, strategic initiatives and legislative and regulatory developments. Within these constraints, we are focused on deploying capital in a manner that will provide attractive returns to our stockholders.
+Synchrony is not currently required to conduct stress tests. See “Regulation—Regulation Relating to Our Business—Legislative and Regulatory Developments.” In addition, while as a savings and loan holding company we currently are not subject to the Federal Reserve Board's capital planning rule, we have submitted a capital plan to the Federal Reserve Board in 2018.
+Dividend and Share Repurchases
+Cash Dividends Declared
+ 
+Month of Payment
+ 
+Amount per Common Share
+ 
+Amount
+($ in millions, except per share data)
+ 
+ 
+ 
+ 
+ 
+ 
+Three months ended March 31, 2018
+ 
+February 2018
+ 
+$
+0.15
+
+ 
+$
+114
+
+Three months ended June 30, 2018
+ 
+May 2018
+ 
+0.15
+
+ 
+113
+
+Three months ended September 30, 2018
+ 
+August 2018
+ 
+0.21
+
+ 
+156
+
+Three months ended December 31, 2018
+ 
+November 2018
+ 
+0.21
+
+ 
+151
+
+Total dividends declared
+ 
+ 
+ 
+$
+0.72
+
+ 
+$
+534
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On May 17, 2018, the Board announced plans to increase the quarterly dividend to $0.21 per share commencing in the third quarter of 2018. The declaration and payment of future dividends to holders of our common stock will be at the discretion of the Board and will depend on many factors. For a discussion of regulatory and other restrictions on our ability to pay dividends and repurchase stock, see “Regulation—Risk Factors Relating to Regulation—We are subject to restrictions that limit its ability to pay dividends and repurchase its common stock; the Bank is subject to restrictions that limit its ability to pay dividends to Synchrony, which could limit Synchrony's ability to pay dividends, repurchase its common stock or make payments on its indebtedness.”
+Shares Repurchased Under Publicly Announced Programs
+ 
+Total Number of Shares Purchased
+ 
+Dollar Value of Shares Purchased
+ 
+ 
+ 
+ 
+ 
+($ and shares in millions)
+ 
+ 
+ 
+ 
+Three months ended March 31, 2018
+ 
+10.4
+
+ 
+$
+410
+
+Three months ended June 30, 2018
+ 
+14.0
+
+ 
+491
+
+Three months ended September 30, 2018
+ 
+30.3
+
+ 
+966
+
+Three months ended December 31, 2018
+ 
+—
+
+ 
+—
+
+Total
+ 
+54.7
+
+ 
+$
+1,867
+
+ 
+ 
+ 
+ 
+ 
+In May 2018, we completed our share repurchase program of up to $1.64 billion (the "2017 Share Repurchase Program"). On May 18, 2018, the Company approved a share repurchase program of up to $2.2 billion through June 30, 2019 (the "2018 Share Repurchase Program"). Through the end of 2018, we have repurchased approximately $1.2 billion of common stock as part of the 2018 Share Repurchase Program and expect to complete the share repurchase program by the end of the second quarter of 2019. We made and expect to continue to make, share repurchases subject to market conditions and other factors, including legal and regulatory restrictions and required approvals.
+
+56
+
+
+Regulatory Capital Requirements - Synchrony Financial
+As a savings and loan holding company, we are required to maintain minimum capital ratios, under the applicable U.S. Basel III capital rules. For more information, see “Regulation—Savings and Loan Holding Company Regulation.”
+For Synchrony Financial to be a well-capitalized savings and loan holding company, Synchrony Bank must be well-capitalized and Synchrony Financial must not be subject to any written agreement, order, capital directive, or prompt corrective action directive issued by the Federal Reserve Board to meet and maintain a specific capital level for any capital measure. As of December 31, 2018 and 2017, Synchrony Financial met all the requirements to be deemed well-capitalized.
+The following table sets forth at December 31, 2018 and 2017, the composition of our capital ratios for the Company calculated under the Basel III regulatory capital standards, respectively.
+ 
+Basel III
+ 
+At December 31, 2018(1)
+ 
+At December 31, 2017(2)
+($ in millions)
+Amount
+ 
+Ratio(3)
+ 
+Amount
+ 
+Ratio
+Total risk-based capital
+$
+14,013
+
+ 
+15.3
+%
+ 
+$
+13,954
+
+ 
+17.3
+%
+Tier 1 risk-based capital
+$
+12,801
+
+ 
+14.0
+%
+ 
+$
+12,890
+
+ 
+16.0
+%
+Tier 1 leverage
+$
+12,801
+
+ 
+12.3
+%
+ 
+$
+12,890
+
+ 
+13.8
+%
+Common equity Tier 1 capital
+$
+12,801
+
+ 
+14.0
+%
+ 
+$
+12,890
+
+ 
+16.0
+%
+Risk-weighted assets
+$
+91,742
+
+ 
+ 
+ 
+$
+80,669
+
+ 
+ 
+______________________
+(1)
+Amounts presented do not reflect certain modifications to the regulatory capital rules proposed by the federal banking agencies in September 2017, which among other things, may increase the risk weighting of certain deferred tax assets from 100% to 250% if the proposed rule becomes effective.
+(2)
+Amounts at December 31, 2017 are presented in accordance with applicable transition guidelines.
+(3)
+Tier 1 leverage ratio represents total tier 1 capital as a percentage of total average assets, after certain adjustments. All other ratios presented above represent the applicable capital measure as a percentage of risk-weighted assets.
+The decrease in our Common equity Tier 1 capital ratio was primarily due to the increase in loan receivables as a result of the PayPal Credit acquisition and a corresponding increase in risk-weighted assets in the year ended December 31, 2018.
+Regulatory Capital Requirements - Synchrony Bank
+At December 31, 2018 and 2017, the Bank met all applicable requirements to be deemed well-capitalized pursuant to OCC regulations and for purposes of the Federal Deposit Insurance Act. The following table sets forth the composition of the Bank’s capital ratios calculated under the Basel III rules at December 31, 2018 and December 31, 2017.
+ 
+At December 31, 2018
+ 
+At December 31, 2017
+ 
+Minimum to be Well-
+Capitalized under 
+Prompt Corrective Action Provisions
+($ in millions)
+Amount
+ 
+Ratio
+ 
+Amount
+ 
+Ratio
+ 
+Amount
+ 
+Ratio
+Total risk-based capital
+$
+12,258
+
+ 
+15.4
+%
+ 
+$
+10,842
+
+ 
+16.2
+%
+ 
+$
+7,934
+
+ 
+10.0
+%
+Tier 1 risk-based capital
+$
+11,207
+
+ 
+14.1
+%
+ 
+$
+9,958
+
+ 
+14.9
+%
+ 
+$
+6,348
+
+ 
+8.0
+%
+Tier 1 leverage
+$
+11,207
+
+ 
+12.4
+%
+ 
+$
+9,958
+
+ 
+12.9
+%
+ 
+$
+4,515
+
+ 
+5.0
+%
+Common equity Tier 1 capital
+$
+11,207
+
+ 
+14.1
+%
+ 
+$
+9,958
+
+ 
+14.9
+%
+ 
+$
+5,157
+
+ 
+6.5
+%
+
+57
+
+
+Failure to meet minimum capital requirements can result in the initiation of certain mandatory and possibly additional discretionary actions by regulators that, if undertaken, could limit our business activities and have a material adverse effect on our business, results of operations and financial condition. See “Regulation—Risk Factors Relating to Regulation—Failure by Synchrony and the Bank to meet applicable capital adequacy and liquidity requirements could have a material adverse effect on us.”
+Non-GAAP Measures
+____________________________________________________________________________________________
+We present adjusted net earnings, which represents net earnings adjusted to exclude additional tax expense recorded to the provision for income taxes in the year ended December 31, 2017, related to the Tax Act. The additional tax expense was primarily due to the remeasurement of our net deferred tax asset due to the U.S. corporate rate reduction from 35% to 21%. We believe this measure helps investors understand the impact of this law change on our reported results. The following table sets forth a reconciliation of adjusted net earnings to the comparable GAAP component for the year ended December 31, 2017.
+Year ended December 31 ($ in millions)
+2017
+GAAP net earnings
+$
+1,935
+
+Adjustment for the Tax Act
+160
+
+ 
+ 
+Adjusted net earnings
+$
+2,095
+
+ 
+ 
+
+Off-Balance Sheet Arrangements and Unfunded Lending Commitments
+____________________________________________________________________________________________
+We do not have any material off-balance sheet arrangements, including guarantees of third-party obligations. Guarantees are contracts or indemnification agreements that contingently require us to make a guaranteed payment or perform an obligation to a third-party based on certain trigger events. At December 31, 2018, we had not recorded any contingent liabilities in our Consolidated Statements of Financial Position related to any guarantees.
+We extend credit, primarily arising from agreements with customers for unused lines of credit on our credit cards, in the ordinary course of business. See Note 4. Loan Receivables and Allowance for Loan Losses to our consolidated financial statements for more information on our unfunded lending commitments.
+
+58
+
+
+Contractual Obligations
+____________________________________________________________________________________________
+In the normal course of business, we enter into various contractual obligations that require future cash payments. Our future cash payments associated with our contractual obligations at December 31, 2018 are summarized below.
+ 
+Payments Due by Period
+($ in millions)
+Total
+ 
+2019
+ 
+2020 - 2021
+ 
+2022 - 2023
+ 
+2024 and Thereafter
+Deposits(1)(2)
+$
+64,068
+
+ 
+$
+47,133
+
+ 
+$
+11,943
+
+ 
+$
+3,639
+
+ 
+$
+1,353
+
+Securitized financings(3)
+14,911
+
+ 
+4,070
+
+ 
+9,196
+
+ 
+1,645
+
+ 
+—
+
+Senior unsecured notes(4)
+11,045
+
+ 
+2,400
+
+ 
+3,465
+
+ 
+1,073
+
+ 
+4,107
+
+Operating leases
+268
+
+ 
+42
+
+ 
+81
+
+ 
+73
+
+ 
+72
+
+Purchase obligations(5)
+607
+
+ 
+262
+
+ 
+240
+
+ 
+71
+
+ 
+34
+
+Total contractual obligations(6)(7)
+$
+90,899
+
+ 
+$
+53,907
+
+ 
+$
+24,925
+
+ 
+$
+6,501
+
+ 
+$
+5,566
+
+______________________
+(1)
+Savings accounts (including money market accounts), brokered network deposits sweeps, and non-interest-bearing deposits are assumed for purposes of this table to be due in 2019 because they may be withdrawn at any time without payment of any penalty.
+(2)
+Deposits do not include interest payments because the amount and timing of these payments cannot be reasonably estimated as certain deposits have early withdrawal rights and also the option to roll interest payments into the balance. The average interest rate on our interest-bearing deposits for the year ended December 31, 2018 was 2.0%. See Note 7. Deposits to our consolidated financial statements.
+(3)
+These amounts shown exclude interest on floating rate securitized borrowings. The weighted average interest rate at December 31, 2018 was 2.78%. See Note 8. Borrowings to our consolidated financial statements.
+(4)
+The amounts shown exclude interest for the floating rate senior unsecured debt as payments of interest on these senior unsecured notes are based on floating rates.
+(5)
+Purchase obligations at December 31, 2018 reflect the minimum purchase obligation under legally binding contracts with contract terms that are both fixed and determinable. These amounts exclude obligations for goods and services that already have been incurred and are reflected on our Consolidated Statement of Financial Position.
+(6)
+The table above does not include estimated payments of liabilities associated with uncertain income tax positions.  The inherent complexity and uncertainty around the timing and amount of future outflows for uncertain tax positions do not permit a reasonably reliable estimate of payments, if any, to be made in connection with these liabilities. At December 31, 2018, we had unrecognized tax benefits of $251 million, excluding related interest and penalties.  See Note 14. Income Taxes to the consolidated financial statements.
+(7)
+The table above excludes our reimbursement obligations to GE for certain retiree benefits obligations of $176 million at December 31, 2018. See Note 11. Employee Benefit Plans to the consolidated financial statements for additional information.
+
+59
+
+
+
+Critical Accounting Estimates
+____________________________________________________________________________________________
+In preparing our consolidated financial statements, we have identified certain accounting estimates and assumptions that we consider to be the most critical to an understanding of our financial statements because they involve significant judgments and uncertainties. The critical accounting estimates we have identified relate to allowance for loan losses and fair value measurements. These estimates reflect our best judgment about current, and for some estimates future, economic and market conditions and their effects based on information available as of the date of these financial statements. If these conditions change from those expected, it is reasonably possible that these judgments and estimates could change, which may result in incremental losses on loan receivables, or material changes to our Consolidated Statement of Financial Position, among other effects. See Note 2. Basis of Presentation and Summary of Significant Accounting Policies to our consolidated financial statements, which discusses the significant accounting policies related to these estimates.
+Allowance for Loan Losses
+Losses on loan receivables are recognized when they are incurred, which requires us to make our best estimate of probable losses in the portfolio. The method for calculating the best estimate of probable losses takes into account our historical experience, adjusted for current conditions with each product and customer type, and our judgment concerning the probable effects of relevant observable data, trends and market factors.
+We evaluate each portfolio quarterly. For credit card receivables, our estimation process includes analysis of historical data, and there is a significant amount of judgment applied in selecting inputs and analyzing the results produced by the models to determine the allowance. Our risk process includes standards and policies for reviewing major risk exposures and concentrations, and evaluates relevant data either for individual loans or on a portfolio basis, as appropriate. More specifically, we use a migration analysis to estimate the likelihood that a loan will progress through the various stages of delinquency. The migration analysis considers uncollectible principal, interest and fees reflected in the loan receivables. We use other analyses to estimate losses incurred on non-delinquent accounts. The considerations in these analyses include past performance, risk management techniques applied to various accounts, historical behavior of different account vintages, current economic conditions, recent trends in delinquencies, bankruptcy filings, account collection management, policy changes, account seasoning, loan volume and amounts, payment rates, forecasting uncertainties and a qualitative assessment of the adequacy of the allowance for losses, which compares this allowance for losses to projected net charge-offs over the next 12 months, in a manner consistent with regulatory guidance. We do not evaluate credit card loans for impairment on an individual basis, but instead estimate its allowance for credit card loan losses on a portfolio basis. Further, experience is not available for new portfolios; therefore, while we are developing that experience, we set loss allowances based on our experience with the most closely analogous products in our portfolio. The underlying assumptions, estimates and assessments we use to provide for losses are updated periodically to reflect our view of current conditions and are subject to the regulatory examination process, which can result in changes to our assumptions. Changes in such estimates can significantly affect the allowance and provision for losses. It is possible that we will experience credit losses that are different from our current estimates.
+In June 2016, the FASB issued ASU 2016-13, Financial Instruments-Credit Losses: Measurement of Credit Losses on Financial Instruments which is effective for the Company on January 1, 2020. This ASU replaces the existing accounting standard for credit losses and will change the accounting model for how credit losses will be recognized in our consolidated financial statements. See Note 2. Basis of Presentation and Summary of Significant Accounting Policies — New Accounting Standards, to our consolidated financial statements for additional information related to the new accounting standard for credit losses and its expected impact to the Company’s allowance for loan losses.
+
+60
+
+
+Fair Value Measurements
+Assets and liabilities measured at fair value every reporting period include investments in debt and equity securities as well as contingent consideration obligations. Assets that are not measured at fair value every reporting period, but that are subject to fair value measurements in certain circumstances primarily include acquired loans, loans that have been reduced to fair value when they are held for sale, impaired loans that have been reduced based on the fair value of the underlying collateral, cost method and equity method investments that are written down to fair value when they are impaired.
+Assets that are written down to fair value when impaired are not subsequently adjusted to fair value unless further impairment occurs. A fair value measurement is determined as the price that we would receive to sell an asset or pay to transfer a liability in an orderly transaction between market participants at the measurement date. In the absence of active markets for the identical assets or liabilities, such measurements involve developing assumptions based on market observable data and, in the absence of such data, internal information that is consistent with what market participants would use in a hypothetical transaction that occurs at the measurement date. The determination of fair value often involves significant judgments about assumptions such as determining an appropriate discount rate that factors in both risk and liquidity premiums, identifying the similarities and differences in market transactions, weighting those differences accordingly and then making the appropriate adjustments to those market transactions to reflect the risks specific to our asset being valued.
+New Accounting Standards
+____________________________________________________________________________________________
+See Note 2. Basis of Presentation and Summary of Significant Accounting Policies — New Accounting Standards, to our consolidated financial statements for additional information related to recent accounting pronouncements.

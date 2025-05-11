@@ -1,0 +1,5601 @@
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (MD&A)
+
+NON-GAAP FINANCIAL MEASURES
+We use non-GAAP financial measures as supplemental metrics in evaluating our financial performance, making financing and business decisions, and forecasting and planning for future periods. For these reasons, management believes such measures are useful supplemental measures to investors in comparing our performance to the performance of other public companies in the health care industry. These non-GAAP financial measures should be considered as supplements to, and not as substitutes for or superior to, GAAP measures.
+See further information regarding non-GAAP measures in the “Supplemental Information” section of this MD&A, including the reconciliations to U.S. GAAP. Non-GAAP financial measures referred to in this Form 10-K are designated with an asterisk (*).
+
+Molina Healthcare, Inc. 2017 Form 10-K | 6
+
+
+KEY PERFORMANCE INDICATORS
+(Dollars in millions except per-share amounts, membership in millions)
+ 
+Year Ended December 31,
+ 
+2017
+ 
+2016
+ 
+2015
+Ending total membership
+4.5
+
+ 
+4.2
+
+ 
+3.5
+
+ 
+ 
+ 
+ 
+ 
+ 
+Premium revenue
+$
+18,854
+
+ 
+$
+16,445
+
+ 
+$
+13,261
+
+Health Plans segment medical margin (1)
+$
+1,781
+
+ 
+$
+1,671
+
+ 
+$
+1,467
+
+Operating (loss) income
+$
+(555
+)
+ 
+$
+306
+
+ 
+$
+387
+
+ 
+ 
+ 
+ 
+ 
+ 
+Net (loss) income
+$
+(512
+)
+ 
+$
+52
+
+ 
+$
+143
+
+Net (loss) income per diluted share
+$
+(9.07
+)
+ 
+$
+0.92
+
+ 
+$
+2.58
+
+Diluted weighted average shares outstanding
+56.5
+
+ 
+56.3
+
+ 
+55.6
+
+ 
+ 
+ 
+ 
+ 
+ 
+Adjusted net (loss) income per diluted share*
+$
+(8.72
+)
+ 
+$
+1.28
+
+ 
+$
+2.78
+
+EBITDA*
+$
+(329
+)
+ 
+$
+467
+
+ 
+$
+508
+
+ 
+ 
+ 
+ 
+ 
+ 
+Operating Statistics:
+ 
+ 
+ 
+ 
+ 
+Medical care ratio (2)
+90.6
+ %
+ 
+89.8
+%
+ 
+88.9
+%
+G&A ratio (3)
+8.0
+ %
+ 
+7.8
+%
+ 
+8.1
+%
+Premium tax ratio (2)
+2.3
+ %
+ 
+2.8
+%
+ 
+2.9
+%
+Effective income tax (benefit) expense rate
+(16.4
+)%
+ 
+74.8
+%
+ 
+55.5
+%
+Net (loss) profit margin (3)
+(2.6
+)%
+ 
+0.3
+%
+ 
+1.0
+%
+__________________
+(1)
+Medical margin is equal to premium revenue minus medical costs.
+(2)
+Medical care ratio represents medical care costs as a percentage of premium revenue; premium tax ratio represents premium tax expenses as a percentage of premium revenue plus premium tax revenue.
+(3)
+G&A ratio represents general and administrative expenses as a percentage of total revenue. Net (loss) profit margin represents net (loss) income as a percentage of total revenue.
+See discussion of Key Performance Indicators in the “Consolidated Results” and “Reportable Segments” sections of this MD&A.
+
+CONSOLIDATED RESULTS
+FISCAL YEAR 2017 FINANCIAL SUMMARY
+•
+Net loss per diluted share was $9.07 in 2017 compared with net income per diluted share of $0.92 in 2016.
+•
+Adjusted net loss per diluted share* was $8.72 in 2017 compared with adjusted net income per diluted share* of $1.28 in 2016.
+•
+The medical care ratio increased to 90.6% in 2017, from 89.8% in 2016.
+•
+The general and administrative ratio increased to 8.0% in 2017, from 7.8% in 2016.
+•
+We recorded a $73 million charge as a result of the federal government’s decision to stop paying cost sharing reduction rebates (CSRs) to health plans beginning in the fourth quarter of 2017. We believe we are legally entitled to those payments, and will pursue all available means to collect them.
+•
+We recorded $47 million in charges for Marketplace changes in estimates, including risk adjustment and CSRs, related to 2016 dates of service that were estimated at December 31, 2016, and finalized during the second quarter of 2017.
+•
+We recognized the $30 million release of the Marketplace-related premium deficiency reserve we had established as of December 31, 2016.
+
+Molina Healthcare, Inc. 2017 Form 10-K | 7
+
+
+•
+We incurred non-cash impairment losses of $470 million in 2017. These losses included $269 million, primarily in connection with our Florida, New Mexico, and Illinois health plans. The impairments at Florida and New Mexico were the result of our recent Medicaid contract losses. The Illinois impairment was the result of management’s determination, in the course of its annual impairment assessment of the goodwill of the Illinois health plan, that the plan’s future cash flow projections were insufficient to produce an estimated fair value in excess of its carrying amount. While we are confident that we can improve profitability in Illinois so that it is a meaningful contributor to our company, the current profit profile of the health plan does not support the purchase prices paid for certain membership years ago.
+Also during 2017, we recorded impairment losses of $28 million for our Molina Medicaid Solutions segment because management determined that Molina Medicaid Solutions will provide fewer future benefits for its support of the Health Plans segment than previously anticipated. In addition, we recorded impairment losses of $173 million for our Other segment, primarily relating to our Pathways business, because management determined that Pathways will not provide future benefits relating to the integration of its operations with the Health Plans segment to the extent previously expected.
+•
+We incurred restructuring and separation costs of $234 million in 2017 as a result of the implementation of our restructuring and profit improvement plan in 2017 (the 2017 Restructuring Plan). As previously disclosed, we estimate that our 2017 Restructuring Plan will reduce annualized run-rate expenses by approximately $300 million to $400 million when completed by the end of 2018. As of December 31, 2017, we achieved $235 million of these run-rate reductions by the elimination of administrative costs (some of which are classified as medical care costs) on an annualized basis. As of December 31, 2017 we had also achieved an undetermined amount of medical care cost savings on an annualized basis through the re-negotiation of various medical provider contracts and the restructuring of our direct delivery operations. We expect to have more visibility into the actual value of these medical care cost savings later in 2018. We incurred substantially all of the costs associated with the 2017 Restructuring Plan in 2017.
+•
+We incurred $14 million in expenses, including transaction fees, relating to our exchange of equity for $141 million face value of our 1.625% convertible senior notes.
+•
+We recognized $75 million of other income for fees we received in connection with the termination of a proposed Medicare acquisition in early 2017.
+•
+We recognized approximately $54 million in additional tax expense during the fourth quarter, due to the revaluation of our deferred tax assets as a result of the Tax Cuts and Jobs Act of 2017.
+The following table summarizes significant items affecting 2017 financial results (in millions, except per diluted share amounts).
+ 
+Year Ended December 31, 2017
+ 
+Amount
+ 
+Per Diluted Share (1)
+Termination of CSR subsidy payments for the fourth quarter of 2017
+$
+73
+
+ 
+$
+0.82
+
+Marketplace adjustments related to risk adjustment, CSR subsidies, and other items for 2016 dates of service
+47
+
+ 
+0.52
+
+Change in Marketplace premium deficiency reserve for 2017 dates of service
+(30
+)
+ 
+(0.33
+)
+Impairment losses
+470
+
+ 
+6.01
+
+Restructuring and separation costs
+234
+
+ 
+2.86
+
+Loss on debt extinguishment
+14
+
+ 
+0.24
+
+Fee received for terminated Medicare acquisition
+(75
+)
+ 
+(0.84
+)
+ 
+$
+733
+
+ 
+$
+9.28
+
+___________________________
+(1)
+Amounts shown are before considering revaluation of related deferred tax assets as a result of the Tax Cuts and Jobs Act of 2017, as applicable. Except for certain items that are not deductible for tax purposes, per diluted share amounts are generally calculated at a statutory income tax rate of 37%, which is in excess of the effective tax rate recorded in our consolidated statements of operations.
+
+Molina Healthcare, Inc. 2017 Form 10-K | 8
+
+
+TRENDS AND UNCERTAINTIES
+Medicaid Contract Re-Procurement
+The following table illustrates Health Plans segment Medicaid contracts scheduled for re-procurement in the near term. While we have been notified of the Medicaid regulators’ intention to re-procure the contracts, the anticipated award dates and effective dates are management’s current best estimates; such dates are subject to change. Premium revenue is stated in millions.
+ 
+ 
+ 
+ 
+ 
+ 
+Premium Revenue
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Membership as of
+ 
+Year Ended
+ 
+Anticipated
+Health Plan
+ 
+Medicaid Program(s)
+ 
+December 31, 2017
+ 
+December 31, 2017
+ 
+Award Date
+ 
+Effective Date
+Puerto Rico
+ 
+All
+ 
+314,000
+
+ 
+$
+732
+
+ 
+Q2 2018
+ 
+10/1/2018
+Texas
+ 
+ABD, MMP
+ 
+100,000
+
+ 
+$
+1,814
+
+ 
+Q3 2018
+ 
+1/1/2020
+Washington (1)
+ 
+All in 7 of 9 regions
+ 
+574,000
+
+ 
+$
+1,861
+
+ 
+Q2 2018
+ 
+1/1/2019
+__________________
+(1)
+The re-procurement information presented for the Washington health plan includes all Medicaid membership in the following regions: Northeast, Northwest, Central and Southeast, Pierce County, King County, Olympic Peninsula, and West-Central. Five of the seven largest regions’ contracts that are awarded will be effective January 1, 2019. The remaining two will be effective on January 1, 2020.
+Florida Health Plan. On February 1, 2018, we were selected by the Florida Agency for Health Care Administration (AHCA) to negotiate for the award of a managed care contract in only one region of Florida. That region—Region 11—comprises Miami-Dade and Monroe counties, where we currently serve 59,000 Medicaid members. As of December 31, 2017, we served approximately 360,000 Medicaid members in Florida, which represented approximately $1,486 million premium revenue for the year ended December 31, 2017. This decision does not affect the Florida health plan’s current contracts with AHCA, which run through December 31, 2018. We recorded impairment losses in connection with this event. Refer to the Notes to Consolidated Financial Statements, Note 8, “Goodwill and Intangible Assets, Net,” for further information regarding all impairment losses recorded in 2017.
+New Mexico Health Plan. In January 2018, our New Mexico health plan was notified by the New Mexico Human Services Department (HSD) that the health plan had not been selected for the tentative award of a Medicaid contract effective January 1, 2019. As of December 31, 2017, we served approximately 224,000 Medicaid members in New Mexico, which represented approximately $1,205 million premium revenue for the year ended December 31, 2017. This decision does not affect the New Mexico plan’s current contract with HSD which runs through December 31, 2018. We recorded impairment losses in connection with this event.
+Illinois Health Plan. In August 2017, our Illinois health plan was awarded a statewide Medicaid managed care contract by the Illinois Department of Healthcare and Family Services. This Medicaid contract further integrates behavioral health and physical health by combining the state’s three current managed care programs into one program. The contract began January 1, 2018, and will continue for four years with options to renew annually for up to four additional years.
+Washington Health Plan. In May 2017, our Washington health plan was selected by the Washington State Health Care Authority to negotiate and enter into managed care contracts for the North-Central region of the state’s Apple Health Integrated Managed Care Program. The new contract commenced January 1, 2018.
+Pressures on Medicaid Funding
+Currently, there are a number of different legislative proposals being considered, some of which would involve significantly reduced federal spending on the Medicaid program, and constitute a fundamental change in the federal role in health care. These proposals include elements such as the following:
+•
+Ending the entitlement nature of Medicaid by capping future increases in federal health spending for these programs, and shifting more of the risk for health costs in the future to states and consumers;
+•
+Reversing the ACA’s expansion of Medicaid that enables states to cover low-income childless adults;
+•
+Changing Medicaid to a state block grant program, including potentially capping spending on a per-enrollee basis (a “per capita cap”);
+
+Molina Healthcare, Inc. 2017 Form 10-K | 9
+
+
+•
+Requiring Medicaid beneficiaries to work;
+•
+Limiting the amount of lifetime benefits for Medicaid beneficiaries; and
+•
+Numerous other potential changes and reforms.
+ACA and the Marketplace
+The future of the Affordable Care Act (ACA) and its underlying programs, including the Marketplace, is subject to substantial uncertainty. Effective January 1, 2018, we have:
+•
+Exited the Utah and Wisconsin Marketplaces;
+•
+Reduced the scope of our Washington state Marketplace participation;
+•
+Increased premiums averaging 58%;
+•
+Mitigated our exposure to uncertainties relating to cost sharing reduction (CSR) funding and reconciliation; and
+•
+Adjusted broker commissions to market rates.
+As a result of these actions, we estimate that our ACA Marketplace membership will decline to approximately 300,000 members by the end of 2018, from 815,000 members as of December 31, 2017.
+REPORTABLE SEGMENTS
+HOW WE ASSESS PERFORMANCE
+We derive our revenues primarily from health insurance premiums. Our primary customers are state Medicaid agencies and the federal government.
+One of the key metrics used to assess the performance of our most significant segment, the Health Plans segment, is the medical care ratio (“MCR”). The medical care ratio represents the amount of medical care costs as a percentage of premium revenue. Therefore, the underlying gross margin, or the amount earned by the Health Plans segment after medical costs are deducted from premium revenue, is the most important measure of earnings reviewed by management.
+Gross margin for our Health Plans segment is referred to as “Medical margin,” and for our Molina Medicaid Solutions and Other segments, as “Service margin.” The service margin is equal to service revenue minus cost of service revenue. Management’s discussion and analysis of the changes in the individual components of medical margin and service margin follows.
+SEGMENT SUMMARY
+ 
+2017
+ 
+2016
+ 
+2015
+ 
+(In millions)
+Health Plans segment medical margin (1)
+$
+1,781
+
+ 
+$
+1,671
+
+ 
+$
+1,467
+
+Molina Medicaid Solutions segment service margin (2)
+16
+
+ 
+21
+
+ 
+55
+
+Other segment service margin (2)
+13
+
+ 
+33
+
+ 
+5
+
+ 
+$
+1,810
+
+ 
+$
+1,725
+
+ 
+$
+1,527
+
+ 
+ 
+ 
+ 
+ 
+ 
+Health Plans segment medical care ratio
+90.6
+%
+ 
+89.8
+%
+ 
+88.9
+%
+_______________________
+(1)
+Represents premium revenue minus medical care costs.
+(2)
+Represents service revenue minus cost of service revenue.
+
+
+Molina Healthcare, Inc. 2017 Form 10-K | 10
+
+
+HEALTH PLANS
+BUSINESS OVERVIEW
+ 
+▪
+97.3% of total revenue in 2017        
+▪
+96.9% of total revenue in 2016    
+▪
+Employees: approximately 5,300
+ 
+Our Industry
+Medicaid. Medicaid was established in 1965 under the U.S. Social Security Act to provide health care and long-term care services and supports to low-income Americans. Although jointly funded by federal and state governments, Medicaid is a state-operated and state-implemented program. Subject to federal laws and regulations, states have significant flexibility to structure their own programs in terms of eligibility, benefits, delivery of services, and provider payments. As a result, there are 56 separate Medicaid programs—one for each U.S. state, each U.S. territory, and the District of Columbia.
+The federal government guarantees matching funds to states for qualifying Medicaid expenditures based on each state’s federal medical assistance percentage (FMAP). A state’s FMAP is calculated annually and varies inversely with average personal income in the state. The average FMAP across all jurisdictions is currently about 59%, and ranges from a federally established FMAP floor of 50% to as high as 75%.
+We participate in the following Medicaid programs:
+•
+Temporary Assistance for Needy Families, or TANF - The most common Medicaid program, covers primarily low-income families with children.
+•
+Aged, Blind or Disabled, or ABD - Medicaid ABD programs cover low-income persons with chronic physical disabilities or behavioral health impairments. ABD beneficiaries typically use more services than those served by other Medicaid programs because of their critical health issues.
+•
+Children’s Health Insurance Program, or CHIP - A joint federal and state matching program that provides health care coverage to children whose families earn too much to qualify for Medicaid coverage. States have the option of administering CHIP through their Medicaid programs.
+•
+Medicaid Expansion - In states that have elected to participate, Medicaid Expansion provides eligibility to nearly all low-income individuals under age 65 with incomes at or below 138% of the federal poverty line.
+Marketplace. The ACA authorized the creation of Marketplace insurance exchanges, allowing individuals and small groups to purchase health insurance that is federally subsidized, effective January 1, 2014. We participate in the Marketplace in California, Florida, Michigan, New Mexico, Ohio, Texas and Washington. As previously announced, we exited the Utah and Wisconsin ACA Marketplaces effective January 1, 2018.
+Medicare. Medicare is a federal program that provides eligible persons age 65 and over and some disabled persons with a variety of hospital, medical insurance, and prescription drug benefits. Medicare is funded by Congress, and administered by the Centers for Medicare and Medicaid Services (CMS). Medicare beneficiaries may enroll in a Medicare Advantage plan, under which managed care plans contract with CMS to provide benefits that are comparable to original Medicare. Such benefits are provided in exchange for a fixed per-member per-month (PMPM) premium payment that varies based on the county in which a member resides, the demographics of the member, and the member’s health condition. Since 2006, Medicare beneficiaries have had the option of selecting a new prescription drug benefit from an existing Medicare Advantage plan. The drug benefit, available to beneficiaries for a monthly premium, is subject to certain cost sharing depending upon the specific benefit design of the selected plan.
+Medicare-Medicaid Plans, or MMPs. Approximately nine million low-income elderly and disabled people are covered under both the Medicare and Medicaid programs. These beneficiaries are more likely than other Medicare beneficiaries to be frail, live with multiple chronic conditions, and have functional and cognitive impairments. Medicare is their primary source of health insurance coverage. Medicaid supplements Medicare by paying for services not covered by Medicare, such as dental care and long-term care services and support, and by helping to cover Medicare’s premiums and cost-sharing requirements. Together, these two programs help to shield very low-income Medicare beneficiaries from potentially unaffordable out-of-pocket medical and long-term care costs. To coordinate care for those who qualify to receive both Medicare and Medicaid services (the “dual eligible”), and to
+
+Molina Healthcare, Inc. 2017 Form 10-K | 11
+
+
+deliver services to these individuals in a more financially efficient manner, some states have undertaken demonstration programs to integrate Medicare and Medicaid services for dual eligible individuals. The health plans participating in such demonstrations are referred to as MMPs. We operate MMPs in six states.
+Significant Trends and Developments
+Refer to the discussion above, in the “Consolidated Results,” and also below, in “Financial Performance by Program” sections of this MD&A.
+Competition
+The Medicaid managed care industry is subject to ongoing changes as a result of health care reform, business consolidations and new strategic alliances. We compete with national, regional, and local Medicaid service providers, principally on the basis of size, location, quality of provider network, quality of service, and reputation. Our primary competitors in the Medicaid managed care industry include Centene Corporation, WellCare Health Plans, Inc., UnitedHealth Group Incorporated, Anthem, Inc., and Aetna Inc. Competition can vary considerably from state to state.
+Regulation
+Our health plans are highly regulated by both state and federal government agencies. Regulation of managed care products and health care services varies from jurisdiction to jurisdiction, and changes in applicable laws and rules occur frequently. Regulatory agencies generally have discretion to issue regulations and interpret and enforce laws and rules. Such agencies have become increasingly active in recent years in their review and scrutiny of health insurers and managed care organizations, including those operating in the Medicaid and Medicare programs.
+HIPAA. In 1996, Congress enacted the Health Insurance Portability and Accountability Act (HIPAA). All health plans are subject to HIPAA, including ours. HIPAA generally requires health plans to:
+•
+Establish the capability to receive and transmit electronically certain administrative health care transactions, such as claims payments, in a standardized format;
+•
+Afford privacy to patient health information; and
+•
+Protect the privacy of patient health information through physical and electronic security measures.
+Health care reform created additional tools for fraud prevention, including increased oversight of providers and suppliers participating or enrolling in Medicaid, CHIP, and Medicare. Those enhancements included mandatory licensure for all providers, and site visits, fingerprinting, and criminal background checks for higher risk providers.
+Regulatory Capital Requirements and Dividend Restrictions. Our health plans are subject to stringent minimum capitalization requirements that limit their ability to pay dividends to us. For further information, refer to the Notes to Consolidated Financial Statements, Note 19, “Commitments and Contingencies—Regulatory Capital Requirements and Dividend Restrictions.”
+Quality
+Our long-term success depends, in large part, on the quality of the services we provide. As of December 31, 2017, 11 of our 13 health plans were accredited by the National Committee for Quality Assurance (NCQA), including the Multicultural Health Care Distinction, which is awarded to organizations that meet or exceed its rigorous requirements for multicultural health care.
+The table below presents our health plans’ NCQA status, as well as their scores as part of the CMS 2017 Star Ratings, which measures the quality of Medicare plans across the country using a 5-star rating system.
+We believe that these objective measures of quality are important to state Medicaid agencies, as a growing number of states link reimbursement and patient assignment to quality scores. Additionally, Medicare pays quality bonuses to health plans that achieve high quality.
+
+Molina Healthcare, Inc. 2017 Form 10-K | 12
+
+
+ncqa2017.jpg
+Programs and Services
+As of December 31, 2017, the Health Plans segment consisted of health plans operating in 12 states and the Commonwealth of Puerto Rico. These health plans served approximately 4.5 million members eligible for Medicaid, Medicare, and other government-sponsored health care programs for low-income families and individuals. This membership includes Affordable Care Act Marketplace (Marketplace) members, most of whom receive government premium subsidies. The health plans are operated by our respective wholly owned subsidiaries in those states, each of which is licensed as a health maintenance organization (HMO).
+Our health plans’ state Medicaid contracts generally have terms of three to four years. These contracts typically contain renewal options exercisable by the state Medicaid agency, and allow either the state or the health plan to terminate the contract with or without cause. The contracts are subject to risk of loss when a state issues a new request for proposal (RFP) open to competitive bidding by other health plans. If one of our health plans is not a successful responsive bidder to a state RFP, its contract may be subject to non-renewal.
+In addition to contract renewal, our state Medicaid contracts may be periodically amended to include or exclude certain health benefits (such as pharmacy services, behavioral health services, or long-term care services); populations such as the aged, blind or disabled (ABD); and regions or service areas.
+Basis for our Premium Rates
+Medicaid. Under our Medicaid contracts, state government agencies pay our health plans fixed PMPM rates that vary by state, line of business and demographics; and we arrange, pay for and manage health care services provided to Medicaid beneficiaries. Therefore, our health plans are at risk for the medical costs associated with their members’ health care. The rates we receive are subject to change by each state and, in some instances, provide for adjustments for health risk factors. CMS requires these rates to be actuarially sound. Payments to us under each of our Medicaid contracts are subject to the annual appropriation process in the applicable state.
+Medicare. Under Medicare Advantage, managed care plans contract with CMS to provide benefits in exchange for a fixed PMPM premium payment that varies based on the county in which a member resides, and adjusted for demographic and health risk factors. CMS also considers inflation, changes in utilization patterns and average per capita fee-for-service Medicare costs in the calculation of the fixed PMPM premium payment. Amounts payable to us under the Medicare Advantage contracts are subject to annual revision by CMS, and we elect to participate in each Medicare service area or region on an annual basis. Medicare Advantage premiums paid to us are subject to
+
+Molina Healthcare, Inc. 2017 Form 10-K | 13
+
+
+federal government reviews and audits which can result, and have resulted, in retroactive and prospective premium adjustments. Compared with our Medicaid plans, Medicare Advantage contracts generate higher average PMPM revenues and health care costs.
+Marketplace. For our Marketplace plans, we develop premium rates during the spring of each year for policies effective in the following calendar year. Premium rates are based on our estimates of projected member utilization, medical unit costs, member risk acuity, member risk transfer, and administrative costs, with the intent of realizing a target pretax percentage profit margin. Our actuaries certify the actuarial soundness of Marketplace premiums in the rate filings submitted to the various state and federal authorities for approval.
+Premiums by Program
+The amount of the premiums paid to our health plans may vary substantially between states and among various government programs. The following table sets forth the ranges of premiums paid to our state health plans by program on a PMPM basis, for the year ended December 31, 2017. The “Consolidated” column represents the weighted-average amounts for our total membership by program.
+ 
+PMPM Premiums
+ 
+Low
+ 
+High
+ 
+Consolidated
+TANF and CHIP
+$
+110.00
+
+ 
+$
+290.00
+
+ 
+$
+180.00
+
+Marketplace
+180.00
+
+ 
+480.00
+
+ 
+270.00
+
+Medicaid Expansion
+320.00
+
+ 
+510.00
+
+ 
+390.00
+
+ABD
+380.00
+
+ 
+1,460.00
+
+ 
+1,050.00
+
+MMP – Integrated
+1,290.00
+
+ 
+3,230.00
+
+ 
+2,180.00
+
+Medicare
+940.00
+
+ 
+1,250.00
+
+ 
+1,140.00
+
+chart-656e1fa93e305e27918.jpg chart-b14bbbe6024658afac9.jpg
+
+Molina Healthcare, Inc. 2017 Form 10-K | 14
+
+
+chart-fa6abf320bb95c67b3f.jpg
+
+
+Molina Healthcare, Inc. 2017 Form 10-K | 15
+
+
+Membership by Program and Health Plan
+The following tables set forth our health plans’ membership as of the dates indicated:
+ 
+As of December 31,
+ 
+2017
+ 
+2016
+ 
+2015
+Ending Membership by Program:
+ 
+ 
+ 
+ 
+ 
+TANF and CHIP
+2,457,000
+
+ 
+2,536,000
+
+ 
+2,312,000
+
+Marketplace
+815,000
+
+ 
+526,000
+
+ 
+205,000
+
+Medicaid Expansion
+668,000
+
+ 
+673,000
+
+ 
+557,000
+
+ABD
+412,000
+
+ 
+396,000
+
+ 
+366,000
+
+MMP – Integrated
+57,000
+
+ 
+51,000
+
+ 
+51,000
+
+Medicare
+44,000
+
+ 
+45,000
+
+ 
+42,000
+
+ 
+4,453,000
+
+ 
+4,227,000
+
+ 
+3,533,000
+
+ 
+ 
+ 
+ 
+ 
+ 
+Ending Membership by Health Plan:
+ 
+ 
+ 
+ 
+ 
+California
+746,000
+
+ 
+683,000
+
+ 
+620,000
+
+Florida (1)
+625,000
+
+ 
+553,000
+
+ 
+440,000
+
+Illinois
+165,000
+
+ 
+195,000
+
+ 
+98,000
+
+Michigan
+398,000
+
+ 
+391,000
+
+ 
+328,000
+
+New Mexico (2)
+253,000
+
+ 
+254,000
+
+ 
+231,000
+
+New York (3)
+32,000
+
+ 
+35,000
+
+ 
+—
+
+Ohio
+327,000
+
+ 
+332,000
+
+ 
+327,000
+
+Puerto Rico
+314,000
+
+ 
+330,000
+
+ 
+348,000
+
+South Carolina
+116,000
+
+ 
+109,000
+
+ 
+99,000
+
+Texas
+430,000
+
+ 
+337,000
+
+ 
+260,000
+
+Utah
+152,000
+
+ 
+146,000
+
+ 
+102,000
+
+Washington
+777,000
+
+ 
+736,000
+
+ 
+582,000
+
+Wisconsin
+118,000
+
+ 
+126,000
+
+ 
+98,000
+
+ 
+4,453,000
+
+ 
+4,227,000
+
+ 
+3,533,000
+
+_______________________
+(1)
+On February 1, 2018, we were selected by the Florida Agency for Health Care Administration (AHCA) to negotiate for the award of a managed care contract in only one region of Florida. That region—Region 11—comprises Miami-Dade and Monroe counties, where we currently serve 59,000 Medicaid members. As of December 31, 2017, we served a total of approximately 360,000 Medicaid members in Florida.
+(2)
+In January 2018, our New Mexico health plan was notified by the New Mexico Human Services Department (HSD) that the health plan had not been selected for the tentative award of a Medicaid contract effective January 1, 2019. As of December 31, 2017, we served approximately 224,000 Medicaid members in New Mexico.
+(3)
+The New York health plan was acquired on August 1, 2016.
+
+FINANCIAL OVERVIEW
+2017 Compared with 2016
+In 2017, a 10% increase in membership, and a 5% increase in revenue PMPM, resulted in increased premium revenue of 15%, or $2.4 billion, when compared with 2016.
+The medical care ratio increased to 90.6% in 2017, from 89.8% in 2016. Medical margin (measured in absolute dollars) increased 7% in 2017 over 2016. Our 2017 medical care ratio of 90.6% was burdened by substantial unfavorable out-of-period items, including:
+•
+Approximately $150 million of medical margin deterioration resulting from unfavorable prior period claims development, the related need to replenish margins for adverse development in our liability for medical claims and benefits payable, and increased reserves for premiums we expect to repay to state Medicaid agencies; and
+•
+Approximately $90 million of unfavorable Marketplace items, most notably the lack of CSR reimbursement in the fourth quarter of 2017.
+
+Molina Healthcare, Inc. 2017 Form 10-K | 16
+
+
+Absent these items, our medical care ratio for 2017 would have been approximately 89.3%.
+2016 Compared with 2015
+In 2016, a 27% increase in membership, partially offset by a 3% decrease in revenue PMPM, resulted in increased premium revenue of 24%, or $3.2 billion, when compared with 2015.
+The medical care ratio increased to 89.8% in 2016, from 88.9% in 2015. The increase in our medical care ratio was driven primarily by Marketplace membership. Medical margin (measured in absolute dollars) increased 14% in 2016 over 2015. The medical care ratio of all of our programs excluding Marketplace decreased by 10 basis points between 2015 and 2016, as decreasing margins in Medicaid Expansion (where we saw a 300 basis point increase in our medical care ratio) were offset by improved margins in other programs. Consolidated medical care costs measured on a PMPM basis decreased approximately 3% in 2016 when compared with 2015.
+FINANCIAL PERFORMANCE BY PROGRAM
+The following tables summarize member months, premium revenue, medical care costs, medical care ratio, and medical margin by program for the periods indicated (PMPM amounts are in whole dollars; member months and other dollar amounts are in millions):
+ 
+Year Ended December 31, 2017
+ 
+Member
+Months (1)
+ 
+Premium Revenue
+ 
+Medical Care Costs
+ 
+MCR (2)
+ 
+Medical Margin
+ 
+ 
+Total
+ 
+PMPM
+ 
+Total
+ 
+PMPM
+ 
+ 
+TANF and CHIP
+30.2
+
+ 
+$
+5,554
+
+ 
+$
+183.75
+
+ 
+$
+5,111
+
+ 
+$
+169.09
+
+ 
+92.0
+%
+ 
+$
+443
+
+Medicaid Expansion
+8.1
+
+ 
+3,150
+
+ 
+388.42
+
+ 
+2,674
+
+ 
+329.73
+
+ 
+84.9
+
+ 
+476
+
+ABD
+4.9
+
+ 
+5,135
+
+ 
+1,050.41
+
+ 
+4,863
+
+ 
+994.80
+
+ 
+94.7
+
+ 
+272
+
+Total Medicaid
+43.2
+
+ 
+13,839
+
+ 
+320.16
+
+ 
+12,648
+
+ 
+292.61
+
+ 
+91.4
+
+ 
+1,191
+
+MMP
+0.7
+
+ 
+1,446
+
+ 
+2,177.72
+
+ 
+1,317
+
+ 
+1,982.36
+
+ 
+91.0
+
+ 
+129
+
+Medicare
+0.5
+
+ 
+601
+
+ 
+1,143.63
+
+ 
+493
+
+ 
+939.67
+
+ 
+82.2
+
+ 
+108
+
+Total Medicare
+1.2
+
+ 
+2,047
+
+ 
+1,722.47
+
+ 
+1,810
+
+ 
+1,523.15
+
+ 
+88.4
+
+ 
+237
+
+Core operations
+44.4
+
+ 
+15,886
+
+ 
+357.68
+
+ 
+14,458
+
+ 
+325.53
+
+ 
+91.0
+
+ 
+1,428
+
+Marketplace
+10.8
+
+ 
+2,968
+
+ 
+274.47
+
+ 
+2,615
+
+ 
+241.84
+
+ 
+88.1
+
+ 
+353
+
+ 
+55.2
+
+ 
+$
+18,854
+
+ 
+$
+341.39
+
+ 
+$
+17,073
+
+ 
+$
+309.14
+
+ 
+90.6
+%
+ 
+$
+1,781
+
+ 
+Year Ended December 31, 2016
+ 
+Member
+Months (1)
+ 
+Premium Revenue
+ 
+Medical Care Costs
+ 
+MCR (2)
+ 
+Medical Margin
+ 
+ 
+Total
+ 
+PMPM
+ 
+Total
+ 
+PMPM
+ 
+ 
+TANF and CHIP
+30.2
+
+ 
+$
+5,403
+
+ 
+$
+179.21
+
+ 
+$
+4,950
+
+ 
+$
+164.18
+
+ 
+91.6
+%
+ 
+$
+453
+
+Medicaid Expansion
+7.8
+
+ 
+2,952
+
+ 
+378.58
+
+ 
+2,475
+
+ 
+317.37
+
+ 
+83.8
+
+ 
+477
+
+ABD
+4.7
+
+ 
+4,666
+
+ 
+991.24
+
+ 
+4,277
+
+ 
+908.39
+
+ 
+91.6
+
+ 
+389
+
+Total Medicaid
+42.7
+
+ 
+13,021
+
+ 
+305.28
+
+ 
+11,702
+
+ 
+274.33
+
+ 
+89.9
+
+ 
+1,319
+
+MMP
+0.6
+
+ 
+1,321
+
+ 
+2,160.94
+
+ 
+1,141
+
+ 
+1,866.93
+
+ 
+86.4
+
+ 
+180
+
+Medicare
+0.5
+
+ 
+558
+
+ 
+1,063.44
+
+ 
+515
+
+ 
+981.36
+
+ 
+92.3
+
+ 
+43
+
+Total Medicare
+1.1
+
+ 
+1,879
+
+ 
+1,653.73
+
+ 
+1,656
+
+ 
+1,457.67
+
+ 
+88.1
+
+ 
+223
+
+Core operations
+43.8
+
+ 
+14,900
+
+ 
+340.28
+
+ 
+13,358
+
+ 
+305.03
+
+ 
+89.6
+
+ 
+1,542
+
+Marketplace
+6.7
+
+ 
+1,545
+
+ 
+231.38
+
+ 
+1,416
+
+ 
+212.17
+
+ 
+91.7
+
+ 
+129
+
+ 
+50.5
+
+ 
+$
+16,445
+
+ 
+$
+325.87
+
+ 
+$
+14,774
+
+ 
+$
+292.75
+
+ 
+89.8
+%
+ 
+$
+1,671
+
+
+Molina Healthcare, Inc. 2017 Form 10-K | 17
+
+
+ 
+Year Ended December 31, 2015
+ 
+Member
+Months (1)
+ 
+Premium Revenue
+ 
+Medical Care Costs
+ 
+MCR (2)
+ 
+Medical Margin
+ 
+ 
+Total
+ 
+PMPM
+ 
+Total
+ 
+PMPM
+ 
+ 
+TANF and CHIP
+25.5
+
+ 
+$
+4,483
+
+ 
+$
+175.64
+
+ 
+$
+4,122
+
+ 
+$
+161.50
+
+ 
+92.0
+%
+ 
+$
+361
+
+Medicaid Expansion
+5.9
+
+ 
+2,389
+
+ 
+408.51
+
+ 
+1,931
+
+ 
+330.18
+
+ 
+80.8
+
+ 
+458
+
+ABD
+4.3
+
+ 
+4,124
+
+ 
+966.83
+
+ 
+3,784
+
+ 
+887.27
+
+ 
+91.8
+
+ 
+340
+
+Total Medicaid
+35.7
+
+ 
+10,996
+
+ 
+308.54
+
+ 
+9,837
+
+ 
+276.05
+
+ 
+89.5
+
+ 
+1,159
+
+MMP
+0.5
+
+ 
+1,066
+
+ 
+2,040.08
+
+ 
+974
+
+ 
+1,863.93
+
+ 
+91.4
+
+ 
+92
+
+Medicare
+0.5
+
+ 
+546
+
+ 
+1,069.17
+
+ 
+502
+
+ 
+982.50
+
+ 
+91.9
+
+ 
+44
+
+Total Medicare
+1.0
+
+ 
+1,612
+
+ 
+1,560.08
+
+ 
+1,476
+
+ 
+1,428.18
+
+ 
+91.5
+
+ 
+136
+
+Core operations
+36.7
+
+ 
+12,608
+
+ 
+343.80
+
+ 
+11,313
+
+ 
+308.51
+
+ 
+89.7
+
+ 
+1,295
+
+Marketplace
+2.6
+
+ 
+653
+
+ 
+252.58
+
+ 
+481
+
+ 
+185.85
+
+ 
+73.6
+
+ 
+172
+
+ 
+39.3
+
+ 
+$
+13,261
+
+ 
+$
+337.79
+
+ 
+$
+11,794
+
+ 
+$
+300.43
+
+ 
+88.9
+%
+ 
+$
+1,467
+
+_______________________
+(1)
+A member month is defined as the aggregate of each month’s ending membership for the period presented.
+(2)
+“MCR” represents medical costs as a percentage of premium revenue.
+2017 TRENDS
+Medicaid TANF, CHIP and ABD. TANF represented approximately 40% of our total Medicaid revenue in 2017, with a medical care ratio of 92.0%. Keys to the cost-effective delivery of care to TANF members include:
+•
+Effective utilization controls and care management, particularly with respect to high-risk pregnancies; and
+•
+Reducing unit costs of high-cost providers.
+Our ABD program represented approximately 37% of our total Medicaid revenue in 2017, with a medical care ratio of 94.7%. Keys to the cost-effective delivery of care to ABD members include:
+•
+Improved care management and coordination of services for high acuity populations, focusing on the integration of behavioral and physical health services;
+•
+Targeting high risk members for care management intervention and more comprehensive documentation of medical conditions; and
+•
+Improved management of community and other long-term care services for members in this program.
+Medicaid Expansion. Medicaid Expansion represented approximately 23% of our total Medicaid revenue in 2017, with a medical care ratio of 84.9%. This program continues to contribute favorably to our overall profitability and was responsible for approximately 40% of our total Medicaid medical margin for 2017. While premiums and margins for Medicaid Expansion have been declining in recent years, the rating environment appears to have stabilized.
+Marketplace. The Marketplace 2017 medical care ratio was 88.1%. As noted above, the Marketplace program was burdened in 2017 by a net $90 million unfavorable impact from various Marketplace CSR, risk adjustment and premium deficiency reserve items. In response to profitability challenges, effective January 1, 2018, we exited the Marketplaces entirely in Utah and Wisconsin while also limiting our presence in Washington. Also effective January 1, 2018, we increased Marketplace premium rates by an average of 58%.
+2017 Compared with 2016
+Medicaid TANF and CHIP. The performance of TANF and CHIP was very consistent between 2017 and 2016, with flat enrollment, a premium revenue increase of approximately 3%; and an increase in the medical care ratio to 92.0% in 2017, from 91.6% in 2016.
+Medicaid ABD. ABD enrollment grew approximately 4% in 2017 compared with 2016, while premium revenue grew by approximately 10%. The medical care ratio for our ABD membership deteriorated to 94.7% in 2017, from 91.6% in 2016. The deterioration in medical cost performance was most notable in Michigan, New Mexico and Texas.
+Medicaid Expansion. Medicaid Expansion enrollment grew approximately 4% in 2017 compared with 2016, while premium revenue grew by approximately 7%. The medical care ratio for our Medicaid Expansion membership deteriorated to 84.9% in 2017 from 83.8% in 2016. Reduced premium rates in California were the primary driver of declining performance in 2017.
+
+Molina Healthcare, Inc. 2017 Form 10-K | 18
+
+
+MMP and Medicare. MMP and Medicare enrollment and premium combined grew by approximately 9% in 2017 compared with 2016. The medical care ratio for this membership increased 30 basis points from 2016 to 2017.
+Marketplace. Marketplace enrollment increased over 60% in 2017 compared with 2016, while premium revenue increased over 90%. Despite a decrease in the medical care ratio of 360 basis points in 2017 compared with 2016, our Marketplace program still failed to meet expectations in 2017.
+2016 Compared with 2015
+Medicaid TANF, CHIP and ABD. TANF, CHIP and ABD revenue increased in 2016 when compared with 2015, due to health plan acquisitions in late 2015 and 2016, as well as inclusion of a full year of Puerto Rico operations in 2016 (Puerto Rico began operations effective April 1, 2015). The slight decline in the medical care ratio for these programs on a consolidated basis when comparing 2016 with 2015 is not significant given normal margin fluctuations observed when performance is reviewed at this level of detail.
+Medicaid Expansion. Member months increased 33% in 2016, when compared with 2015, as a result of membership growth in all states. Lower premium revenue PMPM more than offset lower medical costs PMPM, leading to an increase in the consolidated medical care ratio for the Medicaid Expansion program. Medicaid Expansion medical care ratios increased in Illinois, Michigan, New Mexico and Ohio.
+MMP and Medicare. Membership and revenue increased on a consolidated basis for the MMP and Medicare programs when comparing 2016 with 2015. The medical care ratio for these programs, in the aggregate, decreased due to higher margins for the MMP program.
+Marketplace. Our Marketplace program performed poorly in 2016. The medical care ratio of our Marketplace membership increased to 91.7% in 2016, from 73.6% in 2015. This decline in profitability was the result of lower premium revenue PMPM, the recording of a $30 million premium deficiency reserve at December 31, 2016, and higher medical costs PMPM.
+The poor performance of our Marketplace program in 2016 was exacerbated by the federal government’s failure to pay amounts owed to our health plans under the Marketplace risk corridor program. We believe our health plans are owed approximately $76 million in Marketplace risk corridor payments for 2016 dates of service, but have not recorded any amounts associated with this claim.
+
+
+Molina Healthcare, Inc. 2017 Form 10-K | 19
+
+
+FINANCIAL PERFORMANCE BY STATE HEALTH PLAN
+The following tables summarize member months, premium revenue, medical care costs, medical care ratio, and medical margin by state health plan for the periods indicated (PMPM amounts are in whole dollars; member months and other dollar amounts are in millions):
+Health Plans Segment Financial Data — Core Operations (Medicaid and Medicare Combined)
+ 
+Year Ended December 31, 2017
+ 
+Member
+Months
+ 
+Premium Revenue
+ 
+Medical Care Costs
+ 
+MCR
+ 
+Medical Margin
+ 
+ 
+Total
+ 
+PMPM
+ 
+Total
+ 
+PMPM
+ 
+ 
+California
+7.4
+
+ 
+$
+2,392
+
+ 
+$
+321.46
+
+ 
+$
+2,117
+
+ 
+$
+284.53
+
+ 
+88.5
+%
+ 
+$
+275
+
+Florida
+4.3
+
+ 
+1,522
+
+ 
+350.15
+
+ 
+1,461
+
+ 
+335.97
+
+ 
+96.0
+
+ 
+61
+
+Illinois
+2.1
+
+ 
+593
+
+ 
+286.69
+
+ 
+638
+
+ 
+308.41
+
+ 
+107.6
+
+ 
+(45
+)
+Michigan
+4.6
+
+ 
+1,545
+
+ 
+334.22
+
+ 
+1,360
+
+ 
+294.15
+
+ 
+88.0
+
+ 
+185
+
+New Mexico
+2.9
+
+ 
+1,258
+
+ 
+439.95
+
+ 
+1,166
+
+ 
+407.94
+
+ 
+92.7
+
+ 
+92
+
+New York (1)
+0.4
+
+ 
+181
+
+ 
+449.85
+
+ 
+170
+
+ 
+424.17
+
+ 
+94.3
+
+ 
+11
+
+Ohio
+3.9
+
+ 
+2,130
+
+ 
+544.98
+
+ 
+1,894
+
+ 
+484.66
+
+ 
+88.9
+
+ 
+236
+
+Puerto Rico (1)
+3.8
+
+ 
+732
+
+ 
+190.13
+
+ 
+691
+
+ 
+179.65
+
+ 
+94.5
+
+ 
+41
+
+South Carolina
+1.4
+
+ 
+445
+
+ 
+328.41
+
+ 
+412
+
+ 
+304.04
+
+ 
+92.6
+
+ 
+33
+
+Texas
+2.8
+
+ 
+2,150
+
+ 
+769.82
+
+ 
+1,978
+
+ 
+708.20
+
+ 
+92.0
+
+ 
+172
+
+Utah
+1.1
+
+ 
+355
+
+ 
+316.44
+
+ 
+290
+
+ 
+258.96
+
+ 
+81.8
+
+ 
+65
+
+Washington
+8.9
+
+ 
+2,445
+
+ 
+275.64
+
+ 
+2,143
+
+ 
+241.55
+
+ 
+87.6
+
+ 
+302
+
+Wisconsin
+0.8
+
+ 
+131
+
+ 
+168.64
+
+ 
+107
+
+ 
+136.84
+
+ 
+81.1
+
+ 
+24
+
+Other (2)
+—
+
+ 
+7
+
+ 
+—
+
+ 
+31
+
+ 
+—
+
+ 
+—
+
+ 
+(24
+)
+ 
+44.4
+
+ 
+$
+15,886
+
+ 
+$
+357.68
+
+ 
+$
+14,458
+
+ 
+$
+325.53
+
+ 
+91.0
+%
+ 
+$
+1,428
+
+ 
+Year Ended December 31, 2016
+ 
+Member
+Months
+ 
+Premium Revenue
+ 
+Medical Care Costs
+ 
+MCR
+ 
+Medical Margin
+ 
+Total
+ 
+PMPM
+ 
+Total
+ 
+PMPM
+ 
+ 
+California
+7.4
+
+ 
+$
+2,247
+
+ 
+$
+304.83
+
+ 
+$
+1,900
+
+ 
+$
+257.72
+
+ 
+84.5
+%
+ 
+$
+347
+
+Florida
+4.1
+
+ 
+1,348
+
+ 
+329.58
+
+ 
+1,227
+
+ 
+299.94
+
+ 
+91.0
+
+ 
+121
+
+Illinois
+2.3
+
+ 
+603
+
+ 
+258.72
+
+ 
+568
+
+ 
+243.71
+
+ 
+94.2
+
+ 
+35
+
+Michigan
+4.7
+
+ 
+1,517
+
+ 
+324.18
+
+ 
+1,339
+
+ 
+286.00
+
+ 
+88.2
+
+ 
+178
+
+New Mexico
+2.8
+
+ 
+1,245
+
+ 
+440.63
+
+ 
+1,162
+
+ 
+411.30
+
+ 
+93.3
+
+ 
+83
+
+New York (1)
+0.2
+
+ 
+82
+
+ 
+446.72
+
+ 
+79
+
+ 
+431.73
+
+ 
+96.6
+
+ 
+3
+
+Ohio
+3.9
+
+ 
+1,927
+
+ 
+490.71
+
+ 
+1,718
+
+ 
+437.56
+
+ 
+89.2
+
+ 
+209
+
+Puerto Rico (1)
+4.0
+
+ 
+726
+
+ 
+180.65
+
+ 
+694
+
+ 
+172.57
+
+ 
+95.5
+
+ 
+32
+
+South Carolina
+1.3
+
+ 
+378
+
+ 
+296.58
+
+ 
+320
+
+ 
+250.97
+
+ 
+84.6
+
+ 
+58
+
+Texas
+2.9
+
+ 
+2,182
+
+ 
+744.65
+
+ 
+1,926
+
+ 
+657.38
+
+ 
+88.3
+
+ 
+256
+
+Utah
+1.1
+
+ 
+344
+
+ 
+297.68
+
+ 
+296
+
+ 
+256.31
+
+ 
+86.1
+
+ 
+48
+
+Washington
+8.1
+
+ 
+2,146
+
+ 
+263.50
+
+ 
+1,936
+
+ 
+237.66
+
+ 
+90.2
+
+ 
+210
+
+Wisconsin
+1.0
+
+ 
+142
+
+ 
+165.95
+
+ 
+106
+
+ 
+123.44
+
+ 
+74.4
+
+ 
+36
+
+Other (2)
+—
+
+ 
+13
+
+ 
+—
+
+ 
+87
+
+ 
+—
+
+ 
+—
+
+ 
+(74
+)
+ 
+43.8
+
+ 
+$
+14,900
+
+ 
+$
+340.28
+
+ 
+$
+13,358
+
+ 
+$
+305.03
+
+ 
+89.6
+%
+ 
+$
+1,542
+
+
+Molina Healthcare, Inc. 2017 Form 10-K | 20
+
+
+ 
+Year Ended December 31, 2015
+ 
+Member
+Months
+ 
+Premium Revenue
+ 
+Medical Care Costs
+ 
+MCR
+ 
+Medical Margin
+ 
+Total
+ 
+PMPM
+ 
+Total
+ 
+PMPM
+ 
+ 
+California
+6.9
+
+ 
+2,163
+
+ 
+$
+314.73
+
+ 
+$
+1,901
+
+ 
+$
+276.57
+
+ 
+87.9
+%
+ 
+$
+262
+
+Florida
+2.4
+
+ 
+802
+
+ 
+333.18
+
+ 
+801
+
+ 
+333.02
+
+ 
+100.0
+
+ 
+1
+
+Illinois
+1.2
+
+ 
+398
+
+ 
+329.48
+
+ 
+367
+
+ 
+303.72
+
+ 
+92.2
+
+ 
+31
+
+Michigan
+3.4
+
+ 
+1,068
+
+ 
+318.95
+
+ 
+901
+
+ 
+268.91
+
+ 
+84.3
+
+ 
+167
+
+New Mexico
+2.7
+
+ 
+1,226
+
+ 
+450.16
+
+ 
+1,097
+
+ 
+402.85
+
+ 
+89.5
+
+ 
+129
+
+New York (1)
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+Ohio
+4.0
+
+ 
+2,025
+
+ 
+500.15
+
+ 
+1,710
+
+ 
+422.43
+
+ 
+84.5
+
+ 
+315
+
+Puerto Rico (1)
+3.2
+
+ 
+567
+
+ 
+178.31
+
+ 
+505
+
+ 
+158.80
+
+ 
+89.1
+
+ 
+62
+
+South Carolina
+1.3
+
+ 
+348
+
+ 
+267.25
+
+ 
+278
+
+ 
+213.30
+
+ 
+79.8
+
+ 
+70
+
+Texas
+3.0
+
+ 
+1,918
+
+ 
+639.47
+
+ 
+1,778
+
+ 
+592.95
+
+ 
+92.7
+
+ 
+140
+
+Utah
+1.1
+
+ 
+318
+
+ 
+293.42
+
+ 
+285
+
+ 
+263.18
+
+ 
+89.7
+
+ 
+33
+
+Washington
+6.6
+
+ 
+1,586
+
+ 
+241.84
+
+ 
+1,454
+
+ 
+221.75
+
+ 
+91.7
+
+ 
+132
+
+Wisconsin
+0.9
+
+ 
+148
+
+ 
+157.14
+
+ 
+113
+
+ 
+120.06
+
+ 
+76.4
+
+ 
+35
+
+Other (2)
+—
+
+ 
+41
+
+ 
+—
+
+ 
+123
+
+ 
+—
+
+ 
+—
+
+ 
+(82
+)
+ 
+36.7
+
+ 
+$
+12,608
+
+ 
+$
+343.80
+
+ 
+$
+11,313
+
+ 
+$
+308.51
+
+ 
+89.7
+%
+ 
+$
+1,295
+
+
+Health Plans Segment Financial Data — Marketplace
+ 
+Year Ended December 31, 2017
+ 
+Member
+Months
+ 
+Premium Revenue
+ 
+Medical Care Costs
+ 
+MCR
+ 
+Medical Margin
+ 
+ 
+Total
+ 
+PMPM
+ 
+Total
+ 
+PMPM
+ 
+ 
+California
+1.7
+
+ 
+$
+309
+
+ 
+$
+185.88
+
+ 
+$
+231
+
+ 
+$
+138.61
+
+ 
+74.6
+%
+ 
+$
+78
+
+Florida
+3.6
+
+ 
+1,046
+
+ 
+293.35
+
+ 
+1,009
+
+ 
+283.17
+
+ 
+96.5
+
+ 
+37
+
+Michigan
+0.3
+
+ 
+51
+
+ 
+180.26
+
+ 
+38
+
+ 
+135.64
+
+ 
+75.2
+
+ 
+13
+
+New Mexico
+0.3
+
+ 
+110
+
+ 
+349.50
+
+ 
+84
+
+ 
+264.14
+
+ 
+75.6
+
+ 
+26
+
+Ohio
+0.2
+
+ 
+86
+
+ 
+363.24
+
+ 
+81
+
+ 
+340.44
+
+ 
+93.7
+
+ 
+5
+
+Texas
+2.6
+
+ 
+663
+
+ 
+250.08
+
+ 
+517
+
+ 
+195.20
+
+ 
+78.1
+
+ 
+146
+
+Utah
+0.9
+
+ 
+180
+
+ 
+215.93
+
+ 
+178
+
+ 
+213.33
+
+ 
+98.8
+
+ 
+2
+
+Washington
+0.5
+
+ 
+163
+
+ 
+317.39
+
+ 
+156
+
+ 
+304.74
+
+ 
+96.0
+
+ 
+7
+
+Wisconsin
+0.7
+
+ 
+360
+
+ 
+477.53
+
+ 
+327
+
+ 
+433.98
+
+ 
+90.9
+
+ 
+33
+
+Other (2)
+—
+
+ 
+—
+
+ 
+—
+
+ 
+(6
+)
+ 
+—
+
+ 
+—
+
+ 
+6
+
+ 
+10.8
+
+ 
+$
+2,968
+
+ 
+$
+274.47
+
+ 
+$
+2,615
+
+ 
+$
+241.84
+
+ 
+88.1
+%
+ 
+$
+353
+
+
+Molina Healthcare, Inc. 2017 Form 10-K | 21
+
+
+ 
+Year Ended December 31, 2016
+ 
+Member
+Months
+ 
+Premium Revenue
+ 
+Medical Care Costs
+ 
+MCR
+ 
+Medical Margin
+ 
+Total
+ 
+PMPM
+ 
+Total
+ 
+PMPM
+ 
+ 
+California
+0.8
+
+ 
+$
+131
+
+ 
+$
+166.01
+
+ 
+$
+129
+
+ 
+$
+164.35
+
+ 
+99.0
+%
+ 
+$
+2
+
+Florida
+2.6
+
+ 
+590
+
+ 
+228.65
+
+ 
+538
+
+ 
+208.53
+
+ 
+91.2
+
+ 
+52
+
+Michigan
+—
+
+ 
+10
+
+ 
+232.88
+
+ 
+6
+
+ 
+154.32
+
+ 
+66.3
+
+ 
+4
+
+New Mexico
+0.2
+
+ 
+60
+
+ 
+287.37
+
+ 
+47
+
+ 
+223.85
+
+ 
+77.9
+
+ 
+13
+
+Ohio
+0.1
+
+ 
+40
+
+ 
+348.06
+
+ 
+29
+
+ 
+254.78
+
+ 
+73.2
+
+ 
+11
+
+Texas
+1.4
+
+ 
+279
+
+ 
+208.48
+
+ 
+184
+
+ 
+137.13
+
+ 
+65.8
+
+ 
+95
+
+Utah
+0.7
+
+ 
+103
+
+ 
+166.21
+
+ 
+127
+
+ 
+204.14
+
+ 
+122.8
+
+ 
+(24
+)
+Washington
+0.3
+
+ 
+76
+
+ 
+272.48
+
+ 
+79
+
+ 
+284.87
+
+ 
+104.5
+
+ 
+(3
+)
+Wisconsin
+0.6
+
+ 
+256
+
+ 
+363.54
+
+ 
+282
+
+ 
+399.51
+
+ 
+109.9
+
+ 
+(26
+)
+Other (2)
+—
+
+ 
+—
+
+ 
+—
+
+ 
+(5
+)
+ 
+—
+
+ 
+—
+
+ 
+5
+
+ 
+6.7
+
+ 
+$
+1,545
+
+ 
+$
+231.38
+
+ 
+$
+1,416
+
+ 
+$
+212.17
+
+ 
+91.7
+%
+ 
+$
+129
+
+ 
+Year Ended December 31, 2015
+ 
+Member
+Months
+ 
+Premium Revenue
+ 
+Medical Care Costs
+ 
+MCR
+ 
+Medical Margin
+ 
+Total
+ 
+PMPM
+ 
+Total
+ 
+PMPM
+ 
+ 
+California
+0.2
+
+ 
+$
+37
+
+ 
+$
+179.77
+
+ 
+$
+25
+
+ 
+$
+124.68
+
+ 
+69.4
+%
+ 
+$
+12
+
+Florida
+1.7
+
+ 
+397
+
+ 
+229.85
+
+ 
+280
+
+ 
+162.04
+
+ 
+70.5
+
+ 
+117
+
+Michigan
+—
+
+ 
+4
+
+ 
+212.70
+
+ 
+2
+
+ 
+124.35
+
+ 
+58.5
+
+ 
+2
+
+New Mexico
+0.1
+
+ 
+11
+
+ 
+242.42
+
+ 
+9
+
+ 
+185.13
+
+ 
+76.4
+
+ 
+2
+
+Ohio
+0.1
+
+ 
+10
+
+ 
+399.81
+
+ 
+8
+
+ 
+290.81
+
+ 
+72.7
+
+ 
+2
+
+Texas
+0.1
+
+ 
+45
+
+ 
+286.78
+
+ 
+31
+
+ 
+197.41
+
+ 
+68.8
+
+ 
+14
+
+Utah
+0.1
+
+ 
+16
+
+ 
+221.00
+
+ 
+15
+
+ 
+202.41
+
+ 
+91.6
+
+ 
+1
+
+Washington
+—
+
+ 
+19
+
+ 
+369.59
+
+ 
+16
+
+ 
+301.94
+
+ 
+81.7
+
+ 
+3
+
+Wisconsin
+0.3
+
+ 
+114
+
+ 
+403.08
+
+ 
+102
+
+ 
+362.28
+
+ 
+89.9
+
+ 
+12
+
+Other (2)
+—
+
+ 
+—
+
+ 
+—
+
+ 
+(7
+)
+ 
+—
+
+ 
+—
+
+ 
+7
+
+ 
+2.6
+
+ 
+$
+653
+
+ 
+$
+252.58
+
+ 
+$
+481
+
+ 
+$
+185.85
+
+ 
+73.6
+%
+ 
+$
+172
+
+
+Molina Healthcare, Inc. 2017 Form 10-K | 22
+
+
+
+Health Plans Segment Financial Data — Total
+ 
+Year Ended December 31, 2017
+ 
+Member
+Months
+ 
+Premium Revenue
+ 
+Medical Care Costs
+ 
+MCR
+ 
+Medical Margin
+ 
+ 
+Total
+ 
+PMPM
+ 
+Total
+ 
+PMPM
+ 
+ 
+California
+9.1
+
+ 
+$
+2,701
+
+ 
+$
+296.68
+
+ 
+$
+2,348
+
+ 
+$
+257.86
+
+ 
+86.9
+%
+ 
+$
+353
+
+Florida
+7.9
+
+ 
+2,568
+
+ 
+324.56
+
+ 
+2,470
+
+ 
+312.18
+
+ 
+96.2
+
+ 
+98
+
+Illinois
+2.1
+
+ 
+593
+
+ 
+286.69
+
+ 
+638
+
+ 
+308.41
+
+ 
+107.6
+
+ 
+(45
+)
+Michigan
+4.9
+
+ 
+1,596
+
+ 
+325.43
+
+ 
+1,398
+
+ 
+285.11
+
+ 
+87.6
+
+ 
+198
+
+New Mexico
+3.2
+
+ 
+1,368
+
+ 
+430.97
+
+ 
+1,250
+
+ 
+393.67
+
+ 
+91.3
+
+ 
+118
+
+New York (1)
+0.4
+
+ 
+181
+
+ 
+449.85
+
+ 
+170
+
+ 
+424.17
+
+ 
+94.3
+
+ 
+11
+
+Ohio
+4.1
+
+ 
+2,216
+
+ 
+534.56
+
+ 
+1,975
+
+ 
+476.39
+
+ 
+89.1
+
+ 
+241
+
+Puerto Rico (1)
+3.8
+
+ 
+732
+
+ 
+190.13
+
+ 
+691
+
+ 
+179.65
+
+ 
+94.5
+
+ 
+41
+
+South Carolina
+1.4
+
+ 
+445
+
+ 
+328.41
+
+ 
+412
+
+ 
+304.04
+
+ 
+92.6
+
+ 
+33
+
+Texas
+5.4
+
+ 
+2,813
+
+ 
+516.84
+
+ 
+2,495
+
+ 
+458.50
+
+ 
+88.7
+
+ 
+318
+
+Utah
+2.0
+
+ 
+535
+
+ 
+273.55
+
+ 
+468
+
+ 
+239.49
+
+ 
+87.5
+
+ 
+67
+
+Washington
+9.4
+
+ 
+2,608
+
+ 
+277.93
+
+ 
+2,299
+
+ 
+245.01
+
+ 
+88.2
+
+ 
+309
+
+Wisconsin
+1.5
+
+ 
+491
+
+ 
+320.71
+
+ 
+434
+
+ 
+283.14
+
+ 
+88.3
+
+ 
+57
+
+Other (2)
+—
+
+ 
+7
+
+ 
+—
+
+ 
+25
+
+ 
+—
+
+ 
+—
+
+ 
+(18
+)
+ 
+55.2
+
+ 
+$
+18,854
+
+ 
+$
+341.39
+
+ 
+$
+17,073
+
+ 
+$
+309.14
+
+ 
+90.6
+%
+ 
+$
+1,781
+
+ 
+Year Ended December 31, 2016
+ 
+Member
+Months
+ 
+Premium Revenue
+ 
+Medical Care Costs
+ 
+MCR
+ 
+Medical Margin
+ 
+ 
+Total
+ 
+PMPM
+ 
+Total
+ 
+PMPM
+ 
+ 
+California
+8.2
+
+ 
+$
+2,378
+
+ 
+$
+291.41
+
+ 
+$
+2,029
+
+ 
+$
+248.70
+
+ 
+85.3
+%
+ 
+$
+349
+
+Florida
+6.7
+
+ 
+1,938
+
+ 
+290.56
+
+ 
+1,765
+
+ 
+264.60
+
+ 
+91.1
+
+ 
+173
+
+Illinois
+2.3
+
+ 
+603
+
+ 
+258.72
+
+ 
+568
+
+ 
+243.71
+
+ 
+94.2
+
+ 
+35
+
+Michigan
+4.7
+
+ 
+1,527
+
+ 
+323.36
+
+ 
+1,345
+
+ 
+284.82
+
+ 
+88.1
+
+ 
+182
+
+New Mexico
+3.0
+
+ 
+1,305
+
+ 
+430.15
+
+ 
+1,209
+
+ 
+398.49
+
+ 
+92.6
+
+ 
+96
+
+New York (1)
+0.2
+
+ 
+82
+
+ 
+446.72
+
+ 
+79
+
+ 
+431.73
+
+ 
+96.6
+
+ 
+3
+
+Ohio
+4.0
+
+ 
+1,967
+
+ 
+486.66
+
+ 
+1,747
+
+ 
+432.36
+
+ 
+88.8
+
+ 
+220
+
+Puerto Rico (1)
+4.0
+
+ 
+726
+
+ 
+180.65
+
+ 
+694
+
+ 
+172.57
+
+ 
+95.5
+
+ 
+32
+
+South Carolina
+1.3
+
+ 
+378
+
+ 
+296.58
+
+ 
+320
+
+ 
+250.97
+
+ 
+84.6
+
+ 
+58
+
+Texas
+4.3
+
+ 
+2,461
+
+ 
+576.69
+
+ 
+2,110
+
+ 
+494.41
+
+ 
+85.7
+
+ 
+351
+
+Utah
+1.8
+
+ 
+447
+
+ 
+251.63
+
+ 
+423
+
+ 
+238.03
+
+ 
+94.6
+
+ 
+24
+
+Washington
+8.4
+
+ 
+2,222
+
+ 
+263.80
+
+ 
+2,015
+
+ 
+239.21
+
+ 
+90.7
+
+ 
+207
+
+Wisconsin
+1.6
+
+ 
+398
+
+ 
+255.30
+
+ 
+388
+
+ 
+248.28
+
+ 
+97.2
+
+ 
+10
+
+Other (2)
+—
+
+ 
+13
+
+ 
+—
+
+ 
+82
+
+ 
+—
+
+ 
+—
+
+ 
+(69
+)
+ 
+50.5
+
+ 
+$
+16,445
+
+ 
+$
+325.87
+
+ 
+$
+14,774
+
+ 
+$
+292.75
+
+ 
+89.8
+%
+ 
+$
+1,671
+
+
+Molina Healthcare, Inc. 2017 Form 10-K | 23
+
+
+ 
+Year Ended December 31, 2015
+ 
+Member
+Months
+ 
+Premium Revenue
+ 
+Medical Care Costs
+ 
+MCR
+ 
+Medical Margin
+ 
+ 
+Total
+ 
+PMPM
+ 
+Total
+ 
+PMPM
+ 
+ 
+California
+7.1
+
+ 
+$
+2,200
+
+ 
+$
+310.86
+
+ 
+$
+1,926
+
+ 
+$
+272.22
+
+ 
+87.6
+%
+ 
+$
+274
+
+Florida
+4.1
+
+ 
+1,199
+
+ 
+289.95
+
+ 
+1,081
+
+ 
+261.49
+
+ 
+90.2
+
+ 
+118
+
+Illinois
+1.2
+
+ 
+398
+
+ 
+329.48
+
+ 
+367
+
+ 
+303.72
+
+ 
+92.2
+
+ 
+31
+
+Michigan
+3.4
+
+ 
+1,072
+
+ 
+318.47
+
+ 
+903
+
+ 
+268.27
+
+ 
+84.2
+
+ 
+169
+
+New Mexico
+2.8
+
+ 
+1,237
+
+ 
+446.47
+
+ 
+1,106
+
+ 
+398.98
+
+ 
+89.4
+
+ 
+131
+
+New York (1)
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+Ohio
+4.1
+
+ 
+2,035
+
+ 
+499.52
+
+ 
+1,718
+
+ 
+421.61
+
+ 
+84.4
+
+ 
+317
+
+Puerto Rico (1)
+3.2
+
+ 
+567
+
+ 
+178.31
+
+ 
+505
+
+ 
+158.80
+
+ 
+89.1
+
+ 
+62
+
+South Carolina
+1.3
+
+ 
+348
+
+ 
+267.25
+
+ 
+278
+
+ 
+213.30
+
+ 
+79.8
+
+ 
+70
+
+Texas
+3.1
+
+ 
+1,963
+
+ 
+621.97
+
+ 
+1,809
+
+ 
+573.32
+
+ 
+92.2
+
+ 
+154
+
+Utah
+1.2
+
+ 
+334
+
+ 
+288.83
+
+ 
+300
+
+ 
+259.32
+
+ 
+89.8
+
+ 
+34
+
+Washington
+6.6
+
+ 
+1,605
+
+ 
+242.82
+
+ 
+1,470
+
+ 
+222.36
+
+ 
+91.6
+
+ 
+135
+
+Wisconsin
+1.2
+
+ 
+262
+
+ 
+213.95
+
+ 
+215
+
+ 
+176.01
+
+ 
+82.3
+
+ 
+47
+
+Other (2)
+—
+
+ 
+41
+
+ 
+—
+
+ 
+116
+
+ 
+—
+
+ 
+—
+
+ 
+(75
+)
+ 
+39.3
+
+ 
+$
+13,261
+
+ 
+$
+337.79
+
+ 
+$
+11,794
+
+ 
+$
+300.43
+
+ 
+88.9
+%
+ 
+$
+1,467
+
+______________________________
+(1)
+The New York health plan was acquired on August 1, 2016. Our Puerto Rico health plan began serving members on April 1, 2015.
+(2)
+“Other” medical care costs include primarily medically related administrative costs of the parent company, and direct delivery costs.
+MEDICAL CARE COSTS BY TYPE
+Our medical care costs include amounts that have been paid by us through the reporting date as well as estimated liabilities for medical care costs incurred but not paid by us as of the reporting date. The following table provides the details of consolidated medical care costs by type for the periods indicated (dollars in millions except PMPM amounts):
+ 
+Year Ended December 31,
+ 
+2017
+ 
+2016
+ 
+2015
+ 
+Amount
+ 
+PMPM
+ 
+% of
+Total
+ 
+Amount
+ 
+PMPM
+ 
+% of
+Total
+ 
+Amount
+ 
+PMPM
+ 
+% of
+Total
+Fee for service
+$
+12,682
+
+ 
+$
+229.63
+
+ 
+74.3
+%
+ 
+$
+10,993
+
+ 
+$
+217.84
+
+ 
+74.4
+%
+ 
+$
+8,572
+
+ 
+$
+218.35
+
+ 
+72.7
+%
+Pharmacy
+2,563
+
+ 
+46.40
+
+ 
+15.0
+
+ 
+2,213
+
+ 
+43.84
+
+ 
+15.0
+
+ 
+1,610
+
+ 
+41.01
+
+ 
+13.7
+
+Capitation
+1,360
+
+ 
+24.63
+
+ 
+8.0
+
+ 
+1,218
+
+ 
+24.13
+
+ 
+8.2
+
+ 
+982
+
+ 
+25.02
+
+ 
+8.3
+
+Direct delivery
+73
+
+ 
+1.33
+
+ 
+0.4
+
+ 
+78
+
+ 
+1.55
+
+ 
+0.5
+
+ 
+128
+
+ 
+3.26
+
+ 
+1.1
+
+Other
+395
+
+ 
+7.15
+
+ 
+2.3
+
+ 
+272
+
+ 
+5.39
+
+ 
+1.9
+
+ 
+502
+
+ 
+12.79
+
+ 
+4.2
+
+ 
+$
+17,073
+
+ 
+$
+309.14
+
+ 
+100.0
+%
+ 
+$
+14,774
+
+ 
+$
+292.75
+
+ 
+100.0
+%
+ 
+$
+11,794
+
+ 
+$
+300.43
+
+ 
+100.0
+%
+PREMIUM TAXES
+The premium tax ratio (premium tax expense as a percentage of premium revenue plus premium tax revenue) was 2.3% in 2017, 2.8% in 2016, and 2.9% in 2015. The decreases in the premium tax ratio were primarily due to the significant revenue growth at our Florida health plan in 2017 and 2016, which operates in a state with no premium tax, and growth in MMP revenue. The Medicare portion of MMP revenue is not subject to premium tax.
+HEALTH INSURER FEES (HIF)
+The Consolidated Appropriations Act of 2016 provided for a HIF moratorium in 2017. Therefore, there were no health insurer fees reimbursed, nor health insurer fees incurred, in 2017.
+
+Molina Healthcare, Inc. 2017 Form 10-K | 24
+
+
+HIF reimbursed, as a percentage of premium revenue, was consistent at 1.8% in 2016 and 2015.
+IMPAIRMENT LOSSES
+In 2017, we incurred $269 million of impairment losses related to our Health Plans segment, primarily in connection with our Florida, New Mexico, and Illinois health plans. The impairments at Florida and New Mexico were the result of our recent Medicaid contract losses. The Illinois impairment was the result of management’s determination, in the course of its annual impairment assessment of the goodwill of the Illinois health plan, that the plan’s future cash flow projections were insufficient to produce an estimated fair value in excess of its carrying amount. While we are confident that we can improve profitability in Illinois so that it is a meaningful contributor to our company, the current profit profile of the health plan does not support the purchase prices paid for certain membership years ago.
+
+MOLINA MEDICAID SOLUTIONS
+
+BUSINESS OVERVIEW
+ 
+▪
+1.0% of total revenue in 2017        
+▪
+1.1% of total revenue in 2016    
+▪
+Employees: approximately 1,200
+ 
+ 
+Programs and Services
+The Molina Medicaid Solutions segment provides support to state government agencies in the administration of their Medicaid programs including business processing, information technology development, and administrative services. Molina Medicaid Solutions is under contract with Medicaid agencies in six states, and the U.S. Virgin Islands. Our existing state Medicaid management information system (MMIS) contracts have terms that currently extend to 2018 through 2025, before renewal options.
+Competition and Regulation
+Molina Medicaid Solutions competes with large MMIS vendors, such as DXC Technology Company, Conduent, Inc. and CNSI. Molina Medicaid Solutions’ contracts with state government customers may include unique and specialized performance requirements. In particular, contracts with state government customers are subject to various procurement regulations, contract provisions, and other requirements relating to their formation, administration, and performance.
+
+FINANCIAL OVERVIEW
+2017 Compared with 2016
+The year over year change in service margin was insignificant to our consolidated results of operations.
+As discussed further in the Notes to Consolidated Financial Statements, Note 8, “Goodwill and Intangible Assets, Net,” in 2017 we recorded goodwill impairment losses of $28 million.
+2016 Compared with 2015
+Service margin declined $34 million in 2016 compared with 2015, primarily due to increased service costs associated with legacy state contracts that were re-procured.
+
+
+Molina Healthcare, Inc. 2017 Form 10-K | 25
+
+
+OTHER
+
+BUSINESS OVERVIEW
+ 
+▪
+1.7% of total revenue in 2017        
+▪
+2.0% of total revenue in 2016    
+▪
+Employees: Corporate – approximately 7,100; Pathways – approximately 6,000
+ 
+Programs and Services
+The Other segment includes primarily our Pathways behavioral health and social services provider, and corporate amounts not allocated to other reportable segments.
+We acquired the outstanding ownership interests in Pathways Health and Community Support, LLC (Pathways), formerly known as Providence Human Services, LLC, in late 2015. Substantially all of Pathways’ revenue is derived from contracts with state or local government agencies and government intermediaries, the majority of which are negotiated fee-for-service arrangements.
+FINANCIAL OVERVIEW
+2017 Compared with 2016
+Service margin declined $20 million in 2017 compared with 2016, due primarily to reduced revenues as a result of the termination of operations in selected markets, and increased professional labor benefit expenses.
+As discussed further in the Notes to Consolidated Financial Statements, Note 8, “Goodwill and Intangible Assets, Net,” in 2017 we recorded impairment losses primarily relating to our Pathways subsidiary, of $162 million for goodwill and $11 million for intangible assets.
+2016 Compared with 2015
+Service margin was $33 million in 2016 and insignificant in 2015. The service margin in 2015 was insignificant because our acquisition of Pathways was not completed until the fourth quarter of 2015.
+
+OTHER CONSOLIDATED INFORMATION
+GENERAL AND ADMINISTRATIVE EXPENSES
+General and administrative expenses as a percentage of total revenue (the “general and administrative expense ratio”) was 8.0% in 2017, 7.8% in 2016, and 8.1% in 2015. Our general and administrative ratio has been relatively constant since the phase-in of the ACA Medicaid Expansion and Marketplace programs beginning in 2014.
+DEPRECIATION AND AMORTIZATION
+Depreciation and amortization amounted to 0.9%, 1.0% and 0.8% of total revenue for the years ended December 31, 2017, 2016 and 2015, respectively.
+RESTRUCTURING AND SEPARATION COSTS
+For a comprehensive discussion of our 2017 Restructuring Plan, refer to “Liquidity and Financial Condition—Future Sources and Uses of Liquidity,” in this MD&A, and Notes to Consolidated Financial Statements, Note 15, “Restructuring and Separation Costs.”
+INTEREST EXPENSE
+Interest expense increased to $118 million for the year ended December 31, 2017, compared with $101 million for the year ended December 31, 2016. The increase was due primarily to our issuance of $330 million aggregate principal amount of senior notes (the 4.875% Notes) due June 15, 2025, and $300 million borrowed under our
+
+Molina Healthcare, Inc. 2017 Form 10-K | 26
+
+
+Credit Facility in the third quarter of 2017. For further details regarding debt financing transactions, please refer to the Notes to Consolidated Financial Statements, Note 11, “Debt.”
+Interest expense increased to $101 million for the year ended December 31, 2016, compared with $66 million for the year ended December 31, 2015. The increase was due primarily to our issuance of $700 million aggregate principal amount of senior notes (the 5.375% Notes) due November 15, 2022, in the fourth quarter of 2015.
+Interest expense includes non-cash interest expense relating to the amortization of the discount on our long-term debt obligations, which amounted to $32 million, $31 million and $30 million for the years ended December 31, 2017, 2016, and 2015, respectively.
+INCOME TAXES
+chart-a0850b7dc34858efb5b.jpg chart-1d187bf9dc6b5a09bfc.jpg
+The revaluation of deferred tax assets in connection with the Tax Cuts and Jobs Act of 2017 resulted in $54 million additional income tax expense in the year ended December 31, 2017 ($0.95 per diluted share). In addition, the effective tax benefit for 2017 is less than the statutory tax benefit due to the relatively large amount of reported expenses that are not deductible for tax purposes, primarily relating to goodwill impairment losses and separation costs.
+The decrease in income before taxes in 2016 compared with 2015, combined with the relatively large amount of reported expenses that are not deductible for tax purposes, resulted in an effective tax rate in excess of 70% for the full year 2016, compared with 55.5% for 2015.
+
+LIQUIDITY AND FINANCIAL CONDITION
+INTRODUCTION
+We manage our cash, investments, and capital structure to meet the short- and long-term obligations of our business while maintaining liquidity and financial flexibility. We forecast, analyze, and monitor our cash flows to enable prudent investment management and financing within the confines of our financial strategy.
+Our regulated subsidiaries generate significant cash flows from premium revenue. Such cash flows are our primary source of liquidity. Thus, any future decline in our profitability may have a negative impact on our liquidity. We generally receive premium revenue a short time before we pay for the related health care services. A majority of the assets held by our regulated subsidiaries are in the form of cash, cash equivalents, and investments. After considering expected cash flows from operating activities, we generally invest cash of regulated subsidiaries that exceeds our expected short-term obligations in longer term, investment-grade, and marketable debt securities to improve our overall investment return. These investments are made pursuant to board approved investment policies which conform to applicable state laws and regulations.
+Our investment policies are designed to provide liquidity, preserve capital, and maximize total return on invested assets, all in a manner consistent with state requirements that prescribe the types of instruments in which our subsidiaries may invest. These investment policies require that our investments have final maturities of 10 years or
+
+Molina Healthcare, Inc. 2017 Form 10-K | 27
+
+
+less (excluding variable rate securities, for which interest rates are periodically reset) and that the average maturity be three years or less. Professional portfolio managers operating under documented guidelines manage our investments and a portion of our cash equivalents. Our portfolio managers must obtain our prior approval before selling investments where the loss position of those investments exceeds certain levels.
+Our non-current restricted investments are invested principally in certificates of deposit and U.S. treasury securities; we have the ability to hold our non-current restricted investments until maturity. We also maintain certain funds from the issuance of our 4.875% Notes in a segregated deposit account, a current asset reported as “Restricted investments” in the accompanying consolidated balance sheets. Such investments, while restricted as to their use and held in a segregated deposit account, are classified as available-for-sale based upon our contractual liquidity requirements.
+All of our unrestricted investments are classified as current assets and are presented in the table below.
+ 
+                
+chart-00dbe6f18ce75ec8a4a.jpg chart-f483fa0560b150358d4.jpg
+ 
+Investment income increased in 2017 compared with 2016, and in 2016 compared with 2015, primarily due to the increase in invested assets in each of 2017 and 2016. See further discussion below in “Liquidity.”
+MARKET RISK
+Our earnings and financial position are exposed to financial market risk relating changes in interest rates, and the resulting impact on investment income and interest expense.
+Substantially all of our investments and restricted investments are subject to interest rate risk and will decrease in value if market interest rates increase. Assuming a hypothetical and immediate 1% increase in market interest rates at December 31, 2017, the fair value of our fixed income investments would decrease by approximately $24 million. Declines in interest rates over time will reduce our investment income.
+For further information on fair value measurements and our investment portfolio, please refer to the Notes to Consolidated Financial Statements, Note 4, “Fair Value Measurements,” Note 5, “Investments,” and Note 9, “Restricted Investments, Non-current.”
+Borrowings under our Credit Facility bear interest based, at our election, on a base rate or an adjusted London Interbank Offered Rate (LIBOR), plus in each case the applicable margin. As of December 31, 2017, $300 million was outstanding under the Credit Facility.
+In January 2018, we entered into a bridge credit agreement (Bridge Credit Agreement) with several banks. Under the Bridge Credit Agreement, the banks agreed to lend us up to $550 million to be used to: (i) satisfy conversions of
+
+Molina Healthcare, Inc. 2017 Form 10-K | 28
+
+
+our 1.125% Convertible Notes; (ii) satisfy and/or refinance indebtedness incurred to satisfy conversion of the 1.125% Convertible Notes; (iii) repay or refinance our Credit Facility; (iv) pay fees and expenses in connection with the foregoing; and, subject to the satisfaction of specified conditions, for general corporate purposes. Borrowings under the Bridge Credit Agreement will bear interest based, at our election, at a base rate or an adjusted LIBOR rate, plus in each case the applicable margin. No amounts are currently outstanding under the Bridge Credit Agreement.
+
+LIQUIDITY
+A condensed schedule of cash flows to facilitate our discussion of liquidity follows:
+ 
+Year Ended December 31,
+ 
+2017
+ 
+2016
+ 
+2015
+ 
+2016 to 2017 Change
+ 
+2015 to 2016 Change
+ 
+(In millions)
+Net cash provided by operating activities
+$
+804
+
+ 
+$
+673
+
+ 
+$
+1,125
+
+ 
+$
+131
+
+ 
+$
+(452
+)
+Net cash used in investing activities
+(1,073
+)
+ 
+(202
+)
+ 
+(1,420
+)
+ 
+(871
+)
+ 
+1,218
+
+Net cash provided by financing activities
+636
+
+ 
+19
+
+ 
+1,085
+
+ 
+617
+
+ 
+(1,066
+)
+Net increase in cash and cash equivalents
+$
+367
+
+ 
+$
+490
+
+ 
+$
+790
+
+ 
+$
+(123
+)
+ 
+$
+(300
+)
+Operating Activities
+2017 Compared with 2016
+Net cash provided by operating activities was $804 million in 2017 compared with $673 million in 2016, an increase of $131 million, due to the following factors:
+The combined effect of our 2017 net loss and adjustments to cash provided by operating activities, which included non-cash impairment losses of $470 million and non-cash restructuring charges of $60 million, resulted in a $114 million use of cash.
+Receivables and deferred revenue. Cash flows from operations in each year were impacted by the timing of payments we receive from our states. In general, states may delay our premium payments, which we record as a receivable, or they may prepay the following month’s premium payment, which we record as deferred revenue. We typically receive capitation payments monthly; however, the states in which we operate may decide to adjust their payment schedules which could positively or negatively impact our reported cash flows from operating activities in any given period. In the current year, the net effect of the timing of premiums received at our California, Florida, Illinois, and Washington health plans positively impacted our cash flows from operating activities in the amount of $325 million.
+Amounts due government agencies. While amounts due government agencies increased $340 million in 2017, this increase was less than the increase experienced in 2016, resulting in a decrease to cash flows from operations of $132 million. This decrease was due primarily to a decline in the amounts accrued for Health Plans segment programs that mandate medical cost floors or medical cost corridors, under which a portion of certain Medicaid, Medicare, and Marketplace premiums received by our health plans may be returned if certain minimum amounts are not spent on defined medical care costs. This decrease was partially offset by increased Marketplace risk adjustment accruals.
+2016 Compared with 2015
+Net cash provided by operating activities was $673 million in 2016, compared with $1,125 million in 2015, a decrease of $452 million. This decrease was due primarily to a $91 million decrease in net income, and the following factors:
+Receivables and deferred revenue. Cash flows from operations in each year were impacted by the timing of payments we receive from our states. In general, states may delay our premium payments, which we record as a receivable, or they may prepay the following month’s premium payment, which we record as deferred revenue. We typically receive capitation payments monthly; however, the states in which we operate may decide to adjust their payment schedules which could positively or negatively impact our reported cash flows from operating activities in any given period. In the current year, the net effect of the timing of premiums received at our California and Illinois health plans negatively impacted our cash flows from operating activities.
+
+Molina Healthcare, Inc. 2017 Form 10-K | 29
+
+
+Medical claims and benefits payable. In 2016, the change in medical claims and benefits payable reduced cash flows from operations by $256 million, primarily because membership and related medical costs grew at a higher rate in 2015 than in 2016, resulting in a lower year-over-year change in 2016.
+Amounts due government agencies. In 2016, the change in amounts due government agencies, when compared with the change in 2015, increased cash flows from operations by $271 million, due primarily to increased accruals for Marketplace risk adjustments.
+Investing Activities
+2017 Compared with 2016
+Net cash used in investing activities was $1,073 million in 2017, compared with $202 million in 2016, an increase of $871 million. More cash was used in investing activities in 2017 primarily due to $789 million of increased purchases of investments as a result of the 2017 financing transactions described below, and $195 million decreased proceeds from sales and maturities of investments.
+2016 Compared with 2015
+Net cash used in investing activities was $202 million in 2016, compared with $1,420 million in 2015, a decrease of $1,218 million. Less cash was used in investing activities in 2016 primarily due to $840 million increased proceeds from sales and maturities of investments, and a reduction in cash paid in business combinations of $402 million in 2016, compared with 2015.
+Financing Activities
+2017 Compared with 2016
+Cash provided by financing activities was $636 million in 2017, compared with $19 million in 2016. In 2017, cash inflows included $325 million for the net proceeds from our issuance of 4.875% Notes, and borrowings of $300 million under our Credit Facility, with no comparable activity in 2016.
+2016 Compared with 2015
+Cash provided by financing activities was $19 million in 2016, compared with $1,085 million in 2015. In 2015, we received net proceeds from our fiscal 2015 offerings of the 5.375% Notes amounting to $689 million, and common stock amounting to $373 million, with no comparable activity in 2016.
+FINANCIAL CONDITION
+We believe that our cash resources and internally generated funds will be sufficient to support our operations, regulatory requirements, and capital expenditures for at least the next 12 months.
+On a consolidated basis, at December 31, 2017, our working capital was $1,954 million compared with $1,418 million at December 31, 2016. At December 31, 2017, our cash and investments amounted to $6,000 million, compared with $4,689 million of cash and investments at December 31, 2016.
+Debt Ratings. Our 5.375% Notes and 4.875% Notes are rated “BB-” by Standard & Poor’s, and “B3” by Moody’s Investor Service, Inc. A significant downgrade in our ratings could adversely affect our borrowing capacity and costs.
+Financial Covenants. Our Credit Facility contains customary non-financial and financial covenants, including a net leverage ratio and an interest coverage ratio. Such ratios, presented below, are computed as defined by the terms of the Credit Facility.
+Credit Facility Financial Covenants
+Required Per Agreement
+ 
+As of December 31, 2017
+ 
+ 
+ 
+ 
+Net leverage ratio
+<4.0x
+ 
+3.1x
+Interest coverage ratio
+>3.5x
+ 
+6.7x
+In addition, the terms of our 4.875% Notes, 5.375% Notes and each of the 1.125% and 1.625% Convertible Notes contain cross-default provisions with the Credit Facility that are triggered upon an event of default under the Credit Facility, and when borrowings under the Credit Facility equal or exceed certain amounts as defined in the related indentures. As of December 31, 2017, we were in compliance with all covenants under the Credit Facility.
+
+Molina Healthcare, Inc. 2017 Form 10-K | 30
+
+
+
+FUTURE SOURCES AND USES OF LIQUIDITY
+Sources
+Parent Cash and Cash Equivalents. Cash, cash equivalents and investments held by the parent company—Molina Healthcare, Inc.—amounted to $696 million as of December 31, 2017.
+Dividends from Subsidiaries. When available and as permitted by applicable regulations, cash in excess of the capital needs of our regulated health plans is generally paid in the form of dividends to our unregulated parent company to be used for general corporate purposes. We received $245 million, $100 million, and $125 million in dividends from our regulated health plan subsidiaries in 2017, 2016, and 2015, respectively. We received $41 million, $1 million and $17 million in dividends from our unregulated subsidiaries during 2017, 2016 and 2015, respectively. See further discussion in the Notes to Consolidated Financial Statements, Note 19, “Commitments and Contingencies—Regulatory Capital Requirements and Dividend Restrictions,” and Note 22, “Condensed Financial Information of Registrant—Note C - Dividends and Capital Contributions.”
+Borrowing Capacity and Debt Financing. We have available borrowing capacity of $550 million under our Bridge Credit Agreement (which amount is subject to the use of proceeds restrictions set forth in its terms), and $194 million under our Credit Facility. On June 6, 2017, we completed the private offering of $330 million aggregate principal amount of the 4.875% Notes. As a result of the proceeds from this transaction, we have adequate cash held in a restricted account available to repay the $161 million principal balance outstanding under our 1.625% Convertible Notes, if noteholders exercise their conversion or put rights in 2018. See further discussion in the Notes to Consolidated Financial Statements, Note 11, “Debt,” for further information.
+2017 Restructuring Plan. As previously disclosed, we estimate that our 2017 Restructuring Plan will reduce annualized run-rate expenses by approximately $300 million to $400 million when completed by the end of 2018. As of December 31, 2017, we achieved $235 million of these run-rate reductions by the elimination of administrative costs (some of which are classified as medical care costs) on an annualized basis. As of December 31, 2017 we had also achieved an undetermined amount of medical care cost savings on an annualized basis through the re-negotiation of various medical provider contracts and the restructuring of our direct delivery operations. We expect to have more visibility into the actual value of these medical care cost savings later in 2018. We incurred substantially all of the costs associated with the 2017 Restructuring Plan in 2017. The following table illustrates our current estimates of run-rate savings associated with the 2017 Restructuring Plan:
+Estimated Savings Expected to be Realized by Reportable Segment
+ 
+Health Plans
+ 
+Other
+ 
+Total
+ 
+ 
+(In millions)
+General and administrative expenses
+ 
+$65
+ 
+$92 to $152
+ 
+$157 to $217
+Medical care costs
+ 
+$126 to $166
+ 
+$17
+ 
+$143 to $183
+ 
+ 
+$191 to $231
+ 
+$109 to $169
+ 
+$300 to $400
+Shelf Registration Statement. We have a shelf registration statement on file with the Securities and Exchange Commission to register an unlimited amount of any combination of debt or equity securities in one or more offerings. Specific information regarding the terms and securities being offered will be provided at the time of an offering. Proceeds from future offerings are expected to be used for general corporate purposes, including, but not limited to, the repayment of debt, investments in or extensions of credit to our subsidiaries and the financing of possible acquisitions or business expansion.
+Uses
+Regulatory Capital Requirements. In 2017, 2016, and 2015, we contributed capital of $370 million, $338 million, and $320 million, respectively, to our health plans subsidiaries to satisfy statutory net worth requirements. For a comprehensive discussion of this topic, refer to the Notes to Consolidated Financial Statements, Note 19, “Commitments and Contingencies—Regulatory Capital Requirements and Dividend Restrictions.”
+Convertible Senior Notes. Refer to the Notes to Consolidated Financial Statements, Note 11, “Debt,” for a detailed discussion of our Convertible Senior Notes. Both our 1.625% Convertible Notes and our 1.125% Convertible Notes are convertible into cash prior to their respective maturity dates under certain circumstances, one of which relates to the closing price of our common stock over a specified period. We refer to this conversion trigger as the stock price trigger.
+
+Molina Healthcare, Inc. 2017 Form 10-K | 31
+
+
+The stock price trigger for the 1.625% Notes is $75.51 per share. The 1.625% Convertible Notes did not meet this trigger in the quarter ended December 31, 2017. However, on contractually specified dates beginning in 2018, holders of the 1.625% Convertible Notes may require us to repurchase some or all of such notes. In addition, beginning May 15, 2018 until August 19, 2018, holders may convert some or all of the 1.625% Convertible Notes. Because of these put and conversion features, the 1.625% Convertible Notes are reported in current portion of long-term debt as of December 31, 2017. As described above, we have adequate cash held in a restricted account available to repay the 1.625% Convertible Notes, if noteholders exercise their conversion or put rights in 2018.
+The stock price trigger for the 1.125% Notes is $53.00 per share. The 1.125% Convertible Notes met this trigger in the quarter ended December 31, 2017, and are convertible to cash through at least March 31, 2018. Because the 1.125% Convertible Notes may be converted into cash within 12 months, the $550 million carrying amount is reported in current portion of long-term debt as of December 31, 2017. For economic reasons related to the trading market for our 1.125% Convertible Notes, we believe that the amount of the notes that may be converted over the next twelve months, if any, will not be significant. However, if the trading market for our 1.125% Convertible Notes becomes closed or restricted due to market turmoil or other reasons such that the notes cannot be traded, or if the trading price of our 1.125% Notes, which normally trade at a marginal premium to the underlying composite stock-and-interest economic value, no longer includes that marginal premium, holders of our 1.125% Convertible Notes may elect to convert the notes to cash. If conversion requests are received, the settlement of the notes must be paid in cash pursuant to the terms of the relevant indentures. We have sufficient available cash, combined with borrowing capacity available under our Credit Facility and Bridge Credit Agreement, to fund conversions should they occur.
+Exchange Offers. We may from time to time seek to retire or purchase material amounts of our outstanding debt through cash purchases and/or exchanges for equity securities, in open market purchases, privately negotiated transactions or otherwise. For example, on December 7, 2017, we announced that on December 6, 2017 we priced a synthetic exchange transaction with a limited number of holders of our 1.625% Convertible Notes pursuant to which we agreed to repurchase from such noteholders an aggregate of $141 million principal amount of our 1.625% Convertible Notes and simultaneously issue to such noteholders an aggregate of 2.6 million shares of our common stock registered under the shelf registration statement described above. Future repurchases or exchanges, if any, will depend on prevailing market conditions, our liquidity requirements, contractual restrictions and other factors.
+
+CONTRACTUAL OBLIGATIONS
+In the table below, we present our contractual obligations as of December 31, 2017. Some of the amounts included in this table are based on management’s estimates and assumptions about these obligations, including their duration, the possibility of renewal, anticipated actions by third parties, and other factors. Because these estimates and assumptions are necessarily subjective, the contractual obligations we will actually pay in future periods may vary from those reflected in the table.
+Additionally, we have a variety of other contractual agreements related to acquiring services used in our operations. However, we believe these other agreements do not contain material non-cancelable commitments. 
+ 
+Total (1)
+ 
+2018
+ 
+2019-2020
+ 
+2021-2022
+ 
+2023 and after
+ 
+(In millions)
+Medical claims and benefits payable
+$
+2,192
+
+ 
+$
+2,192
+
+ 
+$
+—
+
+ 
+$
+—
+
+ 
+$
+—
+
+Principal amount of debt (2)
+2,041
+
+ 
+—
+
+ 
+550
+
+ 
+1,000
+
+ 
+491
+
+Amounts due government agencies
+1,542
+
+ 
+1,542
+
+ 
+—
+
+ 
+—
+
+ 
+—
+
+Lease financing obligations
+410
+
+ 
+17
+
+ 
+37
+
+ 
+39
+
+ 
+317
+
+Interest on long-term debt
+428
+
+ 
+73
+
+ 
+140
+
+ 
+119
+
+ 
+96
+
+Operating leases
+262
+
+ 
+67
+
+ 
+109
+
+ 
+52
+
+ 
+34
+
+Purchase commitments
+11
+
+ 
+6
+
+ 
+5
+
+ 
+—
+
+ 
+—
+
+ 
+$
+6,886
+
+ 
+$
+3,897
+
+ 
+$
+841
+
+ 
+$
+1,210
+
+ 
+$
+938
+
+_______________________________
+(1)
+As of December 31, 2017, we have recorded approximately $13 million of unrecognized tax benefits. The table does not contain this amount because we cannot reasonably estimate when or if such amount may be settled. For further information, refer to Notes to Consolidated Financial Statements, Note 13, “Income Taxes.”
+
+Molina Healthcare, Inc. 2017 Form 10-K | 32
+
+
+(2)
+Represents the principal amounts due on our 5.375% Notes due 2022, 1.125% Convertible Notes due 2020, 4.875% Notes due 2025, Credit Facility due 2022, and our 1.625% Convertible Notes due 2044. The amounts in the table reflect the 1.625% Convertible Notes’ contractual maturity date in 2044; however, on specified dates beginning in 2018, holders of the 1.625% Convertible Notes may convert, or may require us to repurchase some or all of the 1.625% Convertible Notes, as described in the Notes to Consolidated Financial Statements, Note 11, “Debt.”
+Commitments and Contingencies. We are not a party to off-balance sheet financing arrangements, except for operating leases which are disclosed in the Notes to Consolidated Financial Statements, Note 19, “Commitments and Contingencies.”
+
+INFLATION
+We use various strategies to mitigate the negative effects of health care cost inflation. Specifically, our health plans try to control medical and hospital costs through contracts with independent providers of health care services. Through these contracted providers, our health plans emphasize preventive health care and appropriate use of specialty and hospital services. There can be no assurance, however, that our strategies to mitigate health care cost inflation will be successful. Competitive pressures, new health care and pharmaceutical product introductions, demands from health care providers and customers, applicable regulations, or other factors may affect our ability to control health care costs.
+
+COMPLIANCE COSTS
+Our health plans are regulated by both state and federal government agencies. Regulation of managed care products and health care services is an evolving area of law that varies from jurisdiction to jurisdiction. Regulatory agencies generally have discretion to issue regulations and interpret and enforce laws and rules. Changes in applicable laws and rules occur frequently. Compliance with such laws and rules may lead to additional costs related to the implementation of additional systems, procedures and programs that we have not yet identified.
+
+CRITICAL ACCOUNTING ESTIMATES
+When we prepare our consolidated financial statements, we use estimates and assumptions that may affect reported amounts and disclosures. Actual results could differ from these estimates. Our most significant accounting estimates relate to:
+•
+Health Plans segment medical claims and benefits payable. See discussion below, and refer to the Notes to Consolidated Financial Statements, Note 10, “Medical Claims and Benefits Payable.”
+•
+Health Plans segment contractual provisions that may adjust or limit revenue or profit. For a comprehensive discussion of this topic, including amounts recorded in our consolidated financial statements, refer to the Notes to Consolidated Financial Statements, Note 2, “Significant Accounting Policies.”
+•
+Health Plans segment quality incentives. For a comprehensive discussion of this topic, including amounts recorded in our consolidated financial statements, refer to the Notes to Consolidated Financial Statements, Note 2, “Significant Accounting Policies.”
+•
+Goodwill and intangible assets, net. See discussion below, and refer to the Notes to Consolidated Financial Statements, Note 8, “Goodwill and Intangible Assets, Net.”
+
+Molina Healthcare, Inc. 2017 Form 10-K | 33
+
+
+MEDICAL CLAIMS AND BENEFITS PAYABLE - HEALTH PLANS SEGMENT
+chart-df08424f31d55ff28e5.jpg
+“Other” medical claims and benefits payable include amounts payable to certain providers for which we act as an intermediary on behalf of various state agencies without assuming financial risk. Such receipts and payments do not impact our consolidated statements of operations. As of December 31, 2017 and 2016, we recorded non-risk provider payables relating to such intermediary arrangements of approximately $122 million and $225 million, respectively.
+The determination of our liability for medical claims and benefits payable is particularly important to the determination of our financial position and results of operations in any given period. Such determination of our liability requires the application of a significant degree of judgment by our management.
+As a result, the determination of our liability for medical claims and benefits payable is subject to an inherent degree of uncertainty. Our medical care costs include amounts that have been paid by us through the reporting date, as well as estimated liabilities for medical care costs incurred but not paid by us as of the reporting date. Such medical care cost liabilities include, among other items, unpaid fee-for-service claims, capitation payments owed providers, unpaid pharmacy invoices, and various medically related administrative costs that have been incurred but not paid. We use judgment to determine the appropriate assumptions for determining the required estimates.
+The most important element in estimating our medical care costs is our estimate for fee-for-service claims which have been incurred but not yet paid by us. These fee-for-service costs that have been incurred but have not been paid at the reporting date are collectively referred to as medical costs that are incurred but not paid (IBNP). Our IBNP, as reported on our balance sheet, represents our best estimate of the total amount of claims we will ultimately pay with respect to claims that we have incurred as of the balance sheet date. We estimate our IBNP monthly using actuarial methods based on a number of factors. As indicated in the graph above, our estimated IBNP liability represented $1,717 million of our total medical claims and benefits payable of $2,192 million as of December 31, 2017.
+The factors we consider when estimating our IBNP include, without limitation:
+•
+claims receipt and payment experience (and variations in that experience),
+•
+changes in membership,
+•
+provider billing practices,
+•
+health care service utilization trends,
+•
+cost trends,
+•
+product mix,
+•
+seasonality,
+•
+prior authorization of medical services,
+
+Molina Healthcare, Inc. 2017 Form 10-K | 34
+
+
+•
+benefit changes,
+•
+known outbreaks of disease or increased incidence of illness such as influenza,
+•
+provider contract changes,
+•
+changes to Medicaid fee schedules, and
+•
+the incidence of high dollar or catastrophic claims.
+Our assessment of these factors is then translated into an estimate of our IBNP liability at the relevant measuring point through the calculation of a base estimate of IBNP, a further provision for adverse claims development, and an estimate of the administrative costs of settling all claims incurred through the reporting date. The base estimate of IBNP is derived through application of claims payment completion factors and trended PMPM cost estimates.
+For the fifth month of service prior to the reporting date and earlier, we estimate our outstanding claims liability based on actual claims paid, adjusted for estimated completion factors. Completion factors seek to measure the cumulative percentage of claims expense that will have been paid for a given month of service as of the reporting date, based on historical payment patterns.
+The following table reflects the hypothetical change in our estimate of claims liability as of December 31, 2017 that would have resulted had we changed our completion factors for the fifth through the twelfth months preceding December 31, 2017, by the percentages indicated. A reduction in the completion factor results in an increase in medical claims liabilities. Dollar amounts are in millions.
+Increase (Decrease) in Estimated Completion Factors
+Increase 
+(Decrease) 
+in Medical Claims
+and
+Benefits Payable
+(6)%
+$
+527
+
+(4)%
+351
+
+(2)%
+176
+
+2%
+(176
+)
+4%
+(351
+)
+6%
+(527
+)
+For the four months of service immediately prior to the reporting date, actual claims paid are not a reliable measure of our ultimate liability, given the inherent delay between the patient/physician encounter and the actual submission of a claim for payment. For these months of service, we estimate our claims liability based on trended PMPM cost estimates. These estimates are designed to reflect recent trends in payments and expense, utilization patterns, authorized services, and other relevant factors. The following table reflects the hypothetical change in our estimate of claims liability as of December 31, 2017 that would have resulted had we altered our trend factors by the percentages indicated. An increase in the PMPM costs results in an increase in medical claims liabilities. Dollar amounts are in millions.
+(Decrease) Increase in Trended Per Member Per Month Cost Estimates
+(Decrease) 
+Increase 
+in Medical Claims
+and
+Benefits Payable
+(6)%
+$
+(263
+)
+(4)%
+(176
+)
+(2)%
+(88
+)
+2%
+88
+
+4%
+176
+
+6%
+263
+
+
+Molina Healthcare, Inc. 2017 Form 10-K | 35
+
+
+The following per-share amounts are based on a combined federal and state statutory tax rate of 37%, and 56 million diluted shares outstanding for the year ended December 31, 2017. Assuming a hypothetical 1% change in completion factors from those used in our calculation of IBNP at December 31, 2017, net income for the year ended December 31, 2017 would increase or decrease by approximately $55 million, or $0.98 per diluted share. Assuming a hypothetical 1% change in PMPM cost estimates from those used in our calculation of IBNP at December 31, 2017, net income for the year ended December 31, 2017 would increase or decrease by approximately $28 million, or $0.49 per diluted share. The corresponding figures for a 5% change in completion factors and PMPM cost estimates would be $276 million, or $4.90 per diluted share, and $138 million, or $2.45 per diluted share, respectively.
+It is important to note that any change in the estimate of either completion factors or trended PMPM costs would usually be accompanied by a change in the estimate of the other component, and that a change in one component would almost always compound rather than offset the resulting distortion to net income. When completion factors are overestimated, trended PMPM costs tend to be underestimated. Both circumstances will create an overstatement of net income. Likewise, when completion factors are underestimated, trended PMPM costs tend to be overestimated, creating an understatement of net income. In other words, changes in estimates involving both completion factors and trended PMPM costs will usually act to drive estimates of claims liabilities and medical care costs in the same direction. If completion factors were overestimated by 1%, resulting in an overstatement of net income by approximately $55 million, it is likely that trended PMPM costs would be underestimated, resulting in an additional overstatement of net income.
+After we have established our base IBNP reserve through the application of completion factors and trended PMPM cost estimates, we then compute an additional liability, once again using actuarial techniques, to account for adverse development in our claims payments for which the base actuarial model is not intended to and does not account. We refer to this additional liability as the provision for adverse claims development. The provision for adverse claims development is a component of our overall determination of the adequacy of our IBNP. It is intended to capture the potential inadequacy of our IBNP estimate as a result of our inability to adequately assess the impact of factors such as changes in the speed of claims receipt and payment, the relative magnitude or severity of claims, known outbreaks of disease such as influenza, our entry into new geographical markets, our provision of services to new populations such as the aged, blind or disabled, changes to state-controlled fee schedules upon which a large proportion of our provider payments are based, modifications and upgrades to our claims processing systems and practices, and increasing medical costs. Because of the complexity of our business, the number of states in which we operate, and the need to account for different health care benefit packages among those states, we make an overall assessment of IBNP after considering the base actuarial model reserves and the provision for adverse claims development.
+We also include in our IBNP liability an estimate of the administrative costs of settling all claims incurred through the reporting date.
+The development of IBNP is a continuous process that we monitor and refine on a monthly basis as additional claims payment information becomes available. As additional information becomes known to us, we adjust our actuarial model accordingly.
+On a monthly basis, we review and update our estimated IBNP and the methods used to determine that liability. Any adjustments, if appropriate, are reflected in the period known. While we believe our current estimates are adequate, we have in the past been required to increase significantly our claims reserves for periods previously reported, and may be required to do so again in the future. Any significant increases to prior period claims reserves would materially decrease reported earnings for the period in which the adjustment is made.
+In our judgment, the estimates for completion factors will likely prove to be more accurate than trended PMPM cost estimates because estimated completion factors are subject to fewer variables in their determination. Specifically, completion factors are developed over long periods of time, and are most likely to be affected by changes in claims receipt and payment experience and by provider billing practices. Trended PMPM cost estimates, while affected by the same factors, will also be influenced by health care service utilization trends, cost trends, product mix, seasonality, prior authorization of medical services, benefit changes, outbreaks of disease or increased incidence of illness, provider contract changes, changes to Medicaid fee schedules, and the incidence of high dollar or catastrophic claims. As discussed above, however, changes in estimates involving trended PMPM costs will almost always be accompanied by changes in estimates involving completion factors, and vice versa. In such circumstances, changes in estimation involving both completion factors and trended PMPM costs will act to drive estimates of claims liabilities (and therefore medical care costs) in the same direction.
+
+Molina Healthcare, Inc. 2017 Form 10-K | 36
+
+
+Refer to the Notes to Consolidated Financial Statements, Note 10, “Medical Claims and Benefits Payable,” for additional information regarding the specific factors used to determine our changes in estimates of IBNP, as well as a table presenting the components of the change in our medical claims and benefits payable, for all periods presented in the accompanying consolidated financial statements.  
+
+GOODWILL AND INTANGIBLE ASSETS, NET
+At December 31, 2017, goodwill and intangible assets, net, represented approximately 3% of total assets and 19% of total stockholders’ equity, compared with 10% and 46%, respectively, at December 31, 2016.
+In the year ended December 31, 2017, we recorded impairment losses relating to goodwill and intangible assets, net, of $470 million. These losses included $269 million primarily in connection with our Florida, New Mexico, and Illinois health plans. The impairments at Florida and New Mexico were the result of our recent Medicaid contract losses. The Illinois impairment was the result of management’s determination, in the course of its annual impairment assessment of the goodwill of the Illinois health plan, that the plan’s future cash flow projections were insufficient to produce an estimated fair value in excess of its carrying amount. While we are confident that we can improve profitability in Illinois so that it is a meaningful contributor to our company, the current profit profile of the health plan does not support the purchase prices paid for certain membership years ago. Also during 2017, we recorded impairment losses of $28 million for our Molina Medicaid Solutions segment because management determined that Molina Medicaid Solutions will provide fewer future benefits for its support of the Health Plans segment. In addition, we recorded impairment losses of $173 million for our Other segment, primarily relating to our Pathways business, because management determined that Pathways will not provide future benefits relating to the integration of its operations with the Health Plans segment to the extent previously expected.
+Goodwill
+Goodwill represents the excess of the purchase price over the fair value of net assets acquired in business combinations. Goodwill is not amortized, but is tested for impairment on an annual basis and more frequently if impairment indicators are present. Such events or circumstances may include experienced or expected operating cash-flow deterioration or losses, significant loss of membership, loss of state funding, loss of state contracts, and other factors.
+We conduct our required annual impairment testing of goodwill during the fourth quarter of each year for each of our reporting units that have recorded goodwill. Our reporting units comprise our health plan subsidiaries, and our Molina Medicaid Solutions and Pathways subsidiaries. When testing goodwill for impairment, we may first assess qualitative factors, such as industry and market factors, cost factors, and changes in overall performance, to determine if it is more likely than not that the carrying value of a reporting unit exceeds its estimated fair value. If our qualitative assessment indicates that it is more likely than not that the carrying value of a reporting unit exceeds its estimated fair value, we perform the quantitative assessment. We may also elect to bypass the qualitative assessment and proceed directly to the quantitative assessment. We believe that the dynamic economic and political environments in which we operate often necessitate the performance of the quantitative test to prove that goodwill is not impaired on an annual basis. As of December 31, 2017, we performed qualitative impairment tests for our Michigan, Washington and Wisconsin health plans; based on these tests, we do not believe that it is more likely than not that the carrying value of these reporting units would exceed their estimated fair values.
+As of December 31, 2017, we performed quantitative impairment tests for our Florida, Illinois, New Mexico, New York and South Carolina health plans, and our Molina Medicaid Solutions subsidiary.
+We estimated the fair values of our reporting units using the higher of the income approach using discounted cash flows, or the asset liquidation method. For the annual impairment test, the base year in the reporting units’ discounted cash flows is derived from the most recent annual financial budgeting cycle, for which the planning process commences in the fourth quarter of the year. When computing discounted cash flows, we make assumptions about a wide variety of internal and external factors, and consider what the reporting unit’s selling price would be in an orderly transaction between market participants at the measurement date. Significant assumptions include financial projections of free cash flow (including significant assumptions about operations, capital requirements and income taxes), long-term growth rates for determining terminal value beyond the discretely forecasted periods, and discount rates. When determining the discount rate, we consider the overall level of inherent risk of the reporting unit, and the expected rate an outside investor would expect to earn. The asset liquidation method is computed as total assets minus total liabilities, excluding intangible assets and liabilities.
+
+Molina Healthcare, Inc. 2017 Form 10-K | 37
+
+
+Key assumptions in our cash flow projections, including changes in membership, premium rates, health care and operating cost trends, and contract renewals and the procurement of new contracts, are consistent with those used in our long-range business plan and annual planning process. If these assumptions differ from actual results, the outcome of our goodwill impairment tests could be adversely affected.
+Goodwill is impaired if the carrying amount of the reporting unit exceeds its estimated fair value. This excess is recorded as an impairment loss, and adjusted if necessary for the impact of tax deductible goodwill. The loss recognized may not exceed the total goodwill allocated to the reporting unit.
+For our South Carolina health plan and our Molina Medicaid Solutions subsidiary, whose goodwill was not impaired as of December 31, 2017, their estimated fair values exceeded their carrying amounts by 46% and 9%, respectively. The Molina Medicaid Solutions’ reporting unit recorded a goodwill impairment loss as of September 30, 2017; therefore its estimated fair value did not substantially exceed its carrying amount as of December 31, 2017.
+Refer to Notes to Consolidated Financial Statements, Note 8, “Goodwill and Intangible Assets, Net,” for further details on the goodwill impairment losses recorded in 2017.
+No goodwill impairment charges were recorded in the years ended December 31, 2016, or 2015.
+Intangible Assets
+Finite-lived, separately-identified intangible assets acquired in business combinations are assets that represent future expected benefits but lack physical substance (such as purchased contract rights and provider contracts). Our intangible assets are subject to impairment tests when events or circumstances indicate that a finite-lived intangible asset’s (or asset group’s) carrying value may not be recoverable. Consideration is given to a number of potential impairment indicators, including the ability of our health plan subsidiaries to obtain the renewal by amendment of their contracts in each state prior to the actual expiration of their contracts. However, there can be no assurance that these contracts will continue to be renewed.
+Following the identification of any potential impairment indicators, to determine whether an impairment exists, we would compare the carrying amount of a finite-lived intangible asset with the greater of the undiscounted cash flows that are expected to result from the use of the asset or related group of assets, or its value under the asset liquidation method. If it is determined that the carrying amount of the asset is not recoverable, the amount by which the carrying value exceeds the estimated fair value is recorded as an impairment.
+Refer to Notes to Consolidated Financial Statements, Note 8, “Goodwill and Intangible Assets, Net,” for further details on the intangible impairment losses recorded in 2017.
+No significant impairment charges relating to long-lived assets, including intangible assets, were recorded in the years ended December 31, 2016, or 2015.
+
+SUPPLEMENTAL INFORMATION
+FINANCIAL MEASURES THAT SUPPLEMENT U.S. GAAP (NON-GAAP FINANCIAL MEASURES)
+We use these non-GAAP financial measures as supplemental metrics in evaluating our financial performance, making financing and business decisions, and forecasting and planning for future periods. For these reasons, management believes such measures are useful supplemental measures to investors in comparing our performance to the performance of other public companies in the health care industry.
+
+Molina Healthcare, Inc. 2017 Form 10-K | 38
+
+
+EBITDA*
+We believe that EBITDA* is particularly helpful in assessing our ability to meet the cash demands of our operating units. The following table reconciles net (loss) income, which we believe to be the most comparable GAAP measure, to EBITDA*.
+ 
+Year Ended December 31,
+ 
+2017
+ 
+2016
+ 
+2015
+ 
+(In millions)
+Net (loss) income
+$
+(512
+)
+ 
+$
+52
+
+ 
+$
+143
+
+Adjustments:
+ 
+ 
+ 
+ 
+ 
+Depreciation, and amortization of intangible assets and capitalized software
+165
+
+ 
+161
+
+ 
+120
+
+Interest expense
+118
+
+ 
+101
+
+ 
+66
+
+Income tax (benefit) expense
+(100
+)
+ 
+153
+
+ 
+179
+
+EBITDA*
+$
+(329
+)
+ 
+$
+467
+
+ 
+$
+508
+
+ADJUSTED NET (LOSS) INCOME* AND ADJUSTED NET (LOSS) INCOME PER SHARE*
+We believe that adjusted net (loss) income* and adjusted net (loss) income per diluted share* are very helpful in assessing our financial performance exclusive of the non-cash impact of the amortization of purchased intangibles. The following table reconciles net (loss) income, which we believe to be the most comparable GAAP measure, to adjusted net (loss) income*.
+ 
+Year Ended December 31,
+ 
+2017
+ 
+2016
+ 
+2015
+ 
+(In millions, except diluted per-share amounts)
+ 
+Amount
+ 
+Per share
+ 
+Amount
+ 
+Per share
+ 
+Amount
+ 
+Per share
+Net (loss) income
+$
+(512
+)
+ 
+$
+(9.07
+)
+ 
+$
+52
+
+ 
+$
+0.92
+
+ 
+$
+143
+
+ 
+$
+2.58
+
+Adjustment:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amortization of intangible assets
+30
+
+ 
+0.55
+
+ 
+32
+
+ 
+0.57
+
+ 
+18
+
+ 
+0.32
+
+Income tax effect (1)
+(11
+)
+ 
+(0.20
+)
+ 
+(12
+)
+ 
+(0.21
+)
+ 
+(7
+)
+ 
+(0.12
+)
+Amortization of intangible assets, net of tax effect
+19
+
+ 
+0.35
+
+ 
+20
+
+ 
+0.36
+
+ 
+11
+
+ 
+0.20
+
+Adjusted net (loss) income*
+$
+(493
+)
+ 
+$
+(8.72
+)
+ 
+$
+72
+
+ 
+$
+1.28
+
+ 
+$
+154
+
+ 
+$
+2.78
+
+________________________
+(1)
+Income tax effect of adjustments calculated at the blended federal and state statutory tax rate of 37%.

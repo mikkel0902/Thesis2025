@@ -1,0 +1,814 @@
+ITEM 7.  MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with “Item 6. Selected Financial Data” and our consolidated financial statements and the accompanying notes included Item 8 of this Annual Report on Form 10-K. This discussion and analysis contains forward-looking statements that are subject to certain risks and uncertainties and are based on certain assumptions that we believe are reasonable but may prove to be inaccurate. Certain risks, uncertainties and other factors, including those set forth in “Item 1A. Risk Factors” and elsewhere in this Annual Report on Form 10-K, may cause actual results to differ materially from those projected results discussed in the forward-looking statements appearing in this discussion and analysis. We assume no obligation to update any of these forward-looking statements.
+Overview
+We are a bank holding company headquartered in Dallas, Texas. Through our wholly owned subsidiary, Veritex Community Bank, a Texas state chartered bank, we provide relationship-driven commercial banking products and services tailored to meet the needs of small to medium-sized businesses and professionals. Beginning at our inception in 2010, we initially targeted customers and focused our acquisitions primarily in the Dallas metropolitan area, which we consider to be Dallas and the adjacent communities in North Dallas. Our current primary market now includes the broader Dallas-Fort Worth metroplex and the Houston metropolitan area. As we continue to grow, we may expand to other metropolitan markets in Texas.
+On January 1, 2019, we acquired Green Bancorp, Inc. ("Green"), a Texas corporation and the parent holding company of Green Bank, a national banking association headquartered in Houston, Texas. We issued a total of 30,030,551 shares of common stock to Green in consideration for the merger. We acquired an estimated $4.6 billion in assets and assumed $3.9 billion of liabilities as a result of this acquisition. As of December 31, 2019, we had total assets of $8.0 billion, total loans of $5.9 billion, total deposits of $5.9 billion and total stockholders’ equity of $1.2 billion, which includes the fair value estimates from the Green acquisition.
+
+Our business is conducted through one reportable segment, community banking, where we generate the majority of our revenues from interest income on loans, customer service and loan fees, gains on sale of Small Business Administration (“SBA”) guaranteed loans and mortgage loans and interest income from securities. We incur interest expense on deposits and other borrowed funds and noninterest expense, such as salaries and employee benefits and occupancy expenses. We analyze our ability to maximize income generated from interest earning assets and expense of our liabilities through net interest margin. Net interest margin is a ratio calculated as net interest income divided by average interest earning assets. Net interest income is the difference between interest income on interest-earning assets, such as loans and securities, and interest expense on interest-bearing liabilities, such as deposits and borrowings, which are used to fund those assets.
+Changes in the market interest rates and interest rates we earn on interest-earning assets or pay on interest-bearing liabilities, as well as the volume and types of interest-earning assets, and interest-bearing and noninterest-bearing liabilities, are usually the largest drivers of periodic changes in net interest spread, net interest margin and net interest income. Fluctuations in market interest rates are driven by many factors, including governmental monetary policies, inflation, deflation, macroeconomic developments, changes in unemployment, the money supply, political and international conditions and conditions in domestic and foreign financial markets. Periodic changes in the volume and types of loans in our loan portfolio are affected by, among other factors, economic and competitive conditions in Texas and, specifically, in the Dallas-Fort Worth metroplex and Houston metropolitan area, as well as developments affecting the real estate, technology, financial services, insurance, transportation, manufacturing and energy sectors within our target market and throughout the state of Texas.
+
+40
+
+Anticipated Trends
+
+This discussion of trends expected to impact our business in 2020 is based on information presently available and reflects certain assumptions, including assuming a continuation of the current economic and low rate environment. Differences in actual economic conditions compared with our assumptions could have a material impact on our results. See “Special Cautionary Notice Regarding Forward-Looking Statements” and Part I, Item 1A, “Risk Factors” of this Annual Report on Form 10-K for additional factors that could cause results to differ materially from those contemplated by the following forward-looking statements. We anticipate the following trends or events related to our business in fiscal year 2020:
+
+•Continued return of capital through quarterly dividends and share repurchases.
+•Continued emphasis on credit quality and relationship banking.
+•Continued leverage of our strong capital through accretive organic growth and strategic acquisition opportunities.
+
+Results of Operations for the Fiscal Years Ended December 31, 2019 and December 31, 2018
+General
+Net income available to common stockholders for the year ended December 31, 2019 was $90.7 million, an increase of $51.4 million, or 130.6%, from net income available to common stockholders of $39.3 million for the year ended December 31, 2018.
+Basic earnings per share (“EPS”) for the year ended December 31, 2019 was $1.71, an increase of $0.08 from $1.63 for the year ended December 31, 2018. Diluted earnings per share for the year ended December 31, 2019 was $1.68, an increase of $0.08 from $1.60 for the year ended December 31, 2018.
+Net Interest Income
+Our operating results depend primarily on our net interest income, calculated as the difference between interest income on interest-earning assets, such as loans and securities, and interest expense on interest-bearing liabilities, such as deposits and borrowings. Fluctuations in market interest rates impact the yield and rates paid on interest sensitive assets and liabilities. Changes in the amount and type of interest-earning assets and interest-bearing liabilities also impact net interest income. The variance driven by the changes in the amount and mix of interest-earning assets and interest-bearing liabilities is referred to as a “volume change.” Changes in yields earned on interest-earning assets and rates paid on interest-bearing deposits and other borrowed funds are referred to as “rate changes.”
+To evaluate net interest income, we measure and monitor (1) yields on our loans and other interest-earning assets, (2) the costs of our deposits and other funding sources, (3) our net interest spread and (4) our net interest margin. Net interest spread is the difference between rates earned on interest-earning assets and rates paid on interest-bearing liabilities. Net interest margin is a ratio calculated as net interest income divided by average interest-earning assets. Because noninterest-bearing sources of funds, such as noninterest-bearing deposits and stockholders’ equity, also fund interest-earning assets, net interest margin includes the benefit of these noninterest-bearing sources.
+For the year ended December 31, 2019, net interest income totaled $285.1 million compared to net interest income of $115.0 million for the year ended December 31, 2018, an increase of $170.1 million, or 147.9%. This increase was primarily due to a $233.7 million, or 161.1%, increase in interest income resulting from growth in the Company’s average interest-earning assets which was driven by increased volume in all loan categories resulting from loans acquired from Green and organic loan growth during the year ended December 31, 2019. Interest income was $378.8 million, compared to $145.1 million for the years ended December 31, 2019 and 2018, respectively. The primary drivers of increased interest income was the growth on interest earned on average loans, accretion recognized on acquired loans, and increased volumes in all loan categories resulting from loans acquired from Green. Interest earned on average loans outstanding for the year ended December 31, 2019 compared to average loans outstanding for the year ended December 31, 2018 increased $206.4 million, or 153.5%. The growth in average loans was the result of loans acquired from Green, new loan originations and growth of existing customer loan balances. Average loan balances grew from $2.4 billion for the year ended December 31, 2018 to $5.9 billion for the year ended December 31, 2019, an increase of $3.5 billion, or 146.9%.
+Interest expense for the year ended December 31, 2019 was $93.7 million, compared to $30.0 million for the year ended December 31, 2018, an increase of $63.7 million, or 211.8%. The year-over-year increase was due to the growth of average interest-bearing liabilities of $3.2 billion, or 163.1%, which was primarily due to the increase in interest bearing
+41
+
+liabilities assumed from Green, as Veritex realized a full year of interest expense on Green interest-bearing liabilities in the year ending December 31, 2019, as well as organic growth in average interest-bearing deposits and a change in deposit mix.
+Net interest margin and net interest spread were 3.97% and 3.48%, respectively, for the year ended December 31, 2019 compared to 4.10% and 3.66%, respectively, for the year ended December 31, 2018. The decrease in net interest margin by 13 basis points and decrease in net interest spread by 18 basis points was due to an increase in the average yield paid on interest-bearing liabilities by 28 basis points, offset by an increase in the average yield earned on interest-bearing assets by 10 basis points. The average interest earned on interest-bearing assets increased to 5.27% during the year ended December 31, 2019 from 5.17% for the year ended December 31, 2018 primarily due to an increase in the average rate paid on interest-bearing demand and savings deposits and certificate and other time deposits during 2019. The average interest paid on interest-bearing liabilities increased to 1.79% during the year ended December 31, 2019 from 1.51% for the year ended December 31, 2018.
+The following table presents, for the periods indicated, an analysis of net interest income by each major category of interest-earning assets and interest-bearing liabilities, the average amounts outstanding and the interest earned or paid on such amounts. The table also sets forth the average rate earned on interest-earning assets, the average rate paid on interest-bearing liabilities, and the net interest margin on average total interest-earning assets for the same periods. Interest earned on loans that are classified as non-accrual is not recognized in income; however, the balances are reflected in average outstanding balances for the period. For the year ended December 31, 2019 and 2018, interest income not recognized on non-accrual loans, excluding purchased credit impaired (“PCI”) loans, was $1.7 million and $724 thousand, respectively. Any non-accrual loans have been included in the table as loans carrying a zero yield.
+42
+
+ 		For the Year Ended December 31,
+ 		2019		2018
+Average
+Outstanding
+Balance		Interest
+Earned/
+Interest
+Paid		Average
+Yield/
+Rate		Average
+Outstanding
+Balance		Interest
+Earned/
+Interest
+Paid		Average
+Yield/
+Rate
+(Dollars in thousands)
+Assets		 		 		 		 		 		 
+Interest-earning assets:		 		 		 		 		 		 
+Loans(1)
+$	5,722,039 	 		$	334,025 	 		5.96 	%		$	2,382,946 	 		$	134,460 	 		5.64 	%
+Loans held for investment, mortgage warehouse		162,325 	 		6,788 	 		4.18 	 		— 	 		— 	 		— 	 
+Investment securities		977,621 	 		29,484 	 		3.02 	 		247,163 	 		6,605 	 		2.67 	 
+Interest-earning deposits in other banks		259,866 	 		5,540 	 		2.13 	 		160,402 	 		3,149 	 		1.96 	 
+Other investments(2)(3)
+60,308 	 		2,949 	 		4.89 	 		17,326 	 		855 	 		4.93 	 
+Total interest-earning assets		7,182,159 	 		378,786 	 		5.27 	 		2,807,837 	 		145,069 	 		5.17 	 
+Allowance for loan losses		(23,533)	 						(15,324)	 				
+Noninterest-earning assets		799,257 	 						339,915 	 				
+Total assets		$	7,957,883 	 						$	3,132,428 	 				
+Liabilities and Stockholders’ Equity												
+Interest-bearing liabilities:												
+Interest-bearing demand and savings deposits		$	2,648,113 	 		40,355 	 		1.52 	 		$	1,277,186 	 		17,599 	 		1.38 	 
+Certificates and other time deposits		1,997,090 	 		38,675 	 		1.94 	 		608,041 	 		9,714 	 		1.60 	 
+Advances from FHLB		502,681 	 		9,984 	 		1.99 	 		87,366 	 		1,701 	 		1.95 	 
+Subordinated debentures and subordinated notes		86,110 	 		4,675 	 		5.43 	 		16,748 	 		1,031 	 		6.16 	 
+Total interest-bearing liabilities		5,233,994 	 		93,689 	 		1.79 	 		1,989,341 	 		30,045 	 		1.51 	 
+Noninterest-bearing liabilities:												
+Noninterest-bearing deposits		1,480,207 	 						621,613 	 				
+Other liabilities		44,809 	 						12,456 	 				
+Total noninterest-bearing liabilities		6,759,010 	 						2,623,410 	 				
+Stockholders’ equity		1,198,873 	 						509,018 	 				
+Total liabilities and stockholders’ equity		$	7,957,883 	 						$	3,132,428 	 				
+Net interest spread(4)
+3.48 	%						3.66 	%
+Net interest income				$	285,097 	 						$	115,024 	 		
+Net interest margin(5)
+3.97 	%						4.10 	%
+ 
+
+(1) Includes average outstanding balances of loans held for sale of $8,762 and $1,198 for the twelve months ended December 31, 2019 and 2018, respectively.
+(2) We historically reported dividend income in other noninterest income and have reclassified $835 of dividend income into interest income for other investments for the twelve months ended December 31, 2018 in order to align with industry peers for comparability purposes.
+(3) Other investments includes equity securities, investment in trusts and Federal Home Loan Bank and Federal Reserve Bank stock.
+(4) Net interest rate spread is the average yield on interest-earning assets minus the average rate on interest-bearing liabilities.
+(5) Net interest margin is equal to net interest income divided by average interest-earning assets.
+
+
+43
+
+The following table presents the changes in interest income and interest expense for the periods indicated for each major component of interest-earning assets and interest-bearing liabilities and distinguishes between the changes attributable to changes in volume and changes attributable to changes in interest rates. For purposes of this table, changes attributable to both rate and volume that cannot be segregated have been allocated to rate.
+ 	For the Year Ended December 31, 2019
+ 	Compared to 2018
+ 	Increase (Decrease) Due To Change in		 
+ 	Volume		Rate		Total
+ 	(Dollars in thousands)
+Interest-earning assets:	    		    		    
+Loans	$	199,010 	 		$	555 	 		$	199,565 	 
+Loans held for investment, mortgage warehouse	6,785 	 		3 	 		6,788 	 
+Investment securities	22,060 	 		819 	 		22,879 	 
+Interest-earning deposits in other banks	2,119 	 		272 	 		2,391 	 
+Other investments	2,102 	 		(8)	 		2,094 	 
+Total increase in interest income	232,076 	 		1,641 	 		233,717 	 
+Interest-bearing liabilities:	 		 		 
+Interest-bearing demand and savings deposits	20,838 	 		1,918 	 		22,756 	 
+Certificates and other time deposits	26,948 	 		2,013 	 		28,961 	 
+Advances from FHLB	8,265 	 		18 	 		8,283 	 
+Subordinated debentures and subordinated notes	3,766 	 		(122)	 		3,644 	 
+Total increase in interest expense	59,817 	 		3,827 	 		63,644 	 
+Increase (decrease) in net interest income	$	172,259 	 		$	(2,186)	 		$	170,073 	 
+ 
+Provision for Loan Losses
+Our provision for loan losses is a charge to income in order to bring our allowance for loan losses to a level deemed appropriate by management. For a description of the factors taken into account by management in determining the allowance for loan losses see “—Financial Condition—Allowance for Loan Losses.” The provision for loan losses was $21.5 million for the year ended December 31, 2019, compared to $6.6 million for the same period in 2018, an increase of $14.9 million, or 225.8%. The increase in provision expense was was primarily due to a $6.1 million charge-off of a commercial loan relationship acquired as a result of our acquisition of Sovereign in 2017. The acquired commercial loan relationship was a loan to an independent oil and gas exploration company that filed for bankruptcy protection in 2018 and entered into a sales process pursuant to Section 363 of the Bankruptcy Code during the third quarter of 2019. Additionally, the increase in the recorded provision for loan losses for the year ended December 31, 2019 was due to a $1.2 million increase in certain non-performing loans and an increase in acquired loans that were re-underwritten during the year ended December 31, 2019. Once an acquired loan undergoes new underwriting and meets the criteria for a new loan, any remaining fair value adjustments are taken into interest income and the loan becomes fully subject to our allowance for loan loss methodology. In addition, net charge-offs increased $10.8 million for the year ended December 31, 2019 compared to the same period in 2018.
+Noninterest Income
+Our primary sources of recurring noninterest income are service charges and fees on deposit accounts, loan fees, (loss) gain on the sale of investment securities, gains on the sale of loans and other assets owned and rental income. Noninterest income does not include loan origination fees to the extent they exceed the direct loan origination costs, which are generally recognized over the life of the related loan as an adjustment to yield using the interest method.
+44
+
+The following table presents, for the periods indicated, the major categories of noninterest income:
+ 	For the Year Ended		 
+ 	December 31,		Increase
+ 	2019		2018		(Decrease)
+ 	(Dollars in thousands)
+Noninterest income:	    		    		    
+Service charges and fees on deposit accounts	$	14,334 	 		$	3,420 	 		$	10,914 	 
+Loan fees	7,782 	 		1,332 	 		6,450 	 
+Loss on sales of investment securities	(1,852)	 		(64)	 		(1,788)	 
+Gain on sales of loans	4,863 	 		3,056 	 		1,807 	 
+Rental income	1,481 	 		1,654 	 		(173)	 
+Other(1)
+3,472 	 		1,677 	 		1,795 	 
+Total noninterest income	$	30,080 	 		$	11,075 	 		$	19,005 	 
+ 
+(1) We historically reported dividend income in other noninterest income and has reclassified $835 thousand of dividend income into interest income for other investments during the year ended December 31, 2018 in order to align with industry peers for comparability purposes.
+Noninterest income for the year ended December 31, 2019 increased $19.0 million, or 171.6%, to $30.1 million compared to noninterest income of $11.1 million for the same period in 2018. The primary components of the increase were as follows:
+Service charges and fees on deposit accounts. We earn service charges and fees from our customers for deposit-related activities. The income from these deposit activities constitutes a significant and predictable component of our noninterest income. Service charges and fees on deposit accounts were $14.3 million for the year ended December 31, 2019, an increase of $10.9 million, or 319.1%, over the same period in 2018. This increase was primarily due our acquisition of Green deposit accounts and the associated income from these accounts.
+Loan fees. Loan fees were $7.8 million for the year ended December 31, 2019 compared to $1.3 million for the same period in 2018. The increase of $6.5 million was primarily attributable to an increase in loans earning fees as a result of our acquisition of Green.
+Loss on sales of investment securities. During the year ended December 31, 2019, we incurred a loss on securities sold of $1.9 million as a result of a repositioning strategy following the acquisition of Green with a minimal corresponding loss for the year ended December 31, 2018.
+Gain on sales of loans. We realized gains on loans sold of $4.9 million during the year ended December 31, 2019 compared to $3.1 million for the year ended December 31, 2018. The increase was primarily due to a $2.1 million increase on gain on sale of Small Business Administration (“SBA”) loans as a result of increased volumes driven by acquired held for sale loans in the Green acquisition and originated held for sale SBA loans.
+Other. Other noninterest income was $3.5 million for the year ended December 31, 2019, an increase of $1.8 million, or 107.0%, compared to the same period in 2018. The increase was primarily due to a $2.0 million increase in income on bank-owned life insurance policies.
+45
+
+Noninterest Expense
+Noninterest expense is composed of all employee expenses and costs associated with operating our facilities, acquiring and retaining customer relationships and providing bank services. The major component of noninterest expense is salaries and employee benefits. Noninterest expense also includes operational expenses, such as occupancy expenses, depreciation and amortization of office equipment, professional fees and regulatory fees, data processing expenses, merger and acquisition expenses and marketing expenses.
+The following table presents, for the periods indicated, the major categories of noninterest expense:
+ 					 
+ 	For the Year Ended		 
+ 	December 31,		Increase
+ 	2019		2018		(Decrease)
+ 	(Dollars in thousands)
+Salaries and employee benefits	$	72,791 	 		$	31,138 	 		$	41,653 	 
+Non-staff expenses:	 		 		 
+Occupancy and equipment	16,385 	 		10,679 	 		5,706 	 
+Professional and regulatory fees	11,597 	 		7,282 	 		4,315 	 
+Data processing and software expense	8,365 	 		3,020 	 		5,345 	 
+Marketing	3,259 	 		1,783 	 		1,476 	 
+Amortization of intangibles	10,887 	 		3,467 	 		7,420 	 
+Telephone and communications	1,847 	 		1,299 	 		548 	 
+Merger and acquisition expense	38,960 	 		5,220 	 		33,740 	 
+Other 	13,712 	 		5,371 	 		8,341 	 
+Total noninterest expense	$	177,803 	 		$	69,259 	 		$	108,544 	 
+ 
+Noninterest expense for the year ended December 31, 2019 increased $108.5 million, or 156.7%, to $177.8 million compared to noninterest expense of $69.3 million for the same period in 2018. The most significant components of the increase were as follows:
+Salaries and employee benefits. Salaries and employee benefits include payroll expenses, the cost of incentive compensation, benefit plans, health insurance and payroll taxes. The level of employee expense is impacted by the amount of direct loan origination costs which are required to be deferred in accordance with Accounting Standards Codification (“ASC”) 310-20. Salaries and employee benefits were $72.8 million for the year ended December 31, 2019, an increase of $41.7 million, or 133.8%, compared to the same period in 2018. The increase was primarily attributable to increased employee compensation of $33.4 million and incentive costs of $5.0 million relating to our increased employee headcount from 327 to 676 full-time employees primarily resulting from our acquisition of Green, as well as increased officer bonuses and lender incentives. Employee benefits also increased $5.1 million, specifically within insurance costs and 401(k) expenses, as a result of our acquisition of Green. These increases in salaries and employee benefits were partially offset by deferred direct origination costs, which increased $3.8 million as a result of organic growth in loans during the year ended December 31, 2019 compared to the same period in 2018.
+Occupancy and equipment. Occupancy and equipment expense includes lease expense, building depreciation and related facilities costs as well as furniture, fixture and equipment depreciation, small equipment purchases and maintenance expense. Our expense associated with occupancy and equipment was $16.4 million for the year ended December 31, 2019, compared to $10.7 million for the same period in 2018. The increase of $5.7 million, or 53.4%, was primarily due to an increase in branches leased and owned as a result of the acquisition of Green.
+Professional and regulatory fees. This category includes legal, investment bank, director, stock transfer agent fees and other public company services, information technology support, audit services and regulatory assessment expense. Professional and regulatory fees were $11.6 million for the year ended December 31, 2019, an increase of $4.3 million, or 59.3%, compared to the same period in 2018. This increase was primarily the result of increases in audit and regulatory services of $1.1 million, information technology support services of $1.1 million, and loan-related legal expenses of $1.2 million.
+46
+
+Data processing and software expense. Data processing and software expense was $8.4 million for the year ended December 31, 2019, an increase of $5.3 million, or 177.0%, compared to the same period in 2018. The increase was attributable to core processing expense incurred as a result of the increase in account transaction volumes associated with the Green acquisition.
+Amortization of intangibles. Amortization of intangibles was $10.9 million for the year ended December 31, 2019, an increase of $7.4 million or 214.0%, compared to $3.5 million for the same period in 2018. This increase was due to increased amortization expense of core deposit intangibles (“CDI”) as the Company recognized a full year of amortization expense on core deposits acquired in the acquisition of Green.
+
+Merger and acquisition expense. Merger and acquisition expense includes legal, professional, audit, regulatory and other expenses incurred in connections with a merger or acquisition. Merger and acquisition expense was $39.0 million for the year ended December 31, 2019, an increase of $33.7 million, or 646.4%, compared to the same period in 2018. This increase was primarily driven by a $17.1 million increase in stock-based compensation due to the accelerated vesting of outstanding restricted stock units and stock options related to the Green acquisition, a $9.0 million increase in severance and change-in-control payments, a $3.1 million increase in professional services expenses and a $1.6 million increase in data processing expense as a result of our system conversions in connection with our acquisition of Green.
+
+Other. This category includes operating and administrative expenses including loan operations and collections, supplies and printing, online and card interchange expense, ATM/debit card processing, postage and delivery, bank-owned life insurance (“BOLI”) mortality expense, insurance and security expenses. Other noninterest expense increased $8.3 million, or 155.3%, to $13.7 million for the year ended December 31, 2019, compared to $5.4 million for the same period in 2018. This increase was primarily due to the growth of the bank through our acquisition of Green in 2019. This resulted in increased loan and collection expense of $1.4 million, third-party banking services of $1.3 million, brokered certificate of deposit expenses of $539 thousand, auto and travel expenses of $588 thousand, bank-owned life insurance (“BOLI”) mortality costs of $534 thousand, bank service charges of $561 thousand, and online ATM and card expenses of $754 thousand as compared to the same period in 2018.
+
+Income tax expense. The amount of income tax expense is a function of our pre-tax income, tax-exempt income and other nondeductible expenses. Deferred tax assets and liabilities reflect current statutory income tax rates in effect for the period in which the deferred tax assets and liabilities are expected to be realized or settled. As changes in tax laws or rates are enacted, deferred tax assets and liabilities are adjusted through the provision for income taxes. Valuation allowances are established when necessary to reduce deferred tax assets to the amount expected to be realized. As of December 31, 2019 and 2018, the Company did not believe a valuation allowance was necessary.
+For the year ended December 31, 2019, income tax expense totaled $25.1 million, an increase of $14.2 million, or 130.6%, compared to $10.9 million for the same period in 2018. Our effective tax rate remained stable at 21.7% for the years ended December 31, 2019 and 2018.
+Results of Operations for the Fiscal Years Ended December 31, 2018 and December 31, 2017
+Discussion of the results of operations for the fiscal years ended December 31, 2018 and 2017 are included in our Annual Report on Form 10-K for the year ended December 31, 2018, as filed with the Securities and Exchange Commission on February 27, 2019.
+
+Financial Condition
+Our total assets were $8.0 billion and $3.2 billion as of December 31, 2019 and 2018, respectively. Assets increased $4.8 billion, or 147.9%, from December 31, 2018 to December 31, 2019.  Our asset growth was due to our acquisition of Green and the successful execution of our strategy to establish deep relationships in the Dallas-Fort Worth metroplex and the Houston metropolitan area. We believe these relationships will continue to bring in new customer accounts and grow balances from existing loan and deposit customers.
+47
+
+Loan Portfolio
+Our primary source of income is interest on loans to individuals, professionals, small to medium-sized businesses and commercial companies located in the Dallas-Fort Worth metroplex and Houston metropolitan area. Our loan portfolio consists primarily of commercial loans and real estate loans secured by commercial real estate properties located in our primary market areas. Our loan portfolio represents the highest yielding component of our interest-earning asset base.
+As of December 31, 2019, total loans were $5.9 billion, an increase of $3.4 billion, or 131.7%, compared to $2.6 billion as of December 31, 2018. This increase was the result of our acquisition of Green on January 1, 2019 as well as the continued execution and success of our loan growth strategy. In addition, loans classified as held for sale were $14.1 million and $1.3 million as of December 31, 2019 and 2018, respectively.
+Total loans as a percentage of deposits were 100.5% and 97.4% as of December 31, 2019 and December 31, 2018, respectively. Total loans, excluding mortgage warehouse loans, as a percentage of deposits were 97.3% and 97.5% as of December 31, 2019 and December 31, 2018, respectively. Total loans as a percentage of total assets were 74.4% and 79.6% as of December 31, 2019 and December 31, 2018, respectively.
+The following table summarizes our loan portfolio by type of loan as of the dates indicated:
+ 	As of December 31,
+ 	2019		2018		2017		2016		2015
+ 	Amount		Percent		Amount		Percent		Amount		Percent		Amount		Percent		Amount		Percent
+ 	(Dollars in thousands)
+Commercial	$	1,712,838 	 		28.9 	%		$	760,772 	 		29.8 	%		$	684,551 	 		30.6 	%		$	291,416 	 		29.4 	%		$	246,124 	 		30.0 	%
+Mortgage warehouse	183,628 	 		3.1 	 		— 	 		— 	 		— 	 		— 	 		— 	 		— 	 		— 	 		— 	 
+Real estate:	  	 		 		 		 		 		 		 		 		 		 
+Construction and land	629,374 	 		10.6 	 		324,863 	 		12.7 	 		277,825 	 		12.4 	 		162,614 	 		16.4 	 		126,422 	 		15.4 	 
+Farmland	16,939 	 		0.3 	 		10,528 	 		0.4 	 		9,385 	 		0.4 	 		8,262 	 		0.8 	 		11,696 	 		1.4 	 
+1 - 4 family residential	549,811 	 		9.3 	 		297,917 	 		11.7 	 		251,665 	 		11.3 	 		140,137 	 		14.1 	 		137,704 	 		16.8 	 
+Multi-family residential	320,041 	 		5.4 	 		51,285 	 		2.0 	 		91,152 	 		4.1 	 		14,683 	 		1.5 	 		8,695 	 		1.1 	 
+Commercial real estate	2,490,983 	 		42.1 	 		1,103,032 	 		43.2 	 		909,292 	 		40.7 	 		370,696 	 		37.4 	 		284,622 	 		34.7 	 
+Consumer	17,457 	 		0.3 	 		7,112 	 		0.3 	 		9,648 	 		0.4 	 		4,089 	 		0.4 	 		5,304 	 		0.6 	 
+Total loans held for investment	$	5,921,071 	 		100 	%		$	2,555,509 	 		100 	%		$	2,233,518 	 		100 	%		$	991,897 	 		100 	%		$	820,567 	 		100 	%
+Total loans held for sale	$	14,080 	 		 		$	1,258 	 		 		$	841 	 		 		$	5,208 	 		 		$	2,831 	 		 
+ 
+Commercial. Our commercial loans are underwritten after evaluating and understanding the borrower’s ability to operate profitably and effectively. These loans are primarily made based on the identified cash flows of the borrower, and secondarily, on the underlying collateral provided by the borrower. Most commercial loans are secured by the assets being financed or other business assets, such as accounts receivable or inventory, and generally include personal guarantees.
+Commercial loans increased $952.1 million, or 125.1%, to $1.7 billion as of December 31, 2019 from $760.8 million as of December 31, 2018. The increase was due to our acquisition of Green and growth in origination volumes in the Dallas-Fort Worth metroplex.
+Mortgage warehouse. Our mortgage warehouse loans consist of ownership interests purchased in single-family residential mortgages funded through our warehouse lending group. These loans are typically on our balance sheet for 10 to 25 days or less. We have agreements with mortgage lenders and purchase legal ownership interests in individual loans they originate. All loans are underwritten consistent with established programs for permanent financing with financially sound investors. Substantially all loans are conforming loans or loans eligible for sale to federal agencies or government sponsored entities. However, for accounting purposes, these loans are deemed to be loans to the originator and, as such, are classified as loans held for investment.
+We acquired the mortgage warehouse line of business as part of the acquisition of Green and as of December 31, 2019 we had $183.6 million of mortgage warehouse loans, approximately 3.1% of our total funded loans.
+48
+
+Construction and land.  Our construction and land development loans consist of loans to fund construction, land acquisition and land development construction. The properties securing the portfolio are primarily located throughout north Texas and are generally diverse in terms of type.
+Construction and land loans increased $304.5 million, or 93.7%, to $629.4 million as of December 31, 2019 from $324.9 million as of December 31, 2018. This increase was due to our acquisition of Green and the robust business environment in the Dallas-Fort Worth metroplex and the Houston metropolitan area.
+1-4 family residential.  Our 1-4 family residential loans consist of loans secured by single family homes, which are both owner-occupied and investor owned. Our 1-4 family residential loans have a relatively small balance spread between many individual borrowers.
+1-4 family residential loans increased $251.9 million, or 84.6%, to $549.8 million as of December 31, 2019 from $297.9 million as of December 31, 2018. This increase is a result of our acquisition of Green and the strong housing demand in our primary market areas.
+Commercial Real Estate.  Our commercial real estate loans are underwritten primarily based on projected cash flows and, secondarily, as loans secured by real estate. These loans may be more adversely affected by conditions in the real estate markets or in the general economy. The properties securing the portfolio are located throughout north Texas and are generally diverse in terms of type. This diversity helps reduce the exposure to adverse economic events that affect any single industry.
+Commercial real estate loans increased $1.4 billion, or 125.8%, to $2.5 billion as of December 31, 2019 from $1.1 billion as of December 31, 2018. The increase is due to our acquisition of Green and the continued demand within our primary market areas.
+Other loan categories.  Other categories of loans in our loan portfolio include farmland and agricultural loans made to farmers and ranchers relating to their operations, multi-family residential loans, consumer loans and purchased receivables financing. None of these categories of loans represents a significant portion of our total loan portfolio.
+The contractual maturity ranges of loans in our loan portfolio, excluding mortgage warehouse, and the amount of such loans with fixed and floating interest rates in each maturity range as of date indicated are summarized in the following tables:
+ 	As of December 31, 2019
+ 	One Year		One Through		After		 
+ 	or Less		Five Years		Five Years		Total
+ 	(Dollars in thousands)
+Commercial	$	685,784 	 		$	599,704 	 		$	427,350 	 		$	1,712,838 	 
+Real estate:							
+Construction and land	172,569 	 		219,877 	 		236,928 	 		629,374 	 
+Farmland	1,680 	 		12,662 	 		2,597 	 		16,939 	 
+1 - 4 family residential	27,843 	 		89,884 	 		432,084 	 		549,811 	 
+Multi-family residential	11,484 	 		214,075 	 		94,482 	 		320,041 	 
+Commercial real estate	369,142 	 		1,203,646 	 		918,195 	 		2,490,983 	 
+Consumer	6,681 	 		4,785 	 		5,991 	 		17,457 	 
+Total loans held for investment	$	1,275,183 	 		$	2,344,633 	 		$	2,117,627 	 		$	5,737,443 	 
+Mortgage warehouse	$	— 	 		$	— 	 		$	— 	 		$	183,628 	 
+Total loans	$	1,275,183 	 		$	2,344,633 	 		$	2,117,627 	 		$	5,921,071 	 
+Amounts with fixed rates	$	193,225 	 		$	462,277 	 		$	1,124,254 	 		$	1,779,756 	 
+Amounts with floating rates	$	1,081,958 	 		$	1,882,356 	 		$	993,373 	 		$	3,957,687 	 
+ 
+ 
+49
+
+ 	As of December 31, 2018
+ 	One Year		One Through		After		 
+ 	or Less		Five Years		Five Years		Total
+ 	(Dollars in thousands)
+Commercial	$	276,149 	 		$	400,883 	 		$	83,740 	 		$	760,772 	 
+Real estate:	 		 		 		 
+Construction and land	118,233 	 		194,467 	 		12,163 	 		324,863 	 
+Farmland	1,479 	 		8,964 	 		85 	 		10,528 	 
+1 - 4 family residential	18,175 	 		66,408 	 		213,334 	 		297,917 	 
+Multi-family residential	14,885 	 		34,281 	 		2,119 	 		51,285 	 
+Commercial real estate	147,084 	 		630,995 	 		324,953 	 		1,103,032 	 
+Consumer	1,653 	 		4,807 	 		652 	 		7,112 	 
+Total loans	$	577,658 	 		$	1,340,805 	 		$	637,046 	 		$	2,555,509 	 
+Amounts with fixed rates	$	177,795 	 		$	600,180 	 		$	209,820 	 		$	987,795 	 
+Amounts with floating rates	$	399,863 	 		$	740,625 	 		$	427,226 	 		$	1,567,714 	 
+ 
+Nonperforming Assets
+Loans are considered past due if the required principal and interest payments have not been received as of the date such payments were due. Loans are placed on non-accrual status when, in management’s opinion, the borrower may be unable to meet payment obligations as they become due, as well as when required by regulatory provisions. Loans may be placed on non-accrual status regardless of whether or not such loans are considered past due. When interest accrual is discontinued, all unpaid accrued interest is reversed. Interest income is subsequently recognized only to the extent cash payments are received in excess of principal due. Loans are returned to accrual status when all principal and interest amounts contractually due are brought current and future payments are reasonably assured.
+We have several procedures in place to assist us in maintaining the overall quality of our loan portfolio. We have established underwriting guidelines to be followed by our bankers, and we also monitor our delinquency levels for any negative or adverse trends. Nevertheless, our loan portfolio could become subject to increasing pressures from deteriorating borrower credit due to general economic conditions.
+We believe our conservative lending approach and focused management of nonperforming assets, which consist of non-accrual loans, accruing loans 90 or more days past due excluding purchased credit impaired (“PCI”) loans and other real estate owned, has resulted in sound asset quality and timely resolution of problem assets. We had $39.4 million in nonperforming assets as of December 31, 2019 compared to $24.7 million in nonperforming assets as of December 31, 2018. We had $33.4 million in nonperforming loans as of December 31, 2019 compared to $24.7 million as of December 31, 2018. The increase of $14.7 million in nonperforming assets compared to December 31, 2018 was primarily due to the a $5.3 million increase in acquired nonaccrual loans and a $4.6 million increase in other real estate owned.
+50
+
+The following table presents information regarding nonperforming loans at the dates indicated:
+ 	As of December 31,
+ 	2019		2018		2017		2016		2015
+ 	(Dollars in thousands)
+Non-accrual loans(1)
+$	29,779 	 		$	24,745 	 		$	465 	 		$	941 	 		$	591 	 
+Accruing loans 90 or more days past due	3,660 	 		— 	 		18 	 		835 	 		84 	 
+Total nonperforming loans	33,439 	 		24,745 	 		483 	 		1,776 	 		675 	 
+Other real estate owned:	 		 		 		 		 
+Commercial	4,242 	 		— 	 		— 	 		— 	 		— 	 
+Commercial real estate, construction, land and land development	1,087 	 		— 	 		449 	 		493 	 		493 	 
+Residential real estate	666 	 		— 	 		— 	 		169 	 		— 	 
+Total other real estate owned	5,995 	 		— 	 		449 	 		662 	 		493 	 
+Total nonperforming assets	$	39,434 	 		$	24,745 	 		$	932 	 		$	2,438 	 		$	1,168 	 
+Restructured loans—non-accrual	$	686 	 		$	227 	 		$	15 	 		$	170 	 		$	288 	 
+Restructured loans—accruing	$	1,457 	 		$	944 	 		$	603 	 		$	652 	 		$	1,439 	 
+Ratio of nonperforming loans to total loans	0.56 	%		0.97 	%		0.02 	%		0.18 	%		0.08 	%
+Ratio of nonperforming assets to total assets	0.50 	%		0.77 	%		0.03 	%		0.17 	%		0.05 	%
+ 
+(1) At December 31, 2018, non-accrual loans included PCI loans of $16,902 for which discount accretion have been suspended because the extent and timing of cash flows from these PCI loans could no longer be reasonably estimated. There were no PCI loans classified as non-accrual at December 31, 2019, 2017, 2016 or 2015.
+ 
+The following table presents non-accrual loans by category at the dates indicated:
+ 	As of December 31,
+ 	2019		2018		2017		2016		2015
+ 	(Dollars in thousands)
+Real estate:	 		 		 		 		 
+Construction and land	$	567 	 		$	2,399 	 		$	— 	 		$	— 	 		$	— 	 
+Farmland	— 	 		— 	 		— 	 		— 	 		— 	 
+1 - 4 family residential	1,581 	 		— 	 		— 	 		— 	 		187 	 
+Multi-family residential	— 	 		— 	 		— 	 		— 	 		— 	 
+Nonfarm residential	21,905 	 		2,575 	 		61 	 		— 	 		— 	 
+Commercial	5,672 	 		19,769 	 		398 	 		930 	 		383 	 
+Consumer	54 	 		2 	 		6 	 		11 	 		21 	 
+Total	$	29,779 	 		$	24,745 	 		$	465 	 		$	941 	 		$	591 	 
+ 
+ 
+Potential Problem Loans
+From a credit risk standpoint, we classify loans in one of four categories: pass, special mention, substandard or doubtful. Loans classified as loss are charged-off. Loans not rated special mention, substandard, doubtful, or loss are classified as pass loans. The classifications of loans reflect a judgment about the risks of default and loss associated with the loan. We review the ratings on credits monthly. Ratings are adjusted to reflect the degree of risk and loss that is felt to be inherent in each credit as of each monthly reporting period. All classified credits are evaluated for impairments. If impairment is determined to exist, a specific reserve is established. Our methodology is structured so that specific allocations are increased in accordance with deterioration in credit quality (and a corresponding increase in risk and loss) or decreased in accordance with improvement in credit quality (and a corresponding decrease in risk and loss).
+51
+
+Credits rated special mention show clear signs of financial weaknesses or deterioration in credit worthiness, however, such concerns are not so pronounced that we generally expect to experience significant loss within the short-term. Such credits typically maintain the ability to perform within standard credit terms and credit exposure is not as prominent as credits with a lower rating.
+Credits rated substandard are those in which the normal repayment of principal and interest may be, or has been, jeopardized by reason of adverse trends or developments of a financial, managerial, economic or political nature, or important weaknesses which exist in collateral. A protracted workout on these credits is a distinct possibility. Prompt corrective action is therefore required to strengthen our position, and/or to reduce exposure and to assure that adequate remedial measures are taken by the borrower. Credit exposure becomes more likely in such credits and a serious evaluation of the secondary support to the credit is performed.
+Credits rated doubtful are those in which full collection of principal appears highly questionable, and in which some degree of loss is anticipated, even though the ultimate amount of loss may not yet be certain and/or other factors exist which could affect collection of debt. Based upon available information, positive action by the Company is required to avert or minimize loss. Credits rated doubtful are generally also placed on non-accrual.
+Credits classified as PCI are those that, at acquisition date, had credit deterioration and it was probable that all contractually required principal and interest payments would not be collected. The Company evaluates these loans on a projected cash flow basis with this evaluation performed quarterly.
+The following table summarizes our internal loan ratings, including PCI loans, as of the dates indicated.
+ 	As of December 31, 2019
+ 	 		Special		 		 		 		 
+ 	Pass		Mention		Substandard		Doubtful		PCI		Total
+ 	(Dollars in thousands)
+Real estate:	    		    		    		    		    		    
+Construction and land	$	618,773 	 		$	3,965 	 		$	2,689 	 		$	— 	 		$	3,947 	 		$	629,374 	 
+Farmland	16,939 	 		— 	 		— 	 		— 	 		— 	 		16,939 	 
+1 - 4 family residential	541,787 	 		795 	 		3,460 	 		— 	 		3,769 	 		549,811 	 
+Multi-family residential	320,041 	 		— 	 		— 	 		— 	 		— 	 		320,041 	 
+Commercial Real Estate	2,332,357 	 		23,494 	 		38,278 	 		— 	 		96,854 	 		2,490,983 	 
+Commercial	1,610,150 	 		51,999 	 		28,670 	 		— 	 		22,019 	 		1,712,838 	 
+Mortgage warehouse	183,628 	 		— 	 		— 	 		— 	 		— 	 		183,628 	 
+Consumer	17,106 	 		40 	 		182 	 		— 	 		129 	 		17,457 	 
+Total	$	5,640,781 	 		$	80,293 	 		$	73,279 	 		$	— 	 		$	126,718 	 		$	5,921,071 	 
+ 
+ 
+ 	As of December 31, 2018
+ 	 		Special		 		 				 
+ 	Pass		Mention		Substandard		Doubtful		PCI		Total
+ 	(Dollars in thousands)
+Real estate:	    		    		    		    				    
+Construction and land	$	320,987 	 		$	1,860 	 		$	2,016 	 		$	— 	 		$	— 	 		$	324,863 	 
+Farmland	10,528 	 		— 	 		— 	 		— 	 		— 	 		10,528 	 
+1 - 4 family residential	296,870 	 		236 	 		726 	 		— 	 		85 	 		297,917 	 
+Multi-family residential	51,285 	 		— 	 		— 	 		— 	 		— 	 		51,285 	 
+Commercial Real Estate	1,065,982 	 		7,056 	 		12,986 	 		— 	 		17,008 	 		1,103,032 	 
+Commercial	720,583 	 		8,900 	 		7,552 	 		— 	 		23,737 	 		760,772 	 
+Consumer	6,950 	 		— 	 		162 	 		— 	 		— 	 		7,112 	 
+Total	$	2,473,185 	 		$	18,052 	 		$	23,442 	 		$	— 	 		$	40,830 	 		$	2,555,509 	 
+ 
+52
+
+Allowance for Loan Losses
+We maintain an allowance for loan losses that represents management’s best estimate of the loan losses and risks inherent in the loan portfolio. In determining the allowance for loan losses, we estimate losses on specific loans, or groups of loans, where the probable loss can be identified and reasonably determined. The balance of the allowance for loan losses is based on internally assigned risk classifications of loans, historical loan loss rates, changes in the nature of the loan portfolio, overall portfolio quality, industry concentrations, delinquency trends, current economic factors and the estimated impact of current economic conditions on certain historical loan loss rates. For additional discussion of our methodology, please refer to “—Critical Accounting Policies—Loans and Allowance for Loan Losses.”
+In connection with our review of the loan portfolio, we consider risk elements attributable to particular loan types or categories in assessing the quality of individual loans. Some of the risk elements we consider include:
+•for commercial and industrial loans, the operating results of the commercial, industrial or professional enterprise, the borrower’s business, professional and financial ability and expertise, the specific risks and volatility of income and operating results typical for businesses in that category and the value, nature and marketability of collateral;
+•for commercial mortgage loans and multifamily residential loans, the debt service coverage ratio (income from the property in excess of operating expenses compared to loan payment requirements), operating results of the owner in the case of owner occupied properties, the loan to value ratio, the age and condition of the collateral and the volatility of income, property value and future operating results typical of properties of that type;
+•for 1-4 family residential mortgage loans, the borrower’s ability to repay the loan, including a consideration of the debt to income ratio and employment and income stability, the loan to value ratio, and the age, condition and marketability of the collateral; and
+•for construction, land development and other land loans, the perceived feasibility of the project, including the ability to sell developed lots or improvements constructed for resale or the ability to lease property constructed for lease, the quality and nature of contracts for presale or prelease, if any, experience and ability of the developer and loan to value ratio.
+As of December 31, 2019, the allowance for loan losses totaled $29.8 million, or 0.50%, of total loans. As of December 31, 2018, the allowance for loan losses totaled $19.3 million, or 0.75%, of total loans. The decrease in the percentage of allowance of loan losses to total loans compared to December 31, 2018 was attributable to our acquisition of Green as acquired loans are recorded at fair value. Ending balances for the accretable purchase discount related to impaired and non-impaired acquired loans were $57.8 million and $22.3 million as of December 31, 2019 and December 31, 2018, respectively.
+53
+
+The following table presents, as of and for the periods indicated, an analysis of the allowance for loan losses and other related data:
+ 	For the Years Ended December 31,
+ 	2019		2018		2017		2016		2015
+Average loans outstanding(1)
+$	5,884,364 	 		$	2,382,946 	 		$	1,441,295 	 		$	919,387 	 		$	694,305 	 
+Gross loans outstanding at end of period(1)
+$	5,921,071 	 		$	2,555,509 	 		$	2,233,518 	 		$	991,897 	 		$	820,567 	 
+Allowance for loan losses at beginning of period	$	19,255 	 		$	12,808 	 		$	8,524 	 		$	6,772 	 		$	5,981 	 
+Provision for loan losses	21,514 	 		6,603 	 		5,114 	 		2,050 	 		868 	 
+Charge-offs:	 		 		 		 		 
+Real estate:	 		 		 		 		 
+Construction, land and farmland	— 	 		— 	 		— 	 		— 	 		(48)	 
+Residential	(157)	 		— 	 		(11)	 		— 	 		— 	 
+Commercial	(10,898)	 		(175)	 		(828)	 		(314)	 		(87)	 
+Consumer	(265)	 		(22)	 		— 	 		(19)	 		(5)	 
+Total charge-offs	(11,320)	 		(197)	 		(839)	 		(333)	 		(140)	 
+Recoveries:	 		 		 		 		 
+Real estate:	 		 		 		 		 
+Residential	67 	 		— 	 		— 	 		— 	 		— 	 
+Nonfarm non-residential	— 	 		— 	 		— 	 		— 	 		5 	 
+Commercial	226 	 		41 	 		9 	 		32 	 		57 	 
+Consumer	92 	 		— 	 		— 	 		3 	 		1 	 
+Total recoveries	385 	 		41 	 		9 	 		35 	 		63 	 
+Net charge-offs	(10,935)	 		(156)	 		(830)	 		(298)	 		(77)	 
+Allowance for loan losses at end of period	$	29,834 	 		$	19,255 	 		$	12,808 	 		$	8,524 	 		$	6,772 	 
+Ratio of allowance to end of period loans	0.50 	%		0.75 	%		0.57 	%		0.86 	%		0.83 	%
+Ratio of net charge-offs to average loans	0.19 	%		0.01 	%		0.06 	%		0.03 	%		0.01 	%
+ 
+ 
+(1)Excluding loans held for sale and deferred loan fees.
+We believe the successful execution of our growth strategy through key acquisitions and organic growth is demonstrated by the upward trend in loan balances from December 31, 2015 to December 31, 2019. Loan balances increased from $820.6 million as of December 31, 2015, to $5.9 billion as of December 31, 2019. Our allowance for loan losses has increased alongside the growth in our loan portfolio during the same period primarily due organic loan growth, renewed acquired loans and a $6.1 million charge-off of a commercial loan relationship acquired from Sovereign Bancshares, Inc. during 2019. The acquired commercial loan relationship was a loan to an independent oil and gas exploration company that filed for bankruptcy protection in 2018 and entered into a sales process pursuant to Section 363 of the Bankruptcy Code during the third quarter of 2019. Once an acquired loan undergoes new underwriting and meets the criteria for a new loan, any remaining fair value adjustments are taken into interest income and the loan becomes fully subject to our allowance for loan loss methodology. Net charge-offs represented 0.01% and 0.19% of average loan balances at December 31, 2018 and December 31, 2019, respectively.
+Although we believe that we have established our allowance for loan losses in accordance with accounting principles generally accepted in the United States (“GAAP”) and that the allowance for loan losses was adequate to provide for known and inherent losses in the portfolio at all times shown above, future provisions will be subject to ongoing evaluations of the risks in our loan portfolio. If we experience economic declines or if asset quality deteriorates, material additional provisions could be required.
+54
+
+The following table shows the allocation of the allowance for loan losses among our loan categories and certain other information as of the dates indicated. The allocation of the allowance for loan losses as shown in the table should neither be interpreted as an indication of future charge-offs, nor as an indication that charge-offs in future periods will necessarily occur in these amounts or in the indicated proportions. The total allowance is available to absorb losses from any loan category.
+ 	As of December 31,
+ 	2019		2018		2017		2016		2015
+ 	 		Percent		 		Percent		 		Percent		 		Percent		 		Percent
+ 	Amount		to Total		Amount		to Total		Amount		to Total		Amount		to Total		Amount		to Total
+ 	(Dollars in thousands)
+Real estate:	    		    		    		    		    		    		    		    		    		    
+Construction and land	$	3,822 	 		12.8 	%		$	2,186 	 		11.4 	%		$	1,269 	 		9.9 	%		$	1,346 	 		15.8 	%		$	1,007 	 		14.9 	%
+Farmland	61 	 		0.2 	 		58 	 		0.3 	 		46 	 		0.4 	 		69 	 		0.8 	 		97 	 		1.4 	 
+1 - 4 family residential	1,378 	 		4.6 	 		1,613 	 		8.4 	 		1,192 	 		9.3 	 		999 	 		11.7 	 		1,058 	 		15.6 	 
+Multi-family residential	1,965 	 		6.6 	 		362 	 		1.9 	 		281 	 		2.2 	 		117 	 		1.4 	 		66 	 		1.0 	 
+Commercial Real Estate	10,117 	 		33.9 	 		6,463 	 		33.6 	 		4,410 	 		34.4 	 		3,003 	 		35.2 	 		2,189 	 		32.3 	 
+Total real estate	$	17,343 	 		58.1 	%		$	10,682 	 		55.6 	%		$	7,198 	 		56.2 	%		$	5,534 	 		64.9 	%		$	4,417 	 		65.2 	%
+Commercial	12,369 	 		41.5 	 		8,554 	 		44.3 	 		5,588 	 		43.6 	 		2,955 	 		34.7 	 		2,324 	 		34.3 	 
+Consumer	122 	 		0.4 	 		19 	 		0.1 	 		22 	 		0.2 	 		35 	 		0.4 	 		31 	 		0.5 	 
+Total allowance for loan losses	$	29,834 	 		100 	%		$	19,255 	 		100 	%		$	12,808 	 		100 	%		$	8,524 	 		100 	%		$	6,772 	 		100 	%
+ 
+ 
+
+Equity Securities
+As of December 31, 2019, we held equity securities with a readily determinable fair value of $11.1 million. These equity securities represent investments in a publicly traded Community Reinvestment Act fund and are subject to market pricing volatility, with changes in fair value recorded in earnings.
+The Company held equity securities without a readily determinable fair values and measured at cost of $3.6 million and $2.1 million at December 31, 2019 and 2018, respectively. The Company measures equity securities that do not have readily determinable fair values at cost minus impairment, if any, plus or minus changes resulting from observable price changes in orderly transactions for the identical or a similar investment of the same issuer.
+Investment Securities
+We use our investment securities portfolio to provide a source of liquidity, provide an appropriate return on funds invested, manage interest rate risk, meet collateral requirements and meet regulatory capital requirements. As of December 31, 2019, the carrying amount of investment securities totaled $997.3 million, an increase of $734.6 million, or 279.7%, compared to $262.7 million as of December 31, 2018. The increases in our investment securities in 2019 were primarily due to our acquisition of Green. This increase was partially offset by sales, paydowns and maturities of $700.8 million during the year ended December 31, 2019. Debt securities represented 12.5% and 8.2% of total assets as of December 31, 2019 and 2018, respectively.
+Our investment portfolio consists of investment securities classified as available for sale and held to maturity. As a result, the carrying values of our available for sale investment securities are adjusted for unrealized gain or loss, and any gain or loss is reported on an after-tax basis as a component of other comprehensive income in stockholders’ equity. Our held to maturity investment securities are recorded at their amortized cost. The following table summarizes the amortized cost and estimated fair value of our available for sale investment securities, excluding held-to-maturity investment securities, as of the dates shown:
+
+55
+
+ 	As of December 31, 2019
+ 	 		Gross		Gross		 
+ 	Amortized		Unrealized		Unrealized		 
+ 	Cost		Gains		Losses		Fair Value
+ 	(Dollars in thousands)
+Corporate bonds	$	76,997 	 		$	1,974 	 		$	— 	 		$	78,971 	 
+Municipal securities	74,956 	 		3,724 	 		— 	 		78,680 	 
+Mortgage-backed securities	288,938 	 		9,512 	 		260 	 		298,190 	 
+Collateralized mortgage obligations	431,276 	 		6,465 	 		1,503 	 		436,238 	 
+Asset-backed securities	69,964 	 		2,322 	 		— 	 		72,286 	 
+Total	$	942,131 	 		$	23,997 	 		$	1,763 	 		$	964,365 	 
+ 
+ 
+ 	As of December 31, 2018
+ 	 		Gross		Gross		 
+ 	Amortized		Unrealized		Unrealized		 
+ 	Cost		Gains		Losses		Fair Value
+ 	(Dollars in thousands)
+U.S. government agencies	$	9,096 	 		$	— 	 		$	118 	 		$	8,978 	 
+Corporate bonds	26,518 	 		84 	 		134 	 		26,468 	 
+Municipal securities	40,275 	 		10 	 		338 	 		39,947 	 
+Mortgage-backed securities	97,117 	 		101 	 		2,167 	 		95,051 	 
+Collateralized mortgage obligations	92,906 	 		197 	 		1,344 	 		91,759 	 
+Asset-backed securities	492 	 		— 	 		— 	 		492 	 
+Total	$	266,404 	 		$	392 	 		$	4,101 	 		$	262,695 	 
+ 
+ 
+All of our mortgage-backed securities and collateralized mortgage obligations are issued and/or guaranteed by U.S. government agencies or U.S. government-sponsored entities. We do not hold any Fannie Mae or Freddie Mac preferred stock, corporate equity, collateralized debt obligations, collateralized loan obligations, structured investment vehicles, private label collateralized mortgage obligations, subprime, Alt-A or second lien elements in our investment portfolio. As of December 31, 2019, our investment portfolio did not contain any securities that are directly backed by subprime or Alt-A mortgages.
+Certain investment securities have a fair value less than their historical cost. Management evaluates securities for other-than-temporary impairment on at least a quarterly basis and more frequently when economic of market conditions warrant such an evaluation. Management (i) does not have the intent to sell more than an insignificant amount of investment securities prior to recovery and/or maturity, (ii) believes it is more likely than not that we will not have to sell these securities prior to recovery and/or maturity and (iii) believes that the length of time and extent that fair value has been less than cost is not indicative of recoverability. For those securities in an unrealized loss position, the unrealized losses are largely due to interest rate changes. Management believes any unrealized loss in our securities at December 31, 2019 is temporary and no credit impairment has been realized in our consolidated financial statements. The Company from time to time may dispose of an impaired security in response to asset/liability management decisions, future market movements or business plan changes, or if the net proceeds can be reinvested at a rate of return that is expected to recover the loss within a reasonable period of time. We sold certain securities in January 2019 due to a one-time rebalancing activity and recorded an insignificant loss.
+The following table sets forth the fair value, maturities and approximated weighted average yield based on estimated annual income divided by the average amortized cost of our securities portfolio as of the dates indicated. The contractual maturity of a mortgage-backed security is the date at which the last underlying mortgage matures.
+56
+
+ 	As of December 31, 2019
+ 	 		After One Year		After Five Years		 		 		 		 
+ 	Within		but Within		but Within		 		 		 		 
+ 	One Year		Five Years		Ten Years		After Ten Years		Total
+ 	Amount		Yield		Amount		Yield		Amount		Yield		Amount		Yield		Total		Yield
+ 	(Dollars in thousands) 
+Corporate bonds	$	— 	 		— 	%		$	5,099 	 		3.64 	%		$	73,872 	 		4.93 	%		$	— 	 		— 	%		$	78,971 	 		4.85 	%
+Municipal securities	— 	 		— 	 		— 	 		— 	 		3,735 	 		2.59 	 		97,480 	 		2.97 	 		101,215 	 		2.96 	 
+Mortgage-backed securities	— 	 		— 	 		— 	 		— 	 		70,738 	 		2.99 	 		236,073 	 		2.92 	 		306,811 	 		2.94 	 
+Collateralized mortgage obligations	— 	 		— 	 		57,075 	 		2.83 	 		162,724 	 		2.53 	 		218,247 	 		2.91 	 		438,046 	 		2.76 	 
+Asset-backed securities	— 	 		— 	 		— 	 		— 	 		22,486 	 		3.11 	 		49,800 	 		3.25 	 		72,286 	 		3.21 	 
+Total	$	— 	 		— 	%		$	62,174 	 		2.90 	%		$	333,555 	 		3.20 	%		$	601,600 	 		2.95 	%		$	997,329 	 		3.03 	%
+ 
+ 
+ 	As of December 31, 2018
+ 	 		 		After One Year		After Five Years		 		 		 		 
+ 	Within		but Within		but Within		 		 		 		 
+ 	One Year		Five Years		Ten Years		After Ten Years		Total
+ 	Amount		Yield		Amount		Yield		Amount		Yield		Amount		Yield		Total		Yield
+ 	(Dollars in thousands)
+U.S. government agencies	$	— 	 		— 	%		$	8,708 	 		2.44 	%		$	270 	 		2.06 	%		$	— 	 		— 	%		$	8,978 	 		2.43 	%
+Corporate bonds	— 	 		— 	 		23,552 	 		4.93 	 		2,916 	 		6.00 	 		— 	 		— 	 		26,468 	 		5.05 	 
+Municipal securities	2,965 	 		2.24 	 		2,593 	 		1.92 	 		16,284 	 		2.26 	 		18,105 	 		3.04 	 		39,947 	 		2.59 	 
+Mortgage-backed securities	319 	 		1.19 	 		37,540 	 		2.23 	 		54,042 	 		2.76 	 		3,150 	 		3.16 	 		95,051 	 		2.56 	 
+Collateralized mortgage obligations	69 	 		2.63 	 		75,616 	 		2.68 	 		16,074 	 		3.32 	 		— 	 		— 	 		91,759 	 		2.79 	 
+Asset-backed securities	— 	 		— 	 		492 	 		2.89 	 		— 	 		— 	 		— 	 		— 	 		492 	 		2.89 	 
+Total	$	3,353 	 		2.15 	%		$	148,501 	 		2.11 	%		$	89,586 	 		2.68 	%		$	21,255 	 		3.06 	%		$	262,695 	 		2.38 	%
+ 
+The contractual maturity of mortgage-backed securities, collateralized mortgage obligations and asset-backed securities is not a reliable indicator of their expected life because borrowers have the right to prepay their obligations at any time. Mortgage-backed securities, collateralized mortgage obligations and asset-backed securities are typically issued with stated principal amounts and are backed by pools of mortgage loans and other loans with varying maturities. The term of the underlying mortgages and loans may vary significantly due to the ability of a borrower to prepay amounts outstanding. Monthly pay downs on mortgage-backed securities tend to cause the average life of the securities to be much different than the stated contractual maturity. During a period of increasing interest rates, fixed-rate mortgage-backed securities do not tend to experience heavy prepayments of principal, and consequently, the average life of this security will be lengthened. If interest rates begin to fall, prepayments may increase, thereby shortening the estimated life of these securities. The weighted average life of our investment portfolio was 5.3 years with an estimated effective duration of 4.05 years as of December 31, 2019.  The average yield of the securities portfolio was 3.02% during 2019 compared to 2.67% during 2018.
+As of December 31, 2019 and December 31, 2018, we did not own securities of any one issuer other than U.S. government agency securities, for which aggregate adjusted cost exceeded 10.0% of the consolidated stockholders’ equity as of such respective dates.
+Intangible Assets and Goodwill
+Intangible assets and goodwill as of December 31, 2019 were $72.3 million and $370.8 million, respectively, an increase of $56.4 million and $209.4 million, respectively, compared to December 31, 2018. The increase in intangible assets was primarily due to $65.7 million of core deposit intangibles acquired in the acquisition of Green. The increase in goodwill represents the excess cost over fair value of net assets acquired from Green. For further information, see Note 25 - Business Combinations in the accompanying notes to the condensed consolidated financial statements included in this Report.
+57
+
+December 31, 2019		December 31, 2018
+(Dollars in thousands)
+Intangible assets	$	72,263 	 			$	15,896 	 
+Goodwill	370,840 	 			161,447 	 
+ 
+
+Deposits
+We offer a variety of deposit accounts having a wide range of interest rates and terms, including demand, savings, money market and time accounts. We rely primarily on competitive pricing policies, convenient locations and personalized service to attract and retain these deposits.
+Total deposits as of December 31, 2019 were $5.9 billion, an increase of $3.3 billion, or 124.8%, compared to $2.6 billion as of December 31, 2018, due primarily to increases of $1.0 billion, $0.9 billion and $1.0 billion in money market accounts, noninterest-bearing deposit accounts and certificates of deposit, respectively. Our deposit growth was primarily related to our acquisition of Green and our continued penetration in our primary market areas, the increase in commercial lending relationships for which we also seek deposit balances and increases in our financial institution money market accounts.
+Noninterest-bearing deposits as of December 31, 2019 were $1.6 billion, compared to $626.3 million as of December 31, 2018, an increase of $930.2 million, or 148.5%.
+Money market accounts as of December 31, 2019 were $2.2 billion, compared to $1.1 billion as of December 31, 2018, an increase of $1.0 billion, or 92.4%.
+Average deposits for the year ended December 31, 2019 were $6.1 billion, an increase of $3.6 billion, or 144.3% over the year average of $2.5 billion for the year ended December 31, 2018. The average rate paid on total interest-bearing deposits increased this period from 1.45% for the year ended December 31, 2018 to 1.70% for the year ended December 31, 2019. The increase in the average rate paid on interest-bearing deposits was due to the overall market condition, an increase in the prime rate during 2019, and an increase in time deposits in connection with our acquisition of Green, which typically pay a higher rate.
+The following table presents the daily average balances and weighted average rates paid on deposits for the periods indicated:
+ 	For Year Ended December 31,
+ 	2019		2018
+ 	Average		Average		Average		Average
+ 	Balance		Rate		Balance		Rate
+ 	(Dollars in thousands)
+Interest-bearing demand accounts	$	378,884 	 		0.47 	%		$	152,092 	 		0.21 	%
+Savings accounts	97,710 	 		0.34 	 		37,282 	 		0.13 	 
+Money market accounts	2,171,519 	 		1.76 	 		1,087,812 	 		1.58 	 
+Certificates and other time deposits > $100,000	1,089,368 	 		1.37 	 		313,076 	 		2.83 	 
+Certificates and other time deposits < $100,000	907,722 	 		2.62 	 		294,965 	 		0.30 	 
+Total interest-bearing deposits	4,645,203 	 		1.70 	 		1,885,227 	 		1.45 	 
+Noninterest-bearing demand accounts	1,480,207 	 				621,613 	 		 
+Total deposits	$	6,125,410 	 		1.29 	%		$	2,506,840 	 		1.09 	%
+ 
+Our ratio of average noninterest-bearing deposits to average total deposits was 24.2% and 24.8% for the years ended December 31, 2019 and December 31, 2018, respectively.
+Factors affecting the cost of funding of our interest-bearing assets include the volume of noninterest- and interest-bearing deposits, changes in market interest rates (including increases in fed fund rates) and economic conditions in our target
+58
+
+markets and their impact on interest paid on our deposits, change in deposit mix, as well as the ongoing execution of our balance sheet management strategy. Our cost of funds was 1.29% in 2019 and 1.09% in 2018. Average rates on interest-bearing deposits were 1.70% in 2019 and 1.45% in 2018.
+Borrowings
+We utilize short-term and long-term borrowings to supplement deposits to fund our lending and investment activities, each of which is discussed below.
+Federal Home Loan Bank advances.  The FHLB allows us to borrow on a blanket floating lien status collateralized by certain securities and loans. As of December 31, 2019, 2018 and 2017, total borrowing capacity of $752.7 million, $1.0 billion and $721.6 million, respectively, was available under this arrangement and $677.9 million, $28.0 million and $71.2 million, respectively, was outstanding, with an average interest rate of 1.99% as of December 31, 2019, 1.95% as of December 31, 2018 and 1.04% as of December 31, 2017. Our current FHLB advances mature within fifteen years. We utilize these borrowings to meet liquidity needs and to fund certain fixed rate loans in our portfolio.
+The following table presents our FHLB borrowings at the dates indicated. Other than FHLB borrowings, we had no other short-term borrowings at the dates indicated.
+
+ 	FHLB Advances
+ 	(Dollars in thousands)
+December 31, 2019	 
+Amount outstanding at period end	$	677,870 	 
+Weighted average interest rate at period end	1.48 	%
+Maximum month-end balance during the period	$	752,827 	 
+Average balance outstanding during the period	502,681 	 
+Weighted average interest rate during the period	1.99 	%
+December 31, 2018	
+Amount outstanding at period end	$	28,019 	 
+Weighted average interest rate at period end	2.36 	%
+Maximum month-end balance during the period	$	148,140 	 
+Average balance outstanding during the period	87,366 	 
+Weighted average interest rate during the period	1.95 	%
+ 
+Federal Reserve Bank of Dallas.  The Federal Reserve Bank of Dallas ("FRB") has an available borrower in custody arrangement, which allows us to borrow on a collateralized basis. Certain commercial and consumer loans are pledged under this arrangement. We maintain this borrowing arrangement to meet liquidity needs pursuant to our contingency funding plan. As of December 31, 2019 and 2018, $1.0 billion and $524.0 million, respectively, were available under this arrangement. As of December 31, 2019, approximately $843.9 million in commercial loans were pledged as collateral. As of December 31, 2019 and 2018, no borrowings were outstanding under this arrangement.
+Junior subordinated debentures.  In connection with the acquisition of Fidelity Resource Company during 2011, we assumed $3.1 million in fixed/floating rate junior subordinated debentures underlying common securities and preferred capital securities (the “Parkway Trust Securities”), issued by Parkway National Capital Trust I (“Parkway Trust”), a statutory business trust and acquired wholly-owned subsidiary of Veritex. We became a guarantor and, as such, unconditionally guaranteed payment of accrued and unpaid distributions required to be paid on the Parkway Trust Securities subject to certain exceptions, the redemption price when a capital security is called for redemption and amounts due if the Parkway Trust is liquidated or terminated.
+We own all of the outstanding common securities of the Parkway Trust. The Parkway Trust used the proceeds from the issuance of its Parkway Trust Securities to buy the debentures originally issued by Fidelity Resource Company. These debentures are the Parkway Trust’s only assets and the interest payments from the debentures finance the distributions paid on the Parkway Trust Securities.
+59
+
+The Parkway Trust Securities pay cumulative cash distributions quarterly at a rate per annum equal to the 3-month LIBOR plus 1.85%. So long as no event of default leading to an acceleration event has occurred, we have the right at any time and from time to time during the term of the debenture to defer payments of interest by extending the interest distribution period for up to 20 consecutive quarterly periods. The effective rate as of December 31, 2019 and 2018 was 3.74% and 4.64%, respectively. The Parkway Trust Securities are subject to mandatory redemption in whole or in part, upon repayment of the debentures at the stated maturity in 2036 or their earlier redemption, in each case at a redemption price equal to the aggregate liquidation preference of the Parkway Trust Securities plus any accumulated and unpaid distributions thereon to the date of redemption. Prior redemption is permitted under certain circumstances.
+In connection with the acquisition of Sovereign on August 1, 2017, we assumed $8.6 million in floating rate junior subordinated debentures underlying common securities and preferred capital securities (the “SovDallas Trust Securities”), issued by SovDallas Capital Trust I (“SovDallas Trust”), a statutory business trust and acquired wholly-owned subsidiary of the Company. We became a guarantor and, as such, unconditionally guaranteed payment of accrued and unpaid distributions required to be paid on the SovDallas Trust Securities subject to certain exceptions, the redemption price when a capital security is called for redemption and amounts due if the SovDallas Trust is liquidated or terminated. We also own all of the outstanding common securities of the SovDallas Trust.
+The SovDallas Trust invested the total proceeds from the sale of the SovDallas Trust Securities and the investment in common shares in floating rate junior subordinated debentures originally issued by Sovereign. Interest on the SovDallas Trust Securities is payable quarterly at a rate equal to 3-month LIBOR plus 4.0%. Principal payments are due at maturity in July 2038. The effective rate as of December 31, 2019 was 6.10%. The SovDallas Trust Securities are guaranteed by Veritex and are subject to redemption. We may redeem the debt securities, in whole or in part, at any time at an amount equal to the principal amount of the debt securities being redeemed plus any accrued and unpaid interest.
+In connection with the acquisition of Green on January 1, 2019, we assumed $5,155 in floating rate junior subordinated debentures underlying common securities and preferred capital securities (the “Patriot I Trust Securities”), issued by Patriot I Capital Trust I (“Patriot I Trust”), a statutory business trust and wholly-owned subsidiary of the Company. We became a guarantor and, as such, unconditionally guaranteed payment of accrued and unpaid distributions required to be paid on the Patriot I Trust Securities subject to certain exceptions, the redemption price when a capital security is called for redemption and amounts due if Patriot I Trust is liquidated or terminated. We also owns all of the outstanding common securities of the Patriot I Trust.
+The Patriot I Trust invested the total proceeds from the sale of the Patriot I Trust Securities and the investment in common shares in floating rate junior subordinated debentures originally issued by Green. Interest on the Patriot I Trust Securities is payable quarterly at a rate equal to 3-month LIBOR plus 1.85%. Principal payments are due at maturity in April 2036. The effective rate as of December 31, 2019 was 3.84%. The Patriot I Trust Securities are guaranteed by Veritex and are subject to redemption. We may redeem the debt securities, in whole or in part, at any time at an amount equal to the principal amount of the debt securities being redeemed plus any accrued and unpaid interest.
+In connection with the acquisition of Green on January 1, 2019, we assumed $17,011 in floating rate junior subordinated debentures underlying common securities and preferred capital securities (the “Patriot II Trust Securities”), issued by Patriot II Capital Trust I (“Patriot II Trust”), a statutory business trust and wholly-owned subsidiary of the Company. We became a guarantor and, as such, unconditionally guaranteed payment of accrued and unpaid distributions required to be paid on the Patriot II Trust Securities subject to certain exceptions, the redemption price when a capital security is called for redemption and amounts due if Patriot II Trust is liquidated or terminated. We also owns all of the outstanding common securities of the Patriot II Trust.
+The Patriot II Trust invested the total proceeds from the sale of the Patriot II Trust Securities and the investment in common shares in floating rate junior subordinated debentures originally issued by Sovereign. Interest on the Patriot II Trust Securities is payable quarterly at a rate equal to 3-month LIBOR plus 4.0%. Principal payments are due at maturity in September 2038. The effective rate as of December 31, 2019 was 3.69%. The Patriot II Trust Securities are guaranteed by Veritex and are subject to redemption. We may redeem the debt securities, in whole or in part, at any time at an amount equal to the principal amount of the debt securities being redeemed plus any accrued and unpaid interest.
+The Parkway Trust Securities, SovDallas Trust Securities, Patriot I Trust Securities and Patriot II Trust Securities qualify as Tier 1 capital, subject to regulatory limitations, under guidelines established by the Federal Reserve.
+60
+
+Subordinated notes.  During 2013, we issued subordinated promissory notes in an aggregate principal amount of $5 million (“Notes”) in a private offering. The Notes were issued to certain entities controlled by an affiliate of Veritex and the proceeds were used to support our growth. The Notes are unsecured, with interest payable quarterly at a fixed rate of 6.0% per annum, and unpaid principal and interest on the notes is due at the stated maturity on December 31, 2023. The Notes qualify as Tier 2 Capital, subject to regulatory limitations, under guidelines established by the Federal Reserve. In addition, we may redeem the Notes in whole or in part on any interest payment date that occurs on or after December 23, 2018, subject to approval of the Federal Reserve in compliance with applicable statutes and regulations.
+Under the terms of the Notes, if we have not paid interest on the Notes within 30 days of any interest payment date, or if our classified assets to total tangible capital ratio exceeds 40.0%, then the noteholder that holds the greatest aggregate principal amount of the Notes may appoint one representative to attend meetings of our board of directors as an observer. The board observation rights terminate when such overdue interest is paid or our classified assets to total tangible capital ratio no longer exceeds 40.0%. In addition, the terms of the Notes provide that the noteholders will have the same rights to inspect our books and records provided to holders our common stock under Texas law.
+In connection with the issuance of the Notes, we also issued warrants to purchase 25,000 shares of our common stock, at an exercise price of $11.00 per share, exercisable at any time, in whole or in part, on or prior to December 31, 2023.
+In connection with our acquisition of Green, on January 1, 2019, we assumed $35 million of 8.50% Fixed-to-Floating Rate Subordinated Notes (the “Fixed-to-Floating Notes”) that mature on December 15, 2026. The Fixed-to-Floating Notes, which qualify as Tier 2 capital under the Federal Reserve’s capital guidelines, have an interest rate of 8.50% per annum during the fixed-rate period from date of issuance through December 15, 2021. Interest is payable semi-annually on each June 15 and December 15 through December 15, 2021.
+During the floating rate period from December 15, 2021, but excluding the maturity date or date of earlier redemption, the Fixed-to-Floating Notes will bear interest at a rate per annum equal to three-month LIBOR for the related interest period plus 6.685%, payable quarterly on each March 15, June 15, September 15 and December 15. The Fixed-to-Floating Notes are subordinated in right of payment to all of our senior indebtedness and effectively subordinated to all existing and future debt and all other liabilities of the Bank. We may elect to redeem the Fixed-to-Floating Notes (subject to regulatory approval), in whole or in part, on any early redemption date, which is any interest payment date on or after December 15, 2021 at a redemption price equal to 100% of the principal amount plus any accrued and unpaid interest. We may also redeem (subject to regulatory approval), in whole but not in part, the Fixed-to Floating Notes prior to an early redemption date upon the occurrence of certain events at a redemption price equal to 100% of the principal amount plus any accrued and unpaid interest. Other than on an early redemption date, the Fixed-to-Floating Notes cannot be accelerated except in the event of bankruptcy or the occurrence of certain other events of bankruptcy, insolvency or reorganization.
+On November 8, 2019, the Company issued $75 million in aggregate principal amount of 4.75% Fixed-to-Floating Rate Subordinated Notes ("New Notes"). The New Notes were issued in a private placement transaction to certain qualified institutional buyers and accredited and were registered under the Securities Act effective February 13, 2020. The New Notes were issued under an indenture for Fixed-to-Floating Rate Subordinated Notes dated November 8, 2019, between Veritex Holdings, Inc., as issuer, and UMB Bank, N.A., as trustee. The Company may elect to redeem the New Notes (subject to regulatory approval), in whole or in part, on any early redemption date which is any interest payment date on or after November 15, 2024 at a redemption price equal to 100% of the principal amount plus any accrued and unpaid interest. The New Notes, which qualifies as Tier 2 capital under the Federal Reserve's capital guidelines, have an interest rate of 4.75% per annum during the fixed rate period from date of issuance through November 15, 2024. Interest is payable semi-annually on each May 15 and November 15 through November 15, 2024. The interest rate on the notes will vary beginning November 15, 2024, at a floating rate equal to the secured overnight financing rate, as determined quarterly on the determination date for the applicable interest period, plus 347 basis points.
+61
+
+A summary of pertinent information related to our issues of subordinated notes outstanding at the dates indicated is set forth in the table below:
+
+ 	As of December 31,
+ 	2019		2018
+Junior subordinated debentures(1)
+$	30,023 	 		$	11,702 	 
+Subordinated notes (2)
+115,548 	 		4,989 	 
+Total	$	145,571 	 		$	16,691 	 
+ 
+
+(1) Junior subordinated debentures are net of a discount of $3,845 as of December 31, 2019. There was no discount as of December 31, 2018.
+(2) Subordinated notes are net of a premium of $2,081 and issuance costs of $1,533 as of December 31, 2019, a discount of $11 and $13 as of December 31, 2018 and 2017, respectively, and issuance costs of $30 and $36 as of December 31, 2018 and 2017, respectively.
+
+Branch assets and liabilities held for sale
+
+Upon the closing of the Green acquisition, we acquired branch assets held for sale and assumed branch liabilities held for sale pursuant to a purchase and assumption agreement entered into by Green with Keystone Bank, N.A. ("Keystone") prior the acquisition date, pursuant to which Green had agreed to sell certain assets and deposits associated with one branch in the Austin metropolitan market. On May 10, 2019, we completed the sale of these assets and liabilities to Keystone, resulting in a cash settlement payment of $7,153 from Keystone and the recognition of a loss on the sale of $474 reported in merger and acquisition expense on the condensed consolidated statements of income for the year ended December 31, 2019. The completion of the sale resulted in us exiting the Austin metropolitan market.
+
+There were no branch assets and liabilities held for sale as of December 31, 2019 or 2018. For further information, see Note 1 – Summary of Significant Accounting Policies and Note 26 – Branch Assets and Liabilities Held for Sale in the accompanying Notes to the Consolidated Financial Statements included in Item 8 of this report.
+Liquidity and Capital Resources
+Liquidity
+Liquidity management involves our ability to raise funds to support asset growth and acquisitions or reduce assets to meet deposit withdrawals and other payment obligations, to maintain reserve requirements and otherwise to operate on an ongoing basis and manage unexpected events. For the years ended December 31, 2019, 2018 and 2017, our liquidity needs were primarily met by core deposits, wholesale borrowings, proceeds from the sale of common stock in an underwritten public offering during 2017, security and loan maturities and amortizing investment and loan portfolios. Other sources of funds included brokered deposits, purchased funds from correspondent banks and overnight advances from the FHLB and the FRB. We maintained three lines of credit with commercial banks that provide for extensions of credit with an availability to borrow up to an aggregate amount of $150 million as of December 31, 2019, two lines of credit with commercial banks with an availability to borrow up to an aggregate amount of $75 million as of December 31, 2018 and two lines of credit with commercial banks with an availability to borrow up to an aggregate of $55 million as of December 31, 2017. There were no advances under these lines of credit outstanding as of December 31, 2019, 2018 and 2017.
+
+The following table illustrates, during the periods presented, the mix of our funding sources and the average assets in which those funds are invested as a percentage of our average total assets for the period indicated. Average assets totaled $8.0 billion for the year ended December 31, 2019, $3.1 billion for the year ended December 31, 2018 and $2.0 billion for the year ended December 31, 2017.
+62
+
+ 	For the Years Ended
+ 	December 31,
+ 	2019		2018		2017
+Sources of Funds:	    		    		    
+Deposits:	 		 		 
+Noninterest-bearing	18.6 	%		19.8 	%		21.5 	%
+Interest-bearing	33.3 	 		40.8 	 		44.0 	 
+Certificates and other time deposits	25.1 	 		19.4 	 		14.1 	 
+Advances from FHLB	6.3 	 		2.8 	 		2.6 	 
+Other borrowings	1.1 	 		0.5 	 		0.7 	 
+Other liabilities	0.6 	 		0.4 	 		0.3 	 
+Stockholders’ equity	15.0 	 		16.3 	 		16.8 	 
+Total	100 	%		100 	%		100 	%
+Uses of Funds:			 		 
+Loans	73.6 	%		75.6 	%		72.3 	%
+Securities available for sale	12.3 	 		7.9 	 		8.6 	 
+Interest-bearing deposits in other banks	0.8 	 		— 	 		10.2 	 
+Other noninterest-earning assets	13.3 	 		16.5 	 		8.9 	 
+Total	100 	%		100 	%		100 	%
+Average noninterest-bearing deposits to average deposits	35.9 	%		32.7 	%		27.0 	%
+Average loans to average deposits	96.1 	%		124.7 	%		90.8 	%
+ 
+
+Our primary source of funds is deposits, and our primary use of funds is loans. We do not expect a change in the primary source or use of our funds in the foreseeable future. Our average loans net of allowance for loan loss increased 147.5% for the year ended December 31, 2019 compared to the same period in 2018 and increased 65.4% for the year ended December 31, 2018 compared to the same period in 2017. We invest excess deposits in interest-bearing deposits at other banks, the Federal Reserve or liquid investments securities until these monies are needed to fund loan growth.
+As of December 31, 2019, we had $2.0 billion in outstanding commitments to extend credit and $27.2 million in commitments associated with outstanding standby and commercial letters of credit. As of December 31, 2018, we had $962.4 million in outstanding commitments to extend credit and $5.4 million in commitments associated with outstanding standby and commercial letters of credit. Since commitments associated with letters of credit and commitments to extend credit may expire unused, the total outstanding may not necessarily reflect the actual future cash funding requirements.
+As of December 31, 2019, we had cash and cash equivalents of $251.6 million, compared to $84.4 million at December 31, 2018.
+Analysis of Cash Flows
+ 	For the Years Ended
+ 	December 31,
+ 	2019		2018
+Net cash provided by operating activities	$	103,960 	 		$	50,388 	 
+Net cash used in investing activities	(46,339)	 		(400,010)	 
+Net cash provided by financing activities	109,480 	 		285,027 	 
+Net change in cash and cash equivalents 	 	$	167,101 	 		$	(64,595)	 
+ 
+
+63
+
+Cash Flows Provided by Operating Activities
+For the year ended December 31, 2019, net cash provided by operating activities increased by $53.6 million from $50.4 million to $104.0 million. The increase in cash from operating activities was primarily related to a $51.4 million increase in net income.
+Cash Flows Used in Investing Activities
+For the year ended December 31, 2019, net cash used in investing activities decreased by $353.7 million compared to the same period in 2018. The decrease in cash used in investing activities was primarily attributable to a decrease of $599.8 million in proceeds from maturities, calls, and paydowns on investment securities and a decrease of $193.2 million in net loans held for investment due to payoffs during the year ended December 31, 2019. This decrease was partially offset by $112.7 million of cash received in excess of cash paid for the acquisition of Green and a $526.9 million increase in sales of securities available-for-sale as a result of a repositioning strategy in 2019.
+Cash Flows Provided by Financing Activities
+For the year ended December 31, 2019, net cash provided by financing activities decreased by $175.5 million compared to the same period in 2018. The decrease in cash provided by financing activities was primarily attributable to a $539.9 million decrease in funding from deposits, treasury stock purchases of $94.5 million and cash dividend payments of $26.8 million, offset by a $393.0 million increase in advances from the FHLB.
+For the years ended December 31, 2019 and 2018, the Company had no exposure to future cash requirements associated with known uncertainties or capital expenditures of a material nature.
+Share Repurchases
+On January 28, 2019, our Board of Directors originally authorized a stock buyback program (the "Stock Buyback Program") pursuant to which we could, from time to time, purchase up to $50.0 million of our outstanding common stock in the aggregate. Our Board of Directors authorized increases of $50.0 million in September 2019 and $75.0 million in December 2019, resulting in authorization to purchase an aggregate of up to $175.0 million of shares. Our Board of Directors also authorized an extension of the original expiration date of the Stock Buyback Program from December 31, 2019 to December 31, 2020. The Stock Buyback Program does not obligate us to purchase any shares and may be terminated or amended by our Board of Directors at any time prior to its expiration date. During the year ended December 31, 2019, 3,802,711 shares were repurchased through the Stock Buyback Program and held as treasury stock at an average price of $24.86 per share.
+Capital Resources
+
+Total stockholders’ equity was $1.2 billion as of December 31, 2019, compared to $530.6 million as of December 31, 2018, an increase of $660.2 million, or 124.4%. The increase from December 31, 2018 was primarily the result of the acquisition of Green, as well as $90.7 million in net income.
+For the year ended December 31, 2019, we declared and paid $26.8 million in cash dividends. For the year ended December 31, 2018, we did not declare or pay cash dividends. For the year ended December 31, 2017, we paid cash dividends on preferred stock of $227 thousand which included $185 thousand of accrued dividends in connection with our acquisition of Sovereign. For the year ended December 31, 2019, we purchased 3.8 million shares of our common stock under the Stock Buyback Program. We did not purchase any of our common stock during the years ended December 31, 2018 and 2017.
+Capital management consists of providing equity to support our current and future operations. The Bank regulators view capital levels as important indicators of an institution’s financial soundness. As a general matter, FDIC-insured depository institutions and their holding companies are required to maintain minimum capital relative to the amount and types of assets they hold. We are subject to regulatory capital requirements at the bank holding company and bank levels. See “Item 1. Business—Regulation and Supervision—Prompt Corrective Action” for additional discussion regarding the regulatory capital requirements applicable to us and the Bank. As of December 31, 2019 and 2018, we and the Bank were in compliance with all applicable regulatory capital requirements, and the Bank was classified as “well capitalized” for purposes of the prompt corrective action regulations. As we employ our capital and continue to grow our operations, our regulatory capital levels may decrease depending on our level of earnings. However, we expect to monitor and control our growth in order to remain in compliance with all regulatory capital standards applicable to us.
+64
+
+The following table presents the actual capital amounts and regulatory capital ratios for us and the Bank as of the dates indicated.
+ 	As of December 31,		As of December 31,
+ 	2019		2018
+ 	Amount		Ratio		Amount		Ratio
+ 	(Dollars in thousands)
+Veritex Holdings, Inc.	    		    		    		    
+Total capital (to risk-weighted assets)	$	917,939 	 		13.10 	%		$	394,419 	 		12.98 	%
+Tier 1 capital (to risk-weighted assets)	771,679 	 		11.02 	 		370,175 	 		12.18 	 
+Common equity tier 1 (to risk-weighted assets)	742,675 	 		10.60 	 		358,473 	 		11.80 	 
+Tier 1 capital (to average assets)	771,679 	 		10.17 	 		370,175 	 		12.04 	 
+Veritex Community Bank	 		 		 		 
+Total capital (to risk-weighted assets)	$	870,838 	 		12.44 	%		$	353,640 	 		11.64 	%
+Tier 1 capital (to risk-weighted assets)	840,126 	 		12.00 	 		334,385 	 		11.01 	 
+Common equity tier 1 (to risk-weighted assets)	840,126 	 		12.00 	 		334,385 	 		11.01 	 
+Tier 1 capital (to average assets)	840,126 	 		11.07 	 		334,385 	 		10.87 	 
+ 
+Contractual Obligations
+The following tables summarize our contractual obligations and other commitments to make future payments as of December 31, 2019 and 2018, which consist of our future cash payments associated with our contractual obligations pursuant to our FHLB advances, non-cancelable future operating leases and qualified affordable housing investment. Future payments for FHLB advances will include interest in addition to the principal amount of the advances in the table below that will be paid over future periods. Payments related to leases are based on actual payments specified in underlying contracts. Advances from the FHLB totaled approximately $677.9 million and $28.0 million as of December 31, 2019 and 2018, respectively. As of December 31, 2019, the advances are collateralized by a blanket floating lien on certain securities and loans, had a weighted average rate of 1.48% and mature on various dates during 2020 and 2024.
+In 2017, we began investing in two qualified housing projects. At December 31, 2019 and 2018, the balance of the investment for qualified affordable housing projects was $3.3 million and $3.7 million, respectively. This balance is reflected in other assets on our consolidated balance sheets. The total unfunded commitment related to the investment in a qualified housing project totaled $1.1 million and $2.5 million at December 31, 2019 and 2018, respectively. We expect to fulfill these commitments during the year ending December 31, 2034.
+ 	As of December 31, 2019
+ 	 		More than		3 years or		 		 
+ 	1 year		1 year but less		more but less		5 years		 
+ 	or less		than 3 years		than 5 years		or more		Total
+ 	(Dollars in thousands)
+Non-cancelable future operating leases	$	3,465 	 		$	5,652 	 		$	4,325 	 		$	2,146 	 		$	15,588 	 
+Time deposits	1,323,679 	 		330,857 	 		28,335 	 		7 	 		1,682,878 	 
+Advances from FHLB	75,000 	 		52,870 	 		200,000 	 		350,000 	 		677,870 	 
+Junior subordinated debentures	— 	 		— 	 		— 	 		30,023 	 		30,023 	 
+Subordinated debt	— 	 		— 	 		5,023 	 		110,525 	 		115,548 	 
+Securities sold under agreement to repurchase	— 	 		— 	 		— 	 		2,353 	 		2,353 	 
+Qualified affordable housing agreement	823 	 		140 	 		46 	 		82 	 		1,091 	 
+Total	$	1,402,967 	 		$	389,519 	 		$	237,729 	 		$	495,136 	 		$	2,525,351 	 
+ 
+
+65
+
+ 	As of December 31, 2018
+ 	 		More than		3 years or		 		 
+ 	1 year		1 year but less		more but less		5 years		 
+ 	or less		than 3 years		than 5 years		or more		Total
+ 	(Dollars in thousands)
+Non-cancelable future operating leases	$	1,913 	 		$	2,990 	 		$	2,100 	 		$	1,794 	 		$	8,797 	 
+Time deposits	576,466 	 		100,463 	 		6,055 	 		— 	 		682,984 	 
+Advances from FHLB	25,000 	 		— 	 		3,019 	 		— 	 		28,019 	 
+Junior subordinated debentures	— 	 		— 	 		— 	 		11,702 	 		11,702 	 
+Subordinated debt	— 	 		— 	 		— 	 		4,989 	 		4,989 	 
+Qualified affordable housing agreement	1,303 	 		954 	 		43 	 		145 	 		2,445 	 
+Total	$	604,682 	 		$	104,407 	 		$	11,217 	 		$	18,630 	 		$	738,936 	 
+ 
+
+Off-Balance Sheet Items
+In the normal course of business, we enter into various transactions which, in accordance with GAAP, are not included in our consolidated balance sheets. However, we have has only limited off-balance sheet arrangements that have, or are reasonably likely to have, a current or future material effect on our financial condition, revenues, expenses, results of operations, liquidity, capital expenditures or capital resources. We enter into these transactions to meet the financing needs of our customers. These transactions include commitments to extend credit and standby and commercial letters of credit, which involve, to varying degrees, elements of credit risk and interest rate risk in excess of the amounts recognized in the consolidated balance sheets.
+Our commitments associated with outstanding standby and commercial letters of credit and commitments to extend credit expiring by the period as of the date indicated are summarized below. Since commitments associated with letters of credit and commitments to extend credit may expire unused, the amounts shown do not necessarily reflect the actual future cash funding requirements.
+ 	As of December 31, 2019
+ 	 		More than		3 years or		 		 
+ 	1 year		1 year but less		more but less		5 years		 
+ 	or less		than 3 years		than 5 years		or more		Total
+ 	(Dollars in thousands)
+Standby and commercial letters of credit	$	790,108 	 		$	904,515 	 		$	213,032 	 		$	42,695 	 		$	1,950,350 	 
+Commitments to extend credit	18,181 	 		8,191 	 		524 	 		300 	 		27,196 	 
+Total	$	808,289 	 		$	912,706 	 		$	213,556 	 		$	42,995 	 		$	1,977,546 	 
+ 
+.
+Standby and commercial letters of credit are written conditional commitments that we issue to guarantee the performance of a customer to a third party. In the event the customer does not perform in accordance with the terms of the agreement with the third party, we would be required to fund the commitment. The maximum potential amount of future payments we could be required to make is represented by the contractual amount of the commitment. If the commitment is funded, the customer is obligated to reimburse us for the amount paid under this standby letter of credit.
+Commitments to extend credit are agreements to lend to a customer as long as there is no violation of any condition established in the contract. Commitments generally have fixed expiration dates or other termination clauses and may require payment of a fee. Since many of the commitments are expected to expire without being fully drawn, the total commitment amounts disclosed above do not necessarily represent future cash requirements. Management evaluates each customer’s creditworthiness on a case-by-case basis. The amount of collateral obtained, if considered necessary by us, upon extension of credit, is based on management’s credit evaluation of the borrower.
+66
+
+Impact of Inflation
+Our consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K have been prepared in accordance with GAAP. These require the measurement of financial position and operating results in terms of historical dollars, without considering changes in the relative value of money over time due to inflation or recession.
+Unlike many industrial companies, substantially all of our assets and liabilities are monetary in nature. As a result, interest rates have a more significant impact on our performance than the effects of general levels of inflation. Interest rates may not necessarily move in the same direction or in the same magnitude as the prices of goods and services. However, other operating expenses do reflect general levels of inflation.
+
+Non-GAAP Financial Measures
+Our accounting and reporting policies conform to GAAP and the prevailing practices in the financial services industry. However, we also evaluate our performance by reference to certain additional financial measures discussed in this Annual Report on Form 10-K that we identify as being “non-GAAP financial measures.” In accordance with SEC rules, we classify a financial measure as being a non-GAAP financial measure if that financial measure excludes or includes amounts, or is subject to adjustments that have the effect of excluding or including amounts, that are included or excluded, as the case may be, in the most directly comparable measure calculated and presented in accordance with GAAP as in effect from time to time in the United States in our statements of income, balance sheets or statements of cash flows. Non-GAAP financial measures do not include operating and other statistical measures or ratios or statistical measures calculated using exclusively either financial measures calculated in accordance with GAAP, operating measures or other measures that are not non-GAAP financial measures or both.
+The non-GAAP financial measures that we discuss in this Annual Report on Form 10-K should not be considered in isolation or as a substitute for the most directly comparable or other financial measures calculated in accordance with GAAP. Moreover, the manner in which we calculate the non-GAAP financial measures that we discuss in this Annual Report on Form 10-K may differ from that of other companies reporting measures with similar names. You should understand how such other banking organizations calculate their financial measures similar or with names similar to the non-GAAP financial measures we have discussed in this Annual Report on Form 10-K when comparing such non-GAAP financial measures.
+Tangible Book Value Per Common Share. Tangible book value is a non-GAAP measure generally used by financial analysts and investment bankers to evaluate financial institutions. We calculate: (a) tangible common equity as total stockholders’ equity less goodwill and intangible assets, net of accumulated amortization; and (b) tangible book value per common share as tangible common equity (as described in clause (a)) divided by the number of common shares outstanding at the end of the relevant period. The most directly comparable financial measure calculated in accordance with GAAP is our book value per common share.
+
+We believe that this measure is important to many investors who are interested in changes from period to period in book value per common share exclusive of changes in intangible assets. Goodwill and other intangible assets have the effect of increasing total book value while not increasing our tangible book value.
+
+67
+
+The following table reconciles, as of the dates set forth below, total stockholders’ equity to tangible common equity and presents our tangible book value per common share compared with our book value per common share:
+
+ 		For the Year Ended December 31,
+2019		2018		2017		2016		2015
+(Dollars in thousands, except per share data)	 
+Tangible Common Equity						  	 		  	 		  	 
+Total stockholders' equity		$	1,190,797 	 		$	530,638 	 		$	488,929 	 		$	239,088 	 		$	132,046 	 
+Adjustments:										
+Goodwill		(370,840)	 		(161,447)	 		(159,452)	 		(26,865)	 		(26,865)	 
+Core deposit intangibles		(67,546)	 		(11,675)	 		(14,313)	 		(1,545)	 		(1,942)	 
+Tangible common equity		$	752,411 	 		$	357,516 	 		$	315,164 	 		$	210,678 	 		$	103,239 	 
+Common shares outstanding		51,064 	 		24,254 	 		24,110 	 		15,195 	 		10,712 	 
+Book value per common share		$	23.32 	 		$	21.88 	 		$	20.28 	 		$	15.73 	 		$	12.33 	 
+Tangible book value per common share		$	14.73 	 		$	14.74 	 		$	13.07 	 		$	13.86 	 		$	9.64 	 
+ 
+
+Tangible Common Equity to Tangible Assets. Tangible common equity to tangible assets is a non-GAAP measure generally used by financial analysts and investment bankers to evaluate financial institutions. We calculate: (a) tangible common equity as total stockholders’ equity, less goodwill and intangible assets, net of accumulated amortization; (b) tangible assets as total assets less goodwill and intangible assets, net of accumulated amortization; and (c) tangible common equity to tangible assets as tangible common equity (as described in clause (a)) divided by tangible assets (as described in clause (b)). The most directly comparable financial measure calculated in accordance with GAAP is total stockholders’ equity to total assets.
+
+We believe that this measure is important to many investors who are interested in the relative changes from period to period in common equity and total assets, in each case, exclusive of changes in intangible assets. Goodwill and other intangible assets have the effect of increasing both total stockholders’ equity and assets while not increasing our tangible common equity or tangible assets.
+
+The following table reconciles, as of the dates set forth below, total stockholders’ equity to tangible common equity and total assets to tangible assets and presents our tangible common equity to tangible assets:
+
+ 		For the Year Ended December 31,
+2019		2018		2017		2016		2015
+(Dollars in thousands)	 
+Tangible Common Equity						  	 		  	 		  	 
+Total stockholders' equity		$	1,190,797 	 		$	530,638 	 		$	488,929 	 		$	239,088 	 		$	132,046 	 
+Adjustments:										
+Goodwill		(370,840)	 		(161,447)	 		(159,452)	 		(26,865)	 		(26,865)	 
+Core deposit intangibles		(67,546)	 		(11,675)	 		(14,313)	 		(1,545)	 		(1,942)	 
+Tangible common equity		$	752,411 	 		$	357,516 	 		$	315,164 	 		$	210,678 	 		$	103,239 	 
+Tangible Assets										
+Total assets		$	7,954,937 	 		$	3,208,550 	 		$	2,945,583 	 		$	1,408,507 	 		$	1,039,551 	 
+Adjustments:										
+Goodwill		(370,840)	 		(161,447)	 		(159,452)	 		(26,865)	 		(26,865)	 
+Core deposit intangibles)
+(67,546)	 		(11,675)	 		(14,313)	 		(1,545)	 		(1,942)	 
+Tangible assets		$	7,516,551 	 		$	3,035,428 	 		$	2,771,818 	 		$	1,380,097 	 		$	1,010,744 	 
+Tangible Common Equity to Tangible Assets		10.01 	%		11.78 	%		11.37 	%		15.27 	%		10.21 	%
+ 
+.
+
+68
+
+Critical Accounting Policies
+Our consolidated financial statements are prepared in accordance with GAAP and with general practices within the financial services industry. Application of these principles requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under current circumstances. These assumptions form the basis for our judgments about the carrying values of assets and liabilities that are not readily available from independent, objective sources. We evaluate our estimates on an ongoing basis. Use of alternative assumptions may have resulted in significantly different estimates. Actual results may differ from these estimates.
+We have identified the following accounting policies and estimates that, due to the difficult, subjective or complex judgments and assumptions inherent in those policies and estimates and the potential sensitivity of our financial statements to those judgments and assumptions, are critical to an understanding of our financial condition and results of operations. We believe that the judgments, estimates and assumptions used in the preparation of our financial statements are appropriate.
+Loans and Allowance for Loan Losses
+Management considers the policies related to the allowance for loan losses as the most critical to the financial statement presentation. The total allowance for loan losses includes activity related to allowances calculated in accordance with ASC 310, Receivables, and ASC 450, Contingencies. The allowance for loan losses is established through a provision for loan losses charged to current earnings. The amount maintained in the allowance reflects management’s estimate of incurred losses in the loan portfolio at the report date. The allowance for loan losses is comprised of specific reserves assigned to certain impaired loans and general reserves. Factors contributing to the determination of specific reserves include the creditworthiness of the borrower, and more specifically, changes in the expected future receipt of principal and interest payments and/or in the value of pledged collateral. A reserve is recorded when the carrying amount of the loan exceeds the discounted estimated cash flows using the loan’s initial effective interest rate or the fair value of the collateral for certain collateral dependent loans. For purposes of establishing the general reserve, we stratify the loan portfolio into homogeneous groups of loans that possess similar loss potential characteristics and apply a loss ratio to these groups of loans to estimate the credit losses in the loan portfolio. We use both historical loss ratios and qualitative loss factors assigned to major loan collateral types to establish general component loss allocations. Refer to “Loans and Allowance for Loan Losses” in Note 1 of the Notes to the Consolidated Financial Statements contained in Item 8 of this report for further discussion of the factors considered by management in establishing the allowance for loan loss.
+Business Combinations 
+We apply the acquisition method of accounting for business combinations. Under the acquisition method, the acquiring entity in a business combination recognizes 100% of the assets acquired and liabilities assumed at their acquisition date fair values. We use valuation techniques appropriate for the asset or liability being measured in determining these fair values. Any excess of the purchase price over amounts allocated to assets acquired, including identifiable intangible assets and liabilities assumed, is recorded as goodwill. Where amounts allocated to assets acquired and liabilities assumed is greater than the purchase price, a bargain purchase gain is recognized. Acquisition-related costs are expensed as incurred. 
+Investment Securities
+Securities are classified as held to maturity and carried at amortized cost when we have the positive intent and ability to hold them until maturity. Securities to be held for indefinite periods of time are classified as available for sale and carried at fair value, with the unrealized holding gains and losses reported in other comprehensive income, net of tax. We determine the appropriate classification of securities at the time of purchase.
+Interest income includes amortization of purchase premiums and discounts. Realized gains and losses are derived from the amortized cost of the security sold. Credit related declines in the fair value of held to maturity and available for sale securities below their cost that are deemed to be other than temporary are reflected in earnings as realized losses, with the remaining unrealized loss recognized as a component of other comprehensive income. In estimating other-than-temporary impairment losses, we consider, among other things, (1) the length of time and the extent to which the fair value has been less than cost, (2) the financial condition and near-term prospects of the issuer, and (3) the intent and our ability to retain the investment in the issuer for a period of time sufficient to allow for any anticipated recovery in fair value.
+69
+
+Loans Held for Sale
+Loans are classified as held-for-sale when management has positively determined that the loans will be sold in the foreseeable future and the Company has the intent and ability to do so. The Company’s held-for-sale loans typically consist of certain government guaranteed loans or mortgage loans. The classification may be made upon origination or subsequent to origination or purchase. Once a decision has been made to sell loans not previously classified as held-for-sale, such loans are transferred into the held-for-sale classification and carried at the lower of cost or estimated fair value on an individual loan basis, except for those held-for-sale loans for which the Company elects to use the fair value option. The fair value of loans held-for-sale is based on commitments from investors or prevailing market prices. Net unrealized losses, if any, are recognized through a valuation allowance by charges to income. The Company obtains commitments to purchase the loans from secondary market investors prior to closing of the loans. Loans held for sale are sold with servicing released. Gains and losses on sales of loans held for sale are based on the difference between the selling price and the carrying value of the related loan sold.
+Recent Accounting Pronouncements
+Refer to “Recent Accounting Pronouncements” in Note 3 of the Notes to the Consolidated Financial Statements contained in Item 8 of this report for further discussion.
+
+Special Cautionary Notice Regarding Forward-Looking Statements
+This Annual Report on Form 10-K contains certain “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are based on various facts and derived utilizing assumptions, current expectations, estimates and projections and are subject to known and unknown risks, uncertainties and other factors that may cause actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. Forward-looking statements include, without limitation, statements relating to the expected payment date of our quarterly cash dividend, impact of certain changes in our accounting policies, standards and interpretations, our future financial performance, business and growth strategy, projected plans and objectives, as well as other projections based on macroeconomic and industry trends, which are inherently unreliable due to the multiple factors that impact broader economic and industry trends, and any such variations may be material. Statements preceded by, followed by or that otherwise include the words “believes,” “expects,” “anticipates,” “intends,” “projects,” “estimates,” “plans” and similar expressions or future or conditional verbs such as “will,” “should,” “would,” “may” and “could” are generally forward-looking in nature and not historical facts, although not all forward-looking statements include the foregoing words. You should understand that the following important factors could affect our future results and cause actual results to differ materially from those expressed in the forward-looking statements:
+
+•risks related to the concentration of our business in Texas, and specifically within the Dallas-Fort Worth metroplex and the Houston metropolitan area, including risks associated with any downturn in the real estate sector and risks associated with a decline in the values of single family homes in the Dallas-Fort Worth metroplex and the Houston metropolitan area;
+•uncertain market conditions and economic trends nationally, regionally and particularly in the Dallas-Fort Worth metroplex and Texas;
+•changes in market interest rates that affect the pricing of our loans and deposits and our net interest income;
+•risks related to our strategic focus on lending to small to medium-sized businesses;
+•the sufficiency of the assumptions and estimates we make in establishing reserves for potential loan losses;
+•our ability to implement our growth strategy, including identifying and consummating suitable acquisitions;
+•risks related to the integration of any acquired businesses, including exposure to potential asset quality and credit quality risks and unknown or contingent liabilities, the time and costs associated with integrating systems, technology platforms, procedures and personnel, the need for additional capital to finance such transactions, and possible failures in realizing the anticipated benefits from acquisitions;
+•our ability to recruit and retain successful bankers that meet our expectations in terms of customer relationships and profitability;
+•changes in our accounting policies, standards and interpretations;
+•our ability to retain executive officers and key employees and their customer and community relationships;
+•risks associated with our limited operating history and the relatively unseasoned nature of a significant portion of our loan portfolio;
+•risks associated with our commercial real estate and construction loan portfolios, including the risks inherent in the valuation of the collateral securing such loans;
+•risks associated with our commercial loan portfolio, including the risk of deterioration in value of the general business assets that generally secure such loans;
+70
+
+•potential changes in the prices, values and sales volumes of commercial and residential real estate securing our real estate loans;
+•risks related to the significant amount of credit that we have extended to a limited number of borrowers and in a limited geographic area;
+•our ability to maintain adequate liquidity and to raise necessary capital to fund our acquisition strategy and operations or to meet increased minimum regulatory capital levels;
+•potential fluctuations in the market value and liquidity of our investment securities;
+•the effects of competition from a wide variety of local, regional, national and other providers of financial, investment and insurance services;
+•our ability to maintain an effective system of disclosure controls and procedures and internal controls over financial reporting;
+•risks associated with fraudulent and negligent acts by our customers, employees or vendors;
+•our ability to keep pace with technological change or difficulties when implementing new technologies;
+•risks associated with difficulties and/or terminations with third-party service providers and the services they provide;
+•risks associated with unauthorized access, cyber-crime and other threats to data security;
+•potential impairment on the goodwill we have recorded or may record in connection with business acquisitions;
+•our ability to comply with various governmental and regulatory requirements applicable to financial institutions;
+•the impact of recent and future legislative and regulatory changes, including changes in banking, securities and tax laws and regulations and their application by our regulators, such as the Dodd-Frank Act;
+•uncertainty regarding the future of LIBOR and any replacement alternatives on our business;
+•governmental monetary and fiscal policies, including the policies of the Federal Reserve;
+•our ability to comply with supervisory actions by federal and state banking agencies;
+•changes in the scope and cost of FDIC, insurance and other coverage; and
+•systemic risks associated with the soundness of other financial institutions

@@ -1,0 +1,1386 @@
+Items 7. and 7A.  Management’s Discussion and Analysis of Financial Condition and Results of Operations and Quantitative and Qualitative Disclosures About Market Risk.
+
+In Management’s Discussion and Analysis of Financial Condition and Results of Operations and Quantitative and Qualitative Disclosures About Market Risk (MD&A), “we,” “us” and “our” refer to Freeport-McMoRan Inc. and its consolidated subsidiaries. The results of operations reported and summarized below are not necessarily indicative of future operating results (refer to “Cautionary Statement” below for further discussion). References to “Notes” are Notes included in our Notes to Consolidated Financial Statements. Throughout MD&A, all references to earnings or losses per share are on a diluted basis.
+
+This section of our Form 10-K discusses the results of operations for the years 2022 and 2021 and comparisons between these years. Discussion of the results of operations for the year 2020 and comparisons between the years 2021 and 2020 are not included in this Form 10-K and can be found in Items 7. and 7A. “Management’s Discussion and Analysis of Financial Condition and Results of Operations and Quantitative and Qualitative Disclosures About Market Risk” contained in Part II of our Annual Report on Form 10-K for the fiscal year ended December 31, 2021.
+
+OVERVIEW
+
+We are a leading international mining company with headquarters in Phoenix, Arizona. We operate large, long-lived, geographically diverse assets with significant proven and probable mineral reserves of copper, gold and molybdenum. We are one of the world’s largest publicly traded copper producers. Our portfolio of assets includes the Grasberg minerals district in Indonesia, one of the world’s largest copper and gold deposits; and significant mining operations in North America and South America, including the large-scale Morenci minerals district in Arizona and the Cerro Verde operation in Peru.
+
+Our results for 2022 reflect solid execution of our operating plan, which resulted in strong operating performance and cash flow generation allowing for increased cash returns to shareholders. Our execution led to growth in consolidated copper and gold production and sales volumes when compared to the prior year. Despite lower average realized copper prices, increased production and delivery costs, and economic uncertainty, we continued to generate positive operating income and operating cash flows. We believe the actions we have taken in recent years to build a solid balance sheet, successfully expand low-cost operations, and maintain flexible organic growth options while maintaining liquidity allow us to continue to execute our business plans in a prudent manner and preserve substantial future asset values.
+75
+Table of Contents
+Net income attributable to common stock totaled $3.5 billion in 2022 and $4.3 billion in 2021. Our results in 2022, compared to 2021, primarily reflect lower average realized copper prices and increased costs for energy, sulfuric acid, and maintenance and supplies, partly offset by higher copper and gold sales volumes. Refer to “Consolidated Results” for discussion of items impacting our consolidated results for the two years ended December 31, 2022.
+
+At December 31, 2022, we had consolidated debt of $10.6 billion and consolidated cash and cash equivalents of $8.1 billion, resulting in net debt of $2.5 billion ($1.3 billion excluding net debt for the greenfield smelter and precious metals refinery (PMR) in Indonesia - collectively, the Indonesia smelter projects). Refer to “Net Debt” for reconciliations of consolidated debt and consolidated cash and cash equivalents to net debt.
+
+During 2022, we purchased approximately $1.1 billion aggregate principal amount of our senior notes in open-market transactions for a total cost of $1.0 billion, resulting in annual cash interest savings of approximately $50 million. In October 2022, we entered into a $3.0 billion revolving credit facility that matures in October 2027 and replaced our prior revolving credit facility. At December 31, 2022, we had no borrowings and $3.0 billion available under our revolving credit facility, and PT Freeport Indonesia (PT-FI) and Cerro Verde had $1.3 billion and $350 million, respectively, of availability under their revolving credit facilities. Refer to Note 8 and “Capital Resources and Liquidity” for further discussion.
+
+During 2022, we acquired 35.1 million shares of our common stock under our share repurchase program for a total cost of $1.3 billion ($38.36 average cost per share) and declared cash dividends totaling $0.60 per share on our common stock (which included both base and variable, performance-based cash dividends). Approximately $3.2 billion remains available under our $5.0 billion share repurchase program. Refer to Note 10 and “Capital Resources and Liquidity” for further discussion.
+
+We have significant mineral reserves, mineral resources and future development opportunities within our portfolio of mining assets. At December 31, 2022, our estimated consolidated recoverable proven and probable mineral reserves totaled 111.0 billion pounds of copper, 26.9 million ounces of gold and 3.53 billion pounds of molybdenum. Refer to Note 17 and “Critical Accounting Estimates - Mineral Reserves” for further discussion.
+
+During 2022, production from our mines totaled 4.2 billion pounds of copper, 1.8 million ounces of gold and 85 million pounds of molybdenum. Following is the allocation of our consolidated copper, gold and molybdenum production in 2022 by geographic location:
+Copper		Gold		Molybdenum	
+North America	35 	%		1 	%		73 	%	
+a
+South America	28 			— 			27 		
+Indonesia	37 			99 			— 		
+100 	%		100 	%		100 	%	
+ 
+a.Our North America copper mines produced 34% of consolidated molybdenum production, and our Henderson and Climax molybdenum mines produced 39%.
+Copper production from the Morenci mine in North America, Cerro Verde mine in Peru and the Grasberg minerals district in Indonesia together totaled 75% of our consolidated copper production in 2022.
+
+OUTLOOK
+
+Our financial results vary as a result of fluctuations in market prices primarily for copper, gold and, to a lesser extent, molybdenum, as well as other factors. World market prices for these commodities have fluctuated historically and are affected by numerous factors beyond our control. Beginning in 2020, with the onset of the COVID-19 pandemic, and continuing in 2022 because of a series of macro-economic factors, there has been significant volatility in the financial and commodities markets, including the copper market. Market sentiment improved beginning in late 2022 and we believe the outlook for copper fundamentals in the medium- and long-term are favorable. Refer to “Markets” and Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further discussion. Because we cannot control the price of our products, the key measures that management focuses on in operating our business are sales volumes, unit net cash costs, operating cash flows and capital expenditures. In addition, to the measures noted below and as further discussed in Note 3, beginning January 1, 2023, our economic interest in PT-FI changes from approximately 81% to 48.76%, and accordingly, net income attributable to noncontrolling interests is expected to increase in 2023.
+
+76
+Table of Contents
+Sales Volumes  
+Following are our projected consolidated sales volumes for 2023 and actual consolidated sales volumes for 2022:
+2023		2022	
+(Projected)		(Actual)	
+Copper (millions of recoverable pounds):
+ 	 	 	
+North America copper mines	1,460 		 	1,469 		
+South America mining	1,200 		 	1,162 		
+Indonesia mining	1,500 		 	1,582 		
+Total	4,160 			4,213 		
+ 	 	 	
+Gold (thousands of recoverable ounces)
+1,700 		 	1,823 		
+Molybdenum (millions of recoverable pounds)
+80 		
+a
+75 		
+ 
+a.Includes 50 million pounds from our North America and South America copper mines and 30 million pounds from our Molybdenum mines.
+
+Projected sales volumes are dependent on operational performance, weather-related conditions, timing of shipments, PT-FI’s continued ability to export copper concentrate, including the extension of PT-FI’s export license after March 19, 2023, PT Smelting and PT-FI’s continued ability to export anode slimes and other factors.
+
+Since February 11, 2023, PT-FI’s operations have been temporarily disrupted because of significant rainfall and landslides, which restricted access to infrastructure near its milling operations. Recovery activities are in progress to clear debris from the affected areas and PT-FI is in the process of gradually resuming operations. Operations are expected to be fully restored by the end of February 2023.
+
+As a result of this disruption, we expect our first-quarter 2023 sales volumes to be lower than previously expected. If PT-FI is not able to resume operations as currently expected or on our anticipated timeline, our results of operations may be further impacted.
+
+For further discussion of the February 2023 weather event at PT-FI’s operations and other important factors that could cause results to differ materially from projections, refer to “Cautionary Statement” below and Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022.
+
+Consolidated Unit Net Cash Costs
+Our operations have been impacted by inflationary cost pressures, including increased costs for energy, sulfuric acid, and maintenance and supplies. Historically, copper prices have been correlated to various input costs, including energy and other commodity-related consumables. During 2022, prices for a number of commodity-related consumables increased at a time when copper prices declined. While prices for a number of commodity-related consumables have retreated from the highs of 2022, most cost elements remain high relative to long-term correlations. In addition, labor constraints, particularly in the U.S., continue to limit production levels. We plan to continue to carefully manage costs and drive efficiencies to mitigate cost increases.
+
+Assuming average prices of $1,900 per ounce of gold and $20.00 per pound of molybdenum and achievement of current sales volume and cost estimates, consolidated unit net cash costs (net of by-product credits) for our copper mines are expected to average $1.60 per pound of copper in 2023. The impact of price changes on 2023 consolidated unit net cash costs would approximate $0.04 per pound of copper for each $100 per ounce change in the average price of gold and $0.02 per pound of copper for each $2 per pound change in the average price of molybdenum. Quarterly unit net cash costs vary with fluctuations in sales volumes and realized prices, primarily for gold and molybdenum.
+
+Consolidated Operating Cash Flows
+Our consolidated operating cash flows vary with sales volumes; prices realized from copper, gold and molybdenum sales; production costs; income taxes; other working capital changes; and other factors. Based on current sales volume and cost estimates, and assuming average prices of $4.00 per pound of copper, $1,900 per ounce of gold and $20.00 per pound of molybdenum, our consolidated operating cash flows are estimated to approximate $7.2 billion (including $0.1 billion of working capital and other sources) for the year 2023. Estimated consolidated operating cash flows in 2023 also reflect a projected income tax provision of $2.5 billion (refer to “Consolidated Results - Income Taxes” for further discussion of our projected income tax rate, including potential impacts of the provisions of the U.S. Inflation Reduction Act of 2022 (the Act), for the year 2023). The impact of price changes
+77
+Table of Contents
+during 2023 on operating cash flows would approximate $440 million for each $0.10 per pound change in the average price of copper, $170 million for each $100 per ounce change in the average price of gold and $120 million for each $2 per pound change in the average price of molybdenum.
+
+Consolidated Capital Expenditures
+Capital expenditures for the year 2023 are expected to approximate $5.2 billion (including $2.3 billion for major mining projects and $1.8 billion for the Indonesia smelter projects). Projected capital expenditures for major mining projects include $1.3 billion for planned projects primarily associated with underground mine development in the Grasberg minerals district and supporting mill and power capital costs and $1.0 billion for discretionary growth projects (primarily for development of Kucing Liar, a mill recovery project with the installation of a new copper cleaner circuit at PT-FI, an electronic material recycle project at Atlantic Copper and an expansion project at Lone Star). We closely monitor market conditions and will continue to adjust our operating plans, including capital expenditures, to protect our liquidity and preserve our asset values, as necessary.
+
+Capital expenditures for the Indonesia smelter projects are being funded with proceeds from PT-FI's senior notes and its available revolving credit facility. Construction of the additional domestic smelter capacity will result in the elimination of export duties, providing an offset to the economic cost associated with the Indonesia smelter projects.
+
+Noncontrolling Interests
+Net income attributable to noncontrolling interests is primarily associated with PT-FI, Cerro Verde and El Abra and totaled $1.0 billion for the year 2022 (which represented 15% of our consolidated income before income taxes). As further described in Note 3, in December 2018, we completed the transaction with the Indonesia government regarding PT-FI’s long-term mining rights and share ownership (the 2018 Transaction). The arrangements related to the 2018 Transaction provided for us and the other pre-transaction PT-FI shareholders to initially retain the economics of the revenue and cost sharing arrangements under the former unincorporated joint venture with Rio Tinto plc (Rio Tinto). As a result, our economic interest in PT-FI approximated 81% through 2022, and beginning January 1, 2023, is 48.76% (refer to Note 3 for further discussion of attribution of PT-FI net income). Therefore, beginning in 2023, net income attributable to noncontrolling interests will reflect the noncontrolling parties' 51.24% share of PT-FI net income. Based on current sales volume and cost estimates and assuming average prices of $4.00 per pound of copper, $1,900 per ounce of gold and $20.00 per pound of molybdenum and taking into account the change in our economic interest in PT-FI, net income attributable to noncontrolling interests is estimated to approximate $2.3 billion for the year 2023 (which would represent 29% of our consolidated income before income taxes). The actual amount will depend on many factors, including relative performance of each business segment, commodity prices, costs and other factors.
+
+MARKETS
+
+World prices for copper, gold and molybdenum can fluctuate significantly. During the period from January 2013 through December 2022, the London Metal Exchange (LME) copper settlement price varied from a low of $1.96 per pound in 2016 to a record high of $4.87 per pound in 2022; the London Bullion Market Association (London) PM gold price fluctuated from a low of $1,049 per ounce in 2015 to a record high of $2,067 per ounce in 2020, and the Platts Metals Daily Molybdenum Dealer Oxide weekly average price ranged from a low of $4.46 per pound in 2015 to a high of $31.37 per pound in 2022. Copper, gold and molybdenum prices are affected by numerous factors beyond our control as described further in Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022.
+78
+Table of Contents
+fcx-20221231_g16.jpg
+This graph presents LME copper settlement prices and the combined reported stocks of copper at the LME, Commodity Exchange Inc., and the Shanghai Futures Exchange from January 2013 through December 2022. For the year 2022, the LME copper settlement prices ranged from a high of $4.87 per pound in March (record high) to a low for the year of $3.18 per pound in July, closed at $3.80 per pound on December 30, 2022, and averaged $3.99 per pound for the year. Current physical market conditions are strong as evidenced by low levels of global exchange stocks, and our global customer base reports continued healthy demand for copper. Improved market sentiment beginning in late 2022 was associated with prospects for improved demand from China, rising demand from global decarbonization initiatives, supply constraints, United States (U.S.) dollar exchange rates and low inventories. Despite near-term uncertainties in the global economy and potential volatility in the copper market, we believe the outlook for copper fundamentals in the medium- and long-term are favorable, with third-party studies indicating that demand for copper may double in 15 years as a result of global decarbonization trends. We believe substantial new mine supply development will be required to meet the goals of the global energy transition, and higher copper prices will be required to support new mine supply development. The LME copper settlement price was $4.12 per pound on January 31, 2023.
+
+We believe long-term fundamentals for copper are favorable and that future demand will be supported by copper’s role in the global transition to renewable power, electric vehicles and other carbon-reduction initiatives, and continued urbanization in developing countries. The small number of approved, large-scale projects beyond those that have been announced, the long lead times required to permit and build new mines and declining ore grades at existing operations continue to highlight the fundamental supply challenges for copper.
+
+
+79
+Table of Contents
+fcx-20221231_g17.jpg
+
+
+This graph presents London PM gold prices from January 2013 through December 2022. For the year 2022, London PM gold prices ranged from a low of $1,629 per ounce in November to a high of $2,039 per ounce in March, averaged $1,800 per ounce and closed at $1,814 per ounce on December 29, 2022. Gold prices were positively impacted at the end of 2022, by market views that the strength of the U.S. dollar will not be sustained. The London PM gold price was $1,924 per ounce on January 31, 2023.
+
+80
+Table of Contents
+fcx-20221231_g18.jpg
+This graph presents the Platts Metals Daily Molybdenum Dealer Oxide weekly average price from January 2013 through December 2022. For the year 2022, the weekly average price for molybdenum ranged from a low of $14.10 per pound in August to a high of $31.37 per pound in December, averaged $18.82 per pound and was $31.37 per pound on December 30, 2022. Higher molybdenum prices at the end of 2022 reflect tight supply and steady demand. The Platts Metals Daily Molybdenum Dealer Oxide weekly average price was $36.75 per pound on January 31, 2023.
+
+CRITICAL ACCOUNTING ESTIMATES
+
+MD&A is based on our consolidated financial statements, which have been prepared in conformity with generally accepted accounting principles (GAAP) in the U.S. The preparation of these statements requires that we make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses. We base these estimates on historical experience and on assumptions that we consider reasonable under the circumstances; however, reported results could differ from those based on the current estimates under different assumptions or conditions. The areas requiring the use of management’s estimates are also discussed in Note 1 under the subheading “Use of Estimates.” Management has reviewed the following discussion of its development and selection of critical accounting estimates with the Audit Committee of our Board of Directors (the Board).
+
+Taxes
+Refer to Note 11 and Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further discussion of our consolidated income taxes.
+
+In preparing our consolidated financial statements, we estimate the actual amount of income taxes currently payable or receivable as well as deferred income tax assets and liabilities attributable to temporary differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred income tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which these temporary differences are expected to be recovered or settled. The effect on deferred income tax assets and liabilities of a change in tax rates or laws is recognized in income in the period in which such changes are enacted.
+
+81
+Table of Contents
+Our operations are in multiple jurisdictions where uncertainties arise in the application of complex tax regulations. Some of these tax regimes are defined by contractual agreements with the local government, while others are defined by general tax laws and regulations. We and our subsidiaries are subject to reviews of our income tax filings and other tax payments, and disputes can arise with the taxing authorities over the interpretation of our contracts or laws. Refer to Note 11 for net charges recorded for historical contested tax matters in Indonesia.
+
+In August 2022, the Act was signed into law, which had no impact on our 2022 financial results. The provisions of the Act are applicable to us beginning January 1, 2023. Additional guidance related to how the Corporate Alternative Minimum Tax (CAMT) provisions of the Act will be applied or otherwise administered is yet to be released by the U.S. Department of the Treasury, and may differ from our interpretations. We will continue to analyze the impacts as additional guidance is available. We expect the CAMT provisions will impact our U.S. tax position, and may further limit our ability to benefit from our U.S. net operating losses (NOLs). Refer to “Consolidated Results” for further discussion of the Act.
+
+We operate in the U.S. and multiple international tax jurisdictions, and our income tax returns are subject to examination by tax authorities in those jurisdictions who may challenge any tax position on these returns. Uncertainty in a tax position may arise because tax laws are subject to interpretation. We use significant judgment to (1) determine whether, based on the technical merits, a tax position is more likely than not to be sustained and (2) measure the amount of tax benefit that qualifies for recognition.
+
+We have uncertain tax positions related to income tax assessments in Indonesia and Peru, including penalties and interest, which have not been recorded at December 31, 2022. Final taxes paid may be dependent upon many factors, including negotiations with taxing authorities. In certain jurisdictions, we pay a portion of the disputed amount before formally appealing an assessment. Such payment is recorded as a receivable if we believe the amount is collectible. Refer to Note 12 for further discussion.
+
+A valuation allowance is provided for those deferred income tax assets for which the weight of available evidence suggests that the related benefits will not be realized. In determining the amount of the valuation allowance, we consider estimated future taxable income or loss as well as feasible tax planning strategies in each jurisdiction. If we determine that we will not realize all or a portion of our deferred income tax assets, we will increase our valuation allowance. Conversely, if we determine that we will ultimately be able to realize all or a portion of the related benefits for which a valuation allowance has been provided, all or a portion of the related valuation allowance will be reduced. Our valuation allowances totaled $4.0 billion at December 31, 2022, which covered all of our U.S. foreign tax credits and U.S. federal NOLs, substantially all of our U.S. state NOLs, as well as a portion of our U.S. federal, state and foreign deferred tax assets and foreign NOLs. During 2022, valuation allowances decreased by $102 million.
+
+Environmental Obligations
+Refer to Notes 1 and 12, and Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further discussion of environmental obligations, including a summary of changes in our estimated environmental obligations for the three years ended December 31, 2022.
+
+Our current and historical operating activities are subject to various national, state and local environmental laws and regulations that govern the protection of the environment, and compliance with those laws requires significant expenditures. Environmental expenditures are charged to expense or capitalized, depending upon their future economic benefits. The guidance provided by U.S. GAAP requires that liabilities for contingencies be recorded when it is probable that obligations have been incurred, and the cost can be reasonably estimated. At December 31, 2022, environmental obligations recorded in our consolidated balance sheet totaled $1.7 billion, which reflect obligations for environmental liabilities attributed to the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (CERCLA) or analogous state programs and for estimated future costs associated with environmental matters.
+
+Accounting for environmental obligations represents a critical accounting estimate because (i) changes to environmental laws and regulations and/or circumstances affecting our operations could result in significant changes to our estimates, which could have a significant impact on our results of operations, (ii) we will not incur most of these costs for a number of years, requiring us to make estimates over a long period, (iii) calculating the discounted cash flows for certain of our environmental obligations requires management to estimate the amounts and timing of projected cash flows and make long-term assumptions about inflation rates and (iv) changes in
+82
+Table of Contents
+estimates used in determining our environmental obligations could have a significant impact on our results of operations.
+
+We perform a comprehensive annual review of our environmental obligations and also review changes in facts and circumstances associated with these obligations at least quarterly. Judgments and estimates are based upon currently available facts, existing technology, presently enacted laws and regulations, remediation experience, whether or not we are a potentially responsible party (PRP), the ability of other PRPs to pay their allocated portions and take into consideration reasonably possible outcomes. Our cost estimates can change substantially as additional information becomes available regarding the nature or extent of site contamination, updated cost assumptions (including increases and decreases to cost estimates), changes in the anticipated scope and timing of remediation activities, the settlement of environmental matters, required remediation methods and actions by or against governmental agencies or private parties.
+
+Asset Retirement Obligations
+Refer to Notes 1 and 12, and Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further discussion of reclamation and closure costs, including a summary of changes in our asset retirement obligations (AROs) for the three years ended December 31, 2022.
+
+We record the fair value of our estimated AROs associated with tangible long-lived assets in the period incurred. Fair value is measured as the present value of cash flow estimates after considering inflation and a market risk premium. Our cost estimates are reflected on a third-party cost basis and comply with our legal obligation to retire tangible long-lived assets in the period incurred. These cost estimates may differ from financial assurance cost estimates for reclamation activities because of a variety of factors, including obtaining updated cost estimates for reclamation activities, the timing of reclamation activities, changes in scope and the exclusion of certain costs not considered reclamation and closure costs. At December 31, 2022, AROs recorded in our consolidated balance sheet totaled $3.0 billion.
+
+Generally, ARO activities are specified by regulations or in permits issued by the relevant governing authority, and management’s judgment is required to estimate the extent and timing of expenditures. Accounting for AROs represents a critical accounting estimate because (i) we will not incur most of these costs for a number of years, requiring us to make estimates over a long period, (ii) reclamation and closure laws and regulations could change in the future and/or circumstances affecting our operations could change, either of which could result in significant changes to our current plans, (iii) our implementation of the Global Industry Standard on Tailings Management, which could result in changes to our plans and the scope of work required (iv) the methods used or required to plug and abandon non-producing oil and gas wellbores, remove platforms, tanks, production equipment and flow lines, and restore the wellsite could change, (v) calculating the fair value of our AROs requires management to estimate projected cash flows, make long-term assumptions about inflation rates, determine our credit-adjusted, risk-free interest rates and determine market risk premiums that are appropriate for our operations and (vi) given the magnitude of our estimated reclamation, mine closure and wellsite abandonment and restoration costs, changes in any or all of these estimates could have a significant impact on our results of operations.
+
+Mineral Reserves
+Refer to Note 17, Items 1. and 2. “Business and Properties” and Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further information regarding, and risks associated with, our estimated recoverable proven and probable mineral reserves.
+
+Recoverable proven and probable mineral reserves were determined from the application of relevant modifying factors to geological data, in order to establish an operational, economically viable mine plan and have been prepared in accordance with the disclosure requirements of Subpart 1300 of Securities and Exchange Commission (SEC) Regulation S-K. The determination of mineral reserves involves numerous uncertainties with respect to the ultimate geology of the ore bodies, including quantities, grades and recoveries. Estimating the quantity and grade of mineral reserves requires us to determine the size, shape and depth of our ore bodies by analyzing geological data, such as samplings of drill holes, tunnels and other underground workings. In addition to the geology of our mines, assumptions are required to determine the economic feasibility of mining these reserves, including estimates of future commodity prices and demand, the mining methods we use and the related costs incurred to develop and mine our mineral reserves. Our estimates of recoverable proven and probable mineral reserves are prepared by and are the responsibility of our employees. These estimates are reviewed and verified regularly by independent experts in mining, geology and reserve determination.
+83
+Table of Contents
+Our consolidated estimated recoverable proven and probable mineral reserves shown below were assessed using long-term price assumptions of $3.00 per pound of copper, $1,500 per ounce of gold and $12 per pound of molybdenum at December 31, 2022, compared with long-term price assumptions of $2.50 per pound of copper, $1,200 per ounce of gold and $10 per pound of molybdenum at December 31, 2021. The following table summarizes changes in our estimated consolidated recoverable proven and probable copper, gold and molybdenum mineral reserves during 2022:
+Coppera
+(billion
+pounds)
+Gold
+(million
+ounces)
+Molybdenum
+(billion
+pounds)
+Consolidated reserves at December 31, 2021		107.2 			27.1 			3.39 		
+Net revisions		8.1 		
+b
+1.6 			0.23 		
+Production		(4.2)			(1.8)			(0.08)		
+Consolidated reserves at December 31, 2022		111.0 			26.9 			3.53 		
+ 
+Note: Totals may not foot because of rounding.
+a.Includes estimated recoverable metals contained in stockpiles. See below for additional discussion of recoverable copper in stockpiles.
+b.Primarily reflects the impact of a higher long-term price assumption for copper at December 31, 2022, compared with December 31, 2021.
+
+As discussed in Note 1, we depreciate our life-of-mine mining and milling assets and values assigned to proven and probable mineral reserves using the unit-of-production (UOP) method based on our estimated recoverable proven and probable mineral reserves. Because the economic assumptions used to estimate mineral reserves may change from period to period and additional geological data is generated during the course of operations, estimates of mineral reserves may change, which could have a significant impact on our results of operations, including changes to prospective depreciation rates and impairments of long-lived asset carrying values. Based on projected copper sales volumes, if estimated copper reserves at our mines were 10% higher at December 31, 2022, we estimate that our annual depreciation, depletion and amortization (DD&A) expense for 2023 would decrease by approximately $106 million (approximately $39 million to net income attributable to common stock), and a 10% decrease in copper reserves would increase DD&A expense by approximately $130 million (approximately $47 million to net income attributable to common stock). We perform annual assessments of our existing assets in connection with the review of mine operating and development plans. If it is determined that assigned asset lives do not reflect the expected remaining period of benefit, any change could affect prospective DD&A rates.
+
+As discussed below and in Note 1, we review and evaluate our long-lived assets for impairment when events or changes in circumstances indicate that the related carrying amount of such assets may not be recoverable, and changes to our estimates of recoverable proven and probable mineral reserves could have an impact on our assessment of asset recoverability.
+
+Recoverable Copper in Stockpiles
+Refer to Note 1 for further discussion of our accounting policy for recoverable copper in stockpiles and to Note 4 and “Consolidated Results” for discussion of adjustments to stockpile inventory volumes.
+
+We record, as inventory, applicable costs for copper contained in mill and leach stockpiles that are expected to be processed in the future based on proven processing technologies. Mill and leach stockpiles are evaluated periodically to ensure that they are stated at the lower of weighted-average cost or net realizable value (NRV).
+
+Accounting for recoverable copper from mill and leach stockpiles represents a critical accounting estimate because (i) it is impracticable to determine copper contained in mill and leach stockpiles by physical count, thus requiring management to employ reasonable estimation methods and (ii) recoveries from leach stockpiles can vary significantly.
+
+At December 31, 2022, estimated consolidated recoverable copper was 1.8 billion pounds in leach stockpiles (with a carrying value of $2.2 billion) and 0.3 billion pounds in mill stockpiles (with a carrying value of $0.4 billion).
+
+
+84
+Table of Contents
+Impairment of Long-Lived Assets
+As discussed in Note 1, we assess the carrying values of our long-lived mining assets when events or changes in circumstances indicate that the related carrying amounts of such assets may not be recoverable. In evaluating our long-lived mining assets for recoverability, we use estimates of pre-tax undiscounted future cash flows of our mines.
+
+Estimates of future cash flows are derived from current business plans, which are developed using near-term metal price forecasts reflective of the current price environment and management’s projections for long-term average metal prices. In addition to near- and long-term metal price assumptions, other key assumptions include estimates of commodity-based and other input costs; proven and probable mineral reserves estimates, including the timing and cost to develop and produce the mineral reserves; value beyond proven and probable mineral reserve estimates; and the use of appropriate discount rates in the measurement of fair value. We believe our estimates and models used to determine fair value are similar to what a market participant would use. As quoted market prices are unavailable for our individual mining operations, fair value is determined through the use of after-tax discounted estimated future cash flows.
+
+During the two-year period ended December 31, 2022, no material impairments of our long-lived mining assets were recorded.
+
+In addition to decreases in future metal price assumptions, other events that could result in future impairment of our long-lived mining assets include, but are not limited to, decreases in estimated recoverable proven and probable mineral reserves and any event that might otherwise have a material adverse effect on mine site production levels or costs. Refer to Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022.
+
+CONSOLIDATED RESULTS
+ 	Years Ended December 31,	
+ 	2022	 	2021	 
+SUMMARY FINANCIAL DATA	
+ (in millions, except per share amounts)
+Revenuesa,b
+$	22,780 			$	22,845 		
+Operating incomea
+$	7,037 		
+
+$	8,366 		
+
+Net income attributable to common stockc
+$	3,468 		
+d
+$	4,306 		
+e
+Diluted net income per share attributable to common stock	$	2.39 			$	2.90 		
+Diluted weighted-average common shares outstanding	1,451 		 	1,482 		 
+Operating cash flowsf
+$	5,139 			$	7,715 		
+Capital expenditures	$	3,469 			$	2,115 		
+At December 31:				
+Cash and cash equivalents	$	8,146 			$	8,068 		
+Total debt, including current portion	$	10,620 			$	9,450 		
+ 
+a.Refer to Note 16 for a summary of revenues and operating income by operating division.
+b.Includes favorable adjustments to prior period provisionally priced concentrate and cathode copper sales totaling $60 million ($25 million to net income attributable to common stock or $0.02 per share) in 2022 and $169 million ($65 million to net income attributable to common stock or $0.04 per share) in 2021 (refer to Note 14).
+c.We defer recognizing profits on intercompany sales until final sales to third parties occur. Refer to “Operations - Smelting & Refining” for a summary of net impacts from changes in these deferrals.
+d.Includes net charges totaling $74 million ($0.05 per share) primarily associated with an ARO adjustment at PT-FI, a proposed settlement related to legacy environmental litigation and metals inventory adjustments, partly offset by net favorable adjustments to historical tax matters and net gains on early extinguishment of debt.
+e.Includes net charges totaling $331 million ($0.22 per share), primarily associated with net adjustments to AROs mostly at PT-FI, historical contested tax matters at PT-FI (including historical tax audits and an administrative fine levied by the Indonesia government) and nonrecurring labor-related costs for labor agreements at Cerro Verde, partly offset by the release of a valuation allowance on NOLs at PT-FI’s subsidiary, a gain on the sale of Freeport Cobalt, refunds of Arizona transaction privilege taxes related to purchased electricity and favorable adjustments to prior-years’ profit sharing at Cerro Verde.
+f.Working capital and other (uses) sources totaled $(1.5) billion in 2022 and $755 million in 2021.
+85
+Table of Contents
+Years Ended December 31,	
+2022	 	2021	
+SUMMARY OPERATING DATA	 	 	 	 
+Copper (millions of recoverable pounds)
+ 	 	 	 
+Production	4,210 			3,843 		
+Sales, excluding purchases	4,213 			3,807 		
+Average realized price per pound	$	3.90 			$	4.33 		
+Site production and delivery costs per pounda
+$	2.19 			$	1.93 		
+Unit net cash costs per pounda
+$	1.50 			$	1.34 		
+Gold (thousands of recoverable ounces)
+ 	 	 	 
+Production	1,811 			1,381 		
+Sales, excluding purchases	1,823 			1,360 		
+Average realized price per ounce	$	1,787 			$	1,796 		
+Molybdenum (millions of recoverable pounds)
+ 	 	 	 
+Production	85 			85 		
+Sales, excluding purchases	75 			82 		
+Average realized price per pound	$	18.71 			$	15.56 		
+ 
+a.Reflects per pound weighted-average production and delivery costs and unit net cash costs (net of by-product credits) for all copper mines, before net noncash and other costs. For reconciliations of the per pound unit costs by operating division to production and delivery costs applicable to sales reported in our consolidated financial statements, refer to “Product Revenues and Production Costs.”
+
+Revenues
+Consolidated revenues totaled $22.8 billion in both 2022 and 2021. Our revenues primarily include the sale of copper concentrate, copper cathode, copper rod, gold in concentrate and molybdenum. Following is a summary of changes in our consolidated revenues from 2021 to 2022 (in millions):
+Consolidated revenues - 2021	$	22,845 		
+Mining operations:		
+Higher (lower) sales volumes:		
+Copper	1,759 		
+Gold	832 		
+Molybdenum	(115)		
+(Lower) higher averaged realized prices:		
+Copper	(1,812)		
+Gold	(16)		
+Molybdenum	234 		
+Adjustments for prior year provisionally priced copper sales	(109)		
+Lower revenues from sales of purchased copper	(276)		
+Lower Atlantic Copper revenues	(518)		
+Higher treatment charges	(58)		
+Higher royalties and export duties	(143)		
+Other, including intercompany eliminations	157 		
+Consolidated revenues - 2022	$	22,780 		
+ 
+
+Sales Volumes. Copper and gold sales volumes were higher in 2022, compared to 2021, primarily reflecting increased operating rates at the Grasberg minerals district and Cerro Verde. Refer to “Operations” for further discussion of sales volumes at our mining operations.
+
+Realized Prices. Our consolidated revenues can vary significantly as a result of fluctuations in the market prices of copper, gold and molybdenum. In 2022, our average realized prices, compared with 2021, were 10% lower for copper, 1% lower for gold and 20% higher for molybdenum.
+
+As discussed in “Disclosures About Market Risks - Commodity Price Risk,” substantially all of our copper concentrate and cathode sales contracts provide final copper pricing in a specified future month (generally one to
+86
+Table of Contents
+four months from the shipment date). We record revenues and invoice customers at the time of shipment based on then-current LME prices, which results in an embedded derivative on provisionally priced concentrate and cathode sales that is adjusted to fair value through earnings each period, using the period-end forward prices, until final pricing on the date of settlement. To the extent final prices are higher or lower than what was recorded on a provisional basis, an increase or decrease to revenues is recorded each reporting period until the date of final pricing. Accordingly, in times of rising copper prices, our revenues benefit from adjustments to the final pricing of provisionally priced sales pursuant to contracts entered into in prior periods; in times of falling copper prices, the opposite occurs.
+
+Consolidated revenues include net (unfavorable) favorable adjustments to current year provisionally priced copper sales (i.e., provisionally priced sales during the years 2022 and 2021) totaling $(539) million for 2022 and $256 million for 2021. Refer to Note 14 for a summary of total adjustments to prior period and current period provisionally priced sales.
+
+Prior Year Provisionally Priced Copper Sales. Net favorable adjustments to prior years’ provisionally priced copper sales (i.e., provisionally priced copper sales at December 31, 2021 and 2020) recorded in consolidated revenues totaled $60 million in 2022 and $169 million in 2021. Refer to “Disclosures About Market Risks - Commodity Price Risk” for further discussion of our provisionally priced copper sales, and to Note 14 for a summary of total adjustments to prior period and current period provisionally priced copper sales.
+
+Purchased Copper. Lower revenues associated with purchased copper in 2022 compared to 2021, primarily reflects lower volumes and prices. We purchased copper cathode primarily for processing by our Rod & Refining operations, totaling 124 million pounds in 2022 and 173 million pounds in 2021.
+
+Atlantic Copper Revenues. Lower Atlantic Copper revenues in 2022, compared with 2021, primarily reflect reduced operations as a result of a scheduled major maintenance turnaround resulting in a 78-day shutdown and lower copper prices.
+
+Treatment Charges. Revenues from our concentrate sales are recorded net of treatment charges (i.e., fees paid to smelters that are generally negotiated annually), which will vary with the sales volumes and the price of copper. The increase in the treatment charges during 2022 primarily reflects higher copper sales volumes.
+
+Royalties and Export Duties. Royalties are primarily on PT-FI sales and vary with the volume of metal sold and the prices of copper and gold. In late 2022, PT-FI’s export duty rate declined from 5% to 2.5% as a result of smelter development progress. Higher royalties and export duties during 2022, compared to 2021, are primarily associated with increased copper and gold sales volumes, partly offset by the decline in metal prices. Refer to “Operations - Indonesia Mining” for further discussion of the current progress on additional smelting capacity in Indonesia and to Note 13 for a summary of PT-FI’s royalties and export duties.
+
+Production and Delivery Costs
+Consolidated production and delivery costs totaled $13.0 billion in 2022, compared with $12.0 billion in 2021. Higher consolidated production and delivery costs in 2022 are primarily associated with significant inflationary cost pressures, principally associated with materials and supplies including sulfuric acid and explosives (41% of our site operating costs), labor (27% of our site operating costs) and energy prices (21% of our site operating costs). During 2022, prices for a number of commodity-related consumables increased at a time when copper prices declined. While prices for a number of commodity-related consumables have retreated from the highs of 2022, most cost elements remain high relative to long-term correlations.
+
+Consolidated production and delivery costs also includes net charges totaling $157 million in 2022, primarily associated with ARO adjustments and an administrative fine at PT-FI; and $415 million in 2021, primarily associated with ARO adjustments and other net charges at PT-FI and nonrecurring labor-related costs at Cerro Verde for collective labor agreements, partly offset by refunds of Arizona transaction privilege taxes related to purchased electricity and favorable adjustments to prior-years’ profit sharing at Cerro Verde. Refer to Note 16 for details of production and delivery costs by operating segment.
+
+Mining Unit Site Production and Delivery Costs. Site production and delivery costs for our copper mining operations primarily include labor, energy and commodity-based inputs, such as sulfuric acid, reagents, liners, tires and explosives. Consolidated unit site production and delivery costs (before net noncash and other costs) for our copper mines averaged $2.19 per pound of copper in 2022 and $1.93 per pound in 2021. Higher consolidated unit site
+87
+Table of Contents
+production and delivery costs in 2022, compared with 2021, primarily reflect higher energy prices and increased costs for consumables such as sulfuric acid, explosives, key equipment parts and other supplies and services. Refer to “Operations - Unit Net Cash Costs” for further discussion of unit net cash costs associated with our operating divisions, and to “Product Revenues and Production Costs” for reconciliations of per pound costs by operating division to production and delivery costs applicable to sales reported in our consolidated financial statements.
+
+Our copper mining operations require significant amounts of energy, principally diesel, electricity, coal and natural gas, most of which is obtained from third parties under long-term contracts. Our take-or-pay contractual obligations for electricity totaled approximately $0.3 billion at December 31, 2022. We do not have take-or-pay contractual obligations for other energy commodities. Energy represented approximately 21% of our copper mine site operating costs in 2022, including purchases of approximately 230 million gallons of diesel fuel; approximately 8,400 gigawatt hours of electricity at our North America and South America copper mining operations (we generate all of our power at our Indonesia mining operation); approximately 820 thousand metric tons of coal for our coal power plant in Indonesia; and approximately 1 million MMBtu (million British thermal units) of natural gas at certain of our North America mines. Based on current cost estimates, energy will approximate 24% of our copper mine site operating costs for 2023.
+
+Depreciation, Depletion and Amortization
+Depreciation will vary under the UOP method as a result of changes in sales volumes and the related UOP rates at our mining operations. Consolidated DD&A totaled $2.0 billion in both 2022 and 2021.
+
+Metals Inventory Adjustments
+Unfavorable metals inventory adjustments totaled $29 million in 2022 and $16 million in 2021. Adjustments in 2022 reflect NRV inventory adjustments related to lower market prices for copper and higher costs at Morenci and Bagdad. Adjustments in 2022 also include $10 million for stockpile write-offs at Cerro Verde. Adjustments in 2021 were primarily related to a leach stockpile adjustment at Morenci.
+
+Environmental Obligations and Shutdown Costs
+Environmental obligation costs reflect net revisions to our long-term environmental obligations, which vary from period to period because of changes to environmental laws and regulations, the settlement of environmental matters and/or circumstances affecting our operations that could result in significant changes in our estimates (refer to “Critical Accounting Estimates - Environmental Obligations” for further discussion). Shutdown costs include care-and-maintenance costs and any litigation, remediation or related expenditures associated with closed facilities or operations.
+
+Net charges for environmental obligations and shutdown costs totaled $121 million in 2022, including $44 million for a proposed settlement related to historical environmental litigation and $22 million in net unfavorable adjustments to environmental obligations. Net charges for the year 2021 totaled $91 million, including net unfavorable adjustments to environmental obligations totaling $41 million. Refer to Note 12 for further discussion of environmental obligations and litigation matters.
+
+Net Gain on Sales of Assets
+Net gain on sales of assets totaled $2 million in 2022 and $80 million in 2021. Gains on sales of assets in 2021 were primarily associated with the sale of our remaining Freeport Cobalt assets and the sale of carbon dioxide emissions credits at Atlantic Copper. Refer to Note 2 for further discussion of dispositions.
+
+Net Gain on Early Extinguishment of Debt
+Net gain on early extinguishment of debt totaled $31 million in 2022, consisting primarily of $44 million associated with senior note purchases, partly offset by a charge of $10 million associated with the repayment of the PT-FI term loan. Refer to Note 8 for further discussion.
+
+Interest Expense, Net
+Consolidated interest costs (before capitalization) totaled $710 million in 2022 and $674 million in 2021. Higher interest costs (before capitalization) in 2022, compared with 2021, primarily reflects additional interest costs associated with PT-FI senior notes sold in April 2022, partly offset by lower interest costs associated with the repayment and purchase of certain FCX senior notes. Refer to Note 8 for further discussion.
+88
+Table of Contents
+Capitalized interest varies with the level of expenditures for our development projects and average interest rates on our borrowings and totaled $150 million in 2022 and $72 million in 2021. The increase in capitalized interest in 2022, compared with 2021, is primarily associated with development activities related to Indonesia smelter projects. Refer to “Operations” and “Capital Resources and Liquidity - Investing Activities” for further discussion of current development projects.
+
+Other Income (Expense), Net
+Other income (expense), net, totaled $207 million in 2022 and $(105) million in 2021. The year 2022 primarily includes interest income totaling $136 million and credits totaling $76 million associated with favorable adjustments to penalties on historical contested tax matters. The year 2021 primarily includes charges totaling $208 million associated with historical contested tax matters at PT-FI, partly offset by gains on currency exchange rate movements and other net credits. Refer to Note 11 for discussion of historical tax matters.
+
+Income Taxes
+Following is a summary of the approximate amounts used in the calculation of our consolidated income tax provision for the years ended December 31 (in millions, except percentages):
+2022		2021	
+Income (Loss)a
+Effective
+Tax Rate		Income Tax
+(Provision)
+Benefit		
+Income (Loss)a
+Effective
+Tax Rate		Income Tax
+(Provision)
+Benefit	
+U.S.b
+$	811 			—%		$	4 		
+c
+$	1,883 			1%		$	(10)		
+c
+South America	1,236 			37%		(453)		
+d
+2,072 			40%		(820)		
+e
+Indonesia	4,629 			39%		(1,797)			3,986 			35%		(1,377)		
+f
+PT-FI historical contested tax disputes	72 			N/A		(23)			(219)			N/A		(147)		
+Eliminations and other	(33)			N/A		2 			(63)			N/A		55 		
+Continuing Operations	$	6,715 			34%		$	(2,267)			$	7,659 			30%		$	(2,299)		
+ 
+a.Represents income before income taxes and equity in affiliated companies' net earnings.
+b.In addition to our North America mining operations, the U.S. jurisdiction reflects corporate-level expenses, which include interest expense associated with senior notes, general and administrative expenses, and environmental obligations and shutdown costs.
+c.Includes valuation allowance release on prior year unbenefited NOLs.
+d.Includes a tax benefit of $31 million ($16 million net of noncontrolling interest), primarily associated with completion of Cerro Verde's 2016 tax audit.
+e.Includes a tax benefit of $18 million ($9 million net of noncontrolling interest), primarily associated with completion of tax audits at Cerro Verde for the years 2014 and 2015.
+f.Includes net tax benefits associated with the release of valuation allowances recorded against PT Rio Tinto Indonesia NOLs totaling $189 million ($151 million net of noncontrolling interest).
+
+In August 2022, the Act was signed into law, which includes, among other provisions, a new CAMT of 15% on the adjusted financial statement income (AFSI) of corporations with average AFSI exceeding $1.0 billion over a three-year period, and a new excise tax of 1% on the fair market value of net corporate stock repurchases. The Act had no impact on our consolidated financial statements for the year ended December 31, 2022. The provisions of the Act are applicable to us beginning January 1, 2023. Additional guidance related to how the CAMT provisions of the Act will be applied or otherwise administered is yet to be released by the U.S. Department of the Treasury, and may differ from our interpretations. We will continue to analyze the impacts as additional guidance is available. We expect the CAMT provisions will impact our U.S. tax position, and may further limit our ability to benefit from our U.S. NOLs.
+
+Assuming achievement of current sales volume and cost estimates and average prices of $4.00 per pound for copper, $1,900 per ounce for gold and $20.00 per pound for molybdenum for 2023, we estimate our consolidated effective tax rate for the year 2023 would approximate 33%. Changes in projected sales volumes and average prices during 2023 would incur tax impacts at estimated effective rates of 39% for Peru, 38% for Indonesia and 0% for the U.S., which excludes any potential impact from the Act. Our projected estimated effective tax rate of 0% for the U.S. for the year 2023 may be adjusted as additional guidance is released by the U.S. Department of the Treasury on key provisions of the Act, including guidance on the CAMT.
+
+89
+Table of Contents
+Refer to Note 11 and Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further discussion of income taxes.
+
+OPERATIONS
+
+Responsible Production
+The Copper Mark. We are committed to maintaining the validation of all of our copper producing sites with the Copper Mark, a comprehensive assurance framework designed to demonstrate the copper industry's responsible production practices. To achieve the Copper Mark, each site is required to complete an external assurance process to assess conformance with 32 environmental, social and governance (ESG) requirements. In February 2023, PT-FI was awarded the Copper Mark and we have now achieved the Copper Mark at all 12 of our eligible copper producing sites globally.
+
+In fourth-quarter 2022, the Copper Mark announced an extension of its framework to include molybdenum producers, among other metal producers. In February 2023, our Climax and Henderson molybdenum mines were awarded the Molybdenum Mark, making FCX the first molybdenum miner to achieve this distinction. Our four copper mines that produce byproduct molybdenum (Bagdad, Cerro Verde, Morenci and Sierrita) have also been awarded the Molybdenum Mark.
+
+ICMM. We are a founding member of the International Council on Mining & Metals (ICMM), an organization dedicated to a safe, fair and sustainable mining and metals industry, aiming continuously to strengthen ESG performance across the global mining and metals industry. As a member company, we are required to implement the 10 Mining Principles that define good ESG practices, and associated position statements, while also meeting 39 performance expectations and producing an externally verified sustainability report in accordance with the Global Reporting Initiative Sustainability Reporting Standards subject to the ICMM Assurance & Validation Procedure.
+
+2021 Annual Report on Sustainability. In April 2022, we published our 2021 Annual Report on Sustainability, which is available on our website at fcx.com/sustainability. We have a long history of ESG programs, and we are focused on leading as a responsible copper producer. Refer to Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for discussion of ESG-related risks.
+
+2021 Climate Report. In September 2022, we published our updated Climate Report which details our ongoing initiatives to reduce our greenhouse gas (GHG) emissions, improve energy efficiency, evaluate and integrate the use of lower carbon and renewable energy sources and enhance our resilience to future climate-related risks. We continue to advance GHG emissions reduction initiatives across our global operations and established our 2030 GHG reduction targets that collectively cover nearly 100% of our Scope 1 and 2 GHG emissions. Refer to Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further discussion of climate-related risks.
+
+Leaching Innovation Initiatives
+We are advancing efforts to improve copper recovery from our leach processes, including initiatives across our North America and South America operations to incorporate new applications, technologies and data analytics. We believe these leach innovation initiatives provide potential opportunities to produce incremental copper from our large existing leach stockpiles and lower-grade material currently classified as waste. Initial results support the potential for incremental low-cost additions to our production and reserve profile and we have identified opportunities to achieve an annual run rate of 200 million pounds of copper per year through these initiatives by the end of 2023.
+
+Feasibility and Optimization Studies
+We are engaged in various studies associated with potential future expansion projects primarily at our mining operations. The costs for these studies are charged to production and delivery costs as incurred and totaled $141 million for 2022 and $59 million for 2021. We estimate the costs of these studies will approximate $200 million for the year 2023 (including approximately $70 million in first-quarter 2023).
+
+North America Copper Mines
+We operate seven open-pit copper mines in North America - Morenci, Bagdad, Safford (including Lone Star), Sierrita and Miami in Arizona, and Chino and Tyrone in New Mexico. All of the North America mining operations are wholly owned, except for Morenci. We record our 72% undivided joint venture interest in Morenci using the proportionate consolidation method.
+90
+Table of Contents
+The North America copper mines include open-pit mining, sulfide-ore concentrating, leaching and solution extraction/electrowinning (SX/EW) operations. A majority of the copper produced at our North America copper mines is cast into copper rod by our Rod & Refining segment. The remainder of our North America copper production is sold as copper cathode or copper concentrate, a portion of which is shipped to Atlantic Copper (our wholly owned smelter). Molybdenum concentrate, gold and silver are also produced by certain of our North America copper mines.
+
+Operating and Development Activities. We have substantial reserves and future opportunities in the U.S., primarily associated with existing mining operations.
+
+Following our response to the COVID-19 pandemic in early 2020, we began ramping up mining rates at the North America mines during 2021, which continued into 2022. However, a tight labor market and increased competition from other employers in North America represent strategic challenges that are impacting our ability to further expand current mining rates.
+
+Lone Star, at our Safford mine, is increasing its operating rates to achieve targeted production of approximately 300 million pounds of copper per year from oxide ores in 2023 (compared with the initial design capacity of 200 million pounds of copper per year). The oxide project at Lone Star advances the opportunity for development of the underlying, large-scale sulfide resources. We are conducting follow-on exploration in the area to support metallurgical testing and mine development planning for a potential significant long-term investment to build additional scale on an economically attractive basis.
+
+We are planning an expansion to double the concentrator capacity of the Bagdad operation in northwest Arizona. We are engaging stakeholders and conducting a feasibility study, which is expected to be completed in 2023. We are advancing plans for expanded tailings infrastructure projects to support Bagdad's long-range plans. The timing of future development will be dependent on market conditions, labor and supply chain considerations and other economic factors.
+
+Operating Data. Following is summary operating data for the North America copper mines for the years ended December 31:
+ 	2022	 	2021	
+Operating Data, Net of Joint Venture Interests	 		 	
+Copper (millions of recoverable pounds)
+ 		 	
+Production	1,467 			1,460 		
+Sales, excluding purchases	1,469 			1,436 		
+Average realized price per pound	$	4.08 			$	4.30 		
+Molybdenum (millions of recoverable pounds)
+ 		 	
+Productiona
+29 			34 		
+100% Operating Data	 		 	
+Leach operations	 		 	
+Leach ore placed in stockpiles (metric tons per day)	676,400 			665,900 		
+Average copper ore grade (%)	0.29 			0.29 		
+Copper production (millions of recoverable pounds)	1,019 			1,056 		
+Mill operations	 		 	
+Ore milled (metric tons per day)	294,200 			269,500 		
+Average ore grade (%):				
+Copper	0.37 			0.38 		
+Molybdenum	0.02 			0.03 		
+Copper recovery rate (%)	81.8 			81.2 		
+Copper production (millions of recoverable pounds)	695 			649 		
+ 
+a.Refer to “Consolidated Results” for our consolidated molybdenum sales volumes, which include sales of molybdenum produced at the North America copper mines.
+
+91
+Table of Contents
+Copper sales volumes from our North America copper mines totaled 1.47 billion pounds in 2022 and 1.44 billion pounds in 2021. North America copper sales are estimated to approximate 1.46 billion pounds in 2023. Refer to “Outlook” for projected molybdenum sales volumes.
+
+Unit Net Cash Costs. Unit net cash costs per pound of copper is a measure intended to provide investors with information about the cash-generating capacity of our mining operations expressed on a basis relating to the primary metal product for our respective operations. We use this measure for the same purpose and for monitoring operating performance by our mining operations. This information differs from measures of performance determined in accordance with U.S. GAAP and should not be considered in isolation or as a substitute for measures of performance determined in accordance with U.S. GAAP. This measure is presented by other metals mining companies, although our measure may not be comparable to similarly titled measures reported by other companies.
+
+Gross Profit per Pound of Copper and Molybdenum
+The following table summarizes unit net cash costs and gross profit per pound of copper at our North America copper mines for the two years ended December 31, 2022. Refer to “Product Revenues and Production Costs” for an explanation of the “by-product” and “co-product” methods and a reconciliation of unit net cash costs per pound to production and delivery costs applicable to sales reported in our consolidated financial statements.
+ 	2022		2021
+ 	By-		Co-Product Method		By-		Co-Product Method
+Product
+Method		Copper		
+Molyb-
+denuma
+Product
+Method		Copper		
+Molyb-
+denuma
+Revenues, excluding adjustments	$	4.08 			$	4.08 			$	17.87 			$	4.30 			$	4.30 			$	14.14 	
+Site production and delivery, before net noncash	 		 		 		 		 		 
+and other costs shown below	2.58 			2.36 			13.35 			2.13 			1.96 			8.17 	
+By-product credits	(0.33)			— 			— 			(0.33)			— 			— 	
+Treatment charges	0.10 			0.10 			— 			0.09 			0.09 			— 	
+Unit net cash costs	2.35 			2.46 			13.35 			1.89 			2.05 			8.17 	
+DD&A	0.28 			0.26 			0.90 			0.25 			0.24 			0.62 	
+Metals inventory adjustments	0.01 			0.01 			0.05 			0.01 			0.01 			— 	
+Noncash and other costs, net	0.12 		
+b
+0.10 			0.47 			0.07 		
+b,c
+0.07 			0.03 	
+Total unit costs	2.76 			2.83 			14.77 			2.22 			2.37 			8.82 	
+Revenue adjustments, primarily for pricing on prior period open sales	(0.01)			(0.01)			— 			— 			— 			— 	
+Gross profit per pound	$	1.31 			$	1.24 			$	3.10 			$	2.08 			$	1.93 			$	5.32 	
+Copper sales (millions of recoverable pounds)	1,472 			1,472 			 		1,436 			1,436 			 
+Molybdenum sales (millions of recoverable pounds)a
+ 		 		29 			 		 		34 	
+ 
+a.Reflects sales of molybdenum produced by certain of the North America copper mines to our molybdenum sales company at market-based pricing.
+b.Includes $0.06 per pound of copper in 2022 and $0.02 per pound of copper in 2021 for feasibility and optimization studies.
+c.Includes credits totaling $0.02 per pound of copper associated with refunds of Arizona transaction privilege taxes related to purchased electricity.
+
+Our North America copper mines have varying cost structures because of differences in ore grades and characteristics, processing costs, by-product credits and other factors. During 2022, our mining operations experienced significant cost inflation, principally associated with higher energy, labor, maintenance and supplies, explosives and sulfuric acid, resulting in higher average unit net cash costs (net of by-product credits) for the North America copper mines of $2.35 per pound of copper in 2022, compared with $1.89 per pound of copper in 2021. However, average unit net cash costs for our North America copper mines in 2022, compared with 2021, benefited from higher sales volumes.
+
+Because certain assets are depreciated on a straight-line basis, North America’s average unit depreciation rate may vary with asset additions and the level of copper production and sales.
+
+Revenue adjustments primarily result from changes in prices on provisionally priced copper sales recognized in prior periods. Refer to “Consolidated Results – Revenues” for further discussion of adjustments to prior period provisionally priced copper sales.
+
+92
+Table of Contents
+Average unit net cash costs (net of by-product credits) for our North America copper mines are expected to approximate $2.45 per pound of copper in 2023, based on achievement of current sales volume and cost estimates and assuming an average molybdenum price of $20.00 per pound. North America’s expected average unit net cash costs for the year 2023 would change by approximately $0.03 per pound for each $2 per pound change in the average price of molybdenum.
+
+South America Mining
+We operate two copper mines in South America - Cerro Verde in Peru (in which we own a 53.56% interest) and El Abra in Chile (in which we own a 51.0% interest), which are consolidated in our financial statements.
+
+South America mining includes open-pit mining, sulfide-ore concentrating, leaching and SX/EW operations. Production from our South America mines is sold as copper concentrate or cathode under long-term contracts. Our South America mines also sell a portion of their copper concentrate production to Atlantic Copper. In addition to copper, the Cerro Verde mine produces molybdenum concentrate and silver.
+
+Beginning in late 2022, heightened tensions, protests and social unrest emerged in Peru following a change in the country's political leadership. Demonstrations have continued in early 2023, and the civil unrest continues to disrupt commerce and supply chains in Peru. To date, there has been a limited impact on Cerro Verde's operations. We continue to monitor the situation while prioritizing safety and security. A prolonged disruption of logistics and supply chains could impact future operations.
+
+Operating and Development Activities. Increased operating rates at Cerro Verde and higher mining and stacking activities at El Abra resulted in a 12% increase in copper production from South America mining for the year 2022, compared with the year 2021 (which was impacted by COVID-19 protocols).
+
+El Abra's large sulfide resource supports a potential major mill project similar to the large-scale concentrator constructed at Cerro Verde in 2015. Technical and economic studies continue to be evaluated to determine the optimal scope and timing for the sulfide project. We are advancing plans to invest in water infrastructure to provide options to extend existing operations, while continuing to monitor potential changes in Chile's regulatory and fiscal matters. We will defer major investment decisions pending clarity on such matters.
+
+Operating Data. Following is summary operating data for our South America mining operations for the years ended December 31.
+ 	2022	 	2021	
+Copper (millions of recoverable pounds)
+ 		 	
+Production	1,176 			1,047 		
+Sales	1,162 			1,055 		
+Average realized price per pound	$	3.80 			$	4.34 		
+Molybdenum (millions of recoverable pounds)
+ 		 	
+Productiona
+23 			21 		
+Leach operations	 		 	
+Leach ore placed in stockpiles (metric tons per day)	163,000 			163,900 		
+Average copper ore grade (%)	0.35 			0.32 		
+Copper production (millions of recoverable pounds)	302 			256 		
+Mill operations	 		 	
+Ore milled (metric tons per day)	409,200 			380,300 		
+
+Average ore grade (%):				
+Copper	0.32 			0.31 		
+Molybdenum	0.01 			0.01 		
+Copper recovery rate (%)	85.3 			87.3 		
+Copper production (millions of recoverable pounds)	874 			791 		
+ 
+a.Refer to “Consolidated Results” for our consolidated molybdenum sales volumes, which include sales of molybdenum produced at Cerro Verde.
+
+93
+Table of Contents
+Higher consolidated copper sales volumes from South America of 1.2 billion pounds in 2022, compared with 1.1 billion pounds in 2021, primarily reflect increased mining and milling rates at Cerro Verde. Consolidated copper sales from our South America mines are expected to approximate 1.2 billion pounds in 2023. Refer to “Outlook” for projected molybdenum sales volumes.
+
+Unit Net Cash Costs. Unit net cash costs per pound of copper is a measure intended to provide investors with information about the cash-generating capacity of our mining operations expressed on a basis relating to the primary metal product for our respective operations. We use this measure for the same purpose and for monitoring operating performance by our mining operations. This information differs from measures of performance determined in accordance with U.S. GAAP and should not be considered in isolation or as a substitute for measures of performance determined in accordance with U.S. GAAP. This measure is presented by other metals mining companies, although our measure may not be comparable to similarly titled measures reported by other companies.
+
+Gross Profit per Pound of Copper
+The following table summarizes unit net cash costs and gross profit per pound of copper at our South America mining operations for the two years ended December 31, 2022. Unit net cash costs per pound of copper are reflected under the by-product and co-product methods as the South America mining operations also had sales of molybdenum and silver. Refer to “Product Revenues and Production Costs” for an explanation of the “by-product” and “co-product” methods and a reconciliation of unit net cash costs per pound to production and delivery costs applicable to sales reported in our consolidated financial statements.
+ 	2022		2021
+By-Product
+Method		Co-Product
+Method		By-Product
+Method		Co-Product
+Method
+Revenues, excluding adjustments	$	3.80 			$	3.80 			$	4.34 			$	4.34 	
+Site production and delivery, before net noncash	 		 		 		 
+and other costs shown below	2.52 			2.33 			2.23 		
+a
+2.06 	
+By-product credits	(0.34)			— 			(0.32)			— 	
+Treatment charges	0.15 			0.14 			0.13 			0.13 	
+Royalty on metals	0.01 			0.01 			0.01 			0.01 	
+Unit net cash costs	2.34 			2.48 			2.05 			2.20 	
+DD&A	0.35 			0.32 			0.39 			0.37 	
+Metals inventory adjustments	0.01 			0.01 			— 			— 	
+Noncash and other costs, net	0.07 			0.07 			0.03 			0.03 	
+Total unit costs	2.77 			2.88 			2.47 			2.60 	
+Revenue adjustments, primarily for pricing on							
+prior period open sales	0.03 			0.03 			0.09 			0.09 	
+Gross profit per pound	$	1.06 			$	0.95 			$	1.96 			$	1.83 	
+Copper sales (millions of recoverable pounds)	1,162 			1,162 			1,055 			1,055 	
+ 
+a.Includes charges totaling $0.09 per pound of copper associated with nonrecurring labor-related costs at Cerro Verde.
+
+Our South America mines have varying cost structures because of differences in ore grades and characteristics, processing costs, by-product credits and other factors. During 2022, our mining operations experienced significant cost inflation, principally associated with higher energy, sulfuric acid, explosives and other input costs, resulting in higher average unit net cash costs (net of by-product credits) for South America mining of $2.34 per pound of copper in 2022, compared with $2.05 per pound of copper in 2021. However, average unit net cash costs for South America mining in 2022, compared with 2021, benefited from higher sales volumes.
+
+Revenues from Cerro Verde’s concentrate sales are recorded net of treatment charges, which will vary with Cerro Verde’s sales volumes and the price of copper.
+
+Because certain assets are depreciated on a straight-line basis, South America’s unit depreciation rate may vary with asset additions and the level of copper production and sales.
+
+Revenue adjustments primarily result from changes in prices on provisionally priced copper sales recognized in prior periods. Refer to “Consolidated Results - Revenues” for further discussion of adjustments to prior period provisionally priced copper sales.
+94
+Table of Contents
+Average unit net cash costs (net of by-product credits) for our South America mines are expected to approximate $2.30 per pound of copper in 2023, based on current sales volume and cost estimates and assuming an average price of $20.00 per pound of molybdenum.
+
+Indonesia Mining
+PT-FI operates one of the world’s largest copper and gold mines at the Grasberg minerals district in Central Papua, Indonesia. PT-FI produces copper concentrate that contains significant quantities of gold and silver. We have a 48.76% ownership interest in PT-FI and manage its mining operations. PT-FI's results are consolidated in our financial statements.
+
+As discussed in Note 3, under the terms of the divestment agreement and related documents entered into in 2018, our economic interest in PT-FI approximated 81% through 2022, and beginning January 1, 2023, our economic interest in PT-FI is 48.76%. This arrangement was developed to replicate the economics of PT-FI's former joint venture partner interests, which were acquired by the Indonesia government in 2018.
+
+Substantially all of PT-FI’s copper concentrate is sold under long-term contracts. During 2022, 34% of PT-FI’s copper concentrate was sold to PT Smelting (PT-FI’s 39.5% owned copper smelter and refinery in Gresik, Indonesia). See “Smelting and Refining” below for a discussion of PT-FI’s tolling arrangement with PT Smelting that commenced in 2023.
+
+Operating and Development Activities. PT-FI currently has three underground operating mines in the Grasberg minerals district: Grasberg Block Cave, Deep Mill Level Zone (DMLZ) and Big Gossan.
+
+PT-FI's milling rates for ore extracted from its underground mines averaged 192,600 metric tons of ore per day in 2022. The installation of additional milling facilities at PT-FI is currently expected to be completed in late 2023, which would increase milling capacity to approximately 240,000 metric tons of ore per day to provide for continued annualized copper and gold production volumes of approximately 1.6 billion pounds of copper and 1.6 million ounces of gold. PT-FI is also advancing a mill recovery project with the installation of a new copper cleaner circuit that is expected to be completed in 2024, which is expected to provide incremental metal production of approximately 60 million pounds of copper and 40 thousand ounces of gold per year.
+
+Kucing Liar. Long-term mine development activities are ongoing for PT-FI's Kucing Liar deposit in the Grasberg minerals district, which is expected to produce over 6 billion pounds of copper and 6 million ounces of gold between 2028 and the end of 2041. Pre-production development activities commenced in 2022 and are expected to continue over an approximate 10-year timeframe. Capital investments are estimated to average approximately $400 million per year over this period (including approximately $470 million for the year 2023). At full operating rates of approximately 90,000 metric tons of ore per day, annual production from Kucing Liar is expected to approximate 550 million pounds of copper and 560 thousand ounces of gold, providing PT-FI with sustained long-term, large-scale and low-cost production. Kucing Liar will benefit from substantial shared infrastructure and PT-FI's experience and long-term success in block-cave mining.
+
+Indonesia Smelter. In connection with PT-FI’s 2018 agreement with the Indonesia government to secure the extension of its long-term mining rights, PT-FI committed to construct additional domestic smelting capacity totaling 2 million dry metric tons of concentrate per year by the end of 2023 (subject to force majeure provisions). In accordance with Indonesia regulations, PT-FI submits a smelter progress report to the Indonesia government for review every six months (refer to Note 12).
+
+PT-FI is actively engaging in the following projects for additional domestic smelting capacity:
+•Construction of a greenfield smelter in Gresik, Indonesia with a capacity to process approximately 1.7 million metric tons of copper concentrate per year. At December 31, 2022, smelter construction was approximately 50% complete. The facility is expected to be commissioned during 2024 at an estimated cost of $3.0 billion, including $2.8 billion for a construction contract (excluding capitalized interest, owner’s costs and commissioning) and $0.2 billion for investment in a desalinization plant.
+•Expansion of PT Smelting's capacity by 30% to 1.3 million metric tons of copper concentrate per year, which is expected to be completed by the end of 2023. PT-FI is funding the cost of the expansion, estimated to approximate $250 million, with a loan that will convert to equity, increasing PT-FI’s ownership in PT Smelting upon project completion (refer to Note 3).
+95
+Table of Contents
+•Construction of a PMR to process gold and silver from the greenfield smelter and PT Smelting at an estimated cost of $400 million. Construction is in progress with commissioning expected during 2024.
+
+Capital expenditures for the Indonesia smelter projects totaled $0.8 billion for the year 2022 and are expected to approximate $1.8 billion for the year 2023. Capital expenditures for the Indonesia smelter projects are being funded with proceeds received from PT-FI's April 2022 senior notes offering and availability under its revolving credit facility.
+
+Construction of the additional domestic smelter capacity will result in the elimination of export duties, which mitigates the economic cost associated with the Indonesia smelter projects. In late 2022, PT-FI received approval, based on construction progress achieved, for a reduction in export duties from 5% to 2.5%. Upon receiving verification and approval from the Indonesia government that construction progress has exceeded 50%, PT-FI expects export duties to be eliminated.
+
+Indonesia regulations require PT-FI to renew its export license annually, subject to review by the Indonesia government every six months, depending on, among other things, greenfield smelter construction progress. The current license is scheduled for renewal in March 2023 and PT-FI is preparing its renewal application. PT-FI's special mining license (IUPK) provides that exports continue through 2023, subject to force majeure considerations. PT-FI plans to work cooperatively with the Indonesia government to continue exports beyond 2023 as required until the smelter is fully commissioned. Refer to Note 12 and Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further discussion of risks associated with PT-FI’s export of copper concentrate.
+
+Mining Rights. PT-FI and the Indonesia government continue to engage in preliminary discussions regarding the extension of PT-FI's mining rights under its IUPK beyond 2041. PT-FI believes an extension beyond 2041 would enable continuity of operations and the identification of additional resource development opportunities in the Grasberg minerals district. Refer to Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further discussion of risks associated with PT-FI’s IUPK.
+
+Operating Data. Following is summary operating data for our Indonesia mining operations for the years ended December 31.
+ 	2022	 	2021	
+Operating Data	 		 	
+Copper (millions of recoverable pounds)
+ 		 	
+Production	1,567 			1,336 		
+Sales	1,582 			1,316 		
+Average realized price per pound	$	3.80 			$	4.34 		
+Gold (thousands of recoverable ounces)
+ 		 	
+Production	1,798 			1,370 		
+Sales	1,811 			1,349 		
+Average realized price per ounce	$	1,787 			$	1,796 		
+100% Operating Data	 		 	
+Ore extracted and milled (metric tons per day):	 		 	
+Grasberg Block Cave underground mine	103,300 			70,600 		
+DMLZ underground mine	76,300 			58,000 		
+Big Gossan underground mine	7,600 			7,500 		
+Other adjustmentsa
+5,400 			15,500 		
+Total	192,600 			151,600 		
+Average ore grade:	 		 	
+Copper (%)	1.19 			1.30 		
+Gold (grams per metric ton)	1.05 			1.04 		
+Recovery rates (%):				
+Copper	90.0 			89.8 		
+Gold	77.7 			77.0 		
+ 
+96
+Table of Contents
+a.Includes ore extracted and milled from the Deep Ore Zone (DOZ) underground mine ore body, which was depleted at the end of 2021.
+
+Higher consolidated sales of 1.6 billion pounds of copper and 1.8 million ounces of gold in 2022, compared with 1.3 billion pounds of copper and 1.3 million ounces of gold in 2021, primarily reflect increased operating rates at the Grasberg minerals district, partly offset by lower copper ore grades. Consolidated sales volumes from PT-FI are expected to approximate 1.5 billion pounds of copper and 1.7 million ounces of gold in 2023, net of approximately 90 million pounds of copper and 120 thousand ounces of gold from mine production in concentrate form that will be deferred until sale in the form of refined metal under the tolling agreement with PT Smelting.
+
+Unit Net Cash Costs. Unit net cash costs per pound of copper is a measure intended to provide investors with information about the cash-generating capacity of our mining operations expressed on a basis relating to the primary metal product for our respective operations. We use this measure for the same purpose and for monitoring operating performance by our mining operations. This information differs from measures of performance determined in accordance with U.S. GAAP and should not be considered in isolation or as a substitute for measures of performance determined in accordance with U.S. GAAP. This measure is presented by other metal mining companies, although our measure may not be comparable to similarly titled measures reported by other companies.
+
+Gross Profit per Pound of Copper and per Ounce of Gold
+The following table summarizes the unit net cash costs and gross profit per pound of copper and per ounce of gold at our Indonesia mining operations for the two years ended December 31, 2022. Refer to “Product Revenues and Production Costs” for an explanation of “by-product” and “co-product” methods and a reconciliation of unit net cash costs per pound to production and delivery costs applicable to sales reported in our consolidated financial statements.
+ 	2022		2021
+ 	By-
+Product		Co-Product Method		By-
+Product		Co-Product Method
+Method		Copper		Gold		Method		Copper		Gold
+Revenues, excluding adjustments	$	3.80 			$	3.80 			$	1,787 			$	4.34 			$	4.34 			$	1,796 	
+Site production and delivery, before net noncash	 		 		 		 		 		 
+and other costs shown below	1.58 			1.01 			477 			1.49 			1.03 			424 	
+Gold and silver credits	(2.13)			— 			— 			(1.95)			— 			— 	
+Treatment charges	0.22 			0.14 			65 			0.24 			0.17 			69 	
+Export duties	0.19 			0.12 			58 			0.17 			0.11 			47 	
+Royalty on metals	0.23 			0.15 			69 			0.24 			0.17 			67 	
+Unit net cash costs	0.09 			1.42 			669 			0.19 			1.48 			607 	
+DD&A	0.65 			0.42 			195 			0.80 			0.55 			228 	
+Noncash and other costs, net	0.11 		
+a
+0.07 			35 			0.27 		
+a
+0.18 			77 	
+Total unit costs	0.85 			1.91 			899 			1.26 			2.21 			912 	
+Revenue adjustments, primarily for pricing on											
+prior period open sales	0.02 			0.01 			2 			0.05 			0.05 			(3)	
+PT Smelting intercompany profit (loss)	0.01 			0.01 			3 			(0.07)			(0.05)			(19)	
+Gross profit per pound/ounce	$	2.98 			$	1.91 			$	893 			$	3.06 			$	2.13 			$	862 	
+Copper sales (millions of recoverable pounds)	1,582 			1,582 			 		1,316 			1,316 			 
+Gold sales (thousands of recoverable ounces)	 		 		1,811 			 		 		1,349 	
+ 
+a.Includes charges associated with ARO adjustments totaling $0.07 per pound of copper in 2022 and $0.26 per pound of copper in 2021.
+
+A significant portion of PT-FI’s costs are fixed and unit costs vary depending on volumes and other factors. PT-FI’s unit net cash costs (including gold and silver credits) of $0.09 per pound of copper in 2022, were lower than unit net cash costs of $0.19 per pound of copper in 2021, primarily reflecting higher copper and gold sales volumes, partly offset by higher energy costs and the impact of increased operating rates.
+
+Treatment charges vary with the volume of metals sold and the price of copper, and royalties vary with the volume of metals sold and the prices of copper and gold.
+
+97
+Table of Contents
+PT-FI’s export duties totaled $307 million in 2022 and $218 million in 2021, and PT-FI’s royalties totaled $357 million in 2022 and $319 million in 2021. The increase in export duties and royalties in 2022, compared with 2021, primarily reflects higher sales volumes. As noted above, in late 2022, PT-FI’s export duty rate declined from 5% to 2.5%. Refer to Note 13 for further discussion of PT-FI’s export duties and royalties.
+
+Because certain assets are depreciated on a straight-line basis, PT-FI’s unit depreciation rate may vary with asset
+additions and the level of copper production and sales. The decrease in the DD&A rate per pound of copper in 2022, compared with 2021, primarily reflects higher volumes associated with increased operating rates and the depletion of the DOZ underground mine during 2021, partly offset by significant underground development assets being placed into service.
+
+Revenue adjustments primarily result from changes in prices on provisionally priced copper sales recognized in prior periods. Refer to “Consolidated Results - Revenues” for further discussion of adjustments to prior period provisionally priced copper sales.
+
+PT Smelting intercompany profit (loss) represents the change in the deferral of 39.5% of PT-FI’s profit on
+sales to PT Smelting. Refer to “Smelting and Refining” below for further discussion.
+
+Assuming an average gold price of $1,900 per ounce for 2023 and achievement of current sales volume and cost estimates, unit net cash costs (including gold and silver credits) for PT-FI are expected to approximate $0.22 per pound of copper in 2023. PT-FI’s expected average unit net cash costs for the year 2023 would change by approximately $0.10 per pound of copper for each $100 per ounce change in the average price of gold.
+
+PT-FI’s projected sales volumes and unit net cash costs for the year 2023 are dependent on a number of factors, including operational performance, weather-related conditions, timing of shipments and the Indonesia government’s extension of PT-FI’s export permit. Refer to “Cautionary Statement” below and Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further discussion of factors that could cause results to differ materially from projections, including the February 2023 weather event at PT-FI’s operations.
+
+Molybdenum Mines
+We have two wholly owned molybdenum mines in Colorado - the Henderson underground mine and the Climax open-pit mine. The Henderson and Climax mines produce high-purity, chemical-grade molybdenum concentrate, which is typically further processed into value-added molybdenum chemical products. The majority of the molybdenum concentrate produced at the Henderson and Climax mines, as well as from our North America and South America copper mines, is processed at our own conversion facilities.
+
+Operating and Development Activities. Production from the Molybdenum mines totaled 33 million pounds of molybdenum in 2022 and 30 million pounds in 2021. Refer to “Consolidated Results” for our consolidated molybdenum operating data, which includes sales of molybdenum produced at our Molybdenum mines and from our North America and South America copper mines. Refer to “Outlook” for projected consolidated molybdenum sales volumes.
+
+Unit Net Cash Costs Per Pound of Molybdenum. Unit net cash costs per pound of molybdenum is a measure intended to provide investors with information about the cash-generating capacity of our mining operations expressed on a basis relating to the primary metal product for our respective operations. We use this measure for the same purpose and for monitoring operating performance by our mining operations. This information differs from measures of performance determined in accordance with U.S. GAAP and should not be considered in isolation or as a substitute for measures of performance determined in accordance with U.S. GAAP. This measure is presented by other metals mining companies, although our measure may not be comparable to similarly titled measures reported by other companies.
+
+Average unit net cash costs for our Molybdenum mines of $11.43 per pound of molybdenum in 2022 were higher than $8.87 per pound of molybdenum in 2021, primarily reflecting increased contract labor and higher energy and other input costs, partly offset by higher molybdenum production. Based on current sales volume and cost estimates, average unit net cash costs for the Molybdenum mines are expected to approximate $13.80 per pound of molybdenum in 2023.
+
+98
+Table of Contents
+Refer to “Product Revenues and Production Costs” for a reconciliation of unit net cash costs per pound to production and delivery costs applicable to sales reported in our consolidated financial statements.
+
+Smelting & Refining
+We wholly own and operate the Miami smelter in Arizona, the El Paso refinery in Texas and Atlantic Copper, a
+smelter and refinery in Spain. Additionally, PT-FI has a 39.5% ownership interest in PT Smelting (refer to Note 3).
+
+Treatment charges for smelting and refining copper concentrate consist of a base rate per pound of copper and per ounce of gold and are generally fixed. Treatment charges represent a cost to our mining operations and income to Atlantic Copper. Thus, higher treatment charges benefit the smelter operations and adversely affect our mining operations. Our North America copper mines are less significantly affected by changes in treatment charges because these operations are largely integrated with our Miami smelter and El Paso refinery. Through this form of downstream integration, we are able to assure placement of a significant portion of our concentrate production.
+
+Miami Smelter. In 2021, our Miami smelter completed a major maintenance turnaround and incurred maintenance charges and idle facility costs totaling $87 million. Major maintenance turnarounds are anticipated to occur approximately every two or three years for the Miami smelter. The next major maintenance turnaround is scheduled for the last half of 2024.
+
+Atlantic Copper. Atlantic Copper smelts and refines copper concentrate and markets refined copper and precious metals in slimes. Following is an allocation of Atlantic Copper’s concentrate purchases from unaffiliated third parties and our copper mining operations for the years ended December 31:
+ 	2022		2021
+Third parties	65 	%		66 	%
+Indonesia mining	18 			9 	
+South America mining	10 			7 	
+North America copper mines	7 			18 	
+ 	100 	%		100 	%
+ 
+
+In 2022, Atlantic Copper completed a 78-day major maintenance turnaround and incurred maintenance charges and idle facility costs totaling $41 million. Atlantic Copper’s major maintenance turnarounds typically occur approximately every eight years, with shorter-term maintenance turnarounds in the interim.
+
+At December 31, 2022, Atlantic Copper had take-or-pay contractual obligations for the procurement of copper concentrate totaling $3.6 billion, which provide for deliveries of specified volumes at market-based prices.
+
+PT Smelting. Prior to 2023, PT-FI’s contract with PT Smelting provided for PT-FI to supply 100% of the copper concentrate requirements (subject to a minimum or maximum treatment charge rate) necessary for PT Smelting to produce 205,000 metric tons of copper annually on a priority basis. PT-FI could also then sell copper concentrate to PT Smelting at market rates for quantities in excess of 205,000 metric tons of copper annually. 
+
+Beginning in 2023, PT-FI's commercial arrangement with PT Smelting converted to a tolling arrangement. Under the arrangement, PT-FI pays PT Smelting a tolling fee to smelt and refine its concentrate and will retain title of all products for sale to third parties. This arrangement is not expected to result in a significant change in PT-FI's economics but will impact the timing of PT-FI’s sales during 2023. We estimate that approximately 90 million pounds of copper and 120 thousand ounces of gold from PT-FI’s first-quarter 2023 production will remain in inventory until final sale later in 2023.
+
+PT Smelting received a one-year extension of its anode slimes export license, which currently expires November 3, 2023. Refer to Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further discussion of risks associated with PT Smelting’s export of anode slimes.
+
+PT Smelting’s maintenance turnarounds (which range from two weeks to a month to complete) typically are expected to occur approximately every two years, with short-term maintenance turnarounds in the interim. PT Smelting completed a 30-day maintenance turnaround during December 2020 and an 18-day maintenance turnaround in October 2022. PT Smelting has a planned 75-day shutdown scheduled for mid-2023 associated with its expansion project and a 7-day shutdown scheduled in fourth-quarter 2023 to complete final tie-in of the expansion project.
+99
+Table of Contents
+We defer recognizing profits on sales from our mining operations to Atlantic Copper and on 39.5% of PT-FI’s sales to PT Smelting until final sales to third parties occur. Changes in these deferrals attributable to variability in intercompany volumes resulted in net additions (reductions) to operating income totaling $52 million ($33 million to net income attributable to common stock) in 2022 and $(188) million ($(106) million to net income attributable to common stock) in 2021. Our net deferred profits on our inventories at Atlantic Copper and PT Smelting to be recognized in future periods' operating income totaled $250 million at December 31, 2022. Quarterly variations in ore grades, the timing of intercompany shipments and changes in product prices will result in variability in our net deferred profits and quarterly earnings. As noted above, beginning in 2023, PT-FI's commercial arrangement with PT Smelting converted to a tolling arrangement. Under the arrangement, PT-FI pays PT Smelting a tolling fee to smelt and refine its concentrate and will retain title to all products for sale to third parties (i.e., there are no further sales from PT-FI to PT Smelting).
+
+CAPITAL RESOURCES AND LIQUIDITY
+
+Our consolidated operating cash flows vary with sales volumes; prices realized from copper, gold and molybdenum sales; production costs; income taxes; other working capital changes; and other factors. See “Consolidated Results” and Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further discussion of our energy requirements and related costs.
+
+We believe the actions we have taken in recent years to build a solid balance sheet, successfully expand low-cost operations and maintain flexible organic growth options while maintaining sufficient liquidity, will allow us to continue to execute our business plans in a prudent manner during periods of economic uncertainty while preserving substantial future asset values. We closely monitor market conditions and will adjust our operating plans to protect liquidity and preserve our asset values, if necessary. We expect to maintain a solid balance sheet and strong liquidity position as we focus on building long-term value in our business, executing our operating plans safely, responsibly and efficiently, and prudently managing costs and capital expenditures.
+
+Based on current sales volume, cost and metal price estimates discussed in “Outlook”, our available cash and cash equivalents plus our projected consolidated operating cash flows of $7.2 billion for the year 2023 exceed our expected consolidated capital expenditures of $5.2 billion (which includes $1.8 billion for the Indonesia smelter projects that are being funded with proceeds from PT-FI’s senior notes and its available credit facility).
+
+We have cash on hand and the financial flexibility to fund capital expenditures and our other cash requirements for the year, including noncontrolling interest distributions, income tax payments, debt repayments, current common stock dividends (base and variable) and any share repurchases. At December 31, 2022, we had $8.1 billion of consolidated cash and cash equivalents (which includes $1.8 billion of cash for Indonesia smelter projects). In October 2022, we entered into a $3.0 billion, five-year, fully available unsecured revolving credit facility that replaced our prior revolving credit facility and PT-FI and Cerro Verde have $1.3 billion and $350 million, respectively, of availability under their revolving credit facilities. Refer to “Outlook” for further discussion of projected operating cash flows and capital expenditures for 2023 and to “Debt” below and Note 8 for further discussion.
+
+Financial Policy. Our financial policy is aligned with our strategic objectives of maintaining a solid balance sheet and increasing cash returns to shareholders while advancing opportunities for future growth. The policy includes a base dividend and a performance-based payout framework, whereby up to 50% of available cash flows generated after planned capital spending and distributions to noncontrolling interest would be allocated to shareholder returns and the balance to debt reduction and investments in value enhancing growth projects, subject to us maintaining our net debt at a level not to exceed the net debt target of $3.0 billion to $4.0 billion (excluding project net debt for additional smelting capacity in Indonesia). The Board will review the structure of the performance-based payout framework at least annually.
+
+At December 31, 2022, our net debt, excluding net debt for the Indonesia smelter projects, totaled $1.3 billion. Refer to "Net Debt" for further discussion.
+
+In December 2022, our Board declared cash dividends totaling $0.15 per share on our common stock (including a $0.075 per share quarterly base cash dividend and a $0.075 per share quarterly variable, performance-based cash dividend), which was paid on February 1, 2023, to shareholders of record as of January 13, 2023. Based on current market conditions, the base and variable dividends on our common stock are anticipated to total $0.60 per share for 2023 (including the dividends paid on February 1, 2023), comprised of a $0.30 per share base dividend and $0.30 per share variable dividend. The declaration and payment of dividends (base or variable) is at the discretion of our
+100
+Table of Contents
+Board and will depend on our financial results, cash requirements, global economic conditions and other factors deemed relevant by our Board.
+
+Refer to Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, and “Cautionary Statement” below for further discussion.
+
+Cash
+Following is a summary of the U.S. and international components of consolidated cash and cash equivalents available to the parent company, net of noncontrolling interests’ share, taxes and other costs at December 31, 2022 (in billions):
+Cash at domestic companies	$	4.9 		
+Cash at international operations	3.2 		
+Total consolidated cash and cash equivalents	8.1 		
+Cash for Indonesia smelter projects	(1.8)		
+a
+Noncontrolling interests’ share	(0.4)		
+Cash, net of noncontrolling interests’ share	5.9 		
+Withholding taxes	(0.1)		
+
+Net cash available	$	5.8 		
+ 
+a.Estimated remaining net proceeds from PT-FI’s April 2022 senior notes offering.
+
+Cash held at our international operations is generally used to support our foreign operations’ capital expenditures, operating expenses, debt repayments, working capital or other cash needs. Management believes that sufficient liquidity is available in the U.S. from cash balances and availability from our revolving credit facility. We have not elected to permanently reinvest earnings from our foreign subsidiaries, and we have recorded deferred tax liabilities for foreign earnings that are available to be repatriated to the U.S. From time to time, our foreign subsidiaries distribute earnings to the U.S. through dividends that are subject to applicable withholding taxes and noncontrolling interests’ share. See Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further discussion of our holding company structure and the potential impact of changes in tax laws.
+
+Debt
+At December 31, 2022, consolidated debt totaled $10.6 billion (including $1.0 billion of 3.875% Senior Notes maturing in March 2023, which we expect to pay using cash on hand), with a related weighted-average interest rate of 5.0%. Substantially all of our outstanding debt is fixed rate. We had no borrowings and $8 million in letters of credit issued under our $3.0 billion revolving credit facility. Additionally, no amounts were drawn under PT-FI’s $1.3 billion revolving credit facility or Cerro Verde’s $350 million revolving credit facility.
+
+Refer to Note 8 for further discussion of the above items and for information regarding our debt arrangements.
+
+Operating Activities
+We generated consolidated operating cash flows of $5.1 billion in 2022 (net of $1.5 billion from working capital and other uses) and $7.7 billion in 2021 (including $0.8 billion from working capital and other sources).
+
+Lower operating cash flows for 2022, compared with 2021, primarily reflect the timing of tax payments at our international operations and lower copper prices, partly offset by higher copper and gold sales volumes, and other working capital changes.
+
+Investing Activities
+Capital Expenditures. Capital expenditures, including capitalized interest, totaled $3.5 billion for the year 2022, including $1.7 billion for major mining projects primarily associated with the underground development activities in the Grasberg minerals district and $0.8 billion for the Indonesia smelter projects.
+
+Capital expenditures, including capitalized interest, totaled $2.1 billion for the year 2021, including $1.25 billion for major projects primarily associated with underground development activities in the Grasberg minerals district.
+
+A large portion of the capital expenditures relate to projects that are expected to add significant production and cash flow in future periods, enabling us to continue to generate operating cash flows exceeding capital expenditures in future years. Refer to “Outlook” for further discussion of projected capital expenditures for 2023.
+101
+Table of Contents
+Proceed from Sales of Assets. In September 2021, we completed the sale of our remaining Freeport Cobalt assets to Jervois Global Limited (Jervois) for $208 million, including net cash proceeds of $150 million and shares of Jervois. In May 2022, we sold all our shares in Jervois for proceeds of $60 million. Refer to Note 2 for further discussion.
+
+Loans to PT Smelting for Expansion. PT-FI made loans to PT Smelting totaling $65 million in 2022 and $36 million in 2021 to fund PT Smelting’s expansion project. Refer to Note 3 and “Operations - Indonesia Mining” for further discussion.
+
+Acquisition of Minority Interest in PT Smelting. On April 30, 2021, PT-FI acquired 14.5% of the outstanding common stock of PT Smelting for $33 million, increasing its ownership interest from 25.0% to 39.5%. Refer to Note 2 for further discussion.
+
+Financing Activities
+Debt Transactions. Net borrowings of debt totaled $1.2 billion in 2022 and net repayments of debt totaled $0.3 billion in 2021. Net borrowings for 2022 included PT-FI’s $3.0 billion senior notes offering that was completed in April 2022, partly offset by the purchases of our senior notes in open market transactions ($1.0 billion), and the repayment of borrowings under PT-FI’s term loan ($0.6 billion) and Cerro Verde’s term loan ($0.3 billion).
+Net repayments of debt totaled $0.3 billion in 2021, primarily reflecting the redemption of $0.5 billion of senior notes and repayments of $0.2 billion under Cerro Verde’s term loan, partly offset by borrowings under the PT-FI term loan ($0.4 billion).
+
+Refer to Note 8 for further discussion.
+
+Cash Dividends on Common Stock. We paid cash dividends on our common stock totaling $0.9 billion in 2022 and $0.3 billion in 2021. The increase in cash dividends in 2022 relates to the quarterly variable, performance-based cash dividend paid on our common stock. The declaration and payment of dividends (base or variable) is at the discretion of our Board and will depend on our financial results, cash requirements, global economic conditions and other factors deemed relevant by our Board. Refer to Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, “Cautionary Statement” below.
+
+Cash Dividends and Distributions Paid to Noncontrolling Interests. Cash dividends and distributions paid to noncontrolling interests at our international operations totaled $0.8 billion in 2022 and $0.6 billion in 2021. Based on the current sales volume, cost estimates and assumed average prices in 2023 discussed in “Outlook,” and the change in FCX’s economic interest in PT-FI (refer to Note 3), we currently expect cash dividends and distributions paid to noncontrolling interests to exceed $1.8 billion in 2023. Cash dividends and distributions to noncontrolling interests vary based on the operating results and cash requirements of our consolidated subsidiaries.
+
+Treasury Stock Purchases. In July 2022, the Board authorized an increase in the share repurchase program up to $5.0 billion. We have acquired 47.86 million shares of our common stock for a total cost of $1.8 billion ($38.35 average cost per share), including 35.12 million shares for a total cost of $1.3 billion ($38.36 cost per share) during 2022 and 12.74 million shares for a total cost of $0.5 billion ($38.32 cost per share) in 2021.
+
+As of February 15, 2023, $3.2 billion remains available under the share repurchase program. The timing and amount of share repurchases is at the discretion of management and will depend on a variety of factors. The share repurchase program may be modified, increased, suspended or terminated at any time at the Board’s discretion. Refer to Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, “Cautionary Statement” below and discussion of our financial policy above.
+
+Contributions from Noncontrolling Interests. We received equity contributions totaling $0.2 billion in both 2022 and 2021 from PT Indonesia Asahan Aluminum (Persero) (PT Inalum, also known as MIND ID) for its share of capital spending on the underground mine development projects in the Grasberg minerals district. Beginning on January 1, 2023, capital spending at PT-FI is being shared in accordance with the shareholders’ ownership interests.
+
+Stock-based awards. Proceeds from exercised stock options totaled $125 million in 2022 and $210 million in 2021, and payments for related employee taxes totaled $55 million in 2022 and $29 million in 2021. See Note 10 for a discussion of stock-based awards.
+
+102
+Table of Contents
+CONTINGENCIES
+
+Refer to Note 12 and “Critical Accounting Estimates,” and Items 1. and 2. “Business and Properties” and Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further information about contingencies associated with environmental matters and AROs.
+
+Environmental
+The cost of complying with environmental laws is a fundamental and substantial cost of our business. At December 31, 2022, we had $1.7 billion recorded in our consolidated balance sheet for environmental obligations attributed to CERCLA or analogous state programs and for estimated future costs associated with environmental obligations that are considered probable based on specific facts and circumstances.
+
+We incurred environmental capital expenditures and other environmental costs (including our joint venture partners’ shares) to comply with applicable environmental laws and regulations that affect our operations totaling $0.4 billion in 2022 and $0.3 billion in 2021. For 2023, we expect to incur approximately $0.6 billion of aggregate environmental capital expenditures and other environmental costs. The timing and amount of estimated payments could change as a result of changes in regulatory requirements, changes in scope and timing of remediation, the settlement of environmental matters and the rate at which actual spending occurs on continuing matters.
+
+Asset Retirement Obligations
+We recognize AROs as liabilities when incurred, with the initial measurement at fair value. These obligations, which are initially estimated based on discounted cash flow estimates, are accreted to full value over time through charges to cost of sales. Mine reclamation costs for disturbances are recorded as an ARO and as a related asset retirement cost (included in property, plant, equipment and mine development costs) in the period of disturbance. For non-operating properties without mineral reserves, changes to the ARO are recorded in earnings. Our cost estimates are reflected on a third-party cost basis and comply with our legal obligation to retire tangible, long-lived assets. At December 31, 2022, we had $3.0 billion recorded in our consolidated balance sheet for AROs, including $0.3 billion related to our oil and gas properties. Spending on AROs totaled $0.2 billion in 2022 and 2021 (including $0.1 billion in 2022 and 2021 for our oil and gas operations). For 2023, we expect to incur approximately $0.2 billion in aggregate ARO expenditures (including $0.1 billion for our oil and gas operations).
+
+PT-FI recorded ARO adjustments of $131 million in 2022 and $397 million in 2021, of which $116 million and $340 million, respectively, were charged to production and delivery costs as they relate to the depleted Grasberg open pit. Our Morenci and Bagdad mines recorded ARO adjustments in 2022 totaling $118 million and $65 million, respectively, associated with their updated closure strategies and plans for stockpiles and tailings impoundments that were submitted to the Arizona Department of Environmental Quality for approval.
+
+Litigation and Other Contingencies
+Refer to Note 12, and Item 1A. “Risk Factors” and Item 3. “Legal Proceedings” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further discussion of contingencies associated with legal proceedings and other matters.
+
+DISCLOSURES ABOUT MARKET RISKS
+
+Commodity Price Risk
+Our 2022 consolidated revenues from our mining operations include the sale of copper concentrate, copper cathode, copper rod, gold, molybdenum and other metals by our North America and South America mines, the sale of copper concentrate (which also contains significant quantities of gold and silver) by our Indonesia mining operations, the sale of molybdenum in various forms by our molybdenum operations, and the sale of copper cathode, copper anode and gold in anode and slimes by Atlantic Copper. Our financial results will vary with fluctuations in the market prices of the commodities we produce, primarily copper and gold, and to a lesser extent molybdenum. For projected sensitivities of our operating cash flow to changes in commodity prices, refer to “Outlook.” World market prices for these commodities have fluctuated historically and are affected by numerous factors beyond our control. Refer to Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022, for further discussion of financial risks associated with fluctuations in the market prices of the commodities we sell.
+
+103
+Table of Contents
+During 2022, our mined copper was sold 61% in concentrate, 18% as cathode and 21% as rod from North America operations. Substantially all of our copper concentrate and cathode sales contracts provide final copper pricing in a specified future month (generally one to four months from the shipment date) based primarily on quoted LME monthly average copper settlement prices. We receive market prices based on prices in the specified future period, which results in price fluctuations recorded through revenues until the date of settlement. We record revenues and invoice customers at the time of shipment based on then-current LME prices, which results in an embedded derivative on our provisionally priced concentrate and cathode sales that is adjusted to fair value through earnings each period, using the period-end forward prices, until final pricing on the date of settlement. To the extent final prices are higher or lower than what was recorded on a provisional basis, an increase or decrease to revenues is recorded each reporting period until the date of final pricing. Accordingly, in times of rising copper prices, our revenues benefit from adjustments to the final pricing of provisionally priced sales pursuant to contracts entered into in prior periods; in times of falling copper prices, the opposite occurs.
+
+Following are the favorable impacts of net adjustments to the prior years’ provisionally priced copper sales for the years ended December 31 (in millions, except per share amounts):
+ 	2022	 	2021	 
+Revenues	$	60 			$	169 		
+Net income attributable to common stock	$	25 			$	65 		
+Net income per share attributable to common stock	$	0.02 			$	0.04 		
+ 
+
+At December 31, 2022, we had provisionally priced copper sales at our copper mining operations totaling 535 million pounds of copper (net of intercompany sales and noncontrolling interests) recorded at an average price of $3.80 per pound, subject to final pricing over the next several months. We estimate that each $0.05 change in the price realized from the December 31, 2022, provisional price recorded would have an approximate $40 million effect on 2023 revenues ($13 million to net income attributable to common stock). The LME copper settlement price closed at $4.12 per pound on January 31, 2023.
+
+Foreign Currency Exchange Risk
+The functional currency for most of our operations is the U.S. dollar. Substantially all of our revenues and a significant portion of our costs are denominated in U.S. dollars; however, some costs and certain asset and liability accounts are denominated in local currencies, including the Indonesia rupiah, Peruvian sol, Chilean peso and euro. We recognized foreign currency translation gains on balances denominated in foreign currencies totaling $9 million in 2022 and $66 million in 2021. Generally, our operating results are positively affected when the U.S. dollar strengthens in relation to those foreign currencies and are adversely affected when the U.S. dollar weakens in relation to those foreign currencies.
+
+Following is a summary of estimated annual payments and the impact of changes in foreign currency rates on our annual operating costs:
+Exchange Rate per $1
+at December 31,	Estimated Annual Payments		
+10% Change in
+Exchange Rate
+(in millions of U.S. dollars)a
+ 	2022		2021		(in local currency)		
+(in millions of U.S. dollars)b
+Increase		Decrease
+Indonesia	 		 		 		 		 		 
+Rupiah	15,652 			14,198 			13.0 trillion		$	831 			$	(76)			$	92 	
+Australian dollar	1.47 			1.37 			277 million		$	188 			$	(17)			$	21 	
+South America	 		 								
+Peruvian sol	3.82 			4.00 			3.1 billion		$	809 			$	(74)			$	90 	
+Chilean peso	856 			845 			201 billion		$	235 			$	(21)			$	26 	
+Atlantic Copper	 		 								
+Euro	0.94 			0.88 			179 million		$	191 			$	(17)			$	21 	
+ 
+a.Reflects the estimated impact on annual operating costs assuming a 10% increase or decrease in the exchange rate reported at December 31, 2022.
+b.Based on exchange rates at December 31, 2022.
+
+104
+Table of Contents
+Interest Rate Risk
+At December 31, 2022, we had total debt maturities based on principal amounts of $10.7 billion, substantially all of which was fixed-rate debt. The table below presents average interest rates for our scheduled maturities of principal for our outstanding debt and the related fair values at December 31, 2022 (in millions, except percentages):
+ 	2023		2024		2025		2026		2027		Thereafter		Fair Value
+Fixed-rate debt	$	1,000 			$	731 			$	4 			$	4 			$	1,338 			$	7,581 			$	10,060 	
+Average interest rate	3.9 	%		4.5 	%		— 	%		— 	%		5.0 	%		5.2 	%		5.0 	%
+Variable-rate debt	$	37 			$	— 			$	— 			$	— 			$	— 			$	— 			$	37 	
+Average interest rate	3.3 	%		— 	%		— 	%		— 	%		— 	%		— 	%		3.3 	%
+ 
+
+NEW ACCOUNTING STANDARDS
+
+We did not adopt any new accounting standards in 2022 that had a material impact on our consolidated financial statements.
+
+NET DEBT
+
+Net debt, which we define as consolidated debt less consolidated cash and cash equivalents, is intended to provide investors with information related to the performance-based payout framework in our financial policy, which requires achievement of a net debt target in the range of $3 billion to $4 billion (excluding project debt for additional smelting capacity in Indonesia). This information differs from consolidated debt determined in accordance with U.S. GAAP and should not be considered in isolation or as a substitute for consolidated debt determined in accordance with U.S. GAAP. Our net debt, which may not be comparable to similarly titled measures reported by other companies, follows (in billions):
+As of December 31, 2022		As of December 31, 2021	
+Current portion of debt	$	1.0 			$	0.4 		
+Long-term debt, less current portion	9.6 			9.1 		
+Consolidated debt	10.6 			9.5 		
+Less: consolidated cash and cash equivalents	8.1 			8.1 		
+Net debt	2.5 			1.4 		
+Less: net debt for Indonesia smelter projectsa
+1.2 			0.2 		
+FCX net debt, excluding Indonesia smelter projects	$	1.3 			1.2 		
+ 
+a.Includes consolidated debt of $3.0 billion and consolidated cash and cash equivalents of $1.8 billion as of December 31, 2022, and consolidated debt of $0.4 billion and consolidated cash and cash equivalents of $0.2 billion as of December 31, 2021.
+
+105
+Table of Contents
+PRODUCT REVENUES AND PRODUCTION COSTS
+
+Mining Product Revenues and Unit Net Cash Costs
+Unit net cash costs per pound of copper and molybdenum are measures intended to provide investors with information about the cash-generating capacity of our mining operations expressed on a basis relating to the primary metal product for the respective operations. We use this measure for the same purpose and for monitoring operating performance by our mining operations. This information differs from measures of performance determined in accordance with U.S. GAAP and should not be considered in isolation or as a substitute for measures of performance determined in accordance with U.S. GAAP. These measures are presented by other metals mining companies, although our measures may not be comparable to similarly titled measures reported by other companies.
+
+We present gross profit per pound of copper in the following tables using both a “by-product” method and a “co-product” method. We use the by-product method in our presentation of gross profit per pound of copper because (i) the majority of our revenues are copper revenues, (ii) we mine ore, which contains copper, gold, molybdenum and other metals, (iii) it is not possible to specifically assign all of our costs to revenues from the copper, gold, molybdenum and other metals we produce, (iv) it is the method used to compare mining operations in certain industry publications and (v) it is the method used by our management and the Board to monitor operations and to compare mining operations in certain industry publications. In the co-product method presentations, shared costs are allocated to the different products based on their relative revenue values, which will vary to the extent our metals sales volumes and realized prices change.
+
+We show revenue adjustments for prior period open sales as separate line items. Because these adjustments do not result from current period sales, these amounts have been reflected separately from revenues on current period sales. Noncash and other costs, which are removed from site production and delivery costs in the calculation of unit net cash costs, consist of items such as stock-based compensation costs, long-lived asset impairments, idle facility costs, feasibility and optimization study costs, restructuring and/or unusual charges. As discussed above, gold, molybdenum and other metal revenues at copper mines are reflected as credits against site production and delivery costs in the by-product method. The following schedules are presentations under both the by-product and co-product methods together with reconciliations to amounts reported in our consolidated financial statements.
+
+106
+Table of Contents
+North America Copper Mines Product Revenues, Production Costs and Unit Net Cash Costs
+Year Ended December 31, 2022		 		 
+(In millions)		By-Product		Co-Product Method
+Method		Copper		
+Molybdenuma
+Otherb
+Total
+Revenues, excluding adjustments		$	6,007 		
+
+$	6,007 			$	512 			$	127 			$	6,646 	
+Site production and delivery, before net noncash
+    and other costs shown below		3,799 			3,478 			383 			96 			3,957 	
+By-product credits		(481)			— 			— 			— 			— 	
+Treatment charges		149 			144 			— 			5 			149 	
+Net cash costs		3,467 			3,622 			383 			101 			4,106 	
+DD&A		409 			377 			26 			6 			409 	
+Metals inventory adjustments		16 			14 			2 			— 			16 	
+Noncash and other costs, net		167 		
+c
+152 			12 			3 			167 	
+Total costs		4,059 			4,165 			423 			110 			4,698 	
+Other revenue adjustments, primarily for pricing
+    on prior period open sales		(13)			(13)			— 			— 			(13)	
+Gross profit		$	1,935 			$	1,829 			$	89 			$	17 			$	1,935 	
+ 		 		 		 		 
+Copper sales (millions of recoverable pounds)		1,472 			1,472 							
+Molybdenum sales (millions of recoverable pounds)a
+29 					
+Gross profit per pound of copper/molybdenum:					
+Revenues, excluding adjustments		$	4.08 			$	4.08 			$	17.87 					
+Site production and delivery, before net noncash
+    and other costs shown below		2.58 			2.36 			13.35 					
+By-product credits		(0.33)			— 			— 					
+Treatment charges		0.10 			0.10 			— 					
+Unit net cash costs		2.35 			2.46 			13.35 					
+DD&A		0.28 			0.26 			0.90 					
+Metals inventory adjustments		0.01 			0.01 			0.05 					
+Noncash and other costs, net		0.12 		
+c
+0.10 			0.47 					
+Total unit costs		2.76 			2.83 			14.77 					
+Other revenue adjustments, primarily for pricing
+    on prior period open sales		(0.01)			(0.01)			— 					
+Gross profit per pound		$	1.31 			$	1.24 			$	3.10 					
+Reconciliation to Amounts Reported								
+ 		 				Metals		
+ 		 		Production				Inventory		
+Revenues		and Delivery		DD&A		Adjustments		
+Totals presented above		$	6,646 			$	3,957 			$	409 			$	16 			
+Treatment charges		(22)			127 			— 			— 			
+Noncash and other costs, net		— 			167 			— 			— 			
+Other revenue adjustments, primarily for pricing
+    on prior period open sales		(13)			— 			— 			— 			
+Eliminations and other		99 			110 			1 			— 			
+North America copper mines		6,710 			4,361 			410 			16 			
+Other miningd
+22,464 			14,886 			1,539 			13 			
+Corporate, other & eliminations		(6,394)			(6,206)			70 			— 			
+As reported in our consolidated financial statements		$	22,780 			$	13,041 			$	2,019 			$	29 			
+ 
+a.Reflects sales of molybdenum produced by certain of the North America copper mines to our molybdenum sales company at market-based pricing.
+b.Includes gold and silver product revenues and production costs.
+c.Includes charges totaling $86 million ($0.06 per pound of copper) for feasibility and optimization studies.
+d.Represents the combined total for our other mining operations as presented in Note 16.
+
+
+
+107
+Table of Contents
+North America Copper Mines Product Revenues, Production Costs and Unit Net Cash Costs
+Year Ended December 31, 2021		 		 
+(In millions)		By-Product		Co-Product Method
+Method		Copper	 	
+Molybdenuma
+Otherb
+Total
+Revenues, excluding adjustments		$	6,174 			$	6,174 			$	481 			$	120 			$	6,775 	
+Site production and delivery, before net noncash
+    and other costs shown below		3,051 			2,820 			278 			75 			3,173 	
+By-product credits		(479)			— 			— 			— 			— 	
+Treatment charges		135 			130 			— 			5 			135 	
+Net cash costs		2,707 			2,950 			278 			80 			3,308 	
+DD&A		368 			340 			21 			7 			368 	
+Metals inventory adjustments		13 			13 			— 			— 			13 	
+Noncash and other costs, net		105 		
+c
+102 			1 			2 			105 	
+Total costs		3,193 			3,405 			300 			89 			3,794 	
+Other revenue adjustments, primarily for pricing
+    on prior period open sales		7 			7 			— 			— 			7 	
+Gross profit		$	2,988 			$	2,776 			$	181 			$	31 			$	2,988 	
+Copper sales (millions of recoverable pounds)		1,436 			1,436 							
+Molybdenum sales (millions of recoverable pounds)a
+34 					
+Gross profit per pound of copper/molybdenum:					
+Revenues, excluding adjustments		$	4.30 			$	4.30 			$	14.14 					
+Site production and delivery, before net noncash
+    and other costs shown below		2.13 			1.96 			8.17 					
+By-product credits		(0.33)			— 			— 					
+Treatment charges		0.09 			0.09 			— 					
+Unit net cash costs		1.89 			2.05 			8.17 					
+DD&A		0.25 			0.24 			0.62 					
+Metals inventory adjustments		0.01 			0.01 			— 					
+Noncash and other costs, net		0.07 		
+c
+0.07 			0.03 					
+Total unit costs		2.22 			2.37 			8.82 					
+Other revenue adjustments, primarily for pricing
+    on prior period open sales		— 			— 			— 					
+Gross profit per pound		$	2.08 			$	1.93 			$	5.32 					
+Reconciliation to Amounts Reported		 		 	 	 		 		 
+ 		 	 			Metals		
+ 		 		Production	 			Inventory		
+Revenues		and Delivery	 	DD&A		Adjustments		
+Totals presented above		$	6,775 			$	3,173 			$	368 			$	13 			
+Treatment charges		(24)			111 			— 			— 			
+Noncash and other costs, net		— 			105 			— 			— 			
+Other revenue adjustments, primarily for pricing
+    on prior period open sales		7 			— 		 	— 			— 			
+Eliminations and other		67 			72 			1 			— 			
+North America copper mines		6,825 			3,461 		 	369 			13 			
+Other miningd
+22,229 			14,395 			1,562 			1 			
+Corporate, other & eliminations		(6,209)			(5,840)			67 			2 			
+As reported in our consolidated financial statements		$	22,845 			$	12,016 			$	1,998 			$	16 			
+ 
+a.Reflects sales of molybdenum produced by certain of the North America copper mines to our molybdenum sales company at market-based pricing.
+b.Includes gold and silver product revenues and production costs.
+c.Includes charges totaling $32 million ($0.02 per pound of copper) for feasibility and optimization studies. Also, includes credits totaling $27 million ($0.02 per pound of copper) associated with refunds of Arizona transaction privilege taxes related to purchased electricity.
+d.Represents the combined total for our other mining operations as presented in Note 16.
+
+
+
+
+108
+Table of Contents
+South America Mining Product Revenues, Production Costs and Unit Net Cash Costs
+Year Ended December 31, 2022	 		 		 		 
+(In millions)	By-Product		Co-Product Method
+Method		Copper		
+Othera
+Total
+Revenues, excluding adjustments	$	4,413 			$	4,413 			$	451 			$	4,864 	
+Site production and delivery, before net noncash
+    and other costs shown below	2,929 			2,705 			281 			2,986 	
+By-product credits	(394)			— 			— 			— 	
+Treatment charges	170 			170 			— 			170 	
+Royalty on metals	10 			9 			1 			10 	
+Net cash costs	2,715 			2,884 			282 			3,166 	
+DD&A	408 			370 			38 			408 	
+Metals inventory adjustments	13 			12 			1 			13 	
+Noncash and other costs, net	80 			76 			4 			80 	
+Total costs	3,216 			3,342 			325 			3,667 	
+Other revenue adjustments, primarily for pricing
+    on prior period open sales	35 			35 			— 			35 	
+Gross profit	$	1,232 			$	1,106 			$	126 			$	1,232 	
+Copper sales (millions of recoverable pounds)	1,162 			1,162 					
+Gross profit per pound of copper:			
+Revenues, excluding adjustments	$	3.80 			$	3.80 					
+Site production and delivery, before net noncash
+    and other costs shown below	2.52 			2.33 					
+By-product credits	(0.34)			— 					
+Treatment charges	0.15 			0.14 					
+Royalty on metals	0.01 			0.01 					
+Unit net cash costs	2.34 			2.48 					
+DD&A	0.35 			0.32 					
+Metals inventory adjustments	0.01 			0.01 					
+Noncash and other costs, net	0.07 			0.07 					
+Total unit costs	2.77 			2.88 					
+Other revenue adjustments, primarily for pricing
+    on prior period open sales	0.03 			0.03 					
+Gross profit per pound	$	1.06 			$	0.95 					
+Reconciliation to Amounts Reported	 		 		 		
+ 		 				Metals
+ 	 		Production				Inventory
+Revenues		and Delivery		DD&A		Adjustments
+Totals presented above	$	4,864 			$	2,986 			$	408 			$	13 	
+Treatment charges	(170)			— 			— 			— 	
+Royalty on metals	(10)			— 			— 			— 	
+Noncash and other costs, net	— 			80 			— 			— 	
+Other revenue adjustments, primarily for pricing
+    on prior period open sales	35 			— 			— 			— 	
+Eliminations and other	(1)			(5)			— 			— 	
+South America mining	4,718 			3,061 			408 			13 	
+Other miningb
+24,456 			16,186 			1,541 			16 	
+Corporate, other & eliminations	(6,394)			(6,206)			70 			— 	
+As reported in our consolidated financial statements	$	22,780 			$	13,041 			$	2,019 			$	29 	
+ 
+a.Includes silver sales of 4.4 million ounces ($20.82 per ounce average realized price). Also reflects sales of molybdenum produced by Cerro Verde to our molybdenum sales company at market-based pricing.
+b.Represents the combined total for our other mining operations as presented in Note 16.
+
+
+109
+Table of Contents
+South America Mining Product Revenues, Production Costs and Unit Net Cash Costs
+Year Ended December 31, 2021	 		 	 	 		 
+(In millions)	By-Product		Co-Product Method
+Method		Copper	 	
+Othera
+Total
+Revenues, excluding adjustments	$	4,585 			$	4,585 			$	383 			$	4,968 	
+Site production and delivery, before net noncash
+    and other costs shown below	2,349 		
+b
+2,175 			219 			2,394 	
+By-product credits	(338)			— 			— 			— 	
+Treatment charges	140 			140 			— 			140 	
+Royalty on metals	10 			9 			1 			10 	
+Net cash costs	2,161 			2,324 			220 			2,544 	
+DD&A	413 			379 			34 			413 	
+Noncash and other costs, net	38 		
+c
+36 			2 			38 	
+Total costs	2,612 			2,739 			256 			2,995 	
+Other revenue adjustments, primarily for pricing
+    on prior period open sales	99 			99 			— 			99 	
+Gross profit	$	2,072 			$	1,945 			$	127 			$	2,072 	
+Copper sales (millions of recoverable pounds)	1,055 			1,055 					
+Gross profit per pound of copper:			
+Revenues, excluding adjustments	$	4.34 			$	4.34 					
+Site production and delivery, before net noncash
+    and other costs shown below	2.23 		
+b
+2.06 					
+By-product credits	(0.32)			— 					
+Treatment charges	0.13 			0.13 					
+Royalty on metals	0.01 			0.01 					
+Unit net cash costs	2.05 			2.20 					
+DD&A	0.39 			0.37 					
+Noncash and other costs, net	0.03 		
+c
+0.03 					
+Total unit costs	2.47 			2.60 					
+Other revenue adjustments, primarily for pricing
+    on prior period open sales	0.09 			0.09 					
+Gross profit per pound	$	1.96 			$	1.83 					
+Reconciliation to Amounts Reported	 		 	 	 		
+ 		 	 			
+ 	 		Production	 			
+Revenues		and Delivery	 	DD&A		
+Totals presented above	$	4,968 			$	2,394 			$	413 			
+Treatment charges	(140)			— 			— 			
+Royalty on metals	(10)			— 			— 			
+Noncash and other costs, net	— 			38 		 	— 			
+Other revenue adjustments, primarily for pricing
+    on prior period open sales	99 			— 		 	— 			
+Eliminations and other	(1)			(3)			— 			
+South America mining	4,916 			2,429 		 	413 			
+Other miningd
+24,138 			15,427 			1,518 			
+Corporate, other & eliminations	(6,209)			(5,840)			67 			
+As reported in our consolidated financial statements	$	22,845 			$	12,016 			$	1,998 			
+ 
+a.Includes silver sales of 3.7 million ounces ($24.73 per ounce average realized price). Also reflects sales of molybdenum produced by Cerro Verde to our molybdenum sales company at market-based pricing.
+b.Includes nonrecurring charges totaling $92 million ($0.09 per pound of copper) associated with labor-related costs at Cerro Verde.
+c.Includes credits totaling $26 million ($0.03 per pound) associated with favorable adjustments to prior-years’ profit sharing at Cerro Verde.
+d.Represents the combined total for our other mining operations as presented in Note 16.
+
+
+110
+Table of Contents
+Indonesia Mining Product Revenues, Production Costs and Unit Net Cash Costs
+Year Ended December 31, 2022	 		 
+(In millions)	By-Product		Co-Product Method
+Method		Copper		Gold		
+Silvera
+Total
+Revenues, excluding adjustments	$	6,018 			$	6,018 			$	3,237 			$	134 			$	9,389 	
+Site production and delivery, before net noncash
+    and other costs shown below	2,507 			1,607 			864 			36 			2,507 	
+Gold and silver credits	(3,375)			— 			— 			— 			— 	
+Treatment charges	341 			218 			118 			5 			341 	
+Export duties	307 			197 			106 			4 			307 	
+Royalty on metals	357 			230 			124 			3 			357 	
+Net cash costs	137 			2,252 			1,212 			48 			3,512 	
+DD&A	1,025 			657 			353 			15 			1,025 	
+Noncash and other costs, net	182 		
+b
+117 			63 			2 			182 	
+Total costs	1,344 			3,026 			1,628 			65 			4,719 	
+Other revenue adjustments, primarily for pricing
+    on prior period open sales	27 			27 			3 			1 			31 	
+PT Smelting intercompany profit	14 			9 			5 			— 			14 	
+Gross profit	$	4,715 			$	3,028 			$	1,617 			$	70 			$	4,715 	
+Copper sales (millions of recoverable pounds)	1,582 			1,582 							
+Gold sales (thousands of recoverable ounces)					1,811 					
+Gross profit per pound of copper/per ounce of gold:					
+Revenues, excluding adjustments	$	3.80 			$	3.80 			$	1,787 					
+Site production and delivery, before net noncash
+    and other costs shown below	1.58 			1.01 			477 					
+Gold and silver credits	(2.13)			— 			— 					
+Treatment charges	0.22 			0.14 			65 					
+Export duties	0.19 			0.12 			58 					
+Royalty on metals	0.23 			0.15 			69 					
+Unit net cash costs	0.09 			1.42 			669 					
+DD&A	0.65 			0.42 			195 					
+Noncash and other costs, net	0.11 		
+b
+0.07 			35 					
+Total unit costs	0.85 			1.91 			899 					
+Other revenue adjustments, primarily for pricing
+    on prior period open sales	0.02 			0.01 			2 					
+PT Smelting intercompany profit	0.01 			0.01 			3 					
+Gross profit per pound/ounce	$	2.98 			$	1.91 			$	893 					
+Reconciliation to Amounts Reported	 		 		 				 
+ 		 						 
+ 	 		Production						 
+Revenues		and Delivery		DD&A				 
+Totals presented above	$	9,389 			$	2,507 			$	1,025 					 
+Treatment charges	(341)			— 			— 					 
+Export duties	(307)			— 			— 					
+Royalty on metals	(357)			— 			— 					 
+Noncash and other costs, net	11 			193 			— 					 
+Other revenue adjustments, primarily for pricing
+    on prior period open sales	31 			— 			— 					 
+PT Smelting intercompany profit	— 			(14)			— 					
+Eliminations and other	— 			(2)			— 					
+Indonesia mining	8,426 			2,684 			1,025 					 
+Other miningc
+20,748 			16,563 			924 					 
+Corporate, other & eliminations	(6,394)			(6,206)			70 					 
+As reported in our consolidated financial statements	$	22,780 			$	13,041 			$	2,019 					 
+ 
+a.Includes silver sales of 6.3 million ounces ($21.41 per ounce average realized price).
+b.Includes charges totaling $116 million ($0.07 per pound of copper) associated with an ARO adjustment. Also, includes a net charge of $30 million ($0.02 per pound of copper) associated with a settlement of an administrative fine levied by the Indonesia government and a reserve for exposure associated with export duties in prior periods, partially offset by credits for adjustments to prior year treatment and refining charges and historical tax audits.
+c.Represents the combined total for our other mining operations as presented in Note 16.
+111
+Table of Contents
+Indonesia Mining Product Revenues, Production Costs and Unit Net Cash Costs
+Year Ended December 31, 2021	 		 
+(In millions)	By-Product		Co-Product Method
+Method		Copper	 	Gold		
+Silvera
+Total
+Revenues, excluding adjustments	$	5,715 			$	5,715 			$	2,423 			$	143 			$	8,281 	
+Site production and delivery, before net noncash
+    and other costs shown below	1,953 			1,348 			572 			33 			1,953 	
+Gold and silver credits	(2,562)			— 			— 			— 			— 	
+Treatment charges	320 			221 			93 			6 			320 	
+Export duties	218 			150 			64 			4 			218 	
+Royalty on metals	319 			223 			90 			6 			319 	
+Net cash costs	248 			1,942 			819 			49 			2,810 	
+DD&A	1,049 			724 			307 			18 			1,049 	
+Noncash and other costs, net	355 		
+b
+245 			104 			6 			355 	
+Total costs	1,652 			2,911 			1,230 			73 			4,214 	
+Other revenue adjustments, primarily for pricing
+    on prior period open sales	72 			72 			(4)			— 			68 	
+PT Smelting intercompany loss	(86)			(60)			(25)			(1)			(86)	
+Gross profit	$	4,049 			$	2,816 			$	1,164 			$	69 			$	4,049 	
+Copper sales (millions of recoverable pounds)	1,316 			1,316 							
+Gold sales (thousands of recoverable ounces)					1,349 					
+Gross profit per pound of copper/per ounce of gold:					
+Revenues, excluding adjustments	$	4.34 			$	4.34 			$	1,796 					
+Site production and delivery, before net noncash
+    and other credits shown below	1.49 			1.03 			424 					
+Gold and silver credits	(1.95)			— 			— 					
+Treatment charges	0.24 			0.17 			69 					
+Export duties	0.17 			0.11 			47 					
+Royalty on metals	0.24 			0.17 			67 					
+Unit net cash costs	0.19 			1.48 			607 					
+DD&A	0.80 			0.55 			228 					
+Noncash and other costs, net	0.27 		
+b
+0.18 			77 					
+Total unit costs	1.26 			2.21 			912 					
+Other revenue adjustments, primarily for pricing
+    on prior period open sales	0.05 			0.05 			(3)					
+PT Smelting intercompany loss	(0.07)			(0.05)			(19)					
+Gross profit per pound/ounce	$	3.06 			$	2.13 			$	862 					
+Reconciliation to Amounts Reported	 		 	 	 				 
+ 		 	 					 
+ 	 		Production	 					 
+Revenues		and Delivery	 	DD&A				 
+Totals presented above	$	8,281 			$	1,953 			$	1,049 					 
+Treatment charges	(320)			— 			— 					 
+Export duties	(218)			— 			— 					
+Royalty on metals	(319)			— 			— 					 
+Noncash and other costs, net	31 			386 			— 					 
+Other revenue adjustments, primarily for pricing
+    on prior period open sales	68 			— 			— 					 
+PT Smelting intercompany loss	— 			86 			— 					
+Indonesia mining	7,523 			2,425 		 	1,049 					 
+Other miningc
+21,531 			15,431 			882 					 
+Corporate, other & eliminations	(6,209)			(5,840)			67 					 
+As reported in our consolidated financial statements	$	22,845 			$	12,016 			$	1,998 					 
+ 
+a.Includes silver sales of 5.9 million ounces ($24.30 per ounce average realized price).
+b.Includes charges totaling $340 million ($0.26 per pound of copper) associated with an ARO adjustment. Also includes credits of $31 million ($0.02 per pound of copper) associated with adjustments to prior-year treatment and refining charges and charges of $16 million ($0.01 per pound of copper) associated with an administrative fine levied by the Indonesia government.
+c.Represents the combined total for our other mining operations as presented in Note 16.
+112
+Table of Contents
+Molybdenum Mines Product Revenues, Production Costs and Unit Net Cash Costs
+ 	Years Ended December 31,					
+(In millions)	2022		2021					
+Revenues, excluding adjustmentsa
+$	593 			$	470 						 
+Site production and delivery, before net noncash
+    and other costs shown below	347 			243 						 
+Treatment charges and other	28 			26 						 
+Net cash costs	375 			269 						 
+DD&A	74 			67 						 
+Metals inventory adjustments	— 			1 						
+Noncash and other costs, net	12 			10 						
+Total costs	461 			347 						 
+Gross profit	$	132 			$	123 						 
+Molybdenum sales (millions of recoverable pounds)a
+33 			30 						
+Gross profit per pound of molybdenum:		
+Revenues, excluding adjustmentsa
+$	18.08 			$	15.52 						
+Site production and delivery, before net noncash
+    and other costs shown below	10.59 			8.02 						
+Treatment charges and other	0.84 			0.85 						
+Unit net cash costs	11.43 			8.87 						
+DD&A	2.27 			2.22 						
+Metals inventory adjustments	— 			0.03 						
+Noncash and other costs, net	0.37 			0.33 						
+Total unit costs	14.07 			11.45 						
+Gross profit per pound	$	4.01 			$	4.07 						
+Reconciliation to Amounts Reported								
+ 			 			Metals	 
+ 		Production	 			Inventory	 
+Year Ended December 31, 2022	Revenues		and Delivery	 	DD&A		Adjustments	 
+Totals presented above	$	593 			$	347 			$	74 			$	— 		
+Treatment charges and other	(28)			— 			— 			— 		
+Noncash and other costs, net	— 			12 			— 			— 		
+Molybdenum mines	565 			359 			74 			— 		
+Other miningb
+28,609 			18,888 			1,875 			29 		
+Corporate, other & eliminations	(6,394)			(6,206)			70 			— 		
+As reported in our consolidated financial statements	$	22,780 			$	13,041 			$	2,019 			$	29 		
+Year Ended December 31, 2021	 		 	 	 			 
+Totals presented above	$	470 			$	243 			$	67 			$	1 		
+Treatment charges and other	(26)			— 			— 			— 		
+Noncash and other costs, net	— 			10 			— 			— 		 
+Molybdenum mines	444 			253 		 	67 			1 		 
+Other miningb
+28,610 			17,603 			1,864 			13 		
+Corporate, other & eliminations	(6,209)			(5,840)			67 			2 		
+As reported in our consolidated financial statements	$	22,845 			$	12,016 			$	1,998 			$	16 		
+ 
+a.Reflects sales of the Molybdenum mines’ production to the molybdenum sales company at market-based pricing. On a consolidated basis, realizations are based on the actual contract terms for sales to third parties; as a result, our consolidated average realized price per pound of molybdenum will differ from the amounts reported in this table.
+b.Represents the combined total for our other mining operations as presented in Note 16. Also includes amounts associated with the molybdenum sales company, which includes sales of molybdenum produced by the Molybdenum mines and by certain of the North America and South America copper mines.
+
+113
+Table of Contents
+CAUTIONARY STATEMENT
+
+Our discussion and analysis contains forward-looking statements in which we discuss our potential future performance. Forward-looking statements are all statements other than statements of historical facts, such as plans, projections, or expectations relating to business outlook, strategy, goals or targets; global market conditions; ore grades and milling rates; production and sales volumes; unit net cash costs and operating costs; capital expenditures; operating plans; cash flows; liquidity; PT-FI’s financing, construction and completion of additional domestic smelting capacity in Indonesia in accordance with the terms of its IUPK; extension of PT-FI’s IUPK beyond 2041; our commitment to deliver responsibly produced copper and molybdenum, including plans to implement, validate and maintain validation of our operating sites under specific frameworks; execution of our energy and climate strategies and the underlying assumptions and estimated impacts on our business related thereto; achievement of 2030 climate targets and 2050 net zero aspiration; improvements in operating procedures and technology innovations; exploration efforts and results; development and production activities, rates and costs; future organic growth opportunities; tax rates; export quotas and duties; the impact of copper, gold and molybdenum price changes; the impact of deferred intercompany profits on earnings; mineral reserve and mineral resource estimates; final resolution of settlements associated with ongoing legal proceedings; debt repurchases and the ongoing implementation of our financial policy and future returns to shareholders, including dividend payments (base or variable) and share repurchases. The words “anticipates,” “may,” “can,” “plans,” “believes,” “estimates,” “expects,” “projects,” "targets,” “intends,” “likely,” “will,” “should,” “could,” “to be,” ”potential,” “assumptions,” “guidance,” “aspirations,” “future,” “commitments,” “pursues,” “initiatives,” “objectives,” “opportunities,” “strategy” and any similar expressions are intended to identify those assertions as forward-looking statements. The declaration and payment of dividends (base or variable), and timing and amount of any share repurchases is at the discretion of our Board and management, respectively, and is subject to a number of factors, including maintaining our net debt target, capital availability, our financial results, cash requirements, global economic conditions, changes in laws, contractual restrictions and other factors deemed relevant by our Board or management, as applicable. Our share repurchase program may be modified, increased, suspended or terminated at any time at the Board’s discretion.
+
+We caution readers that forward-looking statements are not guarantees of future performance and actual results may differ materially from those anticipated, expected, projected or assumed in the forward-looking statements. Important factors that can cause our actual results to differ materially from those anticipated in the forward-looking statements include, but are not limited to, supply of and demand for, and prices of the commodities we produce, primarily copper; price and availability of consumables and components we purchase as well as constraints on supply and logistics, and transportation services; changes in our cash requirements, financial position, financing or investment plans; changes in general market, economic, regulatory or industry conditions, including as a result of Russia’s invasion of Ukraine or potential global economic downturn or recession; reductions in liquidity and access to capital; changes in tax laws and regulations, including the impact of the Act; any major public health crisis; political and social risks, including the potential effects of violence in Indonesia, civil unrest in Peru, and relations with local communities and Indigenous Peoples; operational risks inherent in mining, with higher inherent risks in underground mining; mine sequencing; changes in mine plans or operational modifications, delays, deferrals or cancellations; production rates; timing of shipments; results of technical, economic or feasibility studies; potential inventory adjustments; potential impairment of long-lived mining assets; the Indonesia government’s extension of PT-FI’s copper concentrate export license after March 19, 2023; PT-FI’s ability to export and sell copper concentrate and anode slimes; satisfaction of requirements in accordance with PT-FI’s IUPK to extend mining rights from 2031 through 2041; the Indonesia government’s approval of a deferred schedule for completion of additional domestic smelting capacity in Indonesia; discussions relating to the extension of PT-FI’s IUPK beyond 2041; cybersecurity incidents; labor relations, including labor-related work stoppages and costs; the results of the PT-FI human health assessment to evaluate the potential impacts of tailings and mining waste, and compliance with applicable environmental, health and safety laws and regulations; weather- and climate-related risks; environmental risks, including availability of secure water supplies, and litigation results; our ability to comply with our responsible production commitments under specific frameworks and any changes to such frameworks and other factors described in more detail in Item 1A. “Risk Factors” contained in Part I of our annual report on Form 10-K for the year ended December 31, 2022.
+
+Investors are cautioned that many of the assumptions upon which our forward-looking statements are based are likely to change after the date the forward-looking statements are made, including for example commodity prices, which we cannot control, and production volumes and costs or technological solutions and innovation, some aspects of which we may not be able to control. Further, we may make changes to our business plans that could affect our results. We caution investors that we undertake no obligation to update any forward-looking statements, which speak only as of the date made, notwithstanding any changes in our assumptions, changes in business plans, actual experience or other changes.
+
+Estimates of mineral reserves and mineral resources are subject to considerable uncertainty. Such estimates are, to a large extent, based on metal prices for the commodities we produce and interpretations of geologic data, which may not necessarily be indicative of future results or quantities ultimately recovered. Our annual report on Form 10-K for the year ended December 31, 2022, also includes forward-looking statements regarding mineral resources not included in proven and probable mineral reserves. A mineral resource, which includes measured, indicated and inferred mineral resources, is a concentration or occurrence of material of economic interest in or on the Earth’s crust in such form, grade or quality, and quantity that there are reasonable prospects for economic extraction. Such a deposit cannot qualify as recoverable proven and probable mineral reserves until legal and economic feasibility are confirmed based upon a comprehensive evaluation of development and operating costs, grades, recoveries and other material modifying factors. Accordingly, no assurance can be given that the estimated mineral resources will become proven and probable mineral reserves.
+114
+Table of Contents
+Our annual report on Form 10-K for the year ended December 31, 2022, also contains financial measures such as net debt and unit net cash costs per pound of copper and molybdenum, which are not recognized under U.S. GAAP. Refer to “Operations - Unit Net Cash Costs” for further discussion of unit net cash costs associated with our operating divisions, and to “Product Revenues and Production Costs” for reconciliations of per pound costs by operating division to production and delivery costs applicable to sales reported in our consolidated financial statements. Refer to “Net Debt” for reconciliations of consolidated debt and consolidated cash and cash equivalents to net debt.

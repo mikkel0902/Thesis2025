@@ -1,0 +1,137 @@
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+(Dollars in tables and graphs in millions)
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations is intended to help the reader understand the results of operations and financial condition of Honeywell International Inc. and its consolidated subsidiaries (Honeywell or the Company) for the three years ended December 31, 2022. All references to Notes relate to Notes to Consolidated Financial Statements in the section titled Financial Statements and Supplementary Data.    
+A detailed discussion of the prior year 2021 to 2020 year-over-year changes is not included herein and can be found in the Management's Discussion and Analysis of Financial Condition and Results of Operations section in the 2021 Annual Report on Form 10-K filed February 11, 2022.
+BUSINESS UPDATE
+In July 2022, we realigned certain business units within the Safety and Productivity Solutions reportable business segment. The Safety and Retail business unit, which included our gas detection and safety business, combined with the Advanced Sensing Technologies business unit to form the Sensing and Safety Technologies business unit. This realignment provides opportunities to capitalize on shared synergies and core technologies resulting in greater value for our customers and the markets we serve. We recast historical periods to reflect this realignment.
+On August 16, 2022, the U.S. federal government enacted the Inflation Reduction Act of 2022 into law. The bill includes numerous tax provisions, including a 15% corporate minimum tax as well as a 1% excise tax on share repurchases. We continue to evaluate the impact of this law on our operations; at this point, the legislation is not expected to have a material impact on our consolidated financial statements.
+MACROECONOMIC CONDITIONS
+Throughout 2022 and continuing into 2023, the global economy experienced and continues to experience significant supply chain disruptions, geopolitical tensions, and inflationary cost pressures.
+Labor shortages continue to place a strain on our operations and the operations of our suppliers, creating challenges in procurement of materials and delivering products and services to our customers. In addition, in certain regions of Asia, the COVID-19 pandemic impacted our business operations and our customers' and suppliers' ability to operate at normal levels. We anticipate supply chain constraints and the inflationary environment to continue into 2023, and in response have implemented short-term and long-term strategies to mitigate the impact.
+Mitigation strategies include pricing actions, material supply tracking tools, refinement of escalation processes to communicate supply shortages, and direct engagement with key suppliers to meet customer demand. Where we cannot procure key components or raw materials, we redesigned existing products or developed new products to satisfy current and changing demand where feasible. Redesigned products, or the development of new products, undergo product quality controls and engineering qualification prior to releasing to our customers. Further, our relationships with primary and secondary suppliers allow us to reliably source key components and raw materials. We believe these mitigation strategies enable us to reduce supply risk, accelerate new product innovation, and expand our penetration in the markets we serve. Additionally, due to the strenuous quality controls and product qualification we perform on new or redesigned products, we do not expect these mitigation strategies to impact product quality or reliability.
+During 2022, the Russia-Ukraine conflict introduced volatility in global financial and energy markets, increasing energy costs and exacerbating existing supply chain constraints, which added to the inflationary pressures in the global economy. We continue to actively work with our suppliers to minimize impacts of supply shortages on our manufacturing capabilities, and we implemented strategies to reduce our reliance on natural gas at critical sites in Europe.
+If we are not successful in sustaining or executing these strategies, these macroeconomic conditions could have a material adverse effect on our consolidated results of operations or operating cash flows.
+See the section titled Review of Business Segments for additional information on the impacts of inflationary cost pressures, supply chain constraints, and labor shortages to our businesses.
+16          Honeywell International Inc.
+TABLE OF CONTENTS
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+ 
+See the section titled Risk Factors for a discussion of risks associated with the potential adverse effects of inflationary cost pressures, supply chain disruptions, and labor shortages to our businesses.
+RUSSIA-UKRAINE CONFLICT
+The Russia-Ukraine conflict, which began in February 2022, continues to negatively impact our businesses and operations and drive global economic and political uncertainty. In response to the Russian invasion of Ukraine, in March 2022, we suspended substantially all of our sales, distribution, and service activities in Russia and Belarus (the Suspension). In June 2022, we approved a plan to wind down our existing businesses and operations in Russia (the Wind down). During September and October 2022, we completed the sale of three entities domiciled in Russia. For our two remaining entities, we are pursuing a voluntary liquidation strategy to completely exit our businesses and operations in Russia. The Suspension and Wind down impacts all reportable business segments, with the most significant impact to our Performance Materials and Technologies reportable business segment.
+In light of the humanitarian crisis created by the Russia-Ukraine conflict, we remain focused on efforts to assist and support our employees and their families impacted by the conflict. In March 2022, we created a Ukraine Relief Fund, allowing employees to make donations to support organizations providing direct assistance to Ukrainians and those that are assisting them in the midst of this humanitarian crisis. Additionally, as the conflict began, we accelerated payroll payments to those affected by the conflict and our initial Suspension of our operations.
+The impacts of the initial Suspension and Wind down to revenue, net income, net assets, or cash flow from operations for the periods recognized are not material to our consolidated results of operations and consolidated financial position. For the year ended December 31, 2021, revenue from sales in Russia represented approximately 1% of our global revenues, and assets in Russia represented less than 1% of our total assets. Our estimate of potential future losses or other contingencies related to the Suspension and Wind down activities, including any guarantee payments or any litigation costs or as otherwise related to our Wind down in Russia, could adversely affect our consolidated results of operations in the periods recognized but would not be material with respect to our consolidated financial position. As the conflict evolves, existing conditions may worsen or other impacts that are unknown at this time may arise that could have a material adverse effect on our consolidated financial position.
+See the section titled Review of Business Segments for additional information on the impacts of the Russia-Ukraine conflict to our businesses.
+See Note 2 Acquisitions and Divestitures and Note 4 Repositioning and Other Charges of Notes to Consolidated Financial Statements for additional information on the sale of our Russian entities and charges recognized related to the Suspension and Wind down, respectively.
+See the section titled Risk Factors for additional information on potential risks to our business related to the Russia-Ukraine conflict.
+17          Honeywell International Inc.
+TABLE OF CONTENTS
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+ 
+RESULTS OF OPERATIONS
+Consolidated Financial Results
+hon-20221231_g20.jpg
+Net Sales by Segment
+hon-20221231_g21.jpg
+18          Honeywell International Inc.
+TABLE OF CONTENTS
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+ 
+Segment Profit by Segment
+hon-20221231_g22.jpg
+19          Honeywell International Inc.
+TABLE OF CONTENTS
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+ 
+CONSOLIDATED OPERATING RESULTS
+Net Sales
+hon-20221231_g23.jpg
+The change in net sales was attributable to the following: 
+2022 Versus 2021
+2021 Versus 2020
+Volume	(4)	%	1 	%
+Price	10 	%	3 	%
+Foreign currency translation	(3)	%	1 	%
+Acquisitions, divestitures, and other, net	— 	%	— 	%
+Total % change in Net sales	3 	%	5 	%
+ 
+
+2022 compared with 2021
+A discussion of net sales by reportable business segment can be found in the Review of Business Segments section of this Management Discussion and Analysis.
+Net sales increased due to the following:
+•Increased pricing,
+•Partially offset by lower sales volumes, and
+•The unfavorable impact of foreign currency translation, driven by the strengthening of the U.S. Dollar against the currencies of the majority of our international markets, primarily the Euro, British Pound, Turkish Lira, Chinese Renminbi, and Australian Dollar.
+
+Reconciliation of Reported Sales % Change to Organic Sales % Change and Organic Sales % Change Excluding Lost Russian Sales
+2022 Versus 2021
+2021 Versus 2020
+Total Reported % change in Net sales	3 	%	5 	%
+Less: Foreign currency translation	(3)	%	1 	%
+Less: Acquisitions, divestitures, and other, net	— 	%	— 	%
+Total Organic(1) % change in Net sales
+6 	%	4 	%
+Less: Sales decline attributable to lost Russian sales(2)
+(1)	%	— 	%
+Total Organic % change excluding lost Russian sales	7 	%	4 	%
+ 
+(1)    Organic sales % change, presented for all of our reportable business segments, is defined as the change in net sales, excluding the impact on sales from foreign currency translation and acquisitions, net of divestitures, for the first 12 months following the transaction date. We believe this non-GAAP measure is useful to investors and management in understanding the ongoing operations and analysis of ongoing operating trends.
+(2)     Lost Russian sales is defined as the year-over-year decline in sales due to the decision to wind down our businesses and operations in Russia. This does not reflect management’s estimate of 2022 Russian sales absent the decision to wind down our businesses and operations in Russia.
+20          Honeywell International Inc.
+TABLE OF CONTENTS
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+ 
+Cost of Products and Services Sold
+hon-20221231_g24.jpg
+2022 compared with 2021
+Cost of products and services sold increased in 2022 primarily due to the following:
+•Higher direct and indirect material costs and higher labor costs of approximately $1.4 billion or 6%,
+•Partially offset by lower sales volumes of approximately $1 billion or 4%.
+Gross Margin
+hon-20221231_g25.jpg
+2022 compared with 2021
+Gross margin increased by approximately $0.6 billion and gross margin percentage increased 80 basis points to 32.8% compared to 32.0% for the same period of 2021.
+21          Honeywell International Inc.
+TABLE OF CONTENTS
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+ 
+Selling, General and Administrative Expenses
+hon-20221231_g26.jpg
+2022 compared with 2021
+Selling, general and administrative expenses increased primarily due to the following:
+•Higher repositioning and other costs of approximately $0.2 billion or 4%, including charges and accrual of reserves directly attributable to the initial Suspension and Wind down of businesses and operations in Russia, and
+•Higher labor costs of $0.1 billion or 2%.
+Other (Income) Expense
+2022		2021		2020
+Other (income) expense	$	(366)			$	(1,378)			$	(675)	
+ 
+2022 compared with 2021
+Other income decreased primarily due to the following:
+•Lower pension and other postretirement income of approximately $0.6 billion, and
+•Net expenses related to the NARCO Buyout and HWI Sale of approximately $0.3 billion.
+For additional information regarding the NARCO Buyout and HWI Sale, see Note 19 Commitments and Contingencies of Notes to Consolidated Financial Statements.
+22          Honeywell International Inc.
+TABLE OF CONTENTS
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+ 
+Tax Expense
+hon-20221231_g27.jpg
+2022 compared with U.S. Statutory Rate
+The effective tax rate for 2022 was higher than the U.S. federal statutory rate of 21% primarily due to the following:
+•Tax expense from restructuring, incremental tax reserves, and state taxes, representing a 320 basis-point increase,
+•Offset by benefits received from employee share-based payments and tax credits, representing a 210 basis-point decrease.
+For further discussion of changes in the effective tax rate, see Note 5 Income Taxes of Notes to Consolidated Financial Statements.
+Net Income Attributable to Honeywell
+hon-20221231_g28.jpg
+2022 compared with 2021
+Earnings per share of common stock–assuming dilution decreased primarily due to the following:
+•Higher repositioning and other charges, including charges and accrual of reserves directly attributable to the initial Suspension and Wind down of businesses and operations in Russia and net charges for the NARCO Buyout and HWI Sale, impacted earnings per share by $0.86 after tax, and
+•Higher pension mark-to-market expense and lower pension income impacted earnings per share by $0.69 after tax,
+•Partially offset by higher segment profit from our reportable business segments impacted earnings per share by $0.53 after tax.

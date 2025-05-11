@@ -1,0 +1,117 @@
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+(Dollars in tables and graphs in millions)
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations is intended to help the reader understand the results of operations and financial condition of Honeywell International Inc. and its consolidated subsidiaries (Honeywell or the Company) for the three years ended December 31, 2021. All references to Notes relate to Notes to Consolidated Financial Statements in the section titled Financial Statements and Supplementary Data.
+On November 29, 2021, Honeywell Quantum Solutions, a wholly-owned subsidiary of Honeywell, which was previously reported within the Aerospace reportable business segment, combined with Cambridge Quantum Computing, to form Quantinuum. Following the combination, Honeywell consolidated and reported Quantinuum within Corporate and All Other. Quantinuum is considered a separate operating segment, but does not meet aggregation criteria for presentation as a separate reportable segment. For this reason, it is reported within Corporate and All Other, which is not considered a reportable business segment. For the eleven months ended November 30, 2021 and the years ended December 31, 2020 and 20219, Honeywell Quantum Solutions incurred operating losses of $50 million, $41 million, and $36 million, respectively. Prior to November 29, 2021, our Aerospace business segment included the operating results of Honeywell Quantum Solutions.
+Quantinuum is well-positioned to lead the quantum computing industry by offering advanced, fully integrated hardware and software solutions at an unprecedented pace, scale, and level of performance to large high-growth markets worldwide. Quantinuum supports customer needs for improved computation in cyber security, drug discovery and delivery, material science, finance, and optimization across all major industrial markets.
+A detailed discussion of the prior year 2020 to 2019 year-over-year changes is not included herein and can be found in the Management's Discussion and Analysis of Financial Condition and Results of Operations section in the 2020 Annual Report on Form 10-K filed February 12, 2021.
+COVID-19 UPDATE
+In 2021, the COVID-19 pandemic continues to have a significant impact around the world. Many jurisdictions worldwide continue to distribute vaccines as a method to limit and control infections; however, the pandemic continues to impact our business as vaccine efforts face challenges and new variants of the virus emerge. Select governments continue to place restrictions on businesses (impacting manufacturing capabilities and distribution channels). Global supply shortages emerged for certain products (including electrical components), leading to delays in delivery schedules. Historically reliable supply chains were disrupted, impacting certain of our businesses. In certain parts of the world, labor shortages intensified.
+These events continue to impact our business operations. As new variants of the virus emerge, we remain cautious as many factors remain unpredictable. We actively monitor and respond to the changing conditions created by the pandemic, with focus on prioritizing the health and safety of our employees, dedicating resources to support our communities, and innovating to address our customers’ needs.
+In 2021, we actively promoted vaccines as a mechanism to protect the health of our employees. We supported several large-scale vaccination events to provide vaccines to our employees, their families, and the surrounding communities. In situations when local medical care was unavailable, we provided additional support to our employees to ensure they received the medical care needed. We continue to adapt our safety and hygiene protocols to enable our manufacturing employees to operate safely through the pandemic. We also continue to utilize our procedures for a phased return of our employees to our office sites, and in many parts of the world, we returned our non-manufacturing employees to the workplace. However, in certain countries, our non-manufacturing employees continue to work from home (for roles that allow for remote work).
+On September 9, 2021, President Biden announced several initiatives to drive higher vaccination rates in the U.S., including an executive order for U.S. Government contractors to mandate vaccination against COVID-19. In response to these initiatives, we implemented a vaccine mandate requiring all U.S.-based employees at work locations that work on or in support of contracts with the U.S. Government to receive their first vaccine dose, or a medical or religious exemption, by January 4, 2022. Similarly, the Company adopted a vaccine mandate for all prospective and future employees and announced a timeline for a vaccine mandate for our remaining U.S. employees.
+We continue to monitor and respond to the changing conditions created by the pandemic.
+Honeywell International Inc.          15
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+EMPLOYEE HEALTH, SAFETY, AND ECONOMIC WELLNESS
+We continue to monitor the COVID-19 situation and its impacts globally. We are prioritizing the health and safety of our employees. Out of an abundance of caution for the health of our employees and to support local government initiatives to stem the spread of the virus, we implemented several precautions at various sites around the world. These include, but are not limited to:
+•Limiting visitor site access to business-essential purposes;
+•Enabling employees to work from home wherever and whenever required or appropriate;
+•Continuously updating travel guidance, according to latest developments; and
+•Complying with all local health authority guidance or regulations and our own protocols, including requesting employees to comply with self-quarantine requirements whenever advisable.
+PLANT PRODUCTIVITY AND SAFETY
+We continue to operate our manufacturing facilities with minimal disruption in our productivity. As of December 31, 2021, all of our manufacturing sites were operating at normal production levels. We continue to provide essential services and produce essential goods around the world. We employ standards such as screening checks, use of masks, face coverings, and other safety equipment and social distancing practices along production lines in our production facilities at all times in compliance with local government requirements and CDC guidelines. We take appropriate actions including disinfecting and quarantine procedures when a suspected COVID-19 case is identified.
+CUSTOMERS AND SUPPLIERS
+Current global economic conditions due to COVID-19 continue to impact our customers’ and suppliers’ ability to operate at normal levels. We continue to work with our suppliers to manage our supply chain disruptions and limit our exposure. We also work closely with our customers to manage expectations and meet their demand needs.
+See the section titled Risk Factors for a discussion of risks associated with the potential adverse effects of the COVID-19 pandemic, including the impact of any applicable vaccine mandates.
+16          Honeywell International Inc.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+RESULTS OF OPERATIONS
+Consolidated Financial Results
+hon-20211231_g33.jpg
+Net Sales by Segment
+hon-20211231_g34.jpg
+Honeywell International Inc.          17
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Segment Profit by Segment
+hon-20211231_g35.jpg
+18          Honeywell International Inc.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+CONSOLIDATED OPERATING RESULTS
+Net Sales
+hon-20211231_g36.jpg
+The change in net sales was attributable to the following: 
+2021 Versus 2020
+2020 Versus 2019
+Volume	1 	%	(12)	%
+Price	3 	%	1 	%
+Foreign Currency Translation	1 	%	— 	%
+Acquisitions/Divestitures	— 	%	— 	%
+5 	%	(11)	%
+ 
+2021 compared with 2020
+A discussion of net sales by segment can be found in the Review of Business Segments section of this Management Discussion and Analysis.
+Net sales increased due to the following:
+•Favorable pricing and price increases to offset the rising cost of materials,
+•The favorable impact of foreign currency translation, driven by the weakening of the U.S. Dollar against the currencies of the majority of our international markets, primarily the Euro, British Pound, Chinese Renminbi, Canadian Dollar, and Australian Dollar, and
+•Higher sales volumes due to an increase in demand for certain products and services as the global economy showed signs of recovery from the COVID-19 pandemic.
+
+Honeywell International Inc.          19
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Cost of Products and Services Sold
+hon-20211231_g37.jpg
+2021 compared with 2020
+Cost of products and services sold increased in 2021 primarily due to the following:
+•Higher direct and indirect material costs of approximately $1,350 million, due in part to supply chain constraints, and
+•Higher repositioning and other costs of approximately $150 million,
+•Partially offset by cost actions to improve productivity of approximately $380 million.
+Gross Margin
+hon-20211231_g38.jpg
+2021 compared with 2020
+Gross margin increased due to the following:
+•Favorable pricing,
+•Higher productivity,
+•The favorable impact of foreign currency translation, and
+•Increased demand for our products,
+•Partially offset by higher direct and indirect material costs, higher repositioning and other costs of approximately $150 million, and a larger portion of our sales being driven by our Safety and Productivity Solutions segment.
+20          Honeywell International Inc.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Selling, General and Administrative Expenses
+hon-20211231_g39.jpg
+2021 compared with 2020
+Selling, general and administrative expenses and Selling, general and administrative expenses as a percentage of net sales changed due to the following:
+•Higher expenses due to increased sales volumes and labor expense,
+•Partially offset by higher productivity, including lower costs resulting from repositioning actions.
+Honeywell International Inc.          21
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Other (Income) Expense
+2021		2020		2019
+Other (Income) Expense	$	(1,378)			$	(675)			$	(1,065)	
+ 
+2021 compared with 2020
+Other (income) expense increased due to the following:
+•Prior year non-cash charges associated with the reduction in value of reimbursement receivables due from Garrett,
+•Higher pension income, and
+•Gain on sale of the retail footwear business,
+•Partially offset by the recognition of an expense related to UOP matters and increased foreign exchange expense. See Note 19 Commitments and Contingencies of Notes to the Consolidated Financial Statements for additional information on UOP Matters.
+Tax Expense
+hon-20211231_g40.jpg
+2021 compared with 2020
+The effective tax rate for 2021 was higher than the U.S. federal statutory rate of 21% primarily due to the following:
+•Accrued withholding taxes related to unremitted foreign earnings,
+•The establishment of a valuation allowance for deferred tax assets not expected to be realized, and
+•Incremental tax reserves and state taxes,
+•Partially offset by the tax impact of restructuring.
+For further discussion of changes in the effective tax rate, see Note 5 Income Taxes of Notes to Consolidated Financial Statements.
+
+22          Honeywell International Inc.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Net Income Attributable to Honeywell
+hon-20211231_g41.jpg
+2021 compared with 2020
+Earnings per share of common stock–assuming dilution increased due to the following:
+•Higher segment profit,
+•Prior year non-cash charges associated with the reduction in value of reimbursement receivables due from Garrett,
+•Higher pension income,
+•Gain on sale of the retail footwear business, and
+•Favorable impact of lower share count,
+•Partially offset by higher income taxes, an expense related to UOP matters, and higher foreign exchange expense.
