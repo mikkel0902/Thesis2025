@@ -209,10 +209,7 @@ descriptive_table <- descriptive_table %>%
 print(descriptive_table)
 
 
-# Daily Event Study Table based on your AAR and CAAR calculations
-
-
-
+# Daily Event Study Table based on AAR and CAAR calculations
 
 daily_tests <- event_window10 %>%
   group_by(Relative_Day) %>%

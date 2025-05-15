@@ -5,7 +5,7 @@ library(edgar)
 useragent = "mikkel.rmp@gmail.com"
 
 
-# Load your breach filing dataset
+# Load  breach filing dataset
 filing_list <- read_delim("id.csv", delim = ";") %>%
   mutate(
     cik = as.character(cik),              # CIK must be string (no padding)

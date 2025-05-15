@@ -8,7 +8,7 @@ library(readr)
 
 
 
-# Set your folder path
+# Set path
 folder_path <- "mgmt_cleaning_prev"
 
 # Read all text files
@@ -54,7 +54,7 @@ docs_clean <- docs_clean %>%
 
 
 
-# 2. Assume positive_words and negative_words are already loaded (from LM dictionary)
+# 2.
 # Example loading (if needed):
 positive_words <- tolower(readLines("positive.txt"))
 negative_words <- tolower(readLines("negative.txt"))

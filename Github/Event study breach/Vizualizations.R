@@ -211,9 +211,6 @@ print(descriptive_table)
 
 # Daily Event Study Table based on your AAR and CAAR calculations
 
-
-
-
 daily_tests <- event_window10 %>%
   group_by(Relative_Day) %>%
   summarise(
@@ -240,7 +237,7 @@ daily_tests <- daily_tests %>%
       t_p_value < 0.1 ~ ".",
       TRUE ~ ""
     ),
-    # Now: Format the numbers: 2 decimals, no scientific notation
+    # Format the numbers: 2 decimals, no scientific notation
     Avg_AR = format(round(Avg_AR * 100, 6), decimal.mark = ","),
     CAAR = format(round(CAAR * 100, 6), decimal.mark = ","),
     t_stat = format(round(t_stat, 6), decimal.mark = ","),

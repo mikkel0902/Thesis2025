@@ -3,7 +3,7 @@ library(dplyr)
 library(lubridate)
 library(quantmod)
 
-# STEP 1: Load your data
+# STEP 1: Load  data
 main_data <- read_delim("id.csv", delim = ";", locale = locale(date_format = "%d-%m-%Y")) %>%
   mutate(
     id = as.character(id),
@@ -52,7 +52,7 @@ write_csv(matched_data, "marketcapprev.csv")
 
 
 
-# Load your main breach/CAR dataset
+# Load  main breach/CAR dataset
 main_data <- read_delim("id.csv", delim = ";", locale = locale(date_format = "%d-%m-%Y"))
 
 # Ensure 'id' columns are both character type
@@ -74,7 +74,6 @@ merged_data2 <- main_data %>%
     by = "id"
   )
 
-# Optional: view the result
 glimpse(merged_data2)
 
 

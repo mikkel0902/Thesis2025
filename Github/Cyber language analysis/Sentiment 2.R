@@ -5,8 +5,8 @@ library(edgar)
 # Load your breach filing dataset
 filing_list <- read_delim("id.csv", delim = ";") %>%
   mutate(
-    cik = as.character(CIK),             
-    filing_year = as.numeric(Filing_year)
+    cik = as.character(cik),              # CIK must be string (no padding)
+    filing_year = as.numeric(filing_year)
   ) %>%
   filter(!is.na(cik), !is.na(filing_year)) %>%
   distinct(cik, filing_year)
@@ -19,7 +19,6 @@ cyber_words <- c(
   "cyber", "cyberattack", "cyber-attack", "breach", "hacked", "hacking", "hack", "dos", "ddos", "attack", "security", "vulnerability", "compromise", 
   "data breach", "data-breach", "databreach", "ransomware", "ransom", "phishing", "unauthorized", "virus", "vishing", "webcrawler", "bug", "malware"
 )
-
 
 # Prepare result containers
 sentiment_results <- list()
@@ -37,7 +36,7 @@ for (i in 1:nrow(filing_list)) {
     sentiment <- getSentiment(
       cik.no = cik,
       form.type = "10-K",
-      filing.year = year -1,
+      filing.year = year,
       useragent = useragent
     )
     sentiment_results[[length(sentiment_results) + 1]] <- sentiment
@@ -45,12 +44,12 @@ for (i in 1:nrow(filing_list)) {
     message(paste("❌ Sentiment error for", cik, "in", year))
   })
   
-  # Keyword search: search the year BEFORE the filing year
+  # Keyword search: search the year 
   tryCatch({
     keywords <- searchFilings(
       cik.no = cik,
       form.type = "10-K",
-      filing.year = year - 1,
+      filing.year = year,
       word.list = cyber_words,
       useragent = useragent
     )
@@ -62,8 +61,8 @@ for (i in 1:nrow(filing_list)) {
   Sys.sleep(1)
 }
 
-sentiment_df_prev<- bind_rows(sentiment_results)
-keyword_df_prev <- bind_rows(keyword_results)
+sentiment_df <- bind_rows(sentiment_results)
+keyword_df <- bind_rows(keyword_results)
 
-write_csv(sentiment_df_prev, "sentiment_scores_prev3.csv")
-write_csv(keyword_df_prev, "cybersecurity_keyword_hits_prev3.csv")
+write_csv(sentiment_df, "sentiment_scores2.csv")
+write_csv(keyword_df, "cybersecurity_keyword_hits2.csv")

@@ -4,7 +4,7 @@ library(lubridate)
 library(edgar)
 
 
-# Load your breach data with columns: cik, fiscal_year_end
+# Load your breach data
 breaches <- read_delim("id.csv", delim = ";", locale = locale(date_format = "%d-%m-%Y"))
 useragent <- "mipe20ag@student.cbs.dk"
 
@@ -12,7 +12,6 @@ useragent <- "mipe20ag@student.cbs.dk"
 breaches <- breaches %>%
   mutate(fiscal_year = year(as.Date(fiscal_year_end)))
 
-# Empty result list
 results <- list()
 
 for (i in 1:nrow(breaches)) {
@@ -54,10 +53,10 @@ library(readr)
 library(dplyr)
 library(edgar)
 
-# Set your academic user agent
+# Set user agent
 useragent <- "mipe20ag@student.cbs.dk"
 
-# Load your CSV and clean types
+# Load CSV 
 filings_input <- read_delim("id.csv", delim = ";")
 
 # Prepare list to store results
@@ -79,7 +78,7 @@ for (i in 1:nrow(filings_input)) {
     results[[length(results) + 1]] <- tibble(
       cik = cik,
       filing_year = year,
-      filing_date = header$date.filed,  # ✅ The correct field
+      filing_date = header$date.filed,
       accession_url = header$accession.url,
       form_type = header$form.type
     )

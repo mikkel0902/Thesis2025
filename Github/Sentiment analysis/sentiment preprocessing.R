@@ -6,9 +6,7 @@ library(stringr)
 library(Hmisc)
 library(readr)
 
-
-
-# Set your folder path
+# Set folder path
 folder_path <- "mgmt_cleaning_current"
 
 # Read all text files
@@ -53,12 +51,7 @@ docs_clean <- docs_clean %>%
 
 
 
-
-
-
-
-# 2. Assume positive_words and negative_words are already loaded (from LM dictionary)
-# Example loading (if needed):
+# 2. 
 positive_words <- tolower(readLines("positive.txt"))
 negative_words <- tolower(readLines("negative.txt"))
 

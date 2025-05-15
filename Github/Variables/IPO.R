@@ -3,7 +3,6 @@ library(quantmod)
 # Read in tickers from CSV
 ticker_list <- read.csv("id.csv", stringsAsFactors = FALSE)
 
-# Make sure the column is named 'ticker'
 tickers <- ticker_list$ticker
 
 # Initialize empty dataframe to store results
@@ -21,7 +20,6 @@ for (t in tickers) {
   })
 }
 
-# Print or export
 print(ipo_data)
 write.csv(ipo_data, "ipo_dates_output.csv", row.names = FALSE)
 

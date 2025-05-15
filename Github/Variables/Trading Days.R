@@ -1,17 +1,15 @@
-install.packages(c("quantmod", "dplyr", "readr", "lubridate"))
 library(quantmod)
 library(dplyr)
 library(readr)
 library(lubridate)
 
-# Example: breach_data.csv with columns 'ticker' and 'report_date'
 breaches <- read_delim("id.csv", delim = ";", 
                        col_types = cols(date = col_character()))
 
 breaches$date <- as.Date(breaches$date, format = "%d-%m-%Y")
 
 
-# Get trading calendar (change dates as needed)
+# Get trading calendar
 getSymbols("SPY", src = "yahoo", from = "2000-01-01", to = Sys.Date(), auto.assign = TRUE)
 trading_days <- index(SPY)
 

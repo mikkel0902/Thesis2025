@@ -5,9 +5,7 @@ library(tidyr)
 library(readr)
 library(ggplot2)
 
-# ================================================
 # 1. Load and Preprocess Data
-# ================================================
 event_data <- read_delim("event_study_raw_after.csv", delim = ";", locale = locale(decimal_mark = ",")) %>%
   mutate(
     Event_Date = as.Date(Event_Date, format = "%d-%m-%Y"),
@@ -16,9 +14,7 @@ event_data <- read_delim("event_study_raw_after.csv", delim = ";", locale = loca
     Market_RET = as.numeric(as.character(Market_RET))
   )
 
-# ================================================
 # 2. Estimation Window and Market Model Estimation
-# ================================================
 estimation_data <- event_data %>%
   filter(Relative_Day >= -155 & Relative_Day <= -30)
 
@@ -29,9 +25,7 @@ market_models <- estimation_data %>%
   pivot_wider(names_from = term, values_from = estimate) %>%
   rename(alpha = `(Intercept)`, beta = Market_RET)
 
-# ================================================
 # 3. Calculate Abnormal Returns (AR)
-# ================================================
 calc_event_window <- function(data, start_day, end_day) {
   event_data %>%
     filter(Relative_Day >= start_day & Relative_Day <= end_day) %>%
@@ -44,9 +38,7 @@ event_window66  <- calc_event_window(event_data, -6, 6)
 event_window26  <- calc_event_window(event_data, -2, 6)
 event_window2 <- calc_event_window(event_data, 2, 2)
 
-# ================================================
 # 4. Calculate CARs
-# ================================================
 CAR_multiple_windows <- event_window10 %>%
   group_by(ticker, Event_Date) %>%
   summarise(
@@ -70,9 +62,7 @@ CARs4  <- calc_CAR_series(event_window66)
 CARs1  <- calc_CAR_series(event_window26)
 CARs3  <- calc_CAR_series(event_window2)
 
-# ================================================
 # 5. Average CARs and CAAR
-# ================================================
 average_CARs <- CAR_multiple_windows %>%
   summarise(
     Avg_CAR_10_10_post = mean(CAR_10_10_post, na.rm = TRUE),
@@ -89,9 +79,7 @@ CAAR_10 <- event_window10 %>%
   arrange(Relative_Day) %>%
   mutate(CAAR = cumsum(Avg_AR))
 
-# ================================================
 # 6. Distribution Plots
-# ================================================
 ggplot(event_window10, aes(x = AR)) +
   geom_histogram(aes(y = ..density..), bins = 50, fill = "grey100", color = "black") +
   geom_density(color = "black", size = 1) +
@@ -104,9 +92,7 @@ ggplot(CAR_multiple_windows, aes(x = CAR_10_10_post)) +
   labs(title = "Distribution of Cumulative Abnormal Returns (CAR_10_10)", x = "CAR", y = "Density") +
   theme_apa()
 
-# ================================================
 # 7. Hypothesis Tests
-# ================================================
 # T-tests on CARs
 t_test_10_10_post <- t.test(CAR_multiple_windows$CAR_10_10_post)
 t_test_6_6_post <- t.test(CAR_multiple_windows$CAR_6_6_post)
@@ -172,9 +158,7 @@ print(wilcox_test_car_4)
 wilcox_test_caar <- wilcox.test(CAAR_10$Avg_AR, mu = 0)
 print(wilcox_test_caar)
 
-# ================================================
 # 8. CAAR and CAR Plots
-# ================================================
 CAR_mean_plot <- CARs10 %>%
   group_by(Relative_Day) %>%
   summarise(
@@ -215,9 +199,7 @@ ggplot(CAAR_10, aes(x = Relative_Day, y = CAAR)) +
     axis.title = element_text(face = "bold")
   )
 
-# ================================================
 # 9. Export Data
-# ================================================
 write_csv(CAAR_10, "CAAR_10.csv")
 write_csv(CAR_multiple_windows, "EventStudyResults2.csv")
 write_csv(CARs10, "CARS10.csv")
